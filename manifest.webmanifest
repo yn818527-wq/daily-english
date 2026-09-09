@@ -1,0 +1,17 @@
+{
+  "name": "每日五词 · 钢结构外贸英语",
+  "short_name": "每日五词",
+  "description": "钢结构 / 外贸 / 工程场景每日五词：单词本、英译汉、汉译英、拼写与听音练习",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6fb",
+  "theme_color": "#2563eb",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

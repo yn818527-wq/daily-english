@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#2563eb">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="每日五词">
+<meta name="description" content="钢结构外贸场景每日五词 · 单词本 + 英译汉 / 汉译英 / 拼写练习">
+<title>每日五词 · 单词本与练习</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-in">
+    <div class="brand">
+      <span class="brand-badge">5</span>
+      <div>
+        <h1>每日五词</h1>
+        <p id="brandSub">钢结构 · 外贸 · 工程英语</p>
+      </div>
+    </div>
+    <div class="streak" id="streakChip" title="连续打卡">
+      <span class="flame">🔥</span><b id="streakNum">0</b><small>天</small>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- ============ 今日 ============ -->
+  <section class="page" id="page-today">
+    <div class="summary-card">
+      <div class="sum-row">
+        <div class="sum-item"><b id="sDue">0</b><span>待复习</span></div>
+        <div class="sum-item"><b id="sNew">0</b><span>未学习</span></div>
+        <div class="sum-item"><b id="sMastered">0</b><span>已掌握</span></div>
+        <div class="sum-item"><b id="sTotal">0</b><span>总词数</span></div>
+      </div>
+      <div class="ring-wrap">
+        <div class="ring" id="ring"><span id="ringTxt">0%</span></div>
+        <div class="ring-label">
+          <b id="ringTitle">今日进度</b>
+          <small id="ringDesc">完成今日全部练习后打卡</small>
+        </div>
+      </div>
+      <button class="btn-primary big" id="btnStartToday">开始今日练习</button>
+    </div>
+
+    <div class="sec-head">
+      <h2 id="todayTitle">今日新词</h2>
+      <span class="sec-sub" id="todaySub"></span>
+    </div>
+    <div id="todayList"></div>
+  </section>
+
+  <!-- ============ 单词本 ============ -->
+  <section class="page hidden" id="page-book">
+    <div class="search-bar">
+      <input type="search" id="searchInput" placeholder="搜索英文 / 中文 / 场景…" autocomplete="off">
+      <button class="chip-btn" id="btnFilterAll">全部</button>
+    </div>
+    <div class="filter-row" id="filterRow"></div>
+    <div id="bookList"></div>
+  </section>
+
+  <!-- ============ 练习 ============ -->
+  <section class="page hidden" id="page-practice">
+    <div class="mode-grid" id="modeHome">
+      <h2 class="sec-title">选择练习模式</h2>
+      <div class="mcard" data-mode="e2c">
+        <div class="mico blue">E→中</div>
+        <div><b>英译汉</b><small>看英文，选中文释义</small></div>
+      </div>
+      <div class="mcard" data-mode="c2e">
+        <div class="mico purple">中→E</div>
+        <div><b>汉译英</b><small>看中文，选英文单词</small></div>
+      </div>
+      <div class="mcard" data-mode="spell">
+        <div class="mico green">拼</div>
+        <div><b>拼写填空</b><small>根据中文与提示拼写</small></div>
+      </div>
+      <div class="mcard" data-mode="listen">
+        <div class="mico orange">听</div>
+        <div><b>听音选词</b><small>听发音，选对应单词</small></div>
+      </div>
+
+      <h2 class="sec-title mt">选择范围</h2>
+      <div class="scope-row" id="scopeRow">
+        <button class="scope active" data-scope="due">待复习 <i id="cDue">0</i></button>
+        <button class="scope" data-scope="new">未学习 <i id="cNew">0</i></button>
+        <button class="scope" data-scope="wrong">错题本 <i id="cWrong">0</i></button>
+        <button class="scope" data-scope="all">全部 <i id="cAll">0</i></button>
+      </div>
+      <p class="hint">每组练习默认 10 题，答错的词会自动回到队列优先重练。</p>
+    </div>
+
+    <!-- 答题区 -->
+    <div class="quiz hidden" id="quiz">
+      <div class="quiz-top">
+        <button class="icon-btn" id="btnQuit">✕</button>
+        <div class="progress"><div class="progress-in" id="progressIn"></div></div>
+        <span class="qcount" id="qCount">1/10</span>
+      </div>
+
+      <div class="q-card" id="qCard">
+        <div class="q-tag" id="qTag">英译汉</div>
+        <div class="q-word" id="qWord">—</div>
+        <div class="q-phonetic" id="qPhonetic"></div>
+        <button class="play-btn hidden" id="qPlay">🔊 播放发音</button>
+        <div class="q-prompt" id="qPrompt"></div>
+        <div class="options" id="options"></div>
+        <div class="spell-box hidden" id="spellBox">
+          <input type="text" id="spellInput" placeholder="输入英文单词" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false">
+          <button class="btn-primary" id="btnSpellSubmit">提交</button>
+        </div>
+        <div class="feedback hidden" id="feedback"></div>
+        <button class="btn-primary hidden" id="btnNext">下一个 →</button>
+      </div>
+    </div>
+
+    <!-- 结算 -->
+    <div class="result hidden" id="result">
+      <div class="result-ring" id="resultRing"><b id="resultRate">0%</b><small>正确率</small></div>
+      <p id="resultText">—</p>
+      <div class="wrong-list" id="wrongList"></div>
+      <div class="result-btns">
+        <button class="btn-ghost" id="btnBackMode">换模式</button>
+        <button class="btn-primary" id="btnAgain">再来一组</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 我的 ============ -->
+  <section class="page hidden" id="page-me">
+    <div class="stat-grid">
+      <div class="stat"><b id="mTotal">0</b><span>总词数</span></div>
+      <div class="stat"><b id="mMastered">0</b><span>已掌握</span></div>
+      <div class="stat"><b id="mLearning">0</b><span>学习中</span></div>
+      <div class="stat"><b id="mRate">0%</b><span>正确率</span></div>
+    </div>
+
+    <h2 class="sec-title">近 5 周打卡</h2>
+    <div class="heat" id="heat"></div>
+
+    <h2 class="sec-title mt">掌握度分布</h2>
+    <div class="bars" id="bars"></div>
+
+    <h2 class="sec-title mt">发音设置</h2>
+    <div class="settings">
+      <div class="srow">
+        <div><b>真人发音音频</b><small>优先播放词典级人声，离线可用</small></div>
+        <button class="switch on" id="swAudio"><i></i></button>
+      </div>
+      <div class="srow">
+        <div><b>答题后自动发音</b><small>每答完一题自动朗读该单词</small></div>
+        <button class="switch on" id="swAuto"><i></i></button>
+      </div>
+      <div class="srow">
+        <div><b>音速</b><small>当前 <span id="rateVal">正常</span></small></div>
+        <button class="chip-btn" id="btnRate">切换</button>
+      </div>
+    </div>
+
+    <h2 class="sec-title mt">错题本</h2>
+    <div id="meWrong"></div>
+
+    <h2 class="sec-title mt">跨设备同步</h2>
+    <div class="settings">
+      <p class="sync-tip">手机与电脑进度互通：一端<b>生成二维码</b>，另一端<b>扫码</b>；或<b>复制同步链接</b>发给另一台设备打开，进度自动合并。</p>
+      <div class="data-row">
+        <button class="btn-ghost" id="btnSyncGen">生成二维码</button>
+        <button class="btn-ghost" id="btnSyncScan">扫对方的码</button>
+        <button class="btn-ghost" id="btnSyncPaste">粘贴同步码</button>
+      </div>
+      <div id="syncBox"></div>
+      <p class="hint" id="syncLastSeen"></p>
+    </div>
+
+    <h2 class="sec-title mt">数据</h2>
+    <div class="data-row">
+      <button class="btn-ghost" id="btnExport">导出备份</button>
+      <button class="btn-ghost" id="btnImport">导入备份</button>
+      <button class="btn-ghost danger" id="btnReset">清空进度</button>
+    </div>
+    <input type="file" id="importFile" accept="application/json" hidden>
+
+    <h2 class="sec-title mt">装到手机桌面</h2>
+    <div class="install-tip">
+      <p><b>iPhone（Safari）</b>：打开本页 → 底部「分享」→ 「添加到主屏幕」。</p>
+      <p><b>安卓（Chrome）</b>：打开本页 → 右上角菜单 → 「安装应用 / 添加到主屏幕」。</p>
+      <button class="btn-primary hidden" id="btnInstall">一键安装</button>
+      <p class="hint">添加后从桌面图标进入，全屏无地址栏，断网也能练。</p>
+    </div>
+    <p class="version" id="versionTip"></p>
+  </section>
+</main>
+
+<nav class="tabbar">
+  <button class="tab active" data-tab="today"><span>📅</span>今日</button>
+  <button class="tab" data-tab="book"><span>📖</span>单词本</button>
+  <button class="tab" data-tab="practice"><span>✏️</span>练习</button>
+  <button class="tab" data-tab="me"><span>📊</span>我的</button>
+</nav>
+
+<div class="toast" id="toast"></div>
+
+<script src="words.js"></script>
+<script src="vendor/qrcode.min.js"></script>
+<script src="vendor/jsQR.min.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
