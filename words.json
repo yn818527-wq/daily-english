@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09",
-  "total": 30,
+  "updated": "2026-09-10",
+  "total": 35,
   "words": [
     {
       "word": "truss",
@@ -701,6 +701,106 @@
       "gloss": "加班；加班时间",
       "category": "职场",
       "audio": "audio/overtime.mp3"
+    },
+    {
+      "word": "weld",
+      "phonetic": "/weld/",
+      "meaning": "用加热使金属熔合的工艺或连接点；在钢构里焊缝质量直接决定结构安全，是现场和车间都跳不开的工序。",
+      "collocation": "weld seam 焊缝；field weld 现场焊；butt weld 对接焊缝；fillet weld 角焊缝；weld inspection 焊缝检测",
+      "examples": [
+        {
+          "en": "Every weld seam must pass visual inspection, and 20% of them require ultrasonic testing.",
+          "zh": "每条焊缝都必须通过目检，其中 20% 需做超声波探伤。",
+          "audio": "audio/ex/weld-1.mp3"
+        }
+      ],
+      "mnemonic": "谐音\"外的\"——想象把两块钢板\"焊在一起变成一块\"，从\"外\"看不到缝就是焊好了。well done 的 well 换成 weld，听着就像焊工师傅的口头禅。",
+      "issue": 7,
+      "date": "2026-09-10",
+      "theme": "客户来访技术澄清 → 焊接质量控制 → 海运清关交付",
+      "gloss": "焊接；焊缝",
+      "category": "钢结构",
+      "audio": "audio/weld.mp3"
+    },
+    {
+      "word": "stiffener",
+      "phonetic": "/ˈstɪfnər/",
+      "meaning": "焊在钢梁腹板上防止薄板受压失稳的小钢板，是吊车梁、平台梁设计里绕不开的细件。",
+      "collocation": "web stiffener 腹板加劲肋；bearing stiffener 支承加劲肋；intermediate stiffener 中间加劲肋；transverse stiffener 横向加劲肋",
+      "examples": [
+        {
+          "en": "Please add two web stiffeners on each side of the beam under the heavy crane rail.",
+          "zh": "重级吊车梁下翼缘两侧请各加两块腹板加劲肋。",
+          "audio": "audio/ex/stiffener-1.mp3"
+        }
+      ],
+      "mnemonic": "stiffen（变刚、变硬）+ -er（名词后缀）= 让钢板\"变刚\"的零件。stiff = 僵硬，加 -ener 就是\"让东西变僵硬的那个件\"。",
+      "issue": 7,
+      "date": "2026-09-10",
+      "theme": "客户来访技术澄清 → 焊接质量控制 → 海运清关交付",
+      "gloss": "加劲肋；加强件",
+      "category": "钢结构",
+      "audio": "audio/stiffener.mp3"
+    },
+    {
+      "word": "staircase",
+      "phonetic": "/ˈsteəkeɪs/",
+      "meaning": "建筑物内从一层通往另一层的整套构件，包括踏步、栏杆、平台和井道；标准化安置房和集装箱房方案里都要排进立面图。",
+      "collocation": "external staircase 室外楼梯；fire staircase 消防楼梯；prefabricated staircase 预制楼梯；spiral staircase 旋转楼梯",
+      "examples": [
+        {
+          "en": "We chose a prefabricated steel staircase to shorten the on-site assembly time.",
+          "zh": "我们选了预制钢楼梯以缩短现场拼装时间。",
+          "audio": "audio/ex/staircase-1.mp3"
+        }
+      ],
+      "mnemonic": "stair（踏步）+ case（围合空间）= \"把踏步围起来的那段建筑\"就是整段楼梯。和 stair（一步）、stairway（楼梯通道）、elevator（电梯）区分用。",
+      "issue": 7,
+      "date": "2026-09-10",
+      "theme": "客户来访技术澄清 → 焊接质量控制 → 海运清关交付",
+      "gloss": "楼梯",
+      "category": "建筑设计",
+      "audio": "audio/staircase.mp3"
+    },
+    {
+      "word": "customs clearance",
+      "phonetic": "/ˈkʌstəmz ˈklɪrəns/",
+      "meaning": "货物进出境时在海关办理申报、缴税、查验、放行的全过程；从集装箱到港到客户仓库最重要的\"最后一道关\"。",
+      "collocation": "customs declaration 报关单；customs duty 关税；clear customs 通过海关；customs broker 报关行；delayed at customs 卡在海关",
+      "examples": [
+        {
+          "en": "The containers were delayed at customs because the packing list did not match the commercial invoice.",
+          "zh": "集装箱卡在海关了，因为装箱单和商业发票对不上。",
+          "audio": "audio/ex/customs-clearance-1.mp3"
+        }
+      ],
+      "mnemonic": "customs（海关）+ clearance（清空、放行）= \"海关那边给你放行\"就叫清关。外贸高频词，单子对不上 = delayed at customs。",
+      "issue": 7,
+      "date": "2026-09-10",
+      "theme": "客户来访技术澄清 → 焊接质量控制 → 海运清关交付",
+      "gloss": "清关",
+      "category": "外贸",
+      "audio": "audio/customs-clearance.mp3"
+    },
+    {
+      "word": "clarification",
+      "phonetic": "/ˌklærɪfɪˈkeɪʃn/",
+      "meaning": "把模糊、有歧义的事项讲清楚；客户来访开技术交底会最常说的就是 \"We need clarification on...\"",
+      "collocation": "seek clarification 请求澄清；ask for clarification 请求说明；technical clarification 技术澄清；for clarification 为了说清楚",
+      "examples": [
+        {
+          "en": "The client raised three technical clarifications during the kick-off meeting yesterday.",
+          "zh": "昨天的项目启动会上，客户提出了三项技术澄清。",
+          "audio": "audio/ex/clarification-1.mp3"
+        }
+      ],
+      "mnemonic": "动词 clarify（澄清）+ -ation（名词后缀）= clarification。客户邮件里 \"for clarification\" = \"我再补充说明一下\"，别理解成\"为了清楚起见\"那么死板。",
+      "issue": 7,
+      "date": "2026-09-10",
+      "theme": "客户来访技术澄清 → 焊接质量控制 → 海运清关交付",
+      "gloss": "澄清；说明",
+      "category": "客户接待",
+      "audio": "audio/clarification.mp3"
     }
   ]
 }
