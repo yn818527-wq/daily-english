@@ -34,5 +34,10 @@
   "stiffener": { "gloss": "加劲肋；加强件", "category": "钢结构" },
   "staircase": { "gloss": "楼梯", "category": "建筑设计" },
   "customs clearance": { "gloss": "清关", "category": "外贸" },
-  "clarification": { "gloss": "澄清；说明", "category": "客户接待" }
+  "clarification": { "gloss": "澄清；说明", "category": "客户接待" },
+  "portal frame": { "gloss": "门式刚架", "category": "钢结构" },
+  "span": { "gloss": "跨度", "category": "工程设计" },
+  "rendering": { "gloss": "效果图；渲染", "category": "建筑设计" },
+  "letter of credit": { "gloss": "信用证（L/C）", "category": "外贸" },
+  "site visit": { "gloss": "现场考察；验厂", "category": "客户接待" }
 }

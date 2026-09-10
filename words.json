@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10",
-  "total": 35,
+  "updated": "2026-09-11",
+  "total": 40,
   "words": [
     {
       "word": "truss",
@@ -801,6 +801,106 @@
       "gloss": "澄清；说明",
       "category": "客户接待",
       "audio": "audio/clarification.mp3"
+    },
+    {
+      "word": "portal frame",
+      "phonetic": "/ˈpɔːtl freɪm/",
+      "meaning": "由柱和梁刚性连接组成的单层钢结构体系，是厂房、仓库、安置房最常见的结构形式；跨度大、施工快、造价低。",
+      "collocation": "steel portal frame 钢门式刚架；portal frame building 门式刚架建筑；rigid frame connection 刚接节点；portal frame span 刚架跨度",
+      "examples": [
+        {
+          "en": "The warehouse is designed as a steel portal frame with a clear span of 30 meters.",
+          "zh": "这座仓库设计为钢门式刚架结构，净跨 30 米。",
+          "audio": "audio/ex/portal-frame-1.mp3"
+        }
+      ],
+      "mnemonic": "portal（大门、入口）+ frame（框架）= \"像大门洞一样敞开的大框架\"，中间没有柱子挡路，所以最适合大跨度厂房。想象厂房大门一开就是一榀刚架。",
+      "issue": 8,
+      "date": "2026-09-11",
+      "theme": "客户来厂考察 → 门式刚架方案定跨度 → AI 效果图出图 → 信用证收汇",
+      "gloss": "门式刚架",
+      "category": "钢结构",
+      "audio": "audio/portal-frame.mp3"
+    },
+    {
+      "word": "span",
+      "phonetic": "/spæn/",
+      "meaning": "结构上两支承点之间的水平距离；钢结构报价和设计里第一个要问的数字，span 直接决定梁高、用钢量和造价。",
+      "collocation": "clear span 净跨；column span 柱距；span length 跨长；single span 单跨；multiple span 多跨",
+      "examples": [
+        {
+          "en": "If we increase the span from 24 to 30 meters, the steel weight per square meter will rise by about 15%.",
+          "zh": "如果把跨度从 24 米加大到 30 米，每平方米用钢量会增加约 15%。",
+          "audio": "audio/ex/span-1.mp3"
+        }
+      ],
+      "mnemonic": "span 的本义是\"张开大拇指到小指的跨度\"，也就是一拃。桥梁英文 bridge span = 桥的\"一拃\"。设计沟通时张手比划跨度，说的就是这个词。",
+      "issue": 8,
+      "date": "2026-09-11",
+      "theme": "客户来厂考察 → 门式刚架方案定跨度 → AI 效果图出图 → 信用证收汇",
+      "gloss": "跨度",
+      "category": "工程设计",
+      "audio": "audio/span.mp3"
+    },
+    {
+      "word": "rendering",
+      "phonetic": "/ˈrendərɪŋ/",
+      "meaning": "把三维模型渲染成带光影、材质的逼真图片；建筑方案汇报和 AI 出图时代的核心交付物，客户最先看到的就是它。",
+      "collocation": "architectural rendering 建筑效果图；3D rendering 三维渲染；photorealistic rendering 照片级渲染；interior rendering 室内效果图",
+      "examples": [
+        {
+          "en": "We sent the client three photorealistic renderings of the prefabricated housing scheme before the kick-off meeting.",
+          "zh": "启动会前，我们给客户发了三张预制安置房方案的照片级效果图。",
+          "audio": "audio/ex/rendering-1.mp3"
+        }
+      ],
+      "mnemonic": "render（渲染、给出）+ -ing。老外说 \"render an image\" 就像说\"渲染出一张图\"。跟 drawing（线稿图）区分：rendering 有光影材质，drawing 是黑白线条。",
+      "issue": 8,
+      "date": "2026-09-11",
+      "theme": "客户来厂考察 → 门式刚架方案定跨度 → AI 效果图出图 → 信用证收汇",
+      "gloss": "效果图；渲染",
+      "category": "建筑设计",
+      "audio": "audio/rendering.mp3"
+    },
+    {
+      "word": "letter of credit",
+      "phonetic": "/ˈletər əv ˈkredɪt/",
+      "meaning": "银行应买方申请开出的、承诺凭符合条款的单据付款的保证文件；大宗钢结构出口最常用的付款方式，双方都不认识时靠银行信用兜底。",
+      "collocation": "open an L/C 开信用证；irrevocable letter of credit 不可撤销信用证；sight L/C 即期信用证；L/C at sight 即期信用证；under the L/C 在信用证项下",
+      "examples": [
+        {
+          "en": "We only release the production drawings after receiving the irrevocable letter of credit from the client's bank.",
+          "zh": "收到客户银行开出的不可撤销信用证后，我们才发放生产图纸。",
+          "audio": "audio/ex/letter-of-credit-1.mp3"
+        }
+      ],
+      "mnemonic": "letter（信）+ credit（信用）= \"银行写的一封信用担保信\"。外贸缩写 L/C 天天见，记住\"先有 L/C，再动生产\"这条铁律就忘不掉。",
+      "issue": 8,
+      "date": "2026-09-11",
+      "theme": "客户来厂考察 → 门式刚架方案定跨度 → AI 效果图出图 → 信用证收汇",
+      "gloss": "信用证（L/C）",
+      "category": "外贸",
+      "audio": "audio/letter-of-credit.mp3"
+    },
+    {
+      "word": "site visit",
+      "phonetic": "/saɪt ˈvɪzɪt/",
+      "meaning": "到工厂、工地或项目现场实地查看；海外客户来华验厂、工程师去海外项目巡检都叫 site visit，是建立信任最快的方式。",
+      "collocation": "arrange a site visit 安排现场考察；factory site visit 验厂；site visit report 考察报告；during the site visit 考察期间；pre-construction site visit 施工前踏勘",
+      "examples": [
+        {
+          "en": "The client from Africa will make a site visit to our fabrication plant next Tuesday.",
+          "zh": "非洲客户下周二将来我们加工厂实地考察。",
+          "audio": "audio/ex/site-visit-1.mp3"
+        }
+      ],
+      "mnemonic": "site（场地）+ visit（拜访）= \"去场地拜访\"。接待客户三部曲：courtesy call（礼节性电话）→ site visit（现场考察）→ follow-up（后续跟进），visit 是中间那步\"眼见为实\"。",
+      "issue": 8,
+      "date": "2026-09-11",
+      "theme": "客户来厂考察 → 门式刚架方案定跨度 → AI 效果图出图 → 信用证收汇",
+      "gloss": "现场考察；验厂",
+      "category": "客户接待",
+      "audio": "audio/site-visit.mp3"
     }
   ]
 }
