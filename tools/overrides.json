@@ -39,5 +39,10 @@
   "span": { "gloss": "跨度", "category": "工程设计" },
   "rendering": { "gloss": "效果图；渲染", "category": "建筑设计" },
   "letter of credit": { "gloss": "信用证（L/C）", "category": "外贸" },
-  "site visit": { "gloss": "现场考察；验厂", "category": "客户接待" }
+  "site visit": { "gloss": "现场考察；验厂", "category": "客户接待" },
+  "rafter": { "gloss": "椽条；屋面斜梁", "category": "钢结构" },
+  "foundation": { "gloss": "基础；地基", "category": "工程设计" },
+  "blueprint": { "gloss": "蓝图；施工图", "category": "建筑设计" },
+  "bill of lading": { "gloss": "提单（B/L）", "category": "外贸" },
+  "banquet": { "gloss": "宴会；宴请", "category": "客户接待" }
 }

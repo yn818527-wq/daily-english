@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11",
-  "total": 40,
+  "updated": "2026-09-12",
+  "total": 45,
   "words": [
     {
       "word": "truss",
@@ -901,6 +901,106 @@
       "gloss": "现场考察；验厂",
       "category": "客户接待",
       "audio": "audio/site-visit.mp3"
+    },
+    {
+      "word": "rafter",
+      "phonetic": "/ˈrɑːftə/",
+      "meaning": "坡屋面中直接支承檩条（purlin）的斜向构件；在门式刚架厂房里也指变截面屋面斜梁，与柱刚性连接组成一榀刚架。",
+      "collocation": "roof rafter 屋面椽条；rafter beam 屋面斜梁；rafter slope 斜梁坡度；common rafter 普通椽条",
+      "examples": [
+        {
+          "en": "The purlins rest on the rafters, which are bolted to the portal frame columns.",
+          "zh": "檩条搁置在椽条上，椽条用螺栓与门式刚架柱连接。",
+          "audio": "audio/ex/rafter-1.mp3"
+        }
+      ],
+      "mnemonic": "跟 purlin（檩条）成对记：坡屋面上\"斜着的梁\"是 rafter，\"横着的檩\"是 purlin。rafter 与 roof 同押 r 头韵——roof 的骨架就是 rafter，purlin 横骑在 rafter 背上。",
+      "issue": 9,
+      "date": "2026-09-12",
+      "theme": "施工图定基础与屋面梁 → 构件海运交提单 → 交付庆功设宴",
+      "gloss": "椽条；屋面斜梁",
+      "category": "钢结构",
+      "audio": "audio/rafter.mp3"
+    },
+    {
+      "word": "foundation",
+      "phonetic": "/faʊnˈdeɪʃn/",
+      "meaning": "把上部结构荷载传给地基的下部结构；钢结构项目里基础尺寸和预埋件（含地脚螺栓）必须在图纸阶段定死，现场返工代价最大。",
+      "collocation": "foundation design 基础设计；foundation plan 基础平面图；pad foundation 独立基础；foundation bolt 基础螺栓；lay the foundation 打基础",
+      "examples": [
+        {
+          "en": "The anchor bolts must be accurately positioned before the concrete foundation is poured.",
+          "zh": "浇筑混凝土基础之前，地脚螺栓必须精准定位。",
+          "audio": "audio/ex/foundation-1.mp3"
+        }
+      ],
+      "mnemonic": "found（建立、创立）+ -ation = 建筑\"立起来之前先做的那部分\"。中文\"奠基\"完全对应 lay the foundation；老外说 \"lay a solid foundation for cooperation\"（为合作打下坚实基础），正是从工地走进商务用语的。",
+      "issue": 9,
+      "date": "2026-09-12",
+      "theme": "施工图定基础与屋面梁 → 构件海运交提单 → 交付庆功设宴",
+      "gloss": "基础；地基",
+      "category": "工程设计",
+      "audio": "audio/foundation.mp3"
+    },
+    {
+      "word": "blueprint",
+      "phonetic": "/ˈbluːprɪnt/",
+      "meaning": "本指晒印出的蓝底白线施工图，如今泛指全套施工图或\"总体规划方案\"；与客户讲 \"as per the blueprint\" 就是在谈按图施工。",
+      "collocation": "construction blueprint 施工蓝图；blueprint drawing 蓝图图纸；a blueprint for... ……的总体规划；as per the blueprint 按蓝图施工",
+      "examples": [
+        {
+          "en": "The fabrication team works strictly as per the approved blueprints.",
+          "zh": "加工团队严格按照已批准的施工图作业。",
+          "audio": "audio/ex/blueprint-1.mp3"
+        }
+      ],
+      "mnemonic": "blue（蓝）+ print（印刷）= 晒图机晒出的蓝底白线图。中文\"蓝图\"是直译，还多了层\"宏大愿景\"的意思——向客户讲规划时说 \"our blueprint for the project\"，瞬间自带图纸感。",
+      "issue": 9,
+      "date": "2026-09-12",
+      "theme": "施工图定基础与屋面梁 → 构件海运交提单 → 交付庆功设宴",
+      "gloss": "蓝图；施工图",
+      "category": "建筑设计",
+      "audio": "audio/blueprint.mp3"
+    },
+    {
+      "word": "bill of lading",
+      "phonetic": "/ˌbɪl əv ˈleɪdɪŋ/",
+      "meaning": "船公司签发的货物收据、运输合同证明与物权凭证\"三合一\"单据；货到港后客户凭正本提单才能提货，也是信用证结汇的核心单据之一。",
+      "collocation": "original bill of lading 正本提单；clean B/L 清洁提单；telex release 电放提单；B/L number 提单号；present the B/L 凭提单提货",
+      "examples": [
+        {
+          "en": "We will courier the original bill of lading to the client once the vessel departs.",
+          "zh": "船一开航，我们就把正本提单快递给客户。",
+          "audio": "audio/ex/bill-of-lading-1.mp3"
+        }
+      ],
+      "mnemonic": "bill（单据）+ lade（装载，load 的古体词）= \"货已装船的凭证单\"。三重身份口诀：收货凭证、运输合同、货权在手——\"一单在手，货权我有\"。邮件里天天见缩写 B/L。",
+      "issue": 9,
+      "date": "2026-09-12",
+      "theme": "施工图定基础与屋面梁 → 构件海运交提单 → 交付庆功设宴",
+      "gloss": "提单（B/L）",
+      "category": "外贸",
+      "audio": "audio/bill-of-lading.mp3"
+    },
+    {
+      "word": "banquet",
+      "phonetic": "/ˈbæŋkwɪt/",
+      "meaning": "正式宴请，通常有座次安排和致辞环节；海外客户来访、项目签约、交货庆功都离不开 banquet，是客户接待的\"压轴戏\"。",
+      "collocation": "welcome banquet 欢迎宴会；celebration banquet 庆功宴；host a banquet 设宴款待；banquet hall 宴会厅；at the farewell banquet 在饯行宴上",
+      "examples": [
+        {
+          "en": "We hosted a farewell banquet for the client at the hotel after the final acceptance.",
+          "zh": "最终验收结束后，我们在酒店为客户设宴饯行。",
+          "audio": "audio/ex/banquet-1.mp3"
+        }
+      ],
+      "mnemonic": "跟 bank 没关系——源自法语\"座席、小凳\"。按接待三部曲记：welcome banquet（接风）→ site visit（考察）→ farewell banquet（饯行），有来有送，礼数周全。",
+      "issue": 9,
+      "date": "2026-09-12",
+      "theme": "施工图定基础与屋面梁 → 构件海运交提单 → 交付庆功设宴",
+      "gloss": "宴会；宴请",
+      "category": "客户接待",
+      "audio": "audio/banquet.mp3"
     }
   ]
 }
