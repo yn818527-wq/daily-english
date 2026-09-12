@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12",
-  "total": 45,
+  "updated": "2026-09-13",
+  "total": 50,
   "words": [
     {
       "word": "truss",
@@ -1001,6 +1001,106 @@
       "gloss": "宴会；宴请",
       "category": "客户接待",
       "audio": "audio/banquet.mp3"
+    },
+    {
+      "word": "girder",
+      "phonetic": "/ˈɡɜːdə/",
+      "meaning": "结构体系中的主要承重梁，截面大、跨越主要柱距；钢结构厂房里常指支承次梁（secondary beam）的主钢梁，与柱一起构成受力骨架。",
+      "collocation": "crane girder 吊车梁；plate girder 板梁；main girder 主梁；girder connection 主梁连接；composite girder 组合梁",
+      "examples": [
+        {
+          "en": "The crane girders are supported by the portal frame columns on bracket connections.",
+          "zh": "吊车梁通过牛腿连接支承在门式刚架柱上。",
+          "audio": "audio/ex/girder-1.mp3"
+        }
+      ],
+      "mnemonic": "girder 谐音\"格得\"——大梁一放，格子（柱网）就\"格\"出来了。跟 beam 分工记：beam 泛指\"梁\"，girder 专指\"挑大梁\"的那根，所以叫\"主梁\"。吊车梁 crane girder 是厂房最常谈到的 girder。",
+      "issue": 10,
+      "date": "2026-09-13",
+      "theme": "技术规范定主梁与墙板 → 价格谈判来回还盘 → 客户来访安排住宿",
+      "gloss": "主梁；大梁",
+      "category": "钢结构",
+      "audio": "audio/girder.mp3"
+    },
+    {
+      "word": "cladding",
+      "phonetic": "/ˈklædɪŋ/",
+      "meaning": "包在钢结构骨架外面的围护板材（彩钢夹芯板、 corrugated 板等），起保温、防水、美观作用；集装箱房和安置房项目里 cladding 的板型与厚度是报价必谈项。",
+      "collocation": "wall cladding 墙面板；roof and wall cladding 屋面墙面板；cladding panel 围护板；cladding thickness 板材厚度；install the cladding 安装墙板",
+      "examples": [
+        {
+          "en": "The wall cladding is 50mm sandwich panel with both sides pre-painted.",
+          "zh": "墙面板是 50 毫米双面预涂装夹芯板。",
+          "audio": "audio/ex/cladding-1.mp3"
+        }
+      ],
+      "mnemonic": "clad（覆盖、穿衣）+ -ding = 给房子\"穿衣服\"。钢结构是骨架（skeleton），cladding 就是外衣——\"bone 立起来，clothes 穿上去\"。跟 facade（第 5 期\"立面\"）区分：facade 讲\"脸面\"，cladding 讲\"板材\"本身。",
+      "issue": 10,
+      "date": "2026-09-13",
+      "theme": "技术规范定主梁与墙板 → 价格谈判来回还盘 → 客户来访安排住宿",
+      "gloss": "围护板；墙面板",
+      "category": "钢结构",
+      "audio": "audio/cladding.mp3"
+    },
+    {
+      "word": "specification",
+      "phonetic": "/ˌspesɪfɪˈkeɪʃn/",
+      "meaning": "规定材料、工艺、检验标准的技术文件；钢结构项目里 steel grade、coating、welding 都按 specification 执行，与图纸合称 \"drawings and specifications\"。",
+      "collocation": "technical specification 技术规范；material specification 材料规格；as per specification 按规范；spec sheet 规格表；meet the specifications 满足规范要求",
+      "examples": [
+        {
+          "en": "All materials shall be supplied in strict accordance with the technical specifications.",
+          "zh": "所有材料均须严格按技术规范供应。",
+          "audio": "audio/ex/specification-1.mp3"
+        }
+      ],
+      "mnemonic": "specify（具体指明）+ -ation = \"写得明明白白的文件\"。工地口头禅 \"as per spec\"（按规范来）天天挂嘴边。记忆一句话：图纸画形状（drawing），spec 定标准（specification）——一个管\"长什么样\"，一个管\"用什么做、做到什么程度\"。",
+      "issue": 10,
+      "date": "2026-09-13",
+      "theme": "技术规范定主梁与墙板 → 价格谈判来回还盘 → 客户来访安排住宿",
+      "gloss": "规格书；技术规范",
+      "category": "工程设计",
+      "audio": "audio/specification.mp3"
+    },
+    {
+      "word": "counteroffer",
+      "phonetic": "/ˈkaʊntərɒfə/",
+      "meaning": "外贸谈判中对报价（quotation）的回还价：买方嫌贵提出还盘，卖方可接受、拒绝或再还 counter-counteroffer；一来一回就构成价格谈判的回合。",
+      "collocation": "make a counteroffer 还盘；accept/reject the counteroffer 接受/拒绝还盘；a counteroffer of USD 480 还盘 480 美元；counter-counteroffer 反还盘；meet halfway 各让一步",
+      "examples": [
+        {
+          "en": "The buyer made a counteroffer of USD 480 per ton, but our bottom line is 500.",
+          "zh": "买方还盘每吨 480 美元，但我们的底价是 500 美元。",
+          "audio": "audio/ex/counteroffer-1.mp3"
+        }
+      ],
+      "mnemonic": "counter-（反、回）+ offer（报价）= \"把价格打回去\"。报价链条记：offer（发盘）→ counteroffer（还盘）→ acceptance（接受）→ contract（成交）。跟已学的 quotation（第 1 期）配对：我先 quotation，你 counteroffer。",
+      "issue": 10,
+      "date": "2026-09-13",
+      "theme": "技术规范定主梁与墙板 → 价格谈判来回还盘 → 客户来访安排住宿",
+      "gloss": "还盘；还价",
+      "category": "外贸",
+      "audio": "audio/counteroffer.mp3"
+    },
+    {
+      "word": "accommodation",
+      "phonetic": "/əˌkɒməˈdeɪʃn/",
+      "meaning": "给来访客户安排的食宿接待；商务语境里 \"book the accommodation\" 就是订酒店，\"arrange accommodation and transportation\" 是客户接待的标准动作；另有\"迁就、适应\"之义。",
+      "collocation": "book the accommodation 预订住宿；arrange accommodation 安排食宿；business accommodation 商务住宿；accommodation and transportation 食宿与交通；make accommodation for... 为……作出安排",
+      "examples": [
+        {
+          "en": "We will arrange accommodation and airport pick-up for your delegation next week.",
+          "zh": "下周我们将为贵方代表团安排住宿和接机。",
+          "audio": "audio/ex/accommodation-1.mp3"
+        }
+      ],
+      "mnemonic": "accommodate = ac- + com- + mod（量、尺度）= \"给足尺度\"——房间给足是\"住宿\"，要求给足是\"迁就\"。接待五件套口诀：itinerary（行程）→ pick-up（接机）→ accommodation（住宿）→ banquet（宴请）→ farewell（送别），三个都已在往期学过，今天就差这一块拼图。",
+      "issue": 10,
+      "date": "2026-09-13",
+      "theme": "技术规范定主梁与墙板 → 价格谈判来回还盘 → 客户来访安排住宿",
+      "gloss": "住宿；接待安排",
+      "category": "客户接待",
+      "audio": "audio/accommodation.mp3"
     }
   ]
 }

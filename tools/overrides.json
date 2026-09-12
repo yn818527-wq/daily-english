@@ -44,5 +44,10 @@
   "foundation": { "gloss": "基础；地基", "category": "工程设计" },
   "blueprint": { "gloss": "蓝图；施工图", "category": "建筑设计" },
   "bill of lading": { "gloss": "提单（B/L）", "category": "外贸" },
-  "banquet": { "gloss": "宴会；宴请", "category": "客户接待" }
+  "banquet": { "gloss": "宴会；宴请", "category": "客户接待" },
+  "girder": { "gloss": "主梁；大梁", "category": "钢结构" },
+  "cladding": { "gloss": "围护板；墙面板", "category": "钢结构" },
+  "specification": { "gloss": "规格书；技术规范", "category": "工程设计" },
+  "counteroffer": { "gloss": "还盘；还价", "category": "外贸" },
+  "accommodation": { "gloss": "住宿；接待安排", "category": "客户接待" }
 }
