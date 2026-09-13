@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-13",
-  "total": 50,
+  "updated": "2026-09-14",
+  "total": 55,
   "words": [
     {
       "word": "truss",
@@ -1101,6 +1101,106 @@
       "gloss": "住宿；接待安排",
       "category": "客户接待",
       "audio": "audio/accommodation.mp3"
+    },
+    {
+      "word": "column",
+      "phonetic": "/ˈkɒləm/",
+      "meaning": "结构中竖向承重构件，把屋面和吊车荷载传到基础；钢结构厂房里最常见的是 H 型钢柱（H-section column），与梁（beam/girder）组成框架；图纸上柱位决定柱距（column spacing），是方案报价的第一笔大数。",
+      "collocation": "steel column 钢柱；H-section column H 型钢柱；column spacing 柱距；column base 柱脚；side column 边柱；mid column 中柱",
+      "examples": [
+        {
+          "en": "The column spacing is 6 meters along the length of the workshop building.",
+          "zh": "沿厂房纵向柱距为 6 米。",
+          "audio": "audio/ex/column-1.mp3"
+        }
+      ],
+      "mnemonic": "column 就是\"顶梁柱\"的那根\"柱\"——楼房塌不塌全看它。联想经典搭配 beam and column（梁柱体系）：beam 横着扛，column 竖着顶。跟已学的 portal frame（第 8 期）连起来记：门式刚架 = 两根 column + 一根 rafter。",
+      "issue": 11,
+      "date": "2026-09-14",
+      "theme": "柱距定结构 → 保温选材料 → 剖面图交底 → 寄样确认 → 谈判收尾",
+      "gloss": "柱；柱子",
+      "category": "钢结构",
+      "audio": "audio/column.mp3"
+    },
+    {
+      "word": "insulation",
+      "phonetic": "/ˌɪnsjuˈleɪʃn/",
+      "meaning": "阻止热量（或声音、电流）传递的材料或措施；集装箱房、安置房最常见的是夹芯板保温（sandwich panel with insulation），外墙屋面的 insulation 厚度直接决定冬冷夏热地区的居住体验，也是客户验房时最爱问的指标。",
+      "collocation": "thermal insulation 保温隔热；rock wool insulation 岩棉保温；insulation thickness 保温层厚度；sandwich panel insulation 夹芯板保温；sound insulation 隔音",
+      "examples": [
+        {
+          "en": "We upgraded the roof insulation from 50mm to 75mm rock wool for the cold region.",
+          "zh": "针对寒冷地区，我们把屋面保温从 50 毫米升级为 75 毫米岩棉。",
+          "audio": "audio/ex/insulation-1.mp3"
+        }
+      ],
+      "mnemonic": "insulate（隔离）+ -ion = 把冷热\"隔离在外\"。三种 insulation 一网打尽：thermal 保温、sound 隔音、electrical 绝缘——都是\"隔\"字诀。跟 cladding（第 10 期）搭配记：cladding 是\"外衣\"，insulation 是外衣里的\"羽绒服\"。",
+      "issue": 11,
+      "date": "2026-09-14",
+      "theme": "柱距定结构 → 保温选材料 → 剖面图交底 → 寄样确认 → 谈判收尾",
+      "gloss": "保温；隔热（材料）",
+      "category": "建筑设计",
+      "audio": "audio/insulation.mp3"
+    },
+    {
+      "word": "section",
+      "phonetic": "/ˈsekʃn/",
+      "meaning": "把建筑物假想切开一刀、看内部构造的图纸，与平面图（plan）、立面图（elevation）并称三大图；钢结构详图中 section 还指型钢断面（如 H-section H 型钢）；\"Section A-A\" 就是 A-A 剖面。",
+      "collocation": "cross section 横剖面；Section A-A A-A 剖面；section drawing 剖面图；H-section H 型断面；detail section 详图剖面",
+      "examples": [
+        {
+          "en": "Please refer to Section A-A on drawing S-02 for the column base detail.",
+          "zh": "柱脚详图请参见图纸 S-02 的 A-A 剖面。",
+          "audio": "audio/ex/section-1.mp3"
+        }
+      ],
+      "mnemonic": "想象拿刀把模型\"咔嚓\"切一刀（cut a section），切面就是 section。制图三兄弟一起记：plan 从上往下看、elevation 从侧面看（第 2 期已学）、section 切开看——\"平面看布局，立面看脸，剖面看里子\"。",
+      "issue": 11,
+      "date": "2026-09-14",
+      "theme": "柱距定结构 → 保温选材料 → 剖面图交底 → 寄样确认 → 谈判收尾",
+      "gloss": "剖面图；断面",
+      "category": "建筑设计",
+      "audio": "audio/section.mp3"
+    },
+    {
+      "word": "sample",
+      "phonetic": "/ˈsɑːmpl/",
+      "meaning": "外贸中用于确认品质的实物样品；钢结构围护材料常寄彩钢板小样（color coated steel sample）给客户确认颜色和涂层，\"sample approval\"（样品确认）往往是下单（place the order）前的最后一道关；质检语境里还有\"抽样检验\"之意。",
+      "collocation": "free sample 免费样品；sample approval 样品确认；send samples 寄样；color sample 色板；as per sample 按样品；sample inspection 抽样检验",
+      "examples": [
+        {
+          "en": "We will send you color samples of the sandwich panels by DHL for approval before mass production.",
+          "zh": "量产前我们将通过 DHL 寄送夹芯板颜色样品供贵方确认。",
+          "audio": "audio/ex/sample-1.mp3"
+        }
+      ],
+      "mnemonic": "sample 谐音\"三婆\"——三婆买菜先\"取样\"尝一口再买整筐。外贸流程一句话记住它：quotation（报价）→ sample（寄样）→ approval（确认）→ order（下单）。\"as per sample\"（照样品办）是合同里高频短语。",
+      "issue": 11,
+      "date": "2026-09-14",
+      "theme": "柱距定结构 → 保温选材料 → 剖面图交底 → 寄样确认 → 谈判收尾",
+      "gloss": "样品；抽样",
+      "category": "外贸",
+      "audio": "audio/sample.mp3"
+    },
+    {
+      "word": "negotiation",
+      "phonetic": "/nɪˌɡəʊʃiˈeɪʃn/",
+      "meaning": "买卖双方就价格、付款、交期等条款来回磋商达成一致的过程；外贸谈判常分技术谈判（technical negotiation）和商务谈判（commercial negotiation）两场，一单大工程的成败一半在 negotiation table 上。",
+      "collocation": "price negotiation 价格谈判；enter into negotiation 开始磋商；commercial negotiation 商务谈判；negotiation skills 谈判技巧；after long negotiation 经过长期磋商；under negotiation 磋商中",
+      "examples": [
+        {
+          "en": "After three rounds of negotiation, both parties agreed on the payment terms.",
+          "zh": "经过三轮谈判，双方就付款条款达成一致。",
+          "audio": "audio/ex/negotiation-1.mp3"
+        }
+      ],
+      "mnemonic": "neg（否）+ oti（闲暇）+ ation——古人\"忙完正事才有空谈\"，negotiation 就是\"正事\"：谈生意。跟已学 counteroffer（第 10 期）配成一对：counteroffer 是谈判中的一个\"招\"，negotiation 是整场\"局\"。一句口诀：quotation 开价，negotiation 讲价，contract 落笔。",
+      "issue": 11,
+      "date": "2026-09-14",
+      "theme": "柱距定结构 → 保温选材料 → 剖面图交底 → 寄样确认 → 谈判收尾",
+      "gloss": "谈判；磋商",
+      "category": "外贸",
+      "audio": "audio/negotiation.mp3"
     }
   ]
 }

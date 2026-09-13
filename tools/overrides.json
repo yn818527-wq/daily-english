@@ -49,5 +49,10 @@
   "cladding": { "gloss": "围护板；墙面板", "category": "钢结构" },
   "specification": { "gloss": "规格书；技术规范", "category": "工程设计" },
   "counteroffer": { "gloss": "还盘；还价", "category": "外贸" },
-  "accommodation": { "gloss": "住宿；接待安排", "category": "客户接待" }
+  "accommodation": { "gloss": "住宿；接待安排", "category": "客户接待" },
+  "column": { "gloss": "柱；柱子", "category": "钢结构" },
+  "insulation": { "gloss": "保温；隔热（材料）", "category": "建筑设计" },
+  "section": { "gloss": "剖面图；断面", "category": "建筑设计" },
+  "sample": { "gloss": "样品；抽样", "category": "外贸" },
+  "negotiation": { "gloss": "谈判；磋商", "category": "外贸" }
 }
