@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14",
-  "total": 55,
+  "updated": "2026-09-15",
+  "total": 60,
   "words": [
     {
       "word": "truss",
@@ -1201,6 +1201,106 @@
       "gloss": "谈判；磋商",
       "category": "外贸",
       "audio": "audio/negotiation.mp3"
+    },
+    {
+      "word": "crane",
+      "phonetic": "/kreɪn/",
+      "meaning": "施工现场用来把钢梁、钢柱、夹芯板吊到位的机械；钢结构安装（erection）的核心设备，常见的有汽车吊（mobile crane / truck crane）、塔吊（tower crane）、履带吊（crawler crane）；方案阶段要先核算\"吊车站位\"和\"起重半径\"，否则现场吊装会出大问题。外贸报价里 crane 还常指\"主机吊装费用\"这一项。",
+      "collocation": "mobile crane 汽车吊；tower crane 塔吊；crawler crane 履带吊；crane capacity 起重能力；crane rental 吊车租赁；lift by crane 用吊车吊装",
+      "examples": [
+        {
+          "en": "A 50-ton mobile crane will be required to erect the main girders on site.",
+          "zh": "现场吊装主梁需要一台 50 吨汽车吊。",
+          "audio": "audio/ex/crane-1.mp3"
+        }
+      ],
+      "mnemonic": "crane 同时也是\"鹤\"的意思——长脖子伸出去吊东西，跟吊车的长臂一模一样。工地三兄弟一起记：crane 吊起来 → erection 装起来（第 6 期）→ weld 焊起来（第 7 期）。跟客户聊方案时一句 \"Do you have a crane on site?\"（现场有吊车吗）能立刻判断施工条件。",
+      "issue": 12,
+      "date": "2026-09-15",
+      "theme": "吊车进场吊装 → 厂房通风设计 → 竣工移交业主 → 装箱单随船 → 赶在截止日前交付",
+      "gloss": "起重机；吊车",
+      "category": "钢结构",
+      "audio": "audio/crane.mp3"
+    },
+    {
+      "word": "ventilation",
+      "phonetic": "/ˌventɪˈleɪʃn/",
+      "meaning": "让室内外空气流通的设计或措施；钢结构厂房、集装箱房、安置房里通风直接影响居住舒适度和结露问题，常见做法是屋脊通风器（ridge ventilator）、百叶窗（louvers）和侧墙进风；通风不好会让夏天室内温度高出好几度，是海外客户投诉的重灾区。",
+      "collocation": "natural ventilation 自然通风；ridge ventilation 屋脊通风；ventilation system 通风系统；cross ventilation 穿堂风；mechanical ventilation 机械通风；poor ventilation 通风不良",
+      "examples": [
+        {
+          "en": "We added ridge ventilators and wall louvers to improve natural ventilation in the workshop.",
+          "zh": "我们增加了屋脊通风器和墙面百叶，以改善厂房的自然通风。",
+          "audio": "audio/ex/ventilation-1.mp3"
+        }
+      ],
+      "mnemonic": "词根 vent- = \"风/来\"（如 adventure 冒险 = 去\"来\"未知之地），vent 本身就有\"通风口、排气\"的意思。联想：window 采光、insulation 保温（第 11 期）、ventilation 换气——房子舒服三件套，缺一不可。口诀：\"不透风的房子住不住人\"。",
+      "issue": 12,
+      "date": "2026-09-15",
+      "theme": "吊车进场吊装 → 厂房通风设计 → 竣工移交业主 → 装箱单随船 → 赶在截止日前交付",
+      "gloss": "通风；换气",
+      "category": "建筑设计",
+      "audio": "audio/ventilation.mp3"
+    },
+    {
+      "word": "handover",
+      "phonetic": "/ˈhændəʊvə(r)/",
+      "meaning": "工程完工后把项目、钥匙、资料正式交给业主的过程；外贸和工程合同里 \"handover\" 常与 \"takeover\"（接收）成对出现，\"handover date\"（移交日期）和 \"handover certificate\"（移交证书）是收尾款的重要节点；职场里也指工作交接（job handover）。",
+      "collocation": "project handover 项目移交；handover certificate 移交证书；handover date 移交日期；take over 接收；job handover 工作交接；hand over to 移交给",
+      "examples": [
+        {
+          "en": "The final payment will be released within 15 days after project handover.",
+          "zh": "项目移交后 15 天内支付尾款。",
+          "audio": "audio/ex/handover-1.mp3"
+        }
+      ],
+      "mnemonic": "hand（手）+ over（过去）= 把手里的东西\"递过去\"，就是移交。动词形式要分开写：hand over the documents（递交文件）；名词连写 handover。跟已学的 bill of lading（第 9 期提单）配成链条：发货 → 清关 → 安装 → handover 移交 → 收尾款。",
+      "issue": 12,
+      "date": "2026-09-15",
+      "theme": "吊车进场吊装 → 厂房通风设计 → 竣工移交业主 → 装箱单随船 → 赶在截止日前交付",
+      "gloss": "移交；交付",
+      "category": "工程设计",
+      "audio": "audio/handover.mp3"
+    },
+    {
+      "word": "packing list",
+      "phonetic": "/ˈpækɪŋ lɪst/",
+      "meaning": "外贸出口必备单证之一，逐一列明每个包装箱的编号、品名、规格、数量、毛重净重和体积；钢结构项目散件多，装箱单是客户清点构件、清关查验和索赔的依据，必须与实物、发票（invoice）、提单（bill of lading）三者完全一致，否则极易卡关。",
+      "collocation": "detailed packing list 详细装箱单；as per packing list 按装箱单；packing list number 箱单号；gross weight / net weight 毛重/净重；case number 箱号；check against the packing list 对照装箱单清点",
+      "examples": [
+        {
+          "en": "Please check the packing list carefully before signing for the container.",
+          "zh": "签收集装箱前请仔细核对装箱单。",
+          "audio": "audio/ex/packing-list-1.mp3"
+        }
+      ],
+      "mnemonic": "pack（打包）+ ing + list（清单）= 打包的清单。外贸单证\"铁三角\"一次记全：proforma invoice 形式发票（第 4 期）→ packing list 装箱单 → bill of lading 提单（第 9 期）。口诀：发票说\"多少钱\"，箱单说\"装了啥\"，提单说\"谁的货\"。",
+      "issue": 12,
+      "date": "2026-09-15",
+      "theme": "吊车进场吊装 → 厂房通风设计 → 竣工移交业主 → 装箱单随船 → 赶在截止日前交付",
+      "gloss": "装箱单",
+      "category": "外贸",
+      "audio": "audio/packing-list.mp3"
+    },
+    {
+      "word": "deadline",
+      "phonetic": "/ˈdedlaɪn/",
+      "meaning": "必须完成某项工作的最晚时间点；外贸里常指报价有效期、信用证开证期、图纸确认期；工程里是节点工期；职场沟通中 \"meet the deadline\"（按时完成）与 \"miss the deadline\"（逾期）是最常用的两个说法。",
+      "collocation": "meet the deadline 按时完成；miss the deadline 逾期；tight deadline 时间紧；deadline pressure 工期压力；extend the deadline 延长截止日期；deadline is approaching 截止日期临近",
+      "examples": [
+        {
+          "en": "We are working overtime to meet the deadline for the drawing approval.",
+          "zh": "我们正在加班加点，以赶上图审的截止日期。",
+          "audio": "audio/ex/deadline-1.mp3"
+        }
+      ],
+      "mnemonic": "dead（死）+ line（线）= \"死线\"，踩上去就完蛋——所以必须赶在前面。跟已学的 lead time（第 2 期交货期）、overtime（第 6 期加班）连成一句职场高频话：The deadline is tight, so we need to work overtime to keep the lead time.（期限紧，得加班才能保证交期。）",
+      "issue": 12,
+      "date": "2026-09-15",
+      "theme": "吊车进场吊装 → 厂房通风设计 → 竣工移交业主 → 装箱单随船 → 赶在截止日前交付",
+      "gloss": "截止日期",
+      "category": "职场",
+      "audio": "audio/deadline.mp3"
     }
   ]
 }

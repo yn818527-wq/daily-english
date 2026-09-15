@@ -54,5 +54,10 @@
   "insulation": { "gloss": "保温；隔热（材料）", "category": "建筑设计" },
   "section": { "gloss": "剖面图；断面", "category": "建筑设计" },
   "sample": { "gloss": "样品；抽样", "category": "外贸" },
-  "negotiation": { "gloss": "谈判；磋商", "category": "外贸" }
+  "negotiation": { "gloss": "谈判；磋商", "category": "外贸" },
+  "crane": { "gloss": "起重机；吊车", "category": "钢结构" },
+  "ventilation": { "gloss": "通风；换气", "category": "建筑设计" },
+  "handover": { "gloss": "移交；交付", "category": "工程设计" },
+  "packing list": { "gloss": "装箱单", "category": "外贸" },
+  "deadline": { "gloss": "截止日期", "category": "职场" }
 }
