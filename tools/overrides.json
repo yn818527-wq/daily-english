@@ -59,5 +59,10 @@
   "ventilation": { "gloss": "通风；换气", "category": "建筑设计" },
   "handover": { "gloss": "移交；交付", "category": "工程设计" },
   "packing list": { "gloss": "装箱单", "category": "外贸" },
-  "deadline": { "gloss": "截止日期", "category": "职场" }
+  "deadline": { "gloss": "截止日期", "category": "职场" },
+  "corrosion": { "gloss": "腐蚀；锈蚀", "category": "钢结构" },
+  "torque": { "gloss": "扭矩；拧紧力矩", "category": "工程设计" },
+  "skylight": { "gloss": "天窗；采光带", "category": "建筑设计" },
+  "claim": { "gloss": "索赔；声称", "category": "外贸" },
+  "commute": { "gloss": "通勤；上下班往返", "category": "职场" }
 }
