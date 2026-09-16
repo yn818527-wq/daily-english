@@ -1,68 +1,283 @@
 {
   "_note": "人工补充字段：gloss=练习用的简短中文释义，category=场景分类。以 word 小写为键，脚本合并时会覆盖自动解析结果。新词如无对应条目，脚本自动从 meaning 截取。",
-  "truss": { "gloss": "桁架", "category": "钢结构" },
-  "fabrication": { "gloss": "加工制造；预制", "category": "钢结构" },
-  "tolerance": { "gloss": "公差；容忍", "category": "工程设计" },
-  "quotation": { "gloss": "报价（单）", "category": "外贸" },
-  "itinerary": { "gloss": "行程；日程安排", "category": "客户接待" },
-  "purlin": { "gloss": "檩条", "category": "钢结构" },
-  "galvanize": { "gloss": "镀锌", "category": "钢结构" },
-  "elevation": { "gloss": "立面图；标高", "category": "工程设计" },
-  "lead time": { "gloss": "交货期；生产周期", "category": "外贸" },
-  "courtesy": { "gloss": "礼遇；礼貌", "category": "客户接待" },
-  "bracing": { "gloss": "支撑；斜撑", "category": "钢结构" },
-  "cantilever": { "gloss": "悬臂", "category": "工程设计" },
-  "deposit": { "gloss": "定金；押金", "category": "外贸" },
-  "hospitality": { "gloss": "接待款待", "category": "客户接待" },
-  "workload": { "gloss": "工作量", "category": "职场" },
-  "gusset": { "gloss": "节点板", "category": "钢结构" },
-  "deflection": { "gloss": "挠度；变形量", "category": "工程设计" },
-  "proforma invoice": { "gloss": "形式发票", "category": "外贸" },
-  "pick-up": { "gloss": "接送；接机", "category": "客户接待" },
-  "agenda": { "gloss": "议程", "category": "职场" },
-  "flange": { "gloss": "翼缘；法兰", "category": "钢结构" },
-  "fastener": { "gloss": "紧固件", "category": "钢结构" },
-  "facade": { "gloss": "立面；外观", "category": "工程设计" },
-  "freight": { "gloss": "货运；运费", "category": "外贸" },
-  "follow-up": { "gloss": "跟进；后续", "category": "外贸" },
-  "anchor bolt": { "gloss": "地脚螺栓；锚栓", "category": "钢结构" },
-  "erection": { "gloss": "安装；吊装", "category": "钢结构" },
-  "layout": { "gloss": "布局；平面布置", "category": "建筑设计" },
-  "shipment": { "gloss": "发货；装运", "category": "外贸" },
-  "overtime": { "gloss": "加班；加班时间", "category": "职场" },
-  "weld": { "gloss": "焊接；焊缝", "category": "钢结构" },
-  "stiffener": { "gloss": "加劲肋；加强件", "category": "钢结构" },
-  "staircase": { "gloss": "楼梯", "category": "建筑设计" },
-  "customs clearance": { "gloss": "清关", "category": "外贸" },
-  "clarification": { "gloss": "澄清；说明", "category": "客户接待" },
-  "portal frame": { "gloss": "门式刚架", "category": "钢结构" },
-  "span": { "gloss": "跨度", "category": "工程设计" },
-  "rendering": { "gloss": "效果图；渲染", "category": "建筑设计" },
-  "letter of credit": { "gloss": "信用证（L/C）", "category": "外贸" },
-  "site visit": { "gloss": "现场考察；验厂", "category": "客户接待" },
-  "rafter": { "gloss": "椽条；屋面斜梁", "category": "钢结构" },
-  "foundation": { "gloss": "基础；地基", "category": "工程设计" },
-  "blueprint": { "gloss": "蓝图；施工图", "category": "建筑设计" },
-  "bill of lading": { "gloss": "提单（B/L）", "category": "外贸" },
-  "banquet": { "gloss": "宴会；宴请", "category": "客户接待" },
-  "girder": { "gloss": "主梁；大梁", "category": "钢结构" },
-  "cladding": { "gloss": "围护板；墙面板", "category": "钢结构" },
-  "specification": { "gloss": "规格书；技术规范", "category": "工程设计" },
-  "counteroffer": { "gloss": "还盘；还价", "category": "外贸" },
-  "accommodation": { "gloss": "住宿；接待安排", "category": "客户接待" },
-  "column": { "gloss": "柱；柱子", "category": "钢结构" },
-  "insulation": { "gloss": "保温；隔热（材料）", "category": "建筑设计" },
-  "section": { "gloss": "剖面图；断面", "category": "建筑设计" },
-  "sample": { "gloss": "样品；抽样", "category": "外贸" },
-  "negotiation": { "gloss": "谈判；磋商", "category": "外贸" },
-  "crane": { "gloss": "起重机；吊车", "category": "钢结构" },
-  "ventilation": { "gloss": "通风；换气", "category": "建筑设计" },
-  "handover": { "gloss": "移交；交付", "category": "工程设计" },
-  "packing list": { "gloss": "装箱单", "category": "外贸" },
-  "deadline": { "gloss": "截止日期", "category": "职场" },
-  "corrosion": { "gloss": "腐蚀；锈蚀", "category": "钢结构" },
-  "torque": { "gloss": "扭矩；拧紧力矩", "category": "工程设计" },
-  "skylight": { "gloss": "天窗；采光带", "category": "建筑设计" },
-  "claim": { "gloss": "索赔；声称", "category": "外贸" },
-  "commute": { "gloss": "通勤；上下班往返", "category": "职场" }
+  "truss": {
+    "gloss": "桁架",
+    "category": "钢结构"
+  },
+  "fabrication": {
+    "gloss": "加工制造；预制",
+    "category": "钢结构"
+  },
+  "tolerance": {
+    "gloss": "公差；容忍",
+    "category": "工程设计"
+  },
+  "quotation": {
+    "gloss": "报价（单）",
+    "category": "外贸"
+  },
+  "itinerary": {
+    "gloss": "行程；日程安排",
+    "category": "客户接待"
+  },
+  "purlin": {
+    "gloss": "檩条",
+    "category": "钢结构"
+  },
+  "galvanize": {
+    "gloss": "镀锌",
+    "category": "钢结构"
+  },
+  "elevation": {
+    "gloss": "立面图；标高",
+    "category": "工程设计"
+  },
+  "lead time": {
+    "gloss": "交货期；生产周期",
+    "category": "外贸"
+  },
+  "courtesy": {
+    "gloss": "礼遇；礼貌",
+    "category": "客户接待"
+  },
+  "bracing": {
+    "gloss": "支撑；斜撑",
+    "category": "钢结构"
+  },
+  "cantilever": {
+    "gloss": "悬臂",
+    "category": "工程设计"
+  },
+  "deposit": {
+    "gloss": "定金；押金",
+    "category": "外贸"
+  },
+  "hospitality": {
+    "gloss": "接待款待",
+    "category": "客户接待"
+  },
+  "workload": {
+    "gloss": "工作量",
+    "category": "职场"
+  },
+  "gusset": {
+    "gloss": "节点板",
+    "category": "钢结构"
+  },
+  "deflection": {
+    "gloss": "挠度；变形量",
+    "category": "工程设计"
+  },
+  "proforma invoice": {
+    "gloss": "形式发票",
+    "category": "外贸"
+  },
+  "pick-up": {
+    "gloss": "接送；接机",
+    "category": "客户接待"
+  },
+  "agenda": {
+    "gloss": "议程",
+    "category": "职场"
+  },
+  "flange": {
+    "gloss": "翼缘；法兰",
+    "category": "钢结构"
+  },
+  "fastener": {
+    "gloss": "紧固件",
+    "category": "钢结构"
+  },
+  "facade": {
+    "gloss": "立面；外观",
+    "category": "工程设计"
+  },
+  "freight": {
+    "gloss": "货运；运费",
+    "category": "外贸"
+  },
+  "follow-up": {
+    "gloss": "跟进；后续",
+    "category": "外贸"
+  },
+  "anchor bolt": {
+    "gloss": "地脚螺栓；锚栓",
+    "category": "钢结构"
+  },
+  "erection": {
+    "gloss": "安装；吊装",
+    "category": "钢结构"
+  },
+  "layout": {
+    "gloss": "布局；平面布置",
+    "category": "建筑设计"
+  },
+  "shipment": {
+    "gloss": "发货；装运",
+    "category": "外贸"
+  },
+  "overtime": {
+    "gloss": "加班；加班时间",
+    "category": "职场"
+  },
+  "weld": {
+    "gloss": "焊接；焊缝",
+    "category": "钢结构"
+  },
+  "stiffener": {
+    "gloss": "加劲肋；加强件",
+    "category": "钢结构"
+  },
+  "staircase": {
+    "gloss": "楼梯",
+    "category": "建筑设计"
+  },
+  "customs clearance": {
+    "gloss": "清关",
+    "category": "外贸"
+  },
+  "clarification": {
+    "gloss": "澄清；说明",
+    "category": "客户接待"
+  },
+  "portal frame": {
+    "gloss": "门式刚架",
+    "category": "钢结构"
+  },
+  "span": {
+    "gloss": "跨度",
+    "category": "工程设计"
+  },
+  "rendering": {
+    "gloss": "效果图；渲染",
+    "category": "建筑设计"
+  },
+  "letter of credit": {
+    "gloss": "信用证（L/C）",
+    "category": "外贸"
+  },
+  "site visit": {
+    "gloss": "现场考察；验厂",
+    "category": "客户接待"
+  },
+  "rafter": {
+    "gloss": "椽条；屋面斜梁",
+    "category": "钢结构"
+  },
+  "foundation": {
+    "gloss": "基础；地基",
+    "category": "工程设计"
+  },
+  "blueprint": {
+    "gloss": "蓝图；施工图",
+    "category": "建筑设计"
+  },
+  "bill of lading": {
+    "gloss": "提单（B/L）",
+    "category": "外贸"
+  },
+  "banquet": {
+    "gloss": "宴会；宴请",
+    "category": "客户接待"
+  },
+  "girder": {
+    "gloss": "主梁；大梁",
+    "category": "钢结构"
+  },
+  "cladding": {
+    "gloss": "围护板；墙面板",
+    "category": "钢结构"
+  },
+  "specification": {
+    "gloss": "规格书；技术规范",
+    "category": "工程设计"
+  },
+  "counteroffer": {
+    "gloss": "还盘；还价",
+    "category": "外贸"
+  },
+  "accommodation": {
+    "gloss": "住宿；接待安排",
+    "category": "客户接待"
+  },
+  "column": {
+    "gloss": "柱；柱子",
+    "category": "钢结构"
+  },
+  "insulation": {
+    "gloss": "保温；隔热（材料）",
+    "category": "建筑设计"
+  },
+  "section": {
+    "gloss": "剖面图；断面",
+    "category": "建筑设计"
+  },
+  "sample": {
+    "gloss": "样品；抽样",
+    "category": "外贸"
+  },
+  "negotiation": {
+    "gloss": "谈判；磋商",
+    "category": "外贸"
+  },
+  "crane": {
+    "gloss": "起重机；吊车",
+    "category": "钢结构"
+  },
+  "ventilation": {
+    "gloss": "通风；换气",
+    "category": "建筑设计"
+  },
+  "handover": {
+    "gloss": "移交；交付",
+    "category": "工程设计"
+  },
+  "packing list": {
+    "gloss": "装箱单",
+    "category": "外贸"
+  },
+  "deadline": {
+    "gloss": "截止日期",
+    "category": "职场"
+  },
+  "corrosion": {
+    "gloss": "腐蚀；锈蚀",
+    "category": "钢结构"
+  },
+  "torque": {
+    "gloss": "扭矩；拧紧力矩",
+    "category": "工程设计"
+  },
+  "skylight": {
+    "gloss": "天窗；采光带",
+    "category": "建筑设计"
+  },
+  "claim": {
+    "gloss": "索赔；声称",
+    "category": "外贸"
+  },
+  "commute": {
+    "gloss": "通勤；上下班往返",
+    "category": "职场"
+  },
+  "prefabricate": {
+    "gloss": "预制；工厂化制造",
+    "category": "钢结构"
+  },
+  "drainage": {
+    "gloss": "排水；排水系统",
+    "category": "工程设计"
+  },
+  "warranty": {
+    "gloss": "质保；保修期",
+    "category": "外贸"
+  },
+  "reception": {
+    "gloss": "接待；前台；欢迎会",
+    "category": "客户接待"
+  },
+  "delegate": {
+    "gloss": "授权；分派任务；代表",
+    "category": "职场"
+  }
 }

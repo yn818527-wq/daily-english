@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16",
-  "total": 65,
+  "updated": "2026-09-17",
+  "total": 70,
   "words": [
     {
       "word": "truss",
@@ -1401,6 +1401,106 @@
       "gloss": "通勤；上下班往返",
       "category": "职场",
       "audio": "audio/commute.mp3"
+    },
+    {
+      "word": "prefabricate",
+      "phonetic": "/priːˈfæbrɪkeɪt/",
+      "meaning": "在工厂里把构件（墙板、楼板、卫生间模块、整间集装箱房）先做好，再运到现场拼装；这是模块化建筑、标准化安置房的核心工艺，也是海外项目压缩工期、控制质量的杀手锏。跟已学的 fabrication（第 1 期，加工制造）是同一词根，只是加了 pre-（提前）：先在厂里 fabrication，到现场只剩 erection（第 6 期，安装吊装）。形容词 prefabricated / prefab（预制的；活动板房）。",
+      "collocation": "prefabricated module 预制模块；prefabricated house 预制房屋；prefabricated bathroom pod 整体卫浴模块；prefab building 装配式建筑；off-site prefabrication 场外预制；prefabricate in the factory 在工厂预制",
+      "examples": [
+        {
+          "en": "All the wall panels are prefabricated in our factory, so the site erection takes only three weeks.",
+          "zh": "所有墙板都在我们工厂预制完成，因此现场安装只需三周。",
+          "audio": "audio/ex/prefabricate-1.mp3"
+        }
+      ],
+      "mnemonic": "pre-（提前）+ fabricate（制作，第 1 期 fabrication 的动词）= 提前在厂里做好。记住这个对比句：Traditional building pours on site; prefabricated building builds in the factory.（传统建筑现场浇筑，装配式建筑工厂制造。）做模块化产品库时一句话就够：We prefabricate 80% of the unit; only foundations and connections are done on site.（单元 80% 在厂内预制，只有基础和节点在现场做。）",
+      "issue": 14,
+      "date": "2026-09-17",
+      "theme": "模块化房屋工厂预制 → 场地排水设计 → 质保条款谈妥 → 客户到访接待 → 任务授权分派",
+      "gloss": "预制；工厂化制造",
+      "category": "钢结构",
+      "audio": "audio/prefabricate.mp3"
+    },
+    {
+      "word": "drainage",
+      "phonetic": "/ˈdreɪnɪdʒ/",
+      "meaning": "把雨水、污水排走的系统或能力，包括屋面天沟、雨水管、场地明沟、集水井等；建筑设计和总平面里必查项，热带雨季项目（非洲、东南亚）尤其关键——排水没做好，基础（foundation 第 9 期）泡水、地面沉降、室内返潮全来了。方案汇报时甲方常问：\"How is the site drainage solved?\"（场地排水怎么解决？）",
+      "collocation": "drainage system 排水系统；site drainage 场地排水；storm drainage 雨水排放；drainage ditch / trench 排水沟；drainage pipe 排水管；poor drainage 排水不畅；roof drainage 屋面排水",
+      "examples": [
+        {
+          "en": "The site has poor drainage, so we raised the floor level by 300 mm and added perimeter ditches.",
+          "zh": "场地排水不畅，所以我们把室内地坪抬高了 300 毫米，并增设了周边排水沟。",
+          "audio": "audio/ex/drainage-1.mp3"
+        }
+      ],
+      "mnemonic": "drain（排干 / 下水道）+ -age（名词后缀）。生活里最熟悉的场景：The sink drains slowly.（水池下水很慢。）→ 建筑上就是 drainage。联想\"三大水系统\"一起记：drainage 排水、ventilation 通风（第 12 期）、insulation 保温（第 11 期）——厂房方案里三件套缺一不可。",
+      "issue": 14,
+      "date": "2026-09-17",
+      "theme": "模块化房屋工厂预制 → 场地排水设计 → 质保条款谈妥 → 客户到访接待 → 任务授权分派",
+      "gloss": "排水；排水系统",
+      "category": "工程设计",
+      "audio": "audio/drainage.mp3"
+    },
+    {
+      "word": "warranty",
+      "phonetic": "/ˈwɒrənti/",
+      "meaning": "卖方对产品质量与性能的书面承诺，在约定年限内免费维修或更换；外贸合同、钢结构供货合同里的核心条款，通常写 \"12 months after shipment or 18 months after delivery, whichever comes first\"（发货后 12 个月或交付后 18 个月，以先到者为准）。注意区分：guarantee 偏\"保证\"，warranty 偏\"书面保修条款\"；claim（第 13 期索赔）往往就是在 warranty 期内提出的。",
+      "collocation": "warranty period 质保期；one-year warranty 一年质保；under warranty 在保修期内；warranty claim 质保索赔；extend the warranty 延长质保；out of warranty 超出保修期；warranty certificate 质保书",
+      "examples": [
+        {
+          "en": "We offer a 12-month warranty on all steel structures against manufacturing defects.",
+          "zh": "我们对所有钢结构提供 12 个月质保，覆盖制造缺陷。",
+          "audio": "audio/ex/warranty-1.mp3"
+        }
+      ],
+      "mnemonic": "来自 warrant（保证 / 授权令），-y 名词后缀——\"白纸黑字保证\"就是质保书。谈判高频句：The warranty does not cover damage caused by improper installation.（质保不涵盖因安装不当造成的损坏。）串起外贸链条：quotation 报价（第 1 期）→ deposit 定金（第 3 期）→ shipment 发货（第 6 期）→ warranty 质保 → claim 索赔（第 13 期）。",
+      "issue": 14,
+      "date": "2026-09-17",
+      "theme": "模块化房屋工厂预制 → 场地排水设计 → 质保条款谈妥 → 客户到访接待 → 任务授权分派",
+      "gloss": "质保；保修期",
+      "category": "外贸",
+      "audio": "audio/warranty.mp3"
+    },
+    {
+      "word": "reception",
+      "phonetic": "/rɪˈsepʃn/",
+      "meaning": "三层常用义——①公司前台 / 接待处（the reception desk，客户进门第一站）；②接待、迎接的行为（give sb a warm reception 热烈接待）；③欢迎会、招待会（hold a reception 举办招待会）。客户接待场景的基础词，跟 hospitality（第 3 期款待）、courtesy（第 2 期礼遇）、itinerary（第 1 期行程）是同一个\"接机组\"。",
+      "collocation": "reception desk / front desk 前台；reception area 接待区；warm reception 热情接待；hold a reception 举办招待会；receptionist 接待员；arrange reception 安排接待",
+      "examples": [
+        {
+          "en": "Our driver will meet you at the reception desk of the hotel at nine tomorrow morning.",
+          "zh": "我们的司机会在明早九点在酒店前台接您。",
+          "audio": "audio/ex/reception-1.mp3"
+        }
+      ],
+      "mnemonic": "receive（收到 / 接待）+ -ption 名词后缀 = \"接住来的人\"。一词三义用场景串：到公司先去 reception desk 登记 → 被 give a warm reception 热情接待 → 晚上参加 welcome reception 欢迎会。客户来访邮件万能句：Please let us know your flight details so we can arrange hotel and reception.（请告知航班信息，以便我们安排住宿与接待。）",
+      "issue": 14,
+      "date": "2026-09-17",
+      "theme": "模块化房屋工厂预制 → 场地排水设计 → 质保条款谈妥 → 客户到访接待 → 任务授权分派",
+      "gloss": "接待；前台；欢迎会",
+      "category": "客户接待",
+      "audio": "audio/reception.mp3"
+    },
+    {
+      "word": "delegate",
+      "phonetic": "/ˈdelɪɡeɪt/",
+      "meaning": "动词最常用——把任务或权力交给别人去做，\"学会 delegate\" 是职场从中级到高级的分水岭；名词读作 /ˈdelɪɡət/，指\"代表、代表团成员\"（如 conference delegate 会议代表）。工程语境里常和 responsibility、authority 连用：delegate responsibility to the site manager（把责任授权给现场经理）。",
+      "collocation": "delegate tasks 分派任务；delegate responsibility / authority 授权；delegate to sb 委派给某人；delegate a job to a colleague 把活儿交给同事；delegation 代表团；learn to delegate 学会授权",
+      "examples": [
+        {
+          "en": "A good project manager knows how to delegate routine tasks and focus on key decisions.",
+          "zh": "优秀的项目经理懂得把日常事务分派下去，自己专注于关键决策。",
+          "audio": "audio/ex/delegate-1.mp3"
+        }
+      ],
+      "mnemonic": "de-（向下）+ legate（派遣 / 使节，同根 legacy 遗产、colleague 同事）= 把事情\"往下派\"。职场对照记：workload 太重（第 3 期）→ 要么 work overtime 加班（第 6 期）→ 要么 delegate 分派出去。谐音梗：de-legate ≈ \"代理给他\"。",
+      "issue": 14,
+      "date": "2026-09-17",
+      "theme": "模块化房屋工厂预制 → 场地排水设计 → 质保条款谈妥 → 客户到访接待 → 任务授权分派",
+      "gloss": "授权；分派任务；代表",
+      "category": "职场",
+      "audio": "audio/delegate.mp3"
     }
   ]
 }
