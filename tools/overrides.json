@@ -279,5 +279,25 @@
   "delegate": {
     "gloss": "授权；分派任务；代表",
     "category": "职场"
+  },
+  "shear": {
+    "gloss": "剪力；剪切",
+    "category": "钢结构"
+  },
+  "mezzanine": {
+    "gloss": "夹层；夹层楼面",
+    "category": "建筑设计"
+  },
+  "scaffolding": {
+    "gloss": "脚手架",
+    "category": "工程施工"
+  },
+  "inquiry": {
+    "gloss": "询价；询盘",
+    "category": "外贸"
+  },
+  "briefing": {
+    "gloss": "简报；交底会",
+    "category": "客户接待"
   }
 }

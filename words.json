@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17",
-  "total": 70,
+  "updated": "2026-09-18",
+  "total": 75,
   "words": [
     {
       "word": "truss",
@@ -1501,6 +1501,106 @@
       "gloss": "授权；分派任务；代表",
       "category": "职场",
       "audio": "audio/delegate.mp3"
+    },
+    {
+      "word": "shear",
+      "phonetic": "/ʃɪə(r)/",
+      "meaning": "让构件相邻两部分沿截面\"错开滑移\"的力或作用，结构计算里与轴力、弯矩并列的三大内力之一；动词指\"剪、剪断\"。钢结构的 shear wall（剪力墙）、shear stud（栓钉/剪力钉）、shear force（剪力）、shear connection（抗剪连接）全是高频词。跟已学的 deflection（第 4 期挠度）、torque（第 13 期扭矩）一起构成\"结构验算三件套\"。",
+      "collocation": "shear force 剪力；shear wall 剪力墙；shear stud / shear connector 栓钉剪力连接件；shear strength 抗剪强度；shear connection 抗剪连接；shear plate 剪切板/连接板；shear failure 剪切破坏",
+      "examples": [
+        {
+          "en": "The beam has enough bending capacity, but we need to check the shear force near the supports.",
+          "zh": "这根梁抗弯承载力够，但我们要验算支座附近的剪力。",
+          "audio": "audio/ex/shear-1.mp3"
+        }
+      ],
+      "mnemonic": "和 sheep（羊）同源记忆——\"剪羊毛 shear a sheep\"，动作就是\"一上一下错开剪断\"。工程上记一句：Bending makes it bend; shear makes it slide.（弯矩让它弯，剪力让它错。）做方案汇报时的高频句：The connection is designed as a shear connection, not a moment connection.（这个节点按抗剪连接设计，不是刚接。）",
+      "issue": 15,
+      "date": "2026-09-18",
+      "theme": "剪力验算过审 → 夹层方案增面积 → 脚手架搭设交底 → 客户询盘报价 → 接待前内部简报",
+      "gloss": "剪力；剪切",
+      "category": "钢结构",
+      "audio": "audio/shear.mp3"
+    },
+    {
+      "word": "mezzanine",
+      "phonetic": "/ˈmezəniːn/",
+      "meaning": "在大空间（厂房、仓库、展厅）内部加建的一层\"半层\"楼板，通常不占满整个平面、层高较低；钢结构项目里最省钱的扩容手段——不扩大占地、不改动外围护（cladding 第 10 期），就能把使用面积翻出 30%~50%，常做办公、备料、休息区。甲方最爱的说法：We can add a mezzanine for storage.（我们可以加个夹层做仓储。）",
+      "collocation": "mezzanine floor 夹层楼面；mezzanine level 夹层；steel mezzanine 钢结构夹层；add / build a mezzanine 加建夹层；mezzanine office 夹层办公室；mezzanine storage 夹层仓储；mezzanine slab 夹层板",
+      "examples": [
+        {
+          "en": "We added a steel mezzanine above the packing area to create extra office space without extending the footprint.",
+          "zh": "我们在包装区上方加建了钢结构夹层，在不扩大占地面积的前提下多出了一块办公空间。",
+          "audio": "audio/ex/mezzanine-1.mp3"
+        }
+      ],
+      "mnemonic": "源自意大利语 mezzano（中间的），mezzo = middle——就是\"夹在中间的那层\"。注意发音重音在最前：MEZ-za-neen。方案卖点一句话：A mezzanine gives you a second floor for half the price.（夹层用一半的钱换来二楼。）跟 staircase（第 7 期楼梯）天然成对——加夹层必配楼梯，报价时别漏。",
+      "issue": 15,
+      "date": "2026-09-18",
+      "theme": "剪力验算过审 → 夹层方案增面积 → 脚手架搭设交底 → 客户询盘报价 → 接待前内部简报",
+      "gloss": "夹层；夹层楼面",
+      "category": "建筑设计",
+      "audio": "audio/mezzanine.mp3"
+    },
+    {
+      "word": "scaffolding",
+      "phonetic": "/ˈskæfəldɪŋ/",
+      "meaning": "施工、安装、检修时搭设的临时作业平台与支撑体系，安装（erection 第 6 期）、墙面板施工、焊接（weld 第 7 期）、涂装防腐全靠它；海外项目报价里 scaffolding 常单独列项，安措费不便宜。安全交底高频：erect scaffolding 搭脚手架、dismantle / strike scaffolding 拆脚手架。",
+      "collocation": "scaffolding system 脚手架体系；erect / put up scaffolding 搭设脚手架；dismantle / strike scaffolding 拆除脚手架；scaffolding tube 脚手架钢管；suspended scaffolding 吊篮/悬挂脚手架；scaffold 脚手架（单数）；working at height 高处作业",
+      "examples": [
+        {
+          "en": "The scaffolding will be erected next Monday so that the cladding work can start on time.",
+          "zh": "脚手架将于下周一搭设完成，这样墙面板施工就能按时开始。",
+          "audio": "audio/ex/scaffolding-1.mp3"
+        }
+      ],
+      "mnemonic": "scaffold 原指\"台子、断头台\"，-ing 变成体系——给工人搭的\"临时台子\"。词根联想：platform（平台）是永久的，scaffolding 是临时的。工地三件事常连着说：crane 吊车（第 12 期）起吊 → scaffolding 脚手架上人作业 → handover 移交（第 12 期）前全部拆完。客户问工期时可以答：Cladding starts once the scaffolding is up.（脚手架一搭好，墙面板就进场。）",
+      "issue": 15,
+      "date": "2026-09-18",
+      "theme": "剪力验算过审 → 夹层方案增面积 → 脚手架搭设交底 → 客户询盘报价 → 接待前内部简报",
+      "gloss": "脚手架",
+      "category": "工程施工",
+      "audio": "audio/scaffolding.mp3"
+    },
+    {
+      "word": "inquiry",
+      "phonetic": "/ɪnˈkwaɪəri/",
+      "meaning": "外贸流程的第一棒——客户发来的询问/询价函，英式也拼 enquiry（发音一样）。\"收到询盘\"就是 receive an inquiry，\"回复询盘\"是 reply to an inquiry / follow up on an inquiry（follow-up 第 5 期）。完整链条：inquiry 询盘 → quotation 报价（第 1 期）→ counteroffer 还盘（第 10 期）→ deposit 定金（第 3 期）→ shipment 发货（第 6 期）。",
+      "collocation": "inquiry letter 询价函；receive / get an inquiry 收到询盘；reply to an inquiry 回复询盘；inquiry about prices 询价；make an inquiry 询问；inquiry form 询价表；thank you for your inquiry 感谢您的询价",
+      "examples": [
+        {
+          "en": "We received an inquiry from a Kenyan client for 200 prefabricated housing units yesterday.",
+          "zh": "昨天我们收到一位肯尼亚客户关于 200 套预制房屋的询盘。",
+          "audio": "audio/ex/inquiry-1.mp3"
+        }
+      ],
+      "mnemonic": "inquire（询问 v.）+ -y 名词后缀；谐音\"因快而\"——客户\"因想快\"才来询价。邮件开场白万能句：Thank you for your inquiry dated 18 September regarding our steel warehouse.（感谢您 9 月 18 日关于我司钢结构仓库的询盘。）区分：inquiry 是客户问价，quotation 是我们报价，counteroffer 是客户还价。",
+      "issue": 15,
+      "date": "2026-09-18",
+      "theme": "剪力验算过审 → 夹层方案增面积 → 脚手架搭设交底 → 客户询盘报价 → 接待前内部简报",
+      "gloss": "询价；询盘",
+      "category": "外贸",
+      "audio": "audio/inquiry.mp3"
+    },
+    {
+      "word": "briefing",
+      "phonetic": "/ˈbriːfɪŋ/",
+      "meaning": "把关键信息在短时间内讲清楚的小型会议/文件，是客户接待与项目管理的衔接点——客户到访先开个 briefing（项目简报会），工人进场先做 safety briefing（安全交底），设计师出图前听 design briefing（设计任务简报）。动词 brief sb on sth = 就某事向某人做简要说明。",
+      "collocation": "safety briefing 安全交底；project briefing 项目简报；design brief / briefing 设计任务书交底；brief sb on sth 就某事向某人简要说明；hold / give a briefing 举行简报会；press briefing 新闻发布会；debrief 事后复盘",
+      "examples": [
+        {
+          "en": "Before the site visit, I'll give you a ten-minute briefing on the project scope and schedule.",
+          "zh": "在现场考察之前，我会就项目范围和进度给您做一个十分钟的简报。",
+          "audio": "audio/ex/briefing-1.mp3"
+        }
+      ],
+      "mnemonic": "brief（简短的）+ -ing = \"简短地说一遍\"。一词串全场：客户落地 → reception 接待（第 14 期）→ briefing 简报会 → site visit 现场考察（第 8 期）→ agenda 议程（第 4 期）逐条过。职场金句：Keep it brief.（长话短说。）—— 说完就开 briefing。",
+      "issue": 15,
+      "date": "2026-09-18",
+      "theme": "剪力验算过审 → 夹层方案增面积 → 脚手架搭设交底 → 客户询盘报价 → 接待前内部简报",
+      "gloss": "简报；交底会",
+      "category": "客户接待",
+      "audio": "audio/briefing.mp3"
     }
   ]
 }
