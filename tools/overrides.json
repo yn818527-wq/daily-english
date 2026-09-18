@@ -299,5 +299,25 @@
   "briefing": {
     "gloss": "简报；交底会",
     "category": "客户接待"
+  },
+  "grout": {
+    "gloss": "灌浆；灌浆料",
+    "category": "工程施工"
+  },
+  "canopy": {
+    "gloss": "雨棚；挑棚",
+    "category": "建筑设计"
+  },
+  "moq": {
+    "gloss": "最小起订量",
+    "category": "外贸"
+  },
+  "protocol": {
+    "gloss": "礼宾规程；礼仪",
+    "category": "客户接待"
+  },
+  "reimbursement": {
+    "gloss": "报销；偿付",
+    "category": "职场"
   }
 }

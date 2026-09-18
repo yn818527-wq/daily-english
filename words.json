@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18",
-  "total": 75,
+  "updated": "2026-09-19",
+  "total": 80,
   "words": [
     {
       "word": "truss",
@@ -1601,6 +1601,106 @@
       "gloss": "简报；交底会",
       "category": "客户接待",
       "audio": "audio/briefing.mp3"
+    },
+    {
+      "word": "grout",
+      "phonetic": "/ɡraʊt/",
+      "meaning": "一种流动性好的水泥基砂浆，用来填满柱脚底板与基础（foundation 第 9 期）之间、或地脚螺栓（anchor bolt 第 6 期）孔里的空隙，使荷载均匀传递并防止螺栓锈蚀。钢结构安装里叫二次灌浆（secondary grouting），是 erection 之后、正式受荷之前的关键工序。动词 grout = 灌浆：grout the base plate / grout the anchor bolts。",
+      "collocation": "cementitious grout 水泥基灌浆料；non-shrink grout 无收缩灌浆料；grout the base plate 柱脚底板灌浆；secondary grouting 二次灌浆；grout hole 灌浆孔；grout thickness 灌浆层厚度；epoxy grout 环氧灌浆料",
+      "examples": [
+        {
+          "en": "After the columns are aligned, we will grout the base plates with non-shrink grout.",
+          "zh": "钢柱校正之后，我们会用无收缩灌浆料给柱脚底板灌浆。",
+          "audio": "audio/ex/grout-1.mp3"
+        }
+      ],
+      "mnemonic": "和 grout 长得像的 group（组）、grout（灌浆）——记\"给柱脚'糊'一层\"：grout 读 /ɡraʊt/，与 out 押韵，想象\"把空隙 pour out（灌出去）\"。工地高频句：Make sure the grout is fully compacted under the base plate.（务必保证底板下方灌浆密实。）搭配已学的 anchor bolt + foundation + torque（终拧扭矩）一起记，就是柱脚施工完整三步。",
+      "issue": 16,
+      "date": "2026-09-19",
+      "theme": "柱脚二次灌浆 → 入口雨棚造型 → 谈最小起订量 MOQ → 客户接待礼宾规程 → 差旅报销",
+      "gloss": "灌浆；灌浆料",
+      "category": "工程施工",
+      "audio": "audio/grout.mp3"
+    },
+    {
+      "word": "canopy",
+      "phonetic": "/ˈkænəpi/",
+      "meaning": "从建筑外墙挑出、悬在入口或装卸区上方的轻型遮挡结构，钢结构项目里几乎必配——入口雨棚、加油站罩棚、卸货区防雨棚都叫 canopy。常做成钢结构骨架 + 夹芯板或张拉膜，与 facade（第 5 期立面）、cladding（第 10 期围护板）同一族。它本质上就是\"小小的 cantilever（第 3 期悬臂）\"。",
+      "collocation": "entrance canopy 入口雨棚；canopy roof 棚顶；steel canopy 钢结构雨棚；loading canopy 卸货雨棚；fuel station canopy 加油站罩棚；canopy light 棚下灯具；under the canopy 在棚下",
+      "examples": [
+        {
+          "en": "The entrance canopy will be extended by two meters to keep the loading area dry in the rainy season.",
+          "zh": "入口雨棚会外挑延长两米，让装卸区在雨季也能保持干燥。",
+          "audio": "audio/ex/canopy-1.mp3"
+        }
+      ],
+      "mnemonic": "源自希腊语 kōnōpeion（蚊帐），本义是\"罩在上方的一层\"。谐音\"坎诺批\"——门口\"坎\"上头\"批\"一层顶。记忆画面：canopy 就是建筑的\"帽檐\"。方案汇报常用：We suggest a steel canopy over the main entrance for both shading and rain protection.（我们建议在主入口上方做钢结构雨棚，兼顾遮阳与防雨。）",
+      "issue": 16,
+      "date": "2026-09-19",
+      "theme": "柱脚二次灌浆 → 入口雨棚造型 → 谈最小起订量 MOQ → 客户接待礼宾规程 → 差旅报销",
+      "gloss": "雨棚；挑棚",
+      "category": "建筑设计",
+      "audio": "audio/canopy.mp3"
+    },
+    {
+      "word": "MOQ",
+      "phonetic": "/ˌem əʊ ˈkjuː/",
+      "meaning": "外贸报价里最常被客户追问的一条——供应商愿意接单的最小数量/最小金额。低于 MOQ 要么不接，要么加收小额附加费（small order surcharge）。完整谈判链条：inquiry 询盘（第 15 期）→ quotation 报价（第 1 期）→ MOQ 起订量 → lead time 交货期（第 2 期）→ counteroffer 还盘（第 10 期）→ deposit 定金（第 3 期）。",
+      "collocation": "MOQ / minimum order quantity 最小起订量；What is your MOQ? 你们起订量是多少；MOQ of 100 units 100 台起订；lower the MOQ 降低起订量；meet the MOQ 达到起订量；MOQ requirement 起订量要求；small order surcharge 小单附加费",
+      "examples": [
+        {
+          "en": "Our MOQ is one 40-foot container, but we can mix different models in the same container.",
+          "zh": "我们的最小起订量是一个 40 英尺集装箱，但同一个柜里可以混装不同型号。",
+          "audio": "audio/ex/moq-1.mp3"
+        }
+      ],
+      "mnemonic": "直接念三个字母 M-O-Q，别硬读成单词。记一句话：M = Minimum（最小），O = Order（订单），Q = Quantity（数量）。客户砍价时最实用的一句：If you can meet the MOQ, we can offer a better unit price.（如果能达到起订量，我们可以给更好的单价。）—— 用 MOQ 换价格，是外贸最经典的交换条件。",
+      "issue": 16,
+      "date": "2026-09-19",
+      "theme": "柱脚二次灌浆 → 入口雨棚造型 → 谈最小起订量 MOQ → 客户接待礼宾规程 → 差旅报销",
+      "gloss": "最小起订量",
+      "category": "外贸",
+      "audio": "audio/moq.mp3"
+    },
+    {
+      "word": "protocol",
+      "phonetic": "/ˈprəʊtəkɒl/",
+      "meaning": "正式场合（迎送客户、签约仪式、政府会见）约定俗成的行为规矩与流程安排，也指正式的\"议定书/协议\"。接待海外客户时讲的 protocol 包括：谁去接机（pick-up 第 4 期）、座位怎么排、谁先致辞、名片怎么递、礼品怎么送。用错 protocol 比说错英语更尴尬。",
+      "collocation": "diplomatic protocol 外交礼宾；follow the protocol 遵循礼宾规程；protocol officer 礼宾官；signing protocol 签约议定书；protocol for receiving guests 接待宾客的礼仪规范；breach of protocol 失礼；seat arrangement protocol 座次安排",
+      "examples": [
+        {
+          "en": "According to protocol, our general manager will meet the delegates at the entrance and exchange business cards first.",
+          "zh": "按照礼宾规程，我们总经理会在入口迎接代表团，并先行交换名片。",
+          "audio": "audio/ex/protocol-1.mp3"
+        }
+      ],
+      "mnemonic": "proto-（第一、原始）+ -col（胶水）= 古卷宗的\"第一页扉页\"，引申为\"规矩、规程\"。谐音\"普若套扣\"——接待客户要\"按套路来\"。行业金句：When in doubt, follow the protocol.（拿不准的时候，就按规矩办。）接待三件套：protocol 规矩 → reception 接待（第 14 期）→ hospitality 款待（第 3 期）。中东、非洲客户尤其看重座次与迎接规格，提前跟中方对接人确认 protocol 能省掉很多麻烦。",
+      "issue": 16,
+      "date": "2026-09-19",
+      "theme": "柱脚二次灌浆 → 入口雨棚造型 → 谈最小起订量 MOQ → 客户接待礼宾规程 → 差旅报销",
+      "gloss": "礼宾规程；礼仪",
+      "category": "客户接待",
+      "audio": "audio/protocol.mp3"
+    },
+    {
+      "word": "reimbursement",
+      "phonetic": "/ˌriːɪmˈbɜːsmənt/",
+      "meaning": "先自己垫付、事后拿票据向公司或对方收回款项的行为与流程，是出差、客户接待、样品寄送后绕不开的一环。动词 reimburse（报销给某人）：reimburse sb for sth。相关高频词还有 expense claim / expense report（费用报销单）——expense report 每月都要填，堪称打工人月度必修课。",
+      "collocation": "expense reimbursement 费用报销；travel reimbursement 差旅报销；reimbursement request 报销申请；reimburse sb for sth 就某事向某人报销；submit a reimbursement 提交报销；reimbursement policy 报销制度；out-of-pocket expenses 垫付费用；receipt 收据/发票",
+      "examples": [
+        {
+          "en": "Please keep all the receipts so that I can submit the travel reimbursement by Friday.",
+          "zh": "请把所有票据留好，这样我周五前就能提交差旅报销。",
+          "audio": "audio/ex/reimbursement-1.mp3"
+        }
+      ],
+      "mnemonic": "re-（回）+ im-（进入）+ burse（钱包，同 purse）+ -ment = \"钱回到钱包里\"。拆解：re + im + purse + ment → 把钱再放回你的 purse。职场三连：垫钱 pay out of pocket → 留票据 keep the receipt → 走报销 file a reimbursement。国外客户来华、或我们出差验厂，机票酒店常走这个流程，报销单英文就叫 expense report。",
+      "issue": 16,
+      "date": "2026-09-19",
+      "theme": "柱脚二次灌浆 → 入口雨棚造型 → 谈最小起订量 MOQ → 客户接待礼宾规程 → 差旅报销",
+      "gloss": "报销；偿付",
+      "category": "职场",
+      "audio": "audio/reimbursement.mp3"
     }
   ]
 }
