@@ -319,5 +319,25 @@
   "reimbursement": {
     "gloss": "报销；偿付",
     "category": "职场"
+  },
+  "splice": {
+    "gloss": "拼接；拼接板",
+    "category": "钢结构"
+  },
+  "louver": {
+    "gloss": "百叶；通风百叶",
+    "category": "建筑设计"
+  },
+  "commissioning": {
+    "gloss": "调试；投产试运行",
+    "category": "工程"
+  },
+  "consignee": {
+    "gloss": "收货人",
+    "category": "外贸"
+  },
+  "punctual": {
+    "gloss": "准时的；守时的",
+    "category": "职场"
   }
 }

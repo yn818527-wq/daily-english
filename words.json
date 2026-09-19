@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19",
-  "total": 80,
+  "updated": "2026-09-20",
+  "total": 85,
   "words": [
     {
       "word": "truss",
@@ -1701,6 +1701,106 @@
       "gloss": "报销；偿付",
       "category": "职场",
       "audio": "audio/reimbursement.mp3"
+    },
+    {
+      "word": "splice",
+      "phonetic": "/splaɪs/",
+      "meaning": "把两根钢构件（梁、柱、钢筋）在长度方向接成一根的连接做法。跨度太大、构件太长没法整根运输时，就分段发运、到现场 splice（拼接）。常见形式：bolted splice 螺栓拼接（用 splice plate 拼接板 + 高强螺栓）、welded splice 焊接拼接。注意区分：splice 是\"同方向接长\"，而 connection/joint 是\"节点相交连接\"（如 gusset 第 4 期节点板）。",
+      "collocation": "splice plate 拼接板；bolted splice 螺栓拼接；welded splice 焊接拼接；field splice 现场拼接；splice joint 拼接接头；beam splice 钢梁拼接；splice the girder 拼接主梁；splice location 拼接位置",
+      "examples": [
+        {
+          "en": "The girder is too long to ship in one piece, so we will use a bolted splice with splice plates at mid-span.",
+          "zh": "这根主梁太长没法整根发运，所以我们在跨中采用拼接板的螺栓拼接。",
+          "audio": "audio/ex/splice-1.mp3"
+        }
+      ],
+      "mnemonic": "和 slice（切片）同源的\"接起来\"意象——splice 读作 /splaɪs/，与 nice、price 押韵。记画面：把两截钢梁用板子\"夹三明治\"。运输决定拼接：海运集装箱限长，所以海外项目 90% 的长梁都要 splice。高频句：Where is the splice location?（拼接点设在哪里？）——设跨中 1/3 处（弯矩小）是常识，答出来显得专业。",
+      "issue": 17,
+      "date": "2026-09-20",
+      "theme": "钢梁现场拼接 → 墙身百叶通风 → 竣工调试投运 → 提单收货人确认 → 会面守时接待",
+      "gloss": "拼接；拼接板",
+      "category": "钢结构",
+      "audio": "audio/splice.mp3"
+    },
+    {
+      "word": "louver",
+      "phonetic": "/ˈluːvə/",
+      "meaning": "由一排倾斜叶片组成的开口，既能通风又能挡雨、遮阳、防窥视。钢结构厂房山墙、设备房外墙、发电机房、空调机房几乎必用；也指天花送风口（air louver）。和已学的 ventilation（第 12 期通风）、cladding（第 10 期围护板）、insulation（第 11 期保温）是同一套围护系统语言。",
+      "collocation": "louver / louvre 百叶；fixed louver 固定百叶；adjustable louver 可调百叶；louver panel 百叶板；louver door 百叶门；exhaust louver 排风百叶；rain-proof louver 防雨百叶；louver blade 百叶叶片；louvered screen 百叶格栅",
+      "examples": [
+        {
+          "en": "We will add rain-proof louvers on both gable walls to improve natural ventilation in the workshop.",
+          "zh": "我们会在两侧山墙加装防雨百叶，以改善厂房的自然通风。",
+          "audio": "audio/ex/louver-1.mp3"
+        }
+      ],
+      "mnemonic": "谐音\"卢屋\"——卢浮宫（Louvre）那座玻璃金字塔旁边的老建筑，\"一片一片斜着排\"。记关键：叶片斜着向下外倾 = 通风不淋雨。方案沟通常问：Do you need fixed or adjustable louvers?（要固定百叶还是可调百叶？）中东、非洲项目高温，百叶 + 屋脊通风器（ridge ventilator）是最经济的降温组合。",
+      "issue": 17,
+      "date": "2026-09-20",
+      "theme": "钢梁现场拼接 → 墙身百叶通风 → 竣工调试投运 → 提单收货人确认 → 会面守时接待",
+      "gloss": "百叶；通风百叶",
+      "category": "建筑设计",
+      "audio": "audio/louver.mp3"
+    },
+    {
+      "word": "commissioning",
+      "phonetic": "/kəˈmɪʃənɪŋ/",
+      "meaning": "机电、设备、系统安装完成后，通电通水、逐项测试直到能正式交付使用的全过程。钢结构厂房里指行车、通风、消防、照明、门系统等全部试车。它和 handover（第 12 期移交）是前后脚：commissioning 完成并出具报告 → 才签字 handover。动词 commission（调试/投运），人作主语时也有\"任命、委托\"之意（commission an artist 委托艺术家创作）。",
+      "collocation": "commissioning 调试/试运行；pre-commissioning 调试前准备；commissioning plan 调试计划；commissioning report 调试报告；commissioning test 调试试验；site commissioning 现场调试；commission the system 系统投运；testing and commissioning 测试与调试；commissioning engineer 调试工程师",
+      "examples": [
+        {
+          "en": "All the cranes and ventilation systems must pass commissioning before we hand over the workshop to the client.",
+          "zh": "所有行车和通风系统必须通过调试，我们才能把厂房移交给客户。",
+          "audio": "audio/ex/commissioning-1.mp3"
+        }
+      ],
+      "mnemonic": "commission 本义\"委任、授权\"→ 把设备\"授权上岗\"。拆：com-（共同）+ mission（任务）= 一起完成任务。记链条：install 安装（erection 第 6 期）→ test 测试 → commission 调试投运 → handover 移交。合同里常见 T&C（Testing and Commissioning）缩写，付款节点往往卡在 commissioning certificate 出具时。",
+      "issue": 17,
+      "date": "2026-09-20",
+      "theme": "钢梁现场拼接 → 墙身百叶通风 → 竣工调试投运 → 提单收货人确认 → 会面守时接待",
+      "gloss": "调试；投产试运行",
+      "category": "工程",
+      "audio": "audio/commissioning.mp3"
+    },
+    {
+      "word": "consignee",
+      "phonetic": "/ˌkɒnsaɪˈniː/",
+      "meaning": "海运提单、发票、装箱单上写明的目的港收货方，通常是买方（或其指定代理）。和 shipper / consignor（发货人）是一对。外贸单据里的坑：consignee 写错一个字母，目的港就提不了货，改单费（amendment fee）常由出错方承担。相关单据词已学：bill of lading 提单（第 9 期）、packing list 装箱单（第 12 期）、customs clearance 清关（第 7 期）。",
+      "collocation": "consignee 收货人；consignee name / address 收货人名称/地址；notify party 通知人；shipper / consignor 发货人；to order of consignee 凭收货人指示；consignee box 收货人栏；consignment 一批托售/发出的货物；consignee information 收货人信息",
+      "examples": [
+        {
+          "en": "Please double-check the consignee name on the bill of lading, because a spelling mistake will delay customs clearance.",
+          "zh": "请务必核对提单上的收货人名称，因为拼写错误会导致清关延误。",
+          "audio": "audio/ex/consignee-1.mp3"
+        }
+      ],
+      "mnemonic": "-ee 在英语里表示\"被……的人\"（employee 被雇用的人、trainee 受训者），所以 consignee = 被托运给的人 = 收货人；consignor / shipper = 发货的人。三组对比一次记：employee 雇员 / employer 雇主；trainee 学员 / trainer 教练；consignee 收货人 / consignor 发货人。寄单前必发的一句：Please confirm the consignee details before we issue the bill of lading.（出提单前请确认收货人资料。）",
+      "issue": 17,
+      "date": "2026-09-20",
+      "theme": "钢梁现场拼接 → 墙身百叶通风 → 竣工调试投运 → 提单收货人确认 → 会面守时接待",
+      "gloss": "收货人",
+      "category": "外贸",
+      "audio": "audio/consignee.mp3"
+    },
+    {
+      "word": "punctual",
+      "phonetic": "/ˈpʌŋktʃuəl/",
+      "meaning": "按约定时间到达或完成，不早不晚。客户接待与职场里最基础也最被看重的品质——接机（pick-up 第 4 期）、会议、验厂（site visit 第 8 期）、宴请（banquet 第 9 期）全都靠它。名词 punctuality（守时）。反义：late / delayed；近义：on time（口语更常用）、on schedule（按计划）。",
+      "collocation": "be punctual 守时；punctual arrival 准时到达；punctuality 守时（名词）；as punctual as clockwork 像钟表一样准；punctual payment 按期付款；punctual delivery 按期交付；Please be punctual. 请准时",
+      "examples": [
+        {
+          "en": "Our driver will be at the airport two hours early, so please don't worry about being punctual for the flight.",
+          "zh": "我们的司机会提前两小时到机场，所以不用担心赶不上飞机。",
+          "audio": "audio/ex/punctual-1.mp3"
+        }
+      ],
+      "mnemonic": "词根 punct- = 点（point / puncture 刺穿 / punctuation 标点符号），punctual = 正踩在那个\"点\"上。记一句对比：on time 是\"按时到了\"，in time 是\"及时赶上（差一点就晚）\"，别混。接待客户时最好用的一句自证：We are always punctual for site visits and meetings.（我们考察和会面一向守时。）——德国、日本客户对此极度敏感，非洲、南美客户相对宽松，但都不能迟到大半天。",
+      "issue": 17,
+      "date": "2026-09-20",
+      "theme": "钢梁现场拼接 → 墙身百叶通风 → 竣工调试投运 → 提单收货人确认 → 会面守时接待",
+      "gloss": "准时的；守时的",
+      "category": "职场",
+      "audio": "audio/punctual.mp3"
     }
   ]
 }
