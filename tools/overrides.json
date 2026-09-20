@@ -339,5 +339,25 @@
   "punctual": {
     "gloss": "准时的；守时的",
     "category": "职场"
+  },
+  "camber": {
+    "gloss": "起拱；预拱度",
+    "category": "钢结构"
+  },
+  "circulation": {
+    "gloss": "流线；动线；流通",
+    "category": "建筑设计"
+  },
+  "force majeure": {
+    "gloss": "不可抗力",
+    "category": "外贸"
+  },
+  "rapport": {
+    "gloss": "默契；融洽关系",
+    "category": "客户接待"
+  },
+  "procrastinate": {
+    "gloss": "拖延；耽搁",
+    "category": "职场生活"
   }
 }

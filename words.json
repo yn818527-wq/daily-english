@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20",
-  "total": 85,
+  "updated": "2026-09-21",
+  "total": 90,
   "words": [
     {
       "word": "truss",
@@ -1801,6 +1801,106 @@
       "gloss": "准时的；守时的",
       "category": "职场",
       "audio": "audio/punctual.mp3"
+    },
+    {
+      "word": "camber",
+      "phonetic": "/ˈkæmbər/",
+      "meaning": "钢梁在工厂加工时刻意做向上的微微弯曲，用来抵消受荷后向下的 deflection（第 4 期挠度）。30 米跨度的主梁满载时可能下挠 60–80 mm，如果预先 camber 50 mm，视觉上就基本是平的，客户也不会觉得\"梁弯了\"。常见说法：natural camber（轧制自然拱）、pre-camber / pre-cambered beam（预起拱梁）。注意别和 camber 在道路工程里的\"路拱\"混淆，也别拼成 camBER 重音错位——重音在第一个音节。",
+      "collocation": "camber 起拱/预拱度；pre-cambered beam 预起拱梁；camber the girder 给主梁起拱；camber value 起拱值；natural mill camber 轧制自然拱；camber diagram 起拱图；zero camber 不起拱；camber tolerance 起拱允许偏差",
+      "examples": [
+        {
+          "en": "We will pre-camber the 30-metre girder by 50 mm so that the deflection under full load will be almost invisible.",
+          "zh": "我们会给这根 30 米主梁预起拱 50 毫米，这样满载时的下挠几乎看不出来。",
+          "audio": "audio/ex/camber-1.mp3"
+        }
+      ],
+      "mnemonic": "camber 和 camera 前半截一样，想象\"给钢梁拍证件照时，摄影师说：抬头挺胸——微微上扬一点\"。技术要点一句话：camber 抵消 deflection。客户问 Why is the beam curved?（梁怎么是弯的？）你就答 It's pre-cambered.（这是预起拱。）——这句话一出口，对方就知道你懂行，是海外项目现场最高频的\"专业感时刻\"之一。",
+      "issue": 18,
+      "date": "2026-09-21",
+      "theme": "大跨钢梁预设起拱 → 建筑动线与中庭方案 → 合同不可抗力条款 → 客户关系建立默契 → 告别拖延按期交付",
+      "gloss": "起拱；预拱度",
+      "category": "钢结构",
+      "audio": "audio/camber.mp3"
+    },
+    {
+      "word": "circulation",
+      "phonetic": "/ˌsɜːrkjəˈleɪʃən/",
+      "meaning": "人在建筑内部走动、车在场区内通行的组织路径，是方案设计的核心语言之一。分为 pedestrian circulation（人行流线）、vehicle circulation（车行流线）、vertical circulation（竖向交通——楼梯 staircase 第 7 期、电梯、坡道）。图纸说明和方案汇报里几乎必出现，和已学的 layout（第 6 期平面布置）、elevation（第 2 期立面）、section（第 11 期剖面）、rendering（第 8 期效果图）是一套汇报词汇。它还有\"血液循环\"\"货币流通\"\"报纸发行量\"等生活义，词根 circ- = 圈（circle 圆、circuit 回路）。",
+      "collocation": "circulation 流线/动线；circulation route 流线路径；pedestrian circulation 人行流线；vehicle circulation 车行流线；vertical circulation 竖向交通；circulation space 交通空间；circulation core 交通核；circulation diagram 流线分析图；good / poor circulation 流线顺畅/不畅",
+      "examples": [
+        {
+          "en": "The circulation diagram shows that workers can reach the packing area without crossing the truck route.",
+          "zh": "流线分析图显示，工人可以不穿越货车路线就到达包装区。",
+          "audio": "audio/ex/circulation-1.mp3"
+        }
+      ],
+      "mnemonic": "circ-（圆、环）+ -ation = 绕着走一圈 → 人和车\"怎么绕\"就是流线。做方案汇报时这句万能开场：This diagram explains the circulation.（这张图讲流线。）顺手记住黄金搭配：layout 讲\"摆在哪\"，circulation 讲\"怎么走\"，两个词一起说，方案逻辑立刻立体。厂房方案里客户最在意的往往是\"人车分流\"——separate pedestrian and vehicle circulation。",
+      "issue": 18,
+      "date": "2026-09-21",
+      "theme": "大跨钢梁预设起拱 → 建筑动线与中庭方案 → 合同不可抗力条款 → 客户关系建立默契 → 告别拖延按期交付",
+      "gloss": "流线；动线；流通",
+      "category": "建筑设计",
+      "audio": "audio/circulation.mp3"
+    },
+    {
+      "word": "force majeure",
+      "phonetic": "/ˌfɔːrs mɑːˈʒɜːr/",
+      "meaning": "合同法里的免责条款，指不能预见、不能避免、不能克服的客观情况——地震、洪水、战争、罢工、疫情、港口封锁等。外贸合同几乎必备 FM clause（不可抗力条款）。关键实务点：不可抗力 ≠ 随便延期。通常要求受影响方在 15 天内书面通知，并提供官方证明（如贸促会出具的 force majeure certificate），否则照样要赔 delay damages（延期违约金，对应 deadline 第 12 期）。",
+      "collocation": "force majeure 不可抗力；force majeure clause 不可抗力条款；force majeure event 不可抗力事件；force majeure certificate 不可抗力证明；invoke force majeure 援引不可抗力；act of God 天灾（近义，英美法常用）；beyond our reasonable control 超出合理控制范围",
+      "examples": [
+        {
+          "en": "The contract allows us to extend the delivery time by 30 days in case of a force majeure event such as a port strike.",
+          "zh": "合同允许我们在发生港口罢工等不可抗力事件时，把交货期延长 30 天。",
+          "audio": "audio/ex/force-majeure-1.mp3"
+        }
+      ],
+      "mnemonic": "这是个法语借词，force = 力量，majeure = 更大的（major），合起来\"更大的力量\"→ 人力不可抗。三个\"不\"是判断标准： unforeseeable（不可预见）+ unavoidable（不能避免）+ insurmountable（不能克服）。实战金句：We will issue the force majeure certificate within 15 days.（我们会在 15 天内出具不可抗力证明。）——遇到物流瘫痪、红海绕航、台风封港，这句话能救一单。",
+      "issue": 18,
+      "date": "2026-09-21",
+      "theme": "大跨钢梁预设起拱 → 建筑动线与中庭方案 → 合同不可抗力条款 → 客户关系建立默契 → 告别拖延按期交付",
+      "gloss": "不可抗力",
+      "category": "外贸",
+      "audio": "audio/force-majeure.mp3"
+    },
+    {
+      "word": "rapport",
+      "phonetic": "/ræˈpɔːr/",
+      "meaning": "人与人之间那种\"聊得来、互相信任\"的良好关系，比 relationship 更强调\"快速建立起来的亲近感\"。客户接待、商务谈判（negotiation 第 11 期）、跨部门沟通里都极其常用。动词搭配是 build / establish / develop rapport with someone。注意发音：/ræˈpɔːr/，重音在第二音节，结尾的 t 不发音（法语痕迹），别读成\"report\"。",
+      "collocation": "build rapport 建立默契；establish rapport with a client 与客户建立融洽关系；good rapport 关系融洽；rapport building 破冰/关系建立；personal rapport 私人交情；have a good rapport with the team 和团队很投契",
+      "examples": [
+        {
+          "en": "We spent the first ten minutes of the meeting building rapport before we started talking about the quotation.",
+          "zh": "会议开始前十分钟我们先聊了些轻松话题建立默契，之后才谈报价。",
+          "audio": "audio/ex/rapport-1.mp3"
+        }
+      ],
+      "mnemonic": "又一个法语词，ra-（回）+ port（带）= \"把对方带回到你这边\"。谐音记：\"rap-port\"——像说唱（rap）一样你来我往、对得上拍子，就是 rapport。跨文化实战：中东、南美客户必须先聊家常再谈生意，跳过 rapport 直接报价往往谈崩；德国、日本客户则可以少寒暄、多数据，但同样认可\"靠谱的默契\"。万能句：Let's build some rapport first.（我们先熟络一下。）",
+      "issue": 18,
+      "date": "2026-09-21",
+      "theme": "大跨钢梁预设起拱 → 建筑动线与中庭方案 → 合同不可抗力条款 → 客户关系建立默契 → 告别拖延按期交付",
+      "gloss": "默契；融洽关系",
+      "category": "客户接待",
+      "audio": "audio/rapport.mp3"
+    },
+    {
+      "word": "procrastinate",
+      "phonetic": "/prəˈkræstɪneɪt/",
+      "meaning": "明知该做却一再往后推，是职场与自我管理里的高频词。名词 procrastination（拖延症），人叫 procrastinator。它和 delay（客观延迟）、postpone（主动改期）不同：procrastinate 特指\"自己拖自己\"，带轻微贬义。对应已学的 deadline（第 12 期截止日期）、workload（第 3 期工作量）、overtime（第 6 期加班）——拖延的直接后果就是加班。",
+      "collocation": "procrastinate 拖延；stop procrastinating 别再拖了；procrastinate on a task 在任务上拖延；procrastination 拖延（名词）；chronic procrastinator 长期拖延的人；procrastinate until the deadline 拖到截止日",
+      "examples": [
+        {
+          "en": "Don't procrastinate on the shop drawings, or we will have to work overtime again this weekend.",
+          "zh": "别在加工图上拖延了，不然这个周末我们又得加班。",
+          "audio": "audio/ex/procrastinate-1.mp3"
+        }
+      ],
+      "mnemonic": "词根拆解超好记：pro-（向前）+ cras（拉丁语\"明天\"）+ -tinate → \"推到明天再说\" = 拖延。西班牙语里\"明天\"正是 mañana，同一个拖延意象。破解法（两分钟法则）：If it takes less than two minutes, do it now.（两分钟能搞定的，现在就做。）每天背这 5 个词本身就是在对抗 procrastinate——今天你已经赢了。",
+      "issue": 18,
+      "date": "2026-09-21",
+      "theme": "大跨钢梁预设起拱 → 建筑动线与中庭方案 → 合同不可抗力条款 → 客户关系建立默契 → 告别拖延按期交付",
+      "gloss": "拖延；耽搁",
+      "category": "职场生活",
+      "audio": "audio/procrastinate.mp3"
     }
   ]
 }
