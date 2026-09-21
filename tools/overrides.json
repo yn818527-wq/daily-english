@@ -359,5 +359,25 @@
   "procrastinate": {
     "gloss": "拖延；耽搁",
     "category": "职场生活"
+  },
+  "shim": {
+    "gloss": "垫片；垫铁",
+    "category": "工程施工"
+  },
+  "partition": {
+    "gloss": "隔断；隔墙",
+    "category": "建筑设计"
+  },
+  "remittance": {
+    "gloss": "汇款；汇付",
+    "category": "外贸"
+  },
+  "liaison": {
+    "gloss": "联络；联络人",
+    "category": "客户接待"
+  },
+  "burnout": {
+    "gloss": "职业倦怠；耗尽",
+    "category": "职场生活"
   }
 }

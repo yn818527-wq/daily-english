@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21",
-  "total": 90,
+  "updated": "2026-09-22",
+  "total": 95,
   "words": [
     {
       "word": "truss",
@@ -1901,6 +1901,106 @@
       "gloss": "拖延；耽搁",
       "category": "职场生活",
       "audio": "audio/procrastinate.mp3"
+    },
+    {
+      "word": "shim",
+      "phonetic": "/ʃɪm/",
+      "meaning": "钢柱安装时塞在柱底板（base plate）与混凝土基础（foundation 第 9 期）之间的薄钢片，用来调整标高和垂直度——因为基础顶面不可能浇得绝对平整，全靠 shim 找平。标准是成组使用（shim pack 垫铁组），调平合格后做二次灌浆（grout 第 16 期），把垫铁永久封在里面。也可作动词：shim it up（把它垫起来）。它和 washer（垫圈）、gasket（密封垫片）不是一个东西，别混用。",
+      "collocation": "shim 垫片/垫铁；shim plate 垫板；shim pack 垫铁组；steel shim 钢垫片；leveling shim 调平垫铁；shim up the column 把柱子垫起来；packing shim 填隙片；shim thickness 垫片厚度；stainless shim 不锈钢垫片",
+      "examples": [
+        {
+          "en": "The erection crew used a 6 mm shim pack to level the column base plate before final grouting.",
+          "zh": "安装班组在最终灌浆前，用 6 毫米的垫铁组把柱底板调平。",
+          "audio": "audio/ex/shim-1.mp3"
+        }
+      ],
+      "mnemonic": "shim 只有三个字母，却\"短小精悍\"——像它的实物一样，薄薄一片却能扛起整根柱子。画面记忆：柱子站不稳 → 塞一片 → 再塞一片 → 水平尺气泡居中 → 灌浆封死。现场口语：Add one more shim.（再加一片垫铁。）这个词在 erection（第 6 期安装）、column（第 11 期柱）、grout（第 16 期灌浆）的现场对话里几乎天天出现，三个词串起来就是完整的\"钢柱安装四步曲\"。",
+      "issue": 19,
+      "date": "2026-09-22",
+      "theme": "柱底垫铁调平找正 → 室内隔断与空间划分 → 客户 T/T 汇款到账 → 指定项目联络人对接 → 赶图旺季警惕职业倦怠",
+      "gloss": "垫片；垫铁",
+      "category": "工程施工",
+      "audio": "audio/shim.mp3"
+    },
+    {
+      "word": "partition",
+      "phonetic": "/pɑːrˈtɪʃn/",
+      "meaning": "把一个大空间分成若干小空间的非承重墙体，是建筑设计和室内改造的核心词。轻钢龙骨石膏板隔断叫 drywall partition / stud partition，可移动的叫 movable / demountable partition，玻璃的叫 glass partition。它和已学的 layout（第 6 期平面布置）、mezzanine（第 14 期夹层）、insulation（第 11 期保温）是一套空间词汇。动词用法：partition off a corner（隔出一个角落）；也常见于计算机\"磁盘分区\"，一词多义很好用。",
+      "collocation": "partition 隔断/隔墙；glass partition 玻璃隔断；movable partition 活动隔断；partition wall 隔墙；stud partition 轻钢龙骨隔墙；fire-rated partition 防火隔墙；partition layout 隔断布置；partition off 隔开；toilet partition 卫生间隔断",
+      "examples": [
+        {
+          "en": "We can use demountable glass partitions so the client can change the office layout without any structural work.",
+          "zh": "我们可以采用可拆装的玻璃隔断，这样客户不用做结构改动就能调整办公室布局。",
+          "audio": "audio/ex/partition-1.mp3"
+        }
+      ],
+      "mnemonic": "part（部分）+ -ition（名词后缀）= \"分成几部分\"的东西 → 隔断。集装箱房和模块化房屋报价里，客户最爱问的加价项之一就是 interior partition（内隔墙）——记住这句话：Partitions are non-load-bearing.（隔断是非承重的。）一秒区分 partition 和 shear wall（剪力墙），专业度立刻拉满。",
+      "issue": 19,
+      "date": "2026-09-22",
+      "theme": "柱底垫铁调平找正 → 室内隔断与空间划分 → 客户 T/T 汇款到账 → 指定项目联络人对接 → 赶图旺季警惕职业倦怠",
+      "gloss": "隔断；隔墙",
+      "category": "建筑设计",
+      "audio": "audio/partition.mp3"
+    },
+    {
+      "word": "remittance",
+      "phonetic": "/rɪˈmɪtns/",
+      "meaning": "外贸付款方式 T/T（Telegraphic Transfer 电汇）里的正式说法，指买方把货款汇给卖方这个动作或这笔钱。常见流程：30% deposit（第 3 期定金）by T/T after contract signing，70% balance before shipment（第 6 期发货前付余款）。实务要点：务必让客户付款后发 remittance advice / bank slip（汇款水单），否则银行到账前你无法确认；跨境汇款通常 1–3 个工作日到账，遇到中转行还要扣手续费（对应已学的 letter of credit 第 8 期信用证、proforma invoice 第 4 期形式发票）。",
+      "collocation": "remittance 汇款；remittance advice 汇款通知/水单；T/T remittance 电汇；send a remittance 汇款；outward / inward remittance 汇出/汇入款；remittance bank 汇款行；remit payment 汇款付款；balance remittance 尾款汇款；remittance fee 汇款手续费",
+      "examples": [
+        {
+          "en": "Please send us the remittance advice once you have transferred the deposit, so we can arrange production immediately.",
+          "zh": "您汇出定金后请把汇款水单发给我们，我们好立刻安排生产。",
+          "audio": "audio/ex/remittance-1.mp3"
+        }
+      ],
+      "mnemonic": "re-（回、向后）+ mit（送、放，同根词 submit 提交、permit 许可、transmit 传送）+ -ance = \"把钱送过去\" → 汇款。一串同根词一次记住：remit（汇款）、submit（提交图纸）、transmit（传送文件）、permit（许可）。外贸金句：We will start fabrication upon receipt of your remittance.（收到贵司汇款后即开始加工。）——这句话在催款邮件里既礼貌又专业。",
+      "issue": 19,
+      "date": "2026-09-22",
+      "theme": "柱底垫铁调平找正 → 室内隔断与空间划分 → 客户 T/T 汇款到账 → 指定项目联络人对接 → 赶图旺季警惕职业倦怠",
+      "gloss": "汇款；汇付",
+      "category": "外贸",
+      "audio": "audio/remittance.mp3"
+    },
+    {
+      "word": "liaison",
+      "phonetic": "/liˈeɪzɑːn/",
+      "meaning": "在两方之间负责沟通协调的人或这种关系，是外贸和项目管理里的\"桥梁\"岗位。典型说法：I'll be your liaison for this project（我是这个项目的对接人）；act as liaison between the design team and the client（在设计团队与客户之间做协调）。它比 contact person 更正式，强调\"持续双向沟通\"而非\"给个号码\"。注意发音 /liˈeɪzɑːn/，来自法语，结尾 n 是鼻音、t 不发音，别读成\"来森\"。和已学的 rapport（第 18 期默契）、follow-up（第 5 期跟进）、briefing（第 15 期简报）配套使用。",
+      "collocation": "liaison 联络/联络人；act as liaison 担任联络人；liaison officer 联络官/对接专员；project liaison 项目联络人；liaise with someone 与某人联络（动词）；close liaison 密切沟通；liaison between A and B 甲乙双方的联络；sales liaison 销售对接",
+      "examples": [
+        {
+          "en": "Our project engineer will act as the liaison between your site team and our drawing office during the whole erection period.",
+          "zh": "在整个安装期间，我们的项目工程师将担任贵方现场团队与我方绘图室之间的联络人。",
+          "audio": "audio/ex/liaison-1.mp3"
+        }
+      ],
+      "mnemonic": "法语借词，原意\"连接、结合\"，和 ligament（韧带）、liaise（联络）同根——韧带把骨头连起来，liaison 把两方连起来。客户来访时万能一句：I'll be your liaison — just call me any time.（我是您的对接人，随时找我。）比 \"I'm your contact\" 更显专业和担当，尤其在中东、非洲项目里，客户最看重\"有事能找到人\"。",
+      "issue": 19,
+      "date": "2026-09-22",
+      "theme": "柱底垫铁调平找正 → 室内隔断与空间划分 → 客户 T/T 汇款到账 → 指定项目联络人对接 → 赶图旺季警惕职业倦怠",
+      "gloss": "联络；联络人",
+      "category": "客户接待",
+      "audio": "audio/liaison.mp3"
+    },
+    {
+      "word": "burnout",
+      "phonetic": "/ˈbɜːrnaʊt/",
+      "meaning": "长期高强度工作导致的身心耗竭状态——不是普通的累（tired），而是\"情绪耗尽 + 效率崩塌 + 对工作失去意义感\"三合一。世界卫生组织已将其列为\"职业现象\"。常与已经学过的 overtime（第 6 期加班）、deadline（第 12 期截止日期）、workload（第 3 期工作量）、stress（压力）连用。动词短语：burn out（累垮）；形容词 burnt-out / burned-out（精疲力竭的）。它也指设备\"烧坏\"，比如 motor burnout（电机烧毁），工程场景同样用得上。",
+      "collocation": "burnout 职业倦怠；suffer from burnout 患上职业倦怠；avoid burnout 避免倦怠；burnout prevention 倦怠预防；on the verge of burnout 濒临倦怠；burnt-out employee 倦怠的员工；combating burnout 对抗倦怠；take a break to prevent burnout 休息一下以防倦怠",
+      "examples": [
+        {
+          "en": "After three months of overtime on the overseas project, he was on the verge of burnout and had to take a short break.",
+          "zh": "在这个海外项目上加班三个月后，他濒临职业倦怠，不得不短暂休息一下。",
+          "audio": "audio/ex/burnout-1.mp3"
+        }
+      ],
+      "mnemonic": "burn（燃烧）+ out（尽）= 烧光了 → 像一根蜡烛两头烧，油尽灯枯。区分三个词：tired（累了，睡一觉就好）、stressed（压力大，但还能扛）、burnout（烧干了，需要系统性调整）。职场自救三件套：set boundaries（设边界）、delegate（第 14 期授权分派）、take real time off（真正休假）。今天背完这 5 个词，也算给自己按下一次小小的 reset。",
+      "issue": 19,
+      "date": "2026-09-22",
+      "theme": "柱底垫铁调平找正 → 室内隔断与空间划分 → 客户 T/T 汇款到账 → 指定项目联络人对接 → 赶图旺季警惕职业倦怠",
+      "gloss": "职业倦怠；耗尽",
+      "category": "职场生活",
+      "audio": "audio/burnout.mp3"
     }
   ]
 }
