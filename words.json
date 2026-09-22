@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22",
-  "total": 95,
+  "updated": "2026-09-23",
+  "total": 100,
   "words": [
     {
       "word": "truss",
@@ -2001,6 +2001,106 @@
       "gloss": "职业倦怠；耗尽",
       "category": "职场生活",
       "audio": "audio/burnout.mp3"
+    },
+    {
+      "word": "parapet",
+      "phonetic": "/ˈpærəpɪt/",
+      "meaning": "屋面、阳台、桥梁边缘向上翻起的那道矮墙，作用是防护、挡水和立面收边。钢结构厂房里常见的是屋面四周 600–1200 mm 高的 parapet，一般由 cladding（第 10 期围护板）上翻或砌块加混凝土压顶（coping）构成。它和已学的 canopy（第 16 期雨棚）、cladding、drainage（第 14 期排水）是同一套\"屋面节点\"词汇——女儿墙内侧必须做好防水收头和排水口，否则雨水倒灌进板缝。建筑史里 parapet 原指城墙上的防护矮墙，词源就是\"护胸\"。",
+      "collocation": "parapet 女儿墙/护墙；parapet wall 女儿墙；parapet height 女儿墙高度；parapet flashing 女儿墙泛水；parapet coping 女儿墙压顶；roof parapet 屋面女儿墙；parapet gutter 女儿墙天沟；parapet panel 女儿墙板",
+      "examples": [
+        {
+          "en": "The roof parapet should be at least 1100 mm high to meet the local safety code for rooftop maintenance access.",
+          "zh": "为满足当地上屋面检修的安全规范，女儿墙高度应不小于 1100 毫米。",
+          "audio": "audio/ex/parapet-1.mp3"
+        }
+      ],
+      "mnemonic": "para-（防护，同 parachute 降落伞、parasol 太阳伞）+ pet（= chest 胸，同 pectoral 胸部的）= \"齐胸高的防护墙\" → 女儿墙。画面记忆：站在屋面上，前面那道刚好到胸口、让你不至于掉下去的矮墙。现场高频句：Parapet flashing is missing here.（这里女儿墙泛水没做。）——海外验厂时业主最爱挑这种收边细节，说中它，专业形象立刻建立。",
+      "issue": 20,
+      "date": "2026-09-23",
+      "theme": "屋面临边女儿墙收边 → 板缝打胶防水密封 → 中庭采光空间汇报 → 合同争议仲裁条款 → 项目受挫后快速恢复的韧性",
+      "gloss": "女儿墙；护墙",
+      "category": "建筑设计",
+      "audio": "audio/parapet.mp3"
+    },
+    {
+      "word": "sealant",
+      "phonetic": "/ˈsiːlənt/",
+      "meaning": "用于封堵板缝、接缝、螺栓孔、窗框周边的材料，钢结构建筑里主要指硅酮（silicone）、聚氨酯（polyurethane）类密封胶，作用是防水、防气渗、允许一定的位移变形。它是 cladding（围护板）、skylight（第 13 期天窗）、curtain wall 幕墙系统的\"最后一道防线\"。动词 seal（密封）+ -ant（表示\"剂、物\"的后缀）。注意区分三个容易混的词：sealant 密封胶（软的、打胶枪打的）、gasket 密封垫（成品垫圈）、grout（第 16 期灌浆料，硬的、浇筑的）。",
+      "collocation": "sealant 密封胶；silicone sealant 硅酮密封胶；apply sealant 打密封胶；sealant joint 密封胶缝；weatherproof sealant 耐候密封胶；sealant gun 打胶枪；polyurethane sealant 聚氨酯密封胶；sealant failure 密封胶失效",
+      "examples": [
+        {
+          "en": "Please apply a weatherproof silicone sealant along all roof panel laps to prevent water ingress during the rainy season.",
+          "zh": "请在所有屋面板搭接处打一道耐候硅酮密封胶，防止雨季渗水。",
+          "audio": "audio/ex/sealant-1.mp3"
+        }
+      ],
+      "mnemonic": "seal（密封）+ -ant（剂）= \"用来封缝的东西\" → 密封胶。一个 seal 词根串起一串词：seal（密封）、sealed（已封闭的）、sealant（密封胶）、seam（接缝）。非洲、东南亚客户投诉最多的就是漏水，邮件里这句能救场：The leak is due to sealant failure, not a panel defect.（漏水是密封胶失效，不是板材缺陷。）——一句话厘清责任，避免整批板被索赔（claim 第 13 期）。",
+      "issue": 20,
+      "date": "2026-09-23",
+      "theme": "屋面临边女儿墙收边 → 板缝打胶防水密封 → 中庭采光空间汇报 → 合同争议仲裁条款 → 项目受挫后快速恢复的韧性",
+      "gloss": "密封胶",
+      "category": "工程",
+      "audio": "audio/sealant.mp3"
+    },
+    {
+      "word": "atrium",
+      "phonetic": "/ˈeɪtriəm/",
+      "meaning": "建筑内部多层通高、通常带玻璃顶的中央空间，常见于酒店、办公楼、商业综合体，作用是引入自然光、组织人流（circulation 第 18 期动线）并提升空间品质。复数是 atriums 或 atria。它和已学的 skylight（第 13 期天窗）、mezzanine（第 14 期夹层）、partition（第 19 期隔断）、circulation（流线）是一组完整的\"内部空间\"词汇。词源是古罗马住宅的中央庭院，现代建筑里复活了这个概念。做方案汇报时，atrium 是提升方案说服力的关键词之一。",
+      "collocation": "atrium 中庭；central atrium 中央中庭；atrium roof 中庭屋盖；glass-roofed atrium 玻璃顶中庭；atrium space 中庭空间；open-air atrium 开敞中庭；atrium lighting 中庭采光；atrium lobby 中庭大堂",
+      "examples": [
+        {
+          "en": "The client loves the central atrium because it brings daylight into the middle of the office floors and cuts lighting costs.",
+          "zh": "客户很喜欢中央中庭，因为它把自然光引入办公区核心，还能降低照明能耗。",
+          "audio": "audio/ex/atrium-1.mp3"
+        }
+      ],
+      "mnemonic": "拉丁语 atrium 原指古罗马住宅\"被熏黑的中庭\"（ater = 黑色，因为早期中庭有炉灶）。现代中庭的顶部通常就是一整片 skylight——把第 13 期的天窗架在一个通高空间上方，就是 atrium。方案汇报金句：The atrium acts as the social heart of the building.（中庭是建筑的社交心脏。）比干巴巴地讲\"中间有个大空间\"高级得多。",
+      "issue": 20,
+      "date": "2026-09-23",
+      "theme": "屋面临边女儿墙收边 → 板缝打胶防水密封 → 中庭采光空间汇报 → 合同争议仲裁条款 → 项目受挫后快速恢复的韧性",
+      "gloss": "中庭；采光大厅",
+      "category": "建筑设计",
+      "audio": "audio/atrium.mp3"
+    },
+    {
+      "word": "arbitration",
+      "phonetic": "/ˌɑːrbɪˈtreɪʃn/",
+      "meaning": "合同双方把争议交给中立第三方（仲裁机构/仲裁员）裁决的纠纷解决方式，裁决结果通常一裁终局、对双方有约束力。外贸合同里几乎必写的条款：Any dispute shall be settled by arbitration in Singapore / Hong Kong, China, under the ICC Rules（争议提交新加坡/中国香港仲裁，适用 ICC 规则）。它比诉讼（litigation）更私密、更快、跨国执行也更容易——因为《纽约公约》让仲裁裁决在 170 多个国家可被执行。和已学的 force majeure（第 18 期不可抗力）、claim（第 13 期索赔）、negotiation（第 11 期谈判）构成完整的\"争议处理链\"：negotiation（谈）→ mediation（调解）→ arbitration（仲裁）→ litigation（诉讼）。",
+      "collocation": "arbitration 仲裁；arbitration clause 仲裁条款；go to arbitration 提交仲裁；arbitration tribunal 仲裁庭；ICC arbitration 国际商会仲裁；arbitration award 仲裁裁决；arbitration seat 仲裁地；binding arbitration 有约束力的仲裁；file for arbitration 申请仲裁",
+      "examples": [
+        {
+          "en": "If we cannot settle the quality dispute through negotiation, the contract allows either party to file for arbitration in Singapore.",
+          "zh": "如果质量争议无法通过协商解决，合同允许任何一方向新加坡申请仲裁。",
+          "audio": "audio/ex/arbitration-1.mp3"
+        }
+      ],
+      "mnemonic": "arbiter / arbitrator = 裁判者（联想 arbiter 与 arbitrary 同源，但 arbitrator 是\"中立裁判\"而非\"随心所欲\"）。构词：arbitr-（判断）+ -ation。谈判桌上不必怕提仲裁，这句话既专业又不失礼：We'd prefer to resolve this amicably, but the arbitration clause is there to protect both sides.（我们更希望友好解决，但仲裁条款是为了保护双方。）——先给台阶，再亮底牌。",
+      "issue": 20,
+      "date": "2026-09-23",
+      "theme": "屋面临边女儿墙收边 → 板缝打胶防水密封 → 中庭采光空间汇报 → 合同争议仲裁条款 → 项目受挫后快速恢复的韧性",
+      "gloss": "仲裁",
+      "category": "外贸",
+      "audio": "audio/arbitration.mp3"
+    },
+    {
+      "word": "resilience",
+      "phonetic": "/rɪˈzɪliəns/",
+      "meaning": "双重身份词——工程里指材料或结构受力变形后恢复原状的能力（elastic resilience 弹性回弹），职场和心理层面指遭遇挫折、失败、高压后快速恢复状态的能力（emotional / professional resilience）。形容词 resilient（有韧性的）。钢结构本身就以 ductility（延性）和 resilience 著称：地震时结构可以变形吸能而不倒塌，这正是抗震设计的核心思路。职场层面则和已学的 burnout（第 19 期职业倦怠）、workload（第 3 期工作量）、stress（压力）配套——resilience 是 burnout 的解药。",
+      "collocation": "resilience 韧性/恢复力；structural resilience 结构韧性；build resilience 培养韧性；resilient design 韧性设计；seismic resilience 抗震韧性；emotional resilience 情绪韧性；show resilience 表现出韧性；resilient material 弹性材料；supply chain resilience 供应链韧性",
+      "examples": [
+        {
+          "en": "Good project managers build resilience by planning buffers into every schedule instead of assuming everything will go smoothly.",
+          "zh": "优秀的项目经理通过在每个进度计划中预留缓冲来建立韧性，而不是假设一切都会顺利。",
+          "audio": "audio/ex/resilience-1.mp3"
+        }
+      ],
+      "mnemonic": "re-（回）+ sil-（跳，同根词 salute 致敬、result 结果中都含\"跃动\"概念；也可直记 resilient = \"能弹回来的\"）= 被压下去还能弹回来 → 韧性。一句话双关：A resilient structure bounces back after an earthquake; a resilient person bounces back after a setback.（有韧性的结构在地震后回弹，有韧性的人在挫折后爬起。）这个词既能写进技术报告，也能写进周报自评，性价比极高。",
+      "issue": 20,
+      "date": "2026-09-23",
+      "theme": "屋面临边女儿墙收边 → 板缝打胶防水密封 → 中庭采光空间汇报 → 合同争议仲裁条款 → 项目受挫后快速恢复的韧性",
+      "gloss": "韧性；恢复力",
+      "category": "职场",
+      "audio": "audio/resilience.mp3"
     }
   ]
 }

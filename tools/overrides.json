@@ -379,5 +379,25 @@
   "burnout": {
     "gloss": "职业倦怠；耗尽",
     "category": "职场生活"
+  },
+  "parapet": {
+    "gloss": "女儿墙；护墙",
+    "category": "建筑设计"
+  },
+  "sealant": {
+    "gloss": "密封胶",
+    "category": "工程"
+  },
+  "atrium": {
+    "gloss": "中庭；采光大厅",
+    "category": "建筑设计"
+  },
+  "arbitration": {
+    "gloss": "仲裁",
+    "category": "外贸"
+  },
+  "resilience": {
+    "gloss": "韧性；恢复力",
+    "category": "职场"
   }
 }
