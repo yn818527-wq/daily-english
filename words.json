@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23",
-  "total": 100,
+  "updated": "2026-09-24",
+  "total": 105,
   "words": [
     {
       "word": "truss",
@@ -2101,6 +2101,106 @@
       "gloss": "韧性；恢复力",
       "category": "职场",
       "audio": "audio/resilience.mp3"
+    },
+    {
+      "word": "web",
+      "phonetic": "/web/",
+      "meaning": "H 型钢、工字钢截面中连接上下两块 flange（第 5 期翼缘）的那块竖向钢板，主要承受 shear（第 15 期剪力），是截面抗剪的\"腰\"。截面标注 H400×200×8×13 里，8 mm 就是 web thickness（腹板厚），13 mm 是 flange thickness（翼缘厚）。腹板太薄会在支座处发生 web buckling（腹板屈曲），所以集中荷载处要加设 stiffener（第 7 期加劲肋）——第 7 期学的加劲肋，正是焊在腹板两侧的。注意：日常英语里 web 更常指\"网络\"，工程语境下默认指腹板，必要时说 beam web 或 web plate 更保险。",
+      "collocation": "web 腹板；web thickness 腹板厚度；web plate 腹板板件；beam web 梁腹板；web buckling 腹板屈曲；web crippling 腹板压溃；web opening 腹板开孔；web stiffener 腹板加劲肋；web depth 腹板高度",
+      "examples": [
+        {
+          "en": "The beam web is only 8 mm thick, so we need to add bearing stiffeners at both supports.",
+          "zh": "这根梁的腹板只有 8 毫米厚，所以两端支座处需要加设承压加劲肋。",
+          "audio": "audio/ex/web-1.mp3"
+        }
+      ],
+      "mnemonic": "一口 H 型钢就是一个\"工\"字——上下两横是 flange（翼缘），中间一竖就是 web（腹板）。联想：web 是蜘蛛网（spider web）那种\"薄薄一片、连着两边\"的东西，腹板正是这样薄薄一片夹在翼缘中间。现场与老外对图时这句很顶用：The web opening here will weaken the section.（这里的腹板开孔会削弱截面。）——专业度立刻拉满。",
+      "issue": 21,
+      "date": "2026-09-24",
+      "theme": "钢结构 H 型钢腹板验算 → 无障碍坡道收方案 → 深化加工图送审 → 报 FOB 离岸价 → 接机路上寒暄破冰",
+      "gloss": "腹板；型钢竖向中间板",
+      "category": "钢结构",
+      "audio": "audio/web.mp3"
+    },
+    {
+      "word": "ramp",
+      "phonetic": "/ræmp/",
+      "meaning": "连接两个不同标高的倾斜通道，取代或补充 staircase（第 7 期楼梯）。建筑设计里最重要的用法是无障碍坡道：按通行规范，轮椅坡道坡度通常不大于 1:12（每 1 米高差需 12 米水平长度），两侧设扶手、平台设 rest platform。工业厂房里还有 loading ramp（装卸坡道/登车桥）、工地临时 access ramp；公路上 off-ramp / on-ramp 就是匝道。它和已学的 circulation（第 18 期流线）、threshold、handover 配套——无障碍设计是海外公建项目报批的硬指标，很多非洲、中东业主审图第一眼就看坡道做没做。",
+      "collocation": "ramp 坡道；access ramp 无障碍坡道；wheelchair ramp 轮椅坡道；loading ramp 装卸坡道；ramp slope 坡道坡度；ramp gradient 坡道坡度；1:12 ramp 1:12 坡道；off-ramp 出口匝道；ramp handrail 坡道扶手",
+      "examples": [
+        {
+          "en": "The main entrance needs a wheelchair ramp with a maximum gradient of 1:12 and handrails on both sides.",
+          "zh": "主入口需要设置轮椅坡道，最大坡度 1:12，两侧设扶手。",
+          "audio": "audio/ex/ramp-1.mp3"
+        }
+      ],
+      "mnemonic": "ramp 谐音\"软坡\"——不是硬邦邦的台阶，而是\"软下来\"的一段斜面。词根联想：ramp 与 climb、scramble 都有\"爬、攀\"的语感。报批汇报金句：The ramp is part of the accessible circulation, not an afterthought.（坡道是无障碍流线的一部分，不是事后补的。）——把无障碍设计说成\"系统性考虑\"，业主与审批方都会认可。",
+      "issue": 21,
+      "date": "2026-09-24",
+      "theme": "钢结构 H 型钢腹板验算 → 无障碍坡道收方案 → 深化加工图送审 → 报 FOB 离岸价 → 接机路上寒暄破冰",
+      "gloss": "坡道；无障碍斜坡",
+      "category": "建筑设计",
+      "audio": "audio/ramp.mp3"
+    },
+    {
+      "word": "shop drawing",
+      "phonetic": "/ˈʃɒp ˈdrɔːɪŋ/",
+      "meaning": "由加工方/承包商在施工图（blueprint 第 9 期蓝图、施工图）基础上细化出的、可直接下料生产的图纸，包含每个构件的 exact 尺寸、孔位、坡口、焊缝等级、螺栓规格与材料表（BOM）。流程上是：design drawing（设计院出图）→ shop drawing（我方深化）→ approval（业主/顾问审批）→ fabrication（第 1 期加工制造）。海外项目几乎都要求 shop drawing for approval 先批再生产，这是控制索赔（claim 第 13 期）风险的关键关口——图纸没批就下料，改一次就是一整批构件报废。",
+      "collocation": "shop drawing 加工图/深化图；shop drawing for approval 送审加工图；submit shop drawings 提交加工图；approved shop drawing 已批准的加工图；shop drawing revision 加工图升版；as-built drawing 竣工图；fabrication drawing 制作图；drawing register 图纸台账",
+      "examples": [
+        {
+          "en": "We will submit the shop drawings for your approval before we start cutting any material.",
+          "zh": "我们会在开始下料之前提交加工图供贵方审批。",
+          "audio": "audio/ex/shop-drawing-1.mp3"
+        }
+      ],
+      "mnemonic": "shop 不是\"商店\"，是 workshop / fabrication shop（加工车间）——\"车间里用的图\"就是 shop drawing。串起一条完整图纸链：design drawing（设计图）→ shop drawing（深化加工图）→ as-built drawing（竣工图）。外贸邮件里这句能护住自己：Production will start upon receipt of approved shop drawings.（收到批准的加工图后即开始生产。）——既表诚意，又把工期责任划清楚。",
+      "issue": 21,
+      "date": "2026-09-24",
+      "theme": "钢结构 H 型钢腹板验算 → 无障碍坡道收方案 → 深化加工图送审 → 报 FOB 离岸价 → 接机路上寒暄破冰",
+      "gloss": "加工图；深化设计图",
+      "category": "工程设计",
+      "audio": "audio/shop-drawing.mp3"
+    },
+    {
+      "word": "FOB",
+      "phonetic": "/ˌef əʊ ˈbiː/",
+      "meaning": "Incoterms 国际贸易术语之一，全称 Free On Board（…named port of shipment），指卖方把货物装上买方指定船只即完成交货，此前的费用与风险归卖方，装船后（越过船舷/装上船）的风险与运费归买方。外贸报价最常用三兄弟：EXW（工厂交货，卖方责任最小）、FOB（离岸价，最常用）、CIF（成本加保险费加运费，卖方责任更大）。报价单上要写全\"FOB Qingdao\"而不是只写 FOB——港口没写清，后面 freight（第 5 期运费）扯皮是常态。它和已学的 quotation（第 1 期报价）、proforma invoice（第 4 期形式发票）、bill of lading（第 9 期提单）、customs clearance（第 7 期清关）构成完整成交链。",
+      "collocation": "FOB 离岸价；FOB Qingdao 青岛离岸价；FOB price 离岸价；FOB terms FOB 条款；FOB shipment FOB 装运；EXW 工厂交货；CIF 到岸价；Incoterms 2020 国际贸易术语解释通则；FOB value 离岸价金额",
+      "examples": [
+        {
+          "en": "Our quotation is USD 1,150 per ton FOB Qingdao, valid for 30 days.",
+          "zh": "我们的报价是每吨 1150 美元，青岛离岸价，有效期 30 天。",
+          "audio": "audio/ex/fob-1.mp3"
+        }
+      ],
+      "mnemonic": "拆开记 F-O-B = Free On Board，\"货一上船（on board），卖方就 free（解脱）了\"——责任和费用到此为止。三个术语用一句话分清：EXW 出门不管，FOB 装上船不管，CIF 送到对方港才不管。报价电话里标准话术：The price is FOB Qingdao, excluding inland haulage to the port.（价格是青岛离岸价，不含到港的内陆运输。）——把边界说清，后面少一半麻烦。",
+      "issue": 21,
+      "date": "2026-09-24",
+      "theme": "钢结构 H 型钢腹板验算 → 无障碍坡道收方案 → 深化加工图送审 → 报 FOB 离岸价 → 接机路上寒暄破冰",
+      "gloss": "离岸价（FOB）",
+      "category": "外贸",
+      "audio": "audio/fob.mp3"
+    },
+    {
+      "word": "small talk",
+      "phonetic": "/ˈsmɔːl tɔːk/",
+      "meaning": "正式会议开始前、接机路上、茶歇时那些不涉及业务的轻松对话——天气、航班、当地美食、足球、家庭。它看着没用，实际是客户接待（hospitality 第 3 期礼遇）里最重要的软技能：先 small talk 建立 rapport（第 18 期融洽关系），再进 negotiation（第 11 期谈判），成交概率完全不同。安全话题：travel、food、sports、local scenery；雷区：religion、politics、personal income。对中东、非洲客户，先问候家人与健康是标准礼节；对欧美客户，聊行程与体育更稳妥。",
+      "collocation": "small talk 寒暄/闲聊；make small talk 寒暄几句；engage in small talk 进行闲聊；break the ice 破冰；safe topics 安全话题；weather small talk 聊天气；small talk skills 寒暄技巧；wrap up the small talk 结束寒暄转入正题",
+      "examples": [
+        {
+          "en": "We made small talk about his flight and the local food on the way from the airport, and the meeting started in a relaxed mood.",
+          "zh": "从机场出来的路上我们聊了他的航班和当地美食，会议因此在一个轻松的氛围中开始。",
+          "audio": "audio/ex/small-talk-1.mp3"
+        }
+      ],
+      "mnemonic": "small = 小事，talk = 说话 → \"说点小事\"。它不是废话，是把 rapport（第 18 期）这台机器预热的火柴。万能开场三句：How was your flight?（航班还顺利吗？）/ Is this your first time in Qingdao?（第一次来青岛吗？）/ Have you tried the local seafood yet?（尝过本地海鲜了吗？）接机路上用完这三句，再进会议室，气氛就完全不一样了。",
+      "issue": 21,
+      "date": "2026-09-24",
+      "theme": "钢结构 H 型钢腹板验算 → 无障碍坡道收方案 → 深化加工图送审 → 报 FOB 离岸价 → 接机路上寒暄破冰",
+      "gloss": "寒暄；闲聊破冰",
+      "category": "客户接待",
+      "audio": "audio/small-talk.mp3"
     }
   ]
 }

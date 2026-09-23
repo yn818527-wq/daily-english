@@ -399,5 +399,25 @@
   "resilience": {
     "gloss": "韧性；恢复力",
     "category": "职场"
+  },
+  "web": {
+    "gloss": "腹板；型钢竖向中间板",
+    "category": "钢结构"
+  },
+  "ramp": {
+    "gloss": "坡道；无障碍斜坡",
+    "category": "建筑设计"
+  },
+  "shop drawing": {
+    "gloss": "加工图；深化设计图",
+    "category": "工程设计"
+  },
+  "fob": {
+    "gloss": "离岸价（FOB）",
+    "category": "外贸"
+  },
+  "small talk": {
+    "gloss": "寒暄；闲聊破冰",
+    "category": "客户接待"
   }
 }
