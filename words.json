@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24",
-  "total": 105,
+  "updated": "2026-09-25",
+  "total": 110,
   "words": [
     {
       "word": "truss",
@@ -2201,6 +2201,106 @@
       "gloss": "寒暄；闲聊破冰",
       "category": "客户接待",
       "audio": "audio/small-talk.mp3"
+    },
+    {
+      "word": "base plate",
+      "phonetic": "/beɪs pleɪt/",
+      "meaning": "焊在钢柱（column 第 11 期）底部、把柱子荷载扩散传递到混凝土 foundation（第 9 期基础）上的那块方形钢板。它是整个钢结构里\"力换个介质\"的关卡：钢 → 钢板 → 灌浆料 → 混凝土。底板上预留孔位穿 anchor bolt（第 6 期地脚螺栓），柱底标高靠 shim（第 19 期垫铁）或调平螺母调平，调平后柱底与基础之间的空隙用 grout（第 16 期灌浆）填实——第 6、16、19 期学的三个词，全都在这一块板周围相遇。海外项目验收必看：base plate 的平面尺寸、厚度、孔位偏差和灌浆密实度，任何一项出问题都会引来 claim（第 13 期索赔）。",
+      "collocation": "base plate 柱底板；column base plate 钢柱底板；base plate thickness 底板厚度；base plate size 底板尺寸；anchor bolt hole 地脚螺栓孔；leveling nut 调平螺母；grout under base plate 柱底灌浆；base plate connection 柱脚节点；pinned base 铰接柱脚；fixed base 刚接柱脚",
+      "examples": [
+        {
+          "en": "The column base plate is 450 × 450 × 25 mm, and all the anchor bolt holes must be checked on site before erection.",
+          "zh": "这根钢柱的柱底板是 450 × 450 × 25 毫米，吊装前必须在现场复核全部地脚螺栓孔位。",
+          "audio": "audio/ex/base-plate-1.mp3"
+        }
+      ],
+      "mnemonic": "base（底）+ plate（板）= \"最底下那块板\"，位置和功能都是字面意思。串起柱脚三件套：anchor bolt（螺栓拉住）→ shim（垫铁调平）→ grout（灌浆填实），三者服务的对象都是 base plate。现场沟通金句：The base plate is leveled with shims and then grouted solid.（柱底板用垫铁调平后灌浆填实。）一句话把三个已学词串起来，专业感立刻出来。",
+      "issue": 22,
+      "date": "2026-09-25",
+      "theme": "钢柱柱底板与地脚螺栓对孔 → 门窗玻璃与幕墙选型 → 竣工前尾项清单销项 → 报关前核对海关编码 → 商务宴请礼仪不出错",
+      "gloss": "柱底板；柱脚底板",
+      "category": "钢结构",
+      "audio": "audio/base-plate.mp3"
+    },
+    {
+      "word": "glazing",
+      "phonetic": "/ˈɡleɪzɪŋ/",
+      "meaning": "建筑上\"所有玻璃部分\"的统称——玻璃本身、固定于框架的方式、密封与安装工艺，合起来叫 glazing。它和已学的 facade（第 5 期立面）、cladding（第 10 期围护板）、sealant（第 20 期密封胶）、skylight（第 13 期天窗）、curtain wall 是同一条围护系统上的邻居。常见分类：single glazing（单层）、double glazing（双层中空，隔热隔音）、low-E glazing（低辐射镀膜）、tempered/laminated glass（钢化/夹胶）。中东项目常被业主要求 double glazing + low-E，非洲项目则更看重防紫外与抗风压等级。报价时 glazing 通常单独列项，是很容易漏算的一笔钱。",
+      "collocation": "glazing 玻璃装配/玻璃工程；double glazing 双层中空玻璃；single glazing 单层玻璃；low-E glazing 低辐射玻璃；glazing bead 玻璃压条；glazing gasket 玻璃密封胶条；glazing system 玻璃系统；structural glazing 结构胶装配；glazing contractor 幕墙/门窗分包；safety glazing 安全玻璃",
+      "examples": [
+        {
+          "en": "For the Dubai project the client asked for double glazing with low-E coating to reduce the cooling load.",
+          "zh": "迪拜那个项目业主要求采用低辐射镀膜双层中空玻璃，以降低空调负荷。",
+          "audio": "audio/ex/glazing-1.mp3"
+        }
+      ],
+      "mnemonic": "glaze 是\"给……上釉/装玻璃\"，glazing 就是\"装玻璃这件事\"——同样一个词根，瓷器的 glaze 是釉，建筑的 glazing 是玻璃。冬天欧洲客户抱怨冷气费时，这句最实用：Double glazing will cut your heating bill by around 20%.（双层中空玻璃能帮你省掉大约两成的采暖费。）——产品价值一句话讲清楚，比堆参数管用。",
+      "issue": 22,
+      "date": "2026-09-25",
+      "theme": "钢柱柱底板与地脚螺栓对孔 → 门窗玻璃与幕墙选型 → 竣工前尾项清单销项 → 报关前核对海关编码 → 商务宴请礼仪不出错",
+      "gloss": "玻璃装配；门窗幕墙玻璃",
+      "category": "建筑设计",
+      "audio": "audio/glazing.mp3"
+    },
+    {
+      "word": "punch list",
+      "phonetic": "/pʌntʃ lɪst/",
+      "meaning": "工程接近竣工、正式 handover（第 12 期移交）之前，业主、监理与承包商一起走现场逐条记录\"还没做好的小事\"的那份清单——掉漆、门关不严、胶缝不匀、螺栓未终拧、灯具不亮。逐条销项叫 close out the punch list；清单全部销完，才能签 taking-over certificate 进入 warranty（第 14 期质保）期。英式/部分地区说法是 snag list，意思完全一样。海外项目的惯例是：没有 punch list 闭环，尾款和保函释放就卡住——所以这张纸看着琐碎，实际直接关联回款。",
+      "collocation": "punch list 尾项清单/整改清单；snag list 缺陷清单（同义）；close out the punch list 销项闭环；punch list item 尾项条目；walk-through inspection 现场走查；punch list meeting 尾项销项会；final punch list 最终尾项清单；sign off the punch list 签字确认尾项完成；defect liability period 缺陷责任期",
+      "examples": [
+        {
+          "en": "We will walk the site with your engineer next Monday and close out every punch list item before handover.",
+          "zh": "下周一我们会和贵方工程师一起走现场，在移交前把所有尾项逐条销完。",
+          "audio": "audio/ex/punch-list-1.mp3"
+        }
+      ],
+      "mnemonic": "punch 有\"打孔、打卡\"的意思——老派工长拿张卡片在每项缺陷旁 punch 一个孔，勾一项销一项，所以叫 punch list。记成\"打卡清单\"就行。回款话术：Once the punch list is signed off, we can release the retention.（尾项清单一签字，我们就能释放质保金。）——把技术动作和钱直接挂钩，业主配合度会高很多。",
+      "issue": 22,
+      "date": "2026-09-25",
+      "theme": "钢柱柱底板与地脚螺栓对孔 → 门窗玻璃与幕墙选型 → 竣工前尾项清单销项 → 报关前核对海关编码 → 商务宴请礼仪不出错",
+      "gloss": "尾项清单；整改清单",
+      "category": "工程设计",
+      "audio": "audio/punch-list.mp3"
+    },
+    {
+      "word": "HS code",
+      "phonetic": "/ˌeɪtʃ ˈes ˈkəʊd/",
+      "meaning": "全称 Harmonized System code，世界海关组织制定的 6 位（各国可延伸到 8–10 位）商品分类编码，全球通用。它是报关（customs clearance 第 7 期清关）的核心钥匙：税率、监管条件、出口退税、是否需要商检，全部由 HS code 决定。钢结构常见情形——成品钢构件、活动房/模块化房屋与型材、螺栓等零件，归在不同章目，税率差别可能很大；同一票货 HS code 归错，轻则改单延误、重则罚款并影响企业信用。报关行常问的 \"What's the HS code?\" 就是在问这个。前 2 位是章（如第 73 章钢铁制品），前 4 位是品目，6 位是子目。",
+      "collocation": "HS code 海关编码；HS code classification 归类；customs tariff 关税税率；declare under HS code 按某编码申报；HS code verification 编码核实；export rebate 出口退税；customs declaration 报关单；duty rate 税率；Chapter 73 第 73 章（钢铁制品）；binding ruling 预归类裁定",
+      "examples": [
+        {
+          "en": "Please confirm the HS code for the prefabricated steel structure before we issue the commercial invoice, so that customs clearance will not be delayed.",
+          "zh": "请在我们开具商业发票前确认预制钢结构的海关编码，以免清关延误。",
+          "audio": "audio/ex/hs-code-1.mp3"
+        }
+      ],
+      "mnemonic": "H-S = Harmonized System，\"协调一致的制度\"——全世界用同一套号，所以货一出口，语言不通但数字通用。归类不准时这句能免责也显专业：Our forwarder is checking the HS code with customs to avoid any misclassification.（我们的货代正在和海关核实编码，以避免归类错误。）——把责任边界说清，是外贸老手的习惯动作。",
+      "issue": 22,
+      "date": "2026-09-25",
+      "theme": "钢柱柱底板与地脚螺栓对孔 → 门窗玻璃与幕墙选型 → 竣工前尾项清单销项 → 报关前核对海关编码 → 商务宴请礼仪不出错",
+      "gloss": "海关编码；商品归类编码",
+      "category": "外贸",
+      "audio": "audio/hs-code.mp3"
+    },
+    {
+      "word": "etiquette",
+      "phonetic": "/ˈetɪket/",
+      "meaning": "特定场合被公认的\"得体行为准则\"，比 courtesy（第 2 期礼貌/礼遇）更系统、更成文，比 protocol（第 16 期礼宾规程）更偏日常。已有三词可以这样分工：courtesy 是态度（对人客气），protocol 是官方流程（谁先谁后、礼宾安排），etiquette 是一整套行为细节（怎么坐、怎么吃、怎么敬、怎么回）。跨区域做生意差异最大的就是它：中东客户用右手递名片与进食、斋月白天不宜当面进食；欧美商务餐刀叉由外向内、等主人的示意再开动；日韩交换名片双手并短暂拜读；非洲多国先问候家人与长辈再谈事。踩一次坑，可能比报价贵两万块还难挽回。",
+      "collocation": "etiquette 礼仪/礼节；business etiquette 商务礼仪；dining etiquette 用餐礼仪；table etiquette 餐桌礼仪；business card etiquette 名片礼仪；email etiquette 邮件礼仪；cultural etiquette 文化礼节；etiquette rules 礼仪规范；proper etiquette 得体做法；breach of etiquette 失礼",
+      "examples": [
+        {
+          "en": "Good business etiquette matters: hand over your business card with both hands and take a moment to read the one you receive.",
+          "zh": "商务礼仪很要紧：双手递上名片，接到对方名片时花几秒钟认真看一下。",
+          "audio": "audio/ex/etiquette-1.mp3"
+        }
+      ],
+      "mnemonic": "谐音\"爱体面\"——讲礼仪的人，就是爱体面、也给别人体面。法语词源 étiquette 原指宫廷里写着规矩的小标签（ticket 是同源词），所以 etiquette 本质是\"贴在场合上的一张规矩条\"。万能保险句：Please let me know if there is any cultural etiquette I should follow.（如果有需要我注意的文化礼节，请告诉我。）——一句话既显尊重，又能提前避开雷区。",
+      "issue": 22,
+      "date": "2026-09-25",
+      "theme": "钢柱柱底板与地脚螺栓对孔 → 门窗玻璃与幕墙选型 → 竣工前尾项清单销项 → 报关前核对海关编码 → 商务宴请礼仪不出错",
+      "gloss": "礼节；商务礼仪",
+      "category": "客户接待",
+      "audio": "audio/etiquette.mp3"
     }
   ]
 }

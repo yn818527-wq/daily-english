@@ -419,5 +419,25 @@
   "small talk": {
     "gloss": "寒暄；闲聊破冰",
     "category": "客户接待"
+  },
+  "base plate": {
+    "gloss": "柱底板；柱脚底板",
+    "category": "钢结构"
+  },
+  "glazing": {
+    "gloss": "玻璃装配；门窗幕墙玻璃",
+    "category": "建筑设计"
+  },
+  "punch list": {
+    "gloss": "尾项清单；整改清单",
+    "category": "工程设计"
+  },
+  "hs code": {
+    "gloss": "海关编码；商品归类编码",
+    "category": "外贸"
+  },
+  "etiquette": {
+    "gloss": "礼节；商务礼仪",
+    "category": "客户接待"
   }
 }
