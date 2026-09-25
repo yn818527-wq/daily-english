@@ -439,5 +439,25 @@
   "etiquette": {
     "gloss": "礼节；商务礼仪",
     "category": "客户接待"
+  },
+  "seam": {
+    "gloss": "缝；直立锁边屋面缝",
+    "category": "钢结构"
+  },
+  "footing": {
+    "gloss": "独立基础；柱下基础",
+    "category": "工程结构"
+  },
+  "curtain wall": {
+    "gloss": "幕墙（不承重外围护系统）",
+    "category": "建筑设计"
+  },
+  "cif": {
+    "gloss": "到岸价（成本加保险费加运费）",
+    "category": "外贸"
+  },
+  "milestone": {
+    "gloss": "里程碑；项目关键节点",
+    "category": "职场"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25",
-  "total": 110,
+  "updated": "2026-09-26",
+  "total": 115,
   "words": [
     {
       "word": "truss",
@@ -2301,6 +2301,106 @@
       "gloss": "礼节；商务礼仪",
       "category": "客户接待",
       "audio": "audio/etiquette.mp3"
+    },
+    {
+      "word": "seam",
+      "phonetic": "/siːm/",
+      "meaning": "两块材料拼接留下的那条缝，在钢结构里主要指屋面板、墙面板之间的搭接与锁边位置。最高频的是 standing seam（直立锁边）——金属屋面板两侧立起肋边、用锁边机咬合在一起，表面看不到穿透螺钉，防水和抗风揭性能远优于打钉板。它与已学的 cladding（第 10 期围护板）、sealant（第 20 期密封胶）、parapet（第 20 期女儿墙）、corrosion（第 13 期锈蚀）是同一条围护线上的邻居：缝做不好，先漏水，再从缝口开始锈蚀。海外项目验收时，seam 的锁边质量、搭接长度与打胶饱满度是必查项，也是后期 claim（第 13 期索赔）的高发源头。",
+      "collocation": "seam 缝/接缝；standing seam 直立锁边（屋面）；standing seam roof 直立锁边屋面；lap seam 搭接缝；weld seam 焊缝；seam sealing 封缝；seam failure 缝口失效；roofing seam 屋面板缝；seam locker 锁边机；sealed seam 已密封的缝",
+      "examples": [
+        {
+          "en": "The standing seam roof panels must be locked by a seaming machine on site, so that no penetration screws are exposed to the weather.",
+          "zh": "直立锁边屋面板必须在现场用锁边机咬合，这样就没有外露的穿透螺钉直接受日晒雨淋。",
+          "audio": "audio/ex/seam-1.mp3"
+        }
+      ],
+      "mnemonic": "seam 发音同 seem（似乎）——\"似乎没有缝\"，正是直立锁边屋面追求的效果：看不见钉、看不见缝。与 weld（第 7 期焊接）对照记：weld seam 是焊缝（把钢熔在一起），standing seam 是锁边缝（把板咬在一起）。客户质疑漏水时的专业回应：There is no through-fastener on the standing seam, so the leakage risk is much lower.（直立锁边没有穿透式紧固件，渗漏风险低得多。）",
+      "issue": 23,
+      "date": "2026-09-26",
+      "theme": "屋面锁边缝收口防漏 → 独立基础持力层复核 → 幕墙四性指标定分包 → CIF 与 FOB 报价口径切换 → 项目里程碑节点盯进度",
+      "gloss": "缝；直立锁边屋面缝",
+      "category": "钢结构",
+      "audio": "audio/seam.mp3"
+    },
+    {
+      "word": "footing",
+      "phonetic": "/ˈfʊtɪŋ/",
+      "meaning": "把柱子或墙的荷载扩散到地基土上的那块混凝土扩大体，通常指单柱之下的独立基础（isolated / pad footing），与 foundation（第 9 期基础，总称）是\"具体构件 vs 整体系统\"的关系：footings, grade beams and slabs together form the foundation。常见类型有 pad footing（独立基础）、strip footing（条形基础）、raft footing（筏板基础）、pile cap（承台）。海外项目的关键动作是核对地勘报告里的 bearing capacity（地基承载力）与 footing 底面标高——承载力不足就要加大底板或改桩基，这直接改基础图和造价。柱子靠 base plate（第 22 期柱底板）与 anchor bolt（第 6 期地脚螺栓）生根在 footing 上。",
+      "collocation": "footing 基础/独立基础；pad footing 独立基础；isolated footing 单独基础；strip footing 条形基础；raft footing 筏板基础；footing depth 基础埋深；footing size 基础底面尺寸；bearing capacity 地基承载力；reinforced concrete footing 钢筋混凝土基础；footing excavation 基槽开挖",
+      "examples": [
+        {
+          "en": "According to the geotechnical report, the pad footings under the portal frame must be enlarged to 2.2 × 2.2 m to suit the local bearing capacity.",
+          "zh": "根据地勘报告，门式刚架下的独立基础需加大到 2.2 × 2.2 米，以适应当地地基承载力。",
+          "audio": "audio/ex/footing-1.mp3"
+        }
+      ],
+      "mnemonic": "foot（脚）+ ing = \"柱子的脚\"——柱子站着靠的就是这只脚。记尺寸时一口气流利报出：The pad footing is 2.2 by 2.2 meters and 800 millimeters deep.（独立基础 2.2 米见方、埋深 800 毫米。）现场发现土质不对时的标准反应：We need to stop the footing excavation and inform the engineer.（得停掉基槽开挖并通知工程师。）——这句话能避免大额返工。",
+      "issue": 23,
+      "date": "2026-09-26",
+      "theme": "屋面锁边缝收口防漏 → 独立基础持力层复核 → 幕墙四性指标定分包 → CIF 与 FOB 报价口径切换 → 项目里程碑节点盯进度",
+      "gloss": "独立基础；柱下基础",
+      "category": "工程结构",
+      "audio": "audio/footing.mp3"
+    },
+    {
+      "word": "curtain wall",
+      "phonetic": "/ˈkɜːtn wɔːl/",
+      "meaning": "挂在主体结构外侧、不承重的外围护墙体系统（\"像帘子一样挂上去的墙\"），由铝合金/钢龙骨、面板（玻璃、铝板、石材）与密封体系组成。它和已学的 facade（第 5 期立面，外观概念）、glazing（第 22 期玻璃装配，玻璃部分）、cladding（第 10 期围护板，多指金属板）、sealant（第 20 期密封胶）、insulation（第 11 期保温）构成同一条围护链：curtain wall 是系统，glazing 是其中的玻璃分项。海外高层与公建项目常要求幕墙\"四性\"检测——air permeability（气密）、water tightness（水密）、wind load resistance（抗风压）、thermal performance（热工），这四项是幕墙分包招标的技术门槛。",
+      "collocation": "curtain wall 幕墙；glass curtain wall 玻璃幕墙；unitized curtain wall 单元式幕墙；stick curtain wall 构件式幕墙；curtain wall system 幕墙系统；curtain wall contractor 幕墙分包；mullion 竖挺；transom 横挺；air permeability 气密性；water tightness 水密性；wind load resistance 抗风压性能",
+      "examples": [
+        {
+          "en": "The unitized curtain wall will be prefabricated in the factory and installed floor by floor, which shortens the site programme by three weeks.",
+          "zh": "单元式幕墙将在工厂预制、逐层安装，可把现场工期缩短三周。",
+          "audio": "audio/ex/curtain-wall-1.mp3"
+        }
+      ],
+      "mnemonic": "curtain（窗帘）+ wall（墙）= 挂上去的墙，不承重、只遮风挡雨——所以它才能做成通高玻璃。与 prefabricate（第 14 期预制）、erection（第 6 期安装）串成一句：The unitized curtain wall is prefabricated and then erected floor by floor.（单元式幕墙先预制，再逐层吊装。）方案汇报里这句很有分量。",
+      "issue": 23,
+      "date": "2026-09-26",
+      "theme": "屋面锁边缝收口防漏 → 独立基础持力层复核 → 幕墙四性指标定分包 → CIF 与 FOB 报价口径切换 → 项目里程碑节点盯进度",
+      "gloss": "幕墙（不承重外围护系统）",
+      "category": "建筑设计",
+      "audio": "audio/curtain-wall.mp3"
+    },
+    {
+      "word": "CIF",
+      "phonetic": "/ˌsiː aɪ ˈef/",
+      "meaning": "Incoterms 贸易术语之一，全称 Cost, Insurance and Freight，卖方承担货物装上船前的费用，并负责订立海运合同、支付运费与保险费，风险在装运港装上船（on board）时转移给买方。与已学的 FOB（第 21 期离岸价）对照记忆：FOB 卖方管到\"货过船舷/装上船\"，运费保险由买方安排；CIF 卖方多管\"运费 + 保险\"，但风险转移点仍在装运港，并不等于\"送到门\"。同族常用术语还有 CFR（成本加运费，不含保险）、DAP、DDP。报价时务必写清港口与版本，例如 CIF Lagos, Incoterms 2020——只写 CIF 不写港，后续极易起争议。",
+      "collocation": "CIF 到岸价；CIF Lagos 拉各斯 CIF 价；CIF price 到岸价；quote on CIF basis 按 CIF 报价；Incoterms 2020 国际贸易术语解释通则 2020；CFR 成本加运费；FOB 离岸价；CIF value 到岸价值；marine insurance 海运保险；risk transfer 风险转移；port of destination 目的港",
+      "examples": [
+        {
+          "en": "Our quotation is USD 148,000 on CIF Durban basis, Incoterms 2020, including marine insurance at 110% of the invoice value.",
+          "zh": "我们的报价是 CIF 德班 148,000 美元，适用 Incoterms 2020，含按发票金额 110% 投保的海运保险。",
+          "audio": "audio/ex/cif-1.mp3"
+        }
+      ],
+      "mnemonic": "C-I-F 三个字母对三笔钱：Cost（货值）+ Insurance（保险）+ Freight（运费），全是卖方付的，所以叫\"到岸\"价——但注意风险在装船时已转移，别被\"到岸\"两字误导。客户问 FOB 与 CIF 差价时的标准答复：The difference between FOB and CIF covers the freight and the insurance premium.（FOB 和 CIF 的差价就是运费加保险费。）一句话把报价结构讲透。",
+      "issue": 23,
+      "date": "2026-09-26",
+      "theme": "屋面锁边缝收口防漏 → 独立基础持力层复核 → 幕墙四性指标定分包 → CIF 与 FOB 报价口径切换 → 项目里程碑节点盯进度",
+      "gloss": "到岸价（成本加保险费加运费）",
+      "category": "外贸",
+      "audio": "audio/cif.mp3"
+    },
+    {
+      "word": "milestone",
+      "phonetic": "/ˈmaɪlstəʊn/",
+      "meaning": "项目、职业或人生中标志性的关键节点。工程管理里指合同进度计划上的关键控制点（如 approval of shop drawings 第 21 期加工图批准、completion of fabrication、delivery to site、handover 第 12 期移交），通常与付款节点绑定：达到某个 milestone，才释放相应比例的款项。它与 deadline（第 12 期截止日期）的区别是：deadline 是\"什么时候必须做完\"（压力点），milestone 是\"走到了哪一步\"（进度标记）；一个项目有多个 milestone，每个 milestone 自带 deadline。日常职场里也常用：a career milestone、a major milestone。",
+      "collocation": "milestone 里程碑/关键节点；project milestone 项目节点；milestone payment 节点付款；milestone schedule 节点计划；key milestone 关键里程碑；reach/achieve a milestone 达成节点；milestone date 节点日期；milestone report 节点进度报告；miss a milestone 延误节点；major milestone 重要里程碑",
+      "examples": [
+        {
+          "en": "The first milestone payment of 30% will be released after the shop drawings are approved and the material is ordered.",
+          "zh": "加工图获批且材料下单后，将释放第一笔 30% 的节点款。",
+          "audio": "audio/ex/milestone-1.mp3"
+        }
+      ],
+      "mnemonic": "mile（英里）+ stone（石头）= 古罗马路上每隔一英里立一块里程碑石——看见石头就知道走了多远。与 deadline 对照记：milestone 是\"走到哪了\"，deadline 是\"什么时候必须到\"。催进度的得体说法：We are two weeks behind this milestone, so please speed up the fabrication.（这个节点我们已落后两周，请加快加工。）把差距量化说出口，比空喊 urgency 有效得多。",
+      "issue": 23,
+      "date": "2026-09-26",
+      "theme": "屋面锁边缝收口防漏 → 独立基础持力层复核 → 幕墙四性指标定分包 → CIF 与 FOB 报价口径切换 → 项目里程碑节点盯进度",
+      "gloss": "里程碑；项目关键节点",
+      "category": "职场",
+      "audio": "audio/milestone.mp3"
     }
   ]
 }
