@@ -459,5 +459,25 @@
   "milestone": {
     "gloss": "里程碑；项目关键节点",
     "category": "职场"
+  },
+  "gable": {
+    "gloss": "山墙；三角形端墙",
+    "category": "钢结构"
+  },
+  "rebar": {
+    "gloss": "钢筋；受力钢筋",
+    "category": "工程结构"
+  },
+  "soffit": {
+    "gloss": "挑檐底板；构件底面",
+    "category": "建筑设计"
+  },
+  "tariff": {
+    "gloss": "关税；关税税率",
+    "category": "外贸"
+  },
+  "proposal": {
+    "gloss": "方案建议书；提案",
+    "category": "职场"
   }
 }

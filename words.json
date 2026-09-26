@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26",
-  "total": 115,
+  "updated": "2026-09-27",
+  "total": 120,
   "words": [
     {
       "word": "truss",
@@ -2401,6 +2401,106 @@
       "gloss": "里程碑；项目关键节点",
       "category": "职场",
       "audio": "audio/milestone.mp3"
+    },
+    {
+      "word": "gable",
+      "phonetic": "/ˈɡeɪbl/",
+      "meaning": "坡屋面两端由两坡相交形成的三角形墙体，也就是\"人字形\"那一面。门式刚架厂房里，gable end（山墙端）是迎风面，抗风柱（gable post / wind column）与墙檩、山墙梁（gable beam）在这里加密，风荷载取值也最高。它与已学的 rafter（第 9 期屋面斜梁）、purlin（第 2 期檩条）、bracing（第 3 期支撑）、cladding（第 10 期围护板）、canopy（第 16 期雨棚）是同一条屋盖线上的邻居。海外项目看图时先分清 gable end（山墙端，三角形）与 eave side（檐口侧，长条边）——这两边的檩距、风载、收边做法都不一样，报价漏算山墙端加密是常见失误。",
+      "collocation": "gable 山墙；gable end 山墙端；gable wall 山墙；gable roof 双坡屋面；gable post 山墙抗风柱；gable beam 山墙梁；gable frame 端刚架；gable panel 山墙板；gable end bracing 山墙端支撑；gable trim 山墙收边件",
+      "examples": [
+        {
+          "en": "The gable end frame must be checked for the highest wind pressure, since it takes the full wind load from the end direction.",
+          "zh": "山墙端刚架必须按最高风压复核，因为它承受来自端部方向的全部风荷载。",
+          "audio": "audio/ex/gable-1.mp3"
+        }
+      ],
+      "mnemonic": "记画面——小孩画房子，先画一个正方形再在上面加个三角形屋顶，那个三角形就是 gable。谐音\"给宝\"：给房子宝贝一个\"尖顶帽子\"。与 rafter（斜梁）、purlin（檩条）串成一句：The rafters rest on the gable end frame and carry the purlins.（屋面梁搁在山墙端刚架上，再托住檩条。）客户问为什么山墙端更贵时的专业回答：The gable end needs closer purlin spacing and extra bracing for wind uplift.（山墙端需要加密檩距并增设支撑以抵抗风吸力。）",
+      "issue": 24,
+      "date": "2026-09-27",
+      "theme": "山墙端抗风节点定做法 → 基础钢筋笼验规格 → 挑檐底板封板收口 → 关税税率重算报价 → 方案建议书提交客户",
+      "gloss": "山墙；三角形端墙",
+      "category": "钢结构",
+      "audio": "audio/gable.mp3"
+    },
+    {
+      "word": "rebar",
+      "phonetic": "/ˈriːbɑː(r)/",
+      "meaning": "reinforcing bar 的口语缩写，混凝土里的受力钢筋。图纸上常见写法是 T16 @ 200（直径 16 毫米、间距 200 毫米），国内对应\"螺纹钢/带肋钢筋\"。它与已学的 footing（第 23 期独立基础）、foundation（第 9 期基础）、grout（第 16 期灌浆）、base plate（第 22 期柱底板）构成同一条基础链：footing 里绑 rebar cage（钢筋笼），浇筑养护后柱底板靠 anchor bolt（第 6 期地脚螺栓）生根，最后二次灌浆找平。海外基础验收必查三项：bar size（规格）、spacing（间距）、concrete cover（保护层厚度）——cover 不够，将来先锈的是钢筋，混凝土顺着锈胀开裂。",
+      "collocation": "rebar 钢筋；rebar cage 钢筋笼；rebar spacing 钢筋间距；rebar size 钢筋规格；rebar mesh 钢筋网片；deformed rebar 带肋钢筋；rebar grade 钢筋等级；concrete cover 保护层厚度；reinforcement drawing 配筋图；place the rebar 绑扎/安放钢筋",
+      "examples": [
+        {
+          "en": "Before pouring the footings, the inspector will check the rebar size, the spacing and the concrete cover against the reinforcement drawing.",
+          "zh": "浇筑独立基础前，监理将按配筋图检查钢筋规格、间距和保护层厚度。",
+          "audio": "audio/ex/rebar-1.mp3"
+        }
+      ],
+      "mnemonic": "re（加强）+ bar（棒）= \"加强用的棒\"，就是钢筋。口语里工程师几乎只说 rebar，很少说全称 reinforcing bar，所以听到别愣住。现场三连问要能对答如流：What is the bar size? / What is the spacing? / Is the cover 50 mm?（规格多大？间距多少？保护层 50 毫米吗？）相关词 stirrup（箍筋）、chair（钢筋马凳）顺手记一下，验筋时天天听。",
+      "issue": 24,
+      "date": "2026-09-27",
+      "theme": "山墙端抗风节点定做法 → 基础钢筋笼验规格 → 挑檐底板封板收口 → 关税税率重算报价 → 方案建议书提交客户",
+      "gloss": "钢筋；受力钢筋",
+      "category": "工程结构",
+      "audio": "audio/rebar.mp3"
+    },
+    {
+      "word": "soffit",
+      "phonetic": "/ˈsɒfɪt/",
+      "meaning": "任何水平构件的\"朝下那一面\"——屋檐下方封起来的那块板叫 eave soffit（挑檐底板），楼板/梁的底面叫 slab soffit / beam soffit。在钢结构建筑里，soffit 是收口的关键部位：挑檐底板上去接屋面底板、下来接墙板，还要留通风口（soffit vent）让屋盖呼吸、防止结露。它与已学的 eave/roof（屋面）、seam（第 23 期锁边缝）、parapet（第 20 期女儿墙）、cladding（第 10 期围护板）、ventilation（第 12 期通风）、insulation（第 11 期保温）直接连通。图纸和验收里 \"soffit level\"（底面标高）是高频尺寸，净高（clear height）就是从地面量到 soffit。",
+      "collocation": "soffit 挑檐底板/底面；eave soffit 檐口底板；soffit panel 檐底板；soffit level 底面标高；soffit vent 檐底通风口；beam soffit 梁底；slab soffit 板底；soffit board 檐口封板；perforated soffit 穿孔檐底板；clear height to soffit 至结构底面净高",
+      "examples": [
+        {
+          "en": "The eave soffit panels shall be perforated to allow airflow into the roof cavity and to prevent condensation.",
+          "zh": "挑檐底板应做成穿孔板，以便空气进入屋盖空腔、防止结露。",
+          "audio": "audio/ex/soffit-1.mp3"
+        }
+      ],
+      "mnemonic": "谐音\"沙发套\"——沙发底下那一层看不见的\"底面\"，就是 soffit：永远指朝下的那一面。考试级区分：elevation 是立面（垂直的），soffit 是底面（水平的）。方案汇报时说净高用地道表达：The clear height from finished floor to the soffit is 4.5 meters.（从建筑完成面到结构底面净高 4.5 米。）——比说 \"the height is 4.5m\" 专业得多。",
+      "issue": 24,
+      "date": "2026-09-27",
+      "theme": "山墙端抗风节点定做法 → 基础钢筋笼验规格 → 挑檐底板封板收口 → 关税税率重算报价 → 方案建议书提交客户",
+      "gloss": "挑檐底板；构件底面",
+      "category": "建筑设计",
+      "audio": "audio/soffit.mp3"
+    },
+    {
+      "word": "tariff",
+      "phonetic": "/ˈtærɪf/",
+      "meaning": "一国对进出口货物征收的税，外贸报价里最不可控的变量之一。它常与 duty、customs duty 混用：tariff 偏指\"税则/税率体系\"，duty 指\"具体这笔税\"。它和已学的 customs clearance（第 7 期清关）、HS code（第 22 期海关编码）、FOB（第 21 期）、CIF（第 23 期）是一条链：HS code 决定适用哪条 tariff rate，tariff 的高低直接改变客户到手成本。近年各国反倾销税（anti-dumping duty）、保障措施与税率调整频繁，出口合同里务必写清税费由谁承担——CIF/DDP 口径下如果没约定，卖方可能被动吃掉新增关税。",
+      "collocation": "tariff 关税；import tariff 进口关税；tariff rate 关税税率；tariff code 税则号列；tariff barrier 关税壁垒；anti-dumping duty 反倾销税；duty-free 免税；customs duty 关税；preferential tariff 优惠税率；tariff increase 加征关税",
+      "examples": [
+        {
+          "en": "Please note that the tariff rate for this HS code has been adjusted recently, so we should reconfirm the landed cost before signing.",
+          "zh": "请注意该海关编码的关税税率近期已调整，签约前我们应重新核算到岸成本。",
+          "audio": "audio/ex/tariff-1.mp3"
+        }
+      ],
+      "mnemonic": "谐音\"太离谱\"——关税一加，\"太离谱\"了。按链条记：HS code → tariff rate → landed cost（到岸总成本）。客户压价时的专业回应：The price is fine, but the tariff is set by your customs, not by us.（价格好谈，但关税是贵国海关定的，不由我们决定。）再加上一句免歧义：Our CIF price excludes import duties and taxes.（我方 CIF 价不含进口关税与税费。）——这一句能挡掉后期大量扯皮。",
+      "issue": 24,
+      "date": "2026-09-27",
+      "theme": "山墙端抗风节点定做法 → 基础钢筋笼验规格 → 挑檐底板封板收口 → 关税税率重算报价 → 方案建议书提交客户",
+      "gloss": "关税；关税税率",
+      "category": "外贸",
+      "audio": "audio/tariff.mp3"
+    },
+    {
+      "word": "proposal",
+      "phonetic": "/prəˈpəʊzl/",
+      "meaning": "为解决客户问题而提交的正式书面建议，工程行业里特指技术 + 商务合一的那份\"方案建议书\"（technical proposal + commercial proposal）。它与已学的 quotation（第 1 期报价）、specification（第 10 期规格书）、rendering（第 8 期效果图）、inquiry（第 15 期询盘）是同一条前端链条：客户 inquiry → 你交 proposal（含方案、效果图、技术规格、工期、报价）→ 客户 counteroffer（第 10 期还盘）→ negotiation（第 11 期谈判）→ 签合同。注意区分 proposal 与 quotation：quotation 只给价格和交期，proposal 先讲\"我怎么帮你解决\"，再谈钱——方案工程师的核心产出物就是 proposal。",
+      "collocation": "proposal 方案建议书/提案；technical proposal 技术方案；commercial proposal 商务方案；submit a proposal 提交方案；design proposal 设计方案；proposal drawing 方案图纸；revise the proposal 修改方案；proposal presentation 方案汇报；budget proposal 预算方案；win the proposal 拿下方案",
+      "examples": [
+        {
+          "en": "We will submit the technical proposal together with the 3D renderings and the budget estimate by Friday for your review.",
+          "zh": "我们将在周五前提交技术方案，连同三维效果图与投资估算，供贵方审阅。",
+          "audio": "audio/ex/proposal-1.mp3"
+        }
+      ],
+      "mnemonic": "动词 propose（提议）+ -al = \"提议出来的东西\"——把你的想法写下来递过去，就是 proposal。词根记忆网：propose（提议 v.）、proposal（提案 n.）、proposition（主张 n.）。客户催方案时的标准答复：The revised proposal is under internal review and will reach you tomorrow morning.（修改后的方案正在内部校审，明早发到您邮箱。）注意：proposal 还有\"求婚\"的意思，商务语境下别会错意——商务里 99% 指方案建议书。",
+      "issue": 24,
+      "date": "2026-09-27",
+      "theme": "山墙端抗风节点定做法 → 基础钢筋笼验规格 → 挑檐底板封板收口 → 关税税率重算报价 → 方案建议书提交客户",
+      "gloss": "方案建议书；提案",
+      "category": "职场",
+      "audio": "audio/proposal.mp3"
     }
   ]
 }
