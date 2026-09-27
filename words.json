@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27",
-  "total": 120,
+  "updated": "2026-09-28",
+  "total": 125,
   "words": [
     {
       "word": "truss",
@@ -2501,6 +2501,106 @@
       "gloss": "方案建议书；提案",
       "category": "职场",
       "audio": "audio/proposal.mp3"
+    },
+    {
+      "word": "joist",
+      "phonetic": "/dʒɔɪst/",
+      "meaning": "直接铺楼板或屋面板的那层密排小梁，把板面荷载传给主梁 girder（第 10 期）或框架梁。楼面里最常见的是 steel joist（钢搁栅）、floor joist（楼面搁栅）、C/Z 形冷弯薄壁 joist；模块化箱式房和装配式楼板里几乎天天见。荷载链一句话说清：decking/floor board（板面）→ joist（搁栅）→ girder/beam（主梁）→ column（第 11 期柱）→ foundation（第 9 期基础）。它和已学的 purlin（第 2 期檩条）是一对易混词：purlin 托的是屋面/墙面板，joist 托的是楼面板，一个挂在上坡的屋面上、一个铺在你踩着的脚下。报价时 joist spacing（搁栅间距，常见 @ 400/600 mm）直接决定用钢量，是轻钢报价里最容易被客户要求\"优化\"的一项。",
+      "collocation": "joist 搁栅/次梁；floor joist 楼面搁栅；steel joist 钢搁栅；ceiling joist 吊顶搁栅；joist spacing 搁栅间距；joist hanger 搁栅连接件/托座；open-web joist 空腹桁架搁栅；rim joist 边梁/封边搁栅；joist depth 搁栅高度；joist bearing 搁栅支承长度",
+      "examples": [
+        {
+          "en": "The floor joists are spaced at 600 mm to carry the 5 kN/m² live load specified for the office area.",
+          "zh": "办公区按 5 千牛/平方米活荷载设计，楼面搁栅间距设为 600 毫米。",
+          "audio": "audio/ex/joist-1.mp3"
+        }
+      ],
+      "mnemonic": "谐音\"就是它\"——问板子下面吵架到底是谁在扛？就是它（joist）。按荷载链背：board → joist → girder → column → foundation，从上往下一条龙。易混辨析要背牢：purlin 檩条扛屋面，joist 搁栅扛楼面。报价被要求降用钢量时的专业回答：We can widen the joist spacing to 800 mm, but the floor deflection will increase.（搁栅间距放大到 800 毫米可以，但楼面挠度会变大。）——一句指出代价，比直接拒绝专业得多。",
+      "issue": 25,
+      "date": "2026-09-28",
+      "theme": "楼面搁栅布置 → 楼梯坡道扶手做完 → 报价口径锁定 Incoterms → 客户来访备宣传册 → 年度绩效评估举证",
+      "gloss": "搁栅；次梁（托楼板的小梁）",
+      "category": "钢结构",
+      "audio": "audio/joist.mp3"
+    },
+    {
+      "word": "handrail",
+      "phonetic": "/ˈhændreɪl/",
+      "meaning": "楼梯、坡道、平台边缘那根人手扶的水平杆件，钢结构里通常做 1.1 m 高（国内临空 ≥24 m 时需 1.1 m，工业平台常取 1050 mm），配 top rail（上横杆）、mid rail（中横杆）、kick plate/toe board（踢脚板）和 posts/balusters（立柱）。它是 staircase（第 7 期楼梯）、ramp（第 21 期坡道）、mezzanine（第 15 期夹层）的标配收尾件：主体结构干完，扶手不装，现场就是不合格交付。海外项目常被提问的是 height（高度）、load resistance（水平承载力，通常要求 1.0 kN/m）、gap between balusters（立杆净距，防儿童卡头，常要求 ≤110 mm）三项——客户审图时问的就是这些。",
+      "collocation": "handrail 扶手；handrail system 扶手系统；stair handrail 楼梯扶手；ramp handrail 坡道扶手；handrail height 扶手高度；handrail post/baluster 扶手立柱；mid rail 中横杆；toe board/kick plate 踢脚板；grab bar 抓杆（无障碍卫生间）；handrail extension 扶手延伸段；stainless steel handrail 不锈钢扶手",
+      "examples": [
+        {
+          "en": "The handrail on both sides of the ramp shall be 900 mm high and able to resist a horizontal load of 1.0 kN/m.",
+          "zh": "坡道两侧的扶手应为 900 毫米高，并能承受 1.0 千牛/米的水平荷载。",
+          "audio": "audio/ex/handrail-1.mp3"
+        }
+      ],
+      "mnemonic": "hand（手）+ rail（横杆）= 手扶的那根杆，直白到不用绕弯。整套系统一次背齐：post（立柱）+ top rail（上横杆）+ mid rail（中横杆）+ toe board（踢脚板）。区分一组近义词：handrail 是人扶的那一根（水平或斜向），railing/guardrail 是整套防护栏杆，balustrade 偏建筑感的楼梯栏板。验收现场常用句：The baluster spacing is too wide for safety - please add one more bar.（立杆间距过大不安全，请再加一根。）",
+      "issue": 25,
+      "date": "2026-09-28",
+      "theme": "楼面搁栅布置 → 楼梯坡道扶手做完 → 报价口径锁定 Incoterms → 客户来访备宣传册 → 年度绩效评估举证",
+      "gloss": "扶手；栏杆扶手",
+      "category": "钢结构",
+      "audio": "audio/handrail.mp3"
+    },
+    {
+      "word": "Incoterms",
+      "phonetic": "/ˈɪnkəʊtɜːmz/",
+      "meaning": "国际商会（ICC）发布的一整套贸易术语 rules，规定买卖双方在交货地点、风险转移、运费/保险/清关由谁承担上的分工，目前通用版本是 Incoterms® 2020。它把已学的 FOB（第 21 期离岸价）、CIF（第 23 期到岸价）串联成一个体系：EXW（工厂交货）→ FOB（装运港船上）→ CFR/CIF（含运费/保险）→ DAP/DDP（目的地交货/完税交货），越往右卖方责任越重、报价越高。这套体系共 11 个术语，钢结构出口最常用的是 FOB、CIF、DAP、EXW 四个。最关键的一句话提醒：Incoterms 只管\"风险与费用怎么分\"，不管货权何时转移，也不替代付款条款——所以 Incoterms 与 letter of credit（第 8 期信用证）必须分别在合同里写清楚。",
+      "collocation": "Incoterms 国际贸易术语通则；Incoterms 2020 2020 版通则；Incoterms rule 贸易术语；FOB / CIF / CFR / EXW / DAP / DDP 常用术语；under Incoterms 2020 按 2020 版通则；delivery term 交货条款；risk transfer 风险转移；freight and insurance 运费与保险；applicable Incoterms 适用的贸易术语；quote on an FOB basis 按 FOB 口径报价",
+      "examples": [
+        {
+          "en": "All our prices are quoted on an FOB Qingdao basis under Incoterms 2020, with risk transferring once the goods are on board.",
+          "zh": "我方所有报价均按 2020 版通则的 FOB 青岛口径，货物装上船后风险转移。",
+          "audio": "audio/ex/incoterms-1.mp3"
+        }
+      ],
+      "mnemonic": "International + Commercial + Terms 掐头拼成的\"国际贸易术语\"。记一条责任递增链：EXW（我啥都不管）→ FOB（管到装船）→ CIF（管到运+保）→ DDP（管到客户门口包税），卖方责任从左往右越来越重，报价自然越来越高。报价邮件的黄金写法：Price: USD 1,280/ton FOB Qingdao, Incoterms 2020.（单价 1280 美元/吨，FOB 青岛，2020 版通则。）——带上 Incoterms 版本号，能避免大量\"到底我该付哪段运费\"的扯皮。注意它是专有名词，首字母永远大写。",
+      "issue": 25,
+      "date": "2026-09-28",
+      "theme": "楼面搁栅布置 → 楼梯坡道扶手做完 → 报价口径锁定 Incoterms → 客户来访备宣传册 → 年度绩效评估举证",
+      "gloss": "国际贸易术语通则（Incoterms 2020）",
+      "category": "外贸",
+      "audio": "audio/incoterms.mp3"
+    },
+    {
+      "word": "brochure",
+      "phonetic": "/ˈbrəʊʃə(r)/",
+      "meaning": "介绍公司能力、产品系列或具体方案的印刷/电子版小册子，外贸与客户接待场景里的\"第一张脸\"。它区别于 Specification（第 10 期规格书，纯技术参数）和 proposal（第 24 期方案建议书，针对某项目的定制方案）：brochure 是通用型自我介绍，适合客户首次询盘 inquiry（第 15 期）时作为附件发出，也适合摊位展会、工厂拜访时当场递上。产品版本叫 product brochure / catalogue（产品目录），公司版本叫 company profile（公司简介），展会简版叫 leaflet/flyer（单页）。做模块化产品的工程师尤其要注意： brochure 里的户型图、节点照片、业绩表要定期更新，客户拿着去年的画册来问今年的新品，是尬场高发区。",
+      "collocation": "brochure 宣传册/画册；company brochure 公司宣传册；product brochure 产品画册；company profile 公司简介；catalogue 产品目录；leaflet/flyer 单页；e-brochure 电子版宣传册；printed brochure 印刷版宣传册；attach a brochure 附上宣传册；brochure design 画册设计",
+      "examples": [
+        {
+          "en": "Please find our latest product brochure attached, which covers the full range of prefabricated steel houses and recent overseas projects.",
+          "zh": "请查收附件中我方最新的产品宣传册，涵盖全系列预制钢结构房屋及近期海外项目案例。",
+          "audio": "audio/ex/brochure-1.mp3"
+        }
+      ],
+      "mnemonic": "法语借词，词尾 -chure 读 /ʃə(r)/（同 picture 的尾音），别读成 /tʃʊə/。发音联想\"布肉舍\"——布做的册子。发邮件时的三件套万能句：Please find attached our company profile / product brochure / recent project list.（附上公司简介、产品画册与近期业绩表，请查收。）寄实体版给客户时：I've sent two printed brochures to your office by courier - please let me know once received.（两本纸质画册已 courier 寄至贵司，收到请告知。）简单记：brochure 是\"广撒网\"，proposal 是\"量身定做\"。",
+      "issue": 25,
+      "date": "2026-09-28",
+      "theme": "楼面搁栅布置 → 楼梯坡道扶手做完 → 报价口径锁定 Incoterms → 客户来访备宣传册 → 年度绩效评估举证",
+      "gloss": "宣传册；产品画册",
+      "category": "客户接待",
+      "audio": "audio/brochure.mp3"
+    },
+    {
+      "word": "appraisal",
+      "phonetic": "/əˈpreɪzl/",
+      "meaning": "对人或对物的正式评定。职场语境里指 performance appraisal（绩效考核/年度评估），是年底写自评、举例举证、谈升薪的直接场景；工程语境里指对资产、风险、损失的\"评估/鉴定\"（如 damage appraisal 损失鉴定、risk appraisal 风险评估）。它与已学的 milestone（第 23 期节点）、delegate（第 14 期授权）、briefing（第 15 期简报）共处同一条职场线：年初定目标 → 抓 milestone → 年底 appraisal 拿数据说话。写英文自评最关键的是用数字举证：交付了几个 proposal、审了多少张 shop drawing（第 21 期）、接待了几批客户、为公司带来多少 inquiry 转化——空泛形容词（hard-working, passionate）说服力远不及量化指标。",
+      "collocation": "appraisal 评估/考核；performance appraisal 绩效考核；annual appraisal 年度绩效评估；self-appraisal 自评；appraisal interview/meeting 绩效面谈；appraisal form 考核表；staff appraisal 员工考核；risk appraisal 风险评估；damage appraisal 损失鉴定；appraisal report 评估报告",
+      "examples": [
+        {
+          "en": "In my annual appraisal I listed the twelve technical proposals I delivered this year and the overseas projects they won.",
+          "zh": "在年度绩效评估中，我列出了今年交付的 12 份技术方案，以及它们拿下的海外项目。",
+          "audio": "audio/ex/appraisal-1.mp3"
+        }
+      ],
+      "mnemonic": "动词 appraise（评定）+ -al = 评定出来的结论。谐音\"额…普雷泽\"——年底老板对你开始\"评估\"，先\"额…\"一声心里发虚。区分：appraisal 是对人/物价值的评定，evaluation 偏\"效果/方案的评测\"，assessment 偏\"考试/能力测评\"。职场三连句背下来：My appraisal is coming up next month.（下个月要做绩效评估了。）/ I'm preparing my self-appraisal.（我在写自评。）/ I got an excellent rating in this year's appraisal.（今年考核拿了优秀。）——绩效面谈时最有用的一句：Could you give me specific feedback on where I can improve?（能否就我需要改进的地方给些具体反馈？）",
+      "issue": 25,
+      "date": "2026-09-28",
+      "theme": "楼面搁栅布置 → 楼梯坡道扶手做完 → 报价口径锁定 Incoterms → 客户来访备宣传册 → 年度绩效评估举证",
+      "gloss": "绩效考核；评估鉴定",
+      "category": "职场",
+      "audio": "audio/appraisal.mp3"
     }
   ]
 }

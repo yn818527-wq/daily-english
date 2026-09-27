@@ -479,5 +479,25 @@
   "proposal": {
     "gloss": "方案建议书；提案",
     "category": "职场"
+  },
+  "joist": {
+    "gloss": "搁栅；次梁（托楼板的小梁）",
+    "category": "钢结构"
+  },
+  "handrail": {
+    "gloss": "扶手；栏杆扶手",
+    "category": "钢结构"
+  },
+  "incoterms": {
+    "gloss": "国际贸易术语通则（Incoterms 2020）",
+    "category": "外贸"
+  },
+  "brochure": {
+    "gloss": "宣传册；产品画册",
+    "category": "客户接待"
+  },
+  "appraisal": {
+    "gloss": "绩效考核；评估鉴定",
+    "category": "职场"
   }
 }
