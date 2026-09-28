@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28",
-  "total": 125,
+  "updated": "2026-09-29",
+  "total": 130,
   "words": [
     {
       "word": "truss",
@@ -2601,6 +2601,106 @@
       "gloss": "绩效考核；评估鉴定",
       "category": "职场",
       "audio": "audio/appraisal.mp3"
+    },
+    {
+      "word": "sandwich panel",
+      "phonetic": "/ˈsænwɪdʒ ˈpænl/",
+      "meaning": "两层金属面板（通常为彩涂钢板）中间夹一层芯材，工厂一次成型的复合板材，是钢结构厂房与模块化房屋围护系统的主力材料。它把 cladding（第 10 期围护板）这个概念具体化：单板是 single-skin sheet，夹芯板才是自带保温的 sandwich panel。芯材决定性能——EPS（聚苯板，最便宜）、rock wool / mineral wool（岩棉，防火首选，海外项目消防审查常强制要求）、PU/PIR（聚氨酯，保温最好）。屋面用 roof panel（带波峰、需考虑坡度与锁边），墙面用 wall panel（可横铺可竖铺）。报价三要素：panel thickness（板厚，常用 50/75/100 mm）、steel sheet gauge（钢板厚度，常 0.4/0.5/0.6 mm）、core density（芯材容重）——客户压价时往往就在芯材容重上做文章。",
+      "collocation": "sandwich panel 夹芯板；rock wool sandwich panel 岩棉夹芯板；EPS/PU sandwich panel 聚苯/聚氨酯夹芯板；roof panel 屋面板；wall panel 墙面板；panel thickness 板厚（50/75/100 mm）；core material 芯材；facade panel 幕墙/外墙板；panel joint 板缝；hidden screw fixing 隐藏式螺钉固定；through-fixed panel 明钉固定板",
+      "examples": [
+        {
+          "en": "We propose 75 mm rock wool sandwich panels for the walls to meet the client's two-hour fire rating requirement.",
+          "zh": "为满足客户两小时耐火极限的要求，我方建议墙体采用 75 毫米厚岩棉夹芯板。",
+          "audio": "audio/ex/sandwich-panel-1.mp3"
+        }
+      ],
+      "mnemonic": "sandwich（三明治）+ panel（板）= 两片\"面包\"夹一层\"馅\"——上下面板是面包，中间芯材是馅料，形象到不用解释。记芯材三兄弟：EPS 便宜、PU 保温、rock wool 防火，客户问消防时秒答 rock wool。谈判防坑句：Please note the quote is based on 120 kg/m³ rock wool density, not 80.（请注意报价按 120 千克/立方米岩棉容重核算，不是 80。）——容重写进规格书 specification（第 10 期），避免以次充好。",
+      "issue": 26,
+      "date": "2026-09-29",
+      "theme": "围护选夹芯板 → 图纸对轴线 → 外贸办原产地证 → 客户来访约时间 → 工作排优先级",
+      "gloss": "夹芯板（两面板夹芯材）",
+      "category": "钢结构",
+      "audio": "audio/sandwich-panel.mp3"
+    },
+    {
+      "word": "grid line",
+      "phonetic": "/ɡrɪd laɪn/",
+      "meaning": "结构施工图上那套纵横编号的定位网格线，是整套图纸的\"坐标骨架\"——横向用数字（1、2、3…），纵向用字母（A、B、C…，通常跳过 I 和 O 以免与 1、0 混淆）。它和已学的 layout（第 6 期平面布置）、section（第 11 期剖面图）、shop drawing（第 21 期深化图）串成看图逻辑：先看 grid line 定位，再看平面 layout，再切 section 看高度，最后出加工图。跨国项目沟通里，grid line 是最高效的定位语言——\"Grid C/4 这根柱子的底板对不上孔\"一句话，比描述半天位置清楚得多。现场放线（setting out）的第一步就是放出 grid line，轴线错了，后面所有构件全错，是钢结构安装里代价最高的错误之一。",
+      "collocation": "grid line 轴线；grid 轴网；column grid 柱网/柱轴网；grid spacing 柱距/轴网间距；grid intersection 轴线交点；on grid line C 在 C 轴上；between grids 3 and 4 在 3 与 4 轴之间；setting out 放线/测设；grid reference 轴线编号引用；structural grid 结构轴网；off-grid 偏轴（不在轴网上）",
+      "examples": [
+        {
+          "en": "Please check the anchor bolt positions at the intersection of grid lines C and 4 before we start the column erection.",
+          "zh": "开始钢柱吊装前，请先复核 C 轴与 4 轴交点处的地脚螺栓位置。",
+          "audio": "audio/ex/grid-line-1.mp3"
+        }
+      ],
+      "mnemonic": "grid（网格/栅格）+ line（线）= 网格线。中文图纸叫\"轴线\"，英文直说 grid，别直译成 axis line（那是数学里的坐标轴）。记一条读图顺序：grid（在哪儿）→ plan（什么样）→ section（多高）→ detail（怎么做）。现场汇报万能定位句：The beam between grids 5 and 6 needs rework.（5 到 6 轴之间的这根梁需要返工。）另记一个高频短语：as-built grid（竣工实测轴线），验收时对比设计轴线全靠它。",
+      "issue": 26,
+      "date": "2026-09-29",
+      "theme": "围护选夹芯板 → 图纸对轴线 → 外贸办原产地证 → 客户来访约时间 → 工作排优先级",
+      "gloss": "轴线；轴网定位线",
+      "category": "建筑设计",
+      "audio": "audio/grid-line.mp3"
+    },
+    {
+      "word": "certificate of origin",
+      "phonetic": "/səˈtɪfɪkət əv ˈɒrɪdʒɪn/",
+      "meaning": "由商会或海关签发、证明货物\"Made in China\"的官方文件，是出口清关单证包里的固定成员。它和已学的单证串成一条链：proforma invoice（第 4 期形式发票）→ packing list（第 12 期装箱单）→ bill of lading（第 9 期提单）→ certificate of origin（原产地证）→ customs clearance（第 7 期清关）。它最实际的用途是帮客户减免关税：中国—东盟、RCEP 等自贸协定项下的 FORM E / RCEP 原产地证，能让客户在目的国享受零关税或优惠税率——这也是为什么非洲、东南亚客户频繁索要。注意与 inspection certificate（检验证书）、certificate of quality（质量证书）区分：CO 只管\"货从哪来\"，不管\"货好不好\"。",
+      "collocation": "certificate of origin 原产地证；CO / C/O 原产地证（缩写）；FORM E 中国—东盟自贸区原产地证；RCEP certificate of origin RCEP 原产地证；issue a certificate of origin 签发原产地证；CCPIT 中国国际贸易促进委员会（贸促会）；chamber of commerce 商会；certificate of quality 质量证书；inspection certificate 检验证书；preferential tariff 优惠关税；origin criterion 原产地标准",
+      "examples": [
+        {
+          "en": "We will apply for the FORM E certificate of origin from CCPIT so that your customs can grant the preferential duty rate.",
+          "zh": "我方将向贸促会申请 FORM E 原产地证，以便贵方海关给予优惠关税税率。",
+          "audio": "audio/ex/certificate-of-origin-1.mp3"
+        }
+      ],
+      "mnemonic": "certificate（证书）+ of origin（关于来源）= 证明\"出身\"的证书。缩写 CO 一定要会认——客户邮件里写 \"pls send CO\" 就是催这份文件。记一组自贸协定证书代号：FORM E = 东盟（东南亚项目最常用）、FORM F = 智利、RCEP = 区域全面经济伙伴关系。客户催单时的标准回复：The CO is under application and will be ready within three working days.（原产地证正在办理中，三个工作日内可出。）提醒一句：CO 上的品名、件数、毛重必须与提单、装箱单严格一致，三个数字对不上，客户清关必卡。",
+      "issue": 26,
+      "date": "2026-09-29",
+      "theme": "围护选夹芯板 → 图纸对轴线 → 外贸办原产地证 → 客户来访约时间 → 工作排优先级",
+      "gloss": "原产地证 CO",
+      "category": "外贸",
+      "audio": "audio/certificate-of-origin.mp3"
+    },
+    {
+      "word": "appointment",
+      "phonetic": "/əˈpɔɪntmənt/",
+      "meaning": "约好时间地点的正式会面，客户接待场景里最基本的一个动作名词。它把已学的接待链条往前推了一步：先 make an appointment（约时间）→ 再定 itinerary（第 1 期行程）→ 现场 pick-up（第 4 期接机）→ 会上过 agenda（第 4 期议程）→ 全程讲 courtesy（第 2 期礼遇）。作\"任命\"讲时指职位委派（如 the appointment of a new project manager），与 delegate（第 14 期授权分派）相邻但不同——appointment 是正式任命，delegate 是把具体任务派下去。邮件里最常见的三个动词搭配：make / schedule / confirm an appointment（约/排/确认会面），改期用 reschedule，取消用 cancel。注意一个文化细节：英文商务沟通里改期必须同时给出新的备选时间，只说\"I need to change it\"会被认为不够职业。",
+      "collocation": "appointment 预约/会面；make an appointment 预约；schedule an appointment 安排会面；confirm an appointment 确认会面；reschedule an appointment 改期；cancel an appointment 取消预约；by appointment only 仅限预约；site appointment 现场会面；appointment letter 任命书/聘书；prior appointment 先前已有的约见；without an appointment 未经预约",
+      "examples": [
+        {
+          "en": "I'd like to confirm our appointment for the factory visit at 10 a.m. next Tuesday, and would 2 p.m. also work as a backup?",
+          "zh": "我想确认下周二上午 10 点的验厂会面，另外下午 2 点是否也可作为备选时间？",
+          "audio": "audio/ex/appointment-1.mp3"
+        }
+      ],
+      "mnemonic": "动词 appoint（指定、任命）+ -ment = 被指定下来的那个时间点。谐音\"额… appointments? 我看看日程\"——接电话时的经典反应。背一组高频句，覆盖接待全流程：Do you have time for a short appointment this week?（本周有空简短会个面吗？）/ I'm afraid I have a prior appointment.（抱歉，我已有约在先。）/ Let's reschedule the appointment to Thursday morning.（我们把会面改到周四上午。）——改期务必补一句备选时间，这是英文商务礼仪的基本盘。",
+      "issue": 26,
+      "date": "2026-09-29",
+      "theme": "围护选夹芯板 → 图纸对轴线 → 外贸办原产地证 → 客户来访约时间 → 工作排优先级",
+      "gloss": "预约；约定会面",
+      "category": "客户接待",
+      "audio": "audio/appointment.mp3"
+    },
+    {
+      "word": "priority",
+      "phonetic": "/praɪˈɒrəti/",
+      "meaning": "事情的重要程度排序，或排在最前面必须处理的事项。它是职场效率话题的核心词，与已学的 deadline（第 12 期截止日期）、workload（第 3 期工作量）、burnout（第 19 期职业倦怠）、procrastinate（第 18 期拖延）串成一条完整的自我管理线：workload 太重 → 必须定 priority → 赶 deadline → 别 procrastinate → 否则 burnout。它的动词搭配 prioritize（排优先级）在汇报和邮件里极高频。真正职业的用法不是\"我有很多事\"，而是说出排序和取舍：当客户临时加需求时，专业回答是\"If this becomes top priority, the shop drawing submission will slip by two days\"（若这项提为最高优先级，加工图提交将顺延两天）——把优先级说出口，等于把代价也摆上桌。",
+      "collocation": "priority 优先级/优先事项；top priority 头等大事；high/low priority 高/低优先级；first priority 首要任务；give priority to 优先考虑；set priorities 排定优先级；priority list 优先级清单；prioritize tasks 给任务排优先级；competing priorities 相互冲突的优先事项；safety is our priority 安全是我们的首要原则；priority of work 施工顺序/工作优先顺序",
+      "examples": [
+        {
+          "en": "Finalising the shop drawings is our top priority this week, so the quotation for the new inquiry may take two more days.",
+          "zh": "本周的头等大事是敲定加工图，因此这份新询盘的报价可能要多花两天。",
+          "audio": "audio/ex/priority-1.mp3"
+        }
+      ],
+      "mnemonic": "来自 prior（在前的）+ -ity，字面义\"排在前头的性质\"。谐音\"扑来要我提\"——事情都扑过来，要我提优先级。记一个万能句式，客户插单时直接套用：If this is top priority, then X will be delayed by Y days.（若此项最优先，则 X 将顺延 Y 天。）——把取舍讲明白，比硬扛下来再延期专业得多。现场安全标语里那句高频口号也一并记住：Safety is our top priority.（安全是我们的头等大事。）",
+      "issue": 26,
+      "date": "2026-09-29",
+      "theme": "围护选夹芯板 → 图纸对轴线 → 外贸办原产地证 → 客户来访约时间 → 工作排优先级",
+      "gloss": "优先级；优先事项",
+      "category": "职场",
+      "audio": "audio/priority.mp3"
     }
   ]
 }

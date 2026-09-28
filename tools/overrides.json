@@ -499,5 +499,25 @@
   "appraisal": {
     "gloss": "绩效考核；评估鉴定",
     "category": "职场"
+  },
+  "sandwich panel": {
+    "gloss": "夹芯板（两面板夹芯材）",
+    "category": "钢结构"
+  },
+  "grid line": {
+    "gloss": "轴线；轴网定位线",
+    "category": "建筑设计"
+  },
+  "certificate of origin": {
+    "gloss": "原产地证 CO",
+    "category": "外贸"
+  },
+  "appointment": {
+    "gloss": "预约；约定会面",
+    "category": "客户接待"
+  },
+  "priority": {
+    "gloss": "优先级；优先事项",
+    "category": "职场"
   }
 }
