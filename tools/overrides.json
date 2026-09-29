@@ -519,5 +519,25 @@
   "priority": {
     "gloss": "优先级；优先事项",
     "category": "职场"
+  },
+  "ridge": {
+    "gloss": "屋脊；屋脊梁",
+    "category": "钢结构"
+  },
+  "fire rating": {
+    "gloss": "耐火等级；耐火极限",
+    "category": "建筑设计"
+  },
+  "tender": {
+    "gloss": "投标；招标；标书",
+    "category": "外贸"
+  },
+  "catering": {
+    "gloss": "餐饮供应；茶歇与团膳",
+    "category": "客户接待"
+  },
+  "feedback": {
+    "gloss": "反馈意见；回馈",
+    "category": "职场"
   }
 }

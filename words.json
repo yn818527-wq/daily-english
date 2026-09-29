@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29",
-  "total": 130,
+  "updated": "2026-09-30",
+  "total": 135,
   "words": [
     {
       "word": "truss",
@@ -2701,6 +2701,106 @@
       "gloss": "优先级；优先事项",
       "category": "职场",
       "audio": "audio/priority.mp3"
+    },
+    {
+      "word": "ridge",
+      "phonetic": "/rɪdʒ/",
+      "meaning": "两坡屋面在最高处相交的那条水平线，也是屋脊梁（ridge beam）与屋脊盖板（ridge cap）所在的位置。它和已学的 gable（第 24 期山墙）、rafter（第 9 期屋面斜梁）、purlin（第 2 期檩条）、seam（第 23 期直立锁边缝）串成一套完整的屋面词汇链：rafter 是斜向的骨架 → purlin 是横向的支撑 → ridge 是顶部收口的那条线 → ridge cap 盖上去才算防水闭合。施工里屋脊是最容易漏水的部位之一，验收必查三个点：ridge cap 的搭接长度（lap，通常 ≥ 150 mm）、脊处密封胶/堵头（sealant，第 20 期）是否打满、以及屋脊通风器（ridge vent）是否影响 panel 的固定。图纸上标 ridge level（屋脊标高），与 eave level（檐口标高）一起决定屋面坡度（roof pitch）。",
+      "collocation": "ridge 屋脊/脊线；ridge beam 屋脊梁；ridge cap / ridge flashing 屋脊盖板/泛水；ridge vent 屋脊通风器；ridge level 屋脊标高；ridge purlin 脊檩；ridge line 脊线；ridge tile 脊瓦；roof pitch 屋面坡度；eave 檐口；ridge capping 屋脊收边板",
+      "examples": [
+        {
+          "en": "The ridge cap must be lapped by at least 150 mm and fully sealed, otherwise the roof will leak at the ridge during the rainy season.",
+          "zh": "屋脊盖板搭接长度不得小于 150 毫米且必须满打密封，否则雨季屋脊处会漏水。",
+          "audio": "audio/ex/ridge-1.mp3"
+        }
+      ],
+      "mnemonic": "ridge 谐音\"脊\"——发音 /rɪdʒ/ 本身就带\"脊\"的意思，山脊（mountain ridge）、鼻梁（the ridge of the nose）都用它，屋脊只是换了个场景。记一组屋面对照：ridge = 顶（最高那条线），eave = 底（檐口最低那条线），一个屋顶的坡度就是这两条线之间的高差除以水平距离。现场常说的话：Check the ridge line before fixing the cap.（装盖板前先校一下脊线直不直。）——脊线不直，盖板越装越歪，返工代价极高。",
+      "issue": 27,
+      "date": "2026-09-30",
+      "theme": "屋面收屋脊 → 消防报审定耐火等级 → 海外项目投标 → 客户来访备茶歇 → 周会收反馈",
+      "gloss": "屋脊；屋脊梁",
+      "category": "钢结构",
+      "audio": "audio/ridge.mp3"
+    },
+    {
+      "word": "fire rating",
+      "phonetic": "/ˈfaɪər ˈreɪtɪŋ/",
+      "meaning": "建筑构件按标准试验能\"扛住火烧多久\"的分级指标，通常按小时计（1 hour / 2 hours fire rating）。它是海外项目消防报审里绕不开的一项，与已学的 insulation（第 11 期保温）、sandwich panel（第 26 期夹芯板）、sealant（第 20 期密封胶）直接相关：客户要 2 小时耐火极限，围护就得选岩棉夹芯板，钢结构本体则要做 fireproofing（防火保护）——常见做法是涂 intumescent paint（膨胀型防火涂料，遇火膨胀形成隔热层）或包防火板。三个必须分清的近义词：fire rating（耐火等级/多久）≠ fire resistance（耐火性能，泛指）≠ fire retardant（阻燃剂/阻燃处理，多指材料处理）。报价时客户常只说 \"2-hour fire rated wall\"，你要立刻追问是 wall assembly 整体还是 panel 单板，两者测试标准与价格差一截。",
+      "collocation": "fire rating 耐火等级/耐火极限；2-hour fire rating 两小时耐火极限；fire rated 达到耐火等级的；fire-rated wall/door 耐火墙/防火门；fireproofing 防火保护；intumescent paint 膨胀型防火涂料；fire resistance 耐火性能；fire retardant 阻燃剂/阻燃的；fire compartment 防火分区；fire escape 疏散通道；fire suppression system 灭火系统；certified fire rating 认证耐火等级",
+      "examples": [
+        {
+          "en": "The local authority requires a two-hour fire rating for the warehouse walls, so we need intumescent paint on the steel columns as well.",
+          "zh": "当地主管部门要求仓库墙体达到两小时耐火极限，因此钢柱也需要做膨胀型防火涂料。",
+          "audio": "audio/ex/fire-rating-1.mp3"
+        }
+      ],
+      "mnemonic": "fire（火）+ rating（等级评定）= \"能扛火多久的评分\"，像家电的能效等级一样是个分档指标，单位是小时。拆开记：等级是 rating，措施是 fireproofing，材料是 retardant，客户说 rating 你要答措施。谈判避雷句：Please confirm whether the 2-hour fire rating applies to the full wall assembly or the panel only.（请确认两小时耐火极限是针对整墙系统还是仅单板。）——这一句问清楚，能省掉后期大批量换料的风险。另记一条：防火涂料的干膜厚度（DFT, dry film thickness）验收必测，厚度不够等于白做。",
+      "issue": 27,
+      "date": "2026-09-30",
+      "theme": "屋面收屋脊 → 消防报审定耐火等级 → 海外项目投标 → 客户来访备茶歇 → 周会收反馈",
+      "gloss": "耐火等级；耐火极限",
+      "category": "建筑设计",
+      "audio": "audio/fire-rating.mp3"
+    },
+    {
+      "word": "tender",
+      "phonetic": "/ˈtendə/",
+      "meaning": "工程与外贸里\"招标—投标\"这一整套动作的核心词。作名词指标书/招标（invite tenders 招标、submit a tender 投标），作动词指正式投标（tender for a project）。它和已学的 inquiry（第 15 期询盘）、quotation（第 1 期报价）、proposal（第 24 期方案建议书）、bid 串成外贸获取订单的两条路径：零售散单走 inquiry → quotation；工程大单走 tender → bid → award。三个高频阶段词必须会：ITT = invitation to tender（招标邀请）、tender document（招标文件，含 BOQ 工程量清单）、award of contract（授标/中标通知）。注意 tender 也是\"温柔的\"（形容词）和\"法定货币\"（legal tender），但工程语境下 99% 是招投标。",
+      "collocation": "tender 招标/投标/标书；invite tenders 招标；submit a tender 递交标书；tender for a project 就某项目投标；tender document 招标文件；tender price 投标报价；tender period 投标期；tender bond / bid bond 投标保函/保证金；award a tender 授标；win a tender 中标；lose a tender 落标；open tender 公开招标；selective tender 邀请招标；BOQ (bill of quantities) 工程量清单；bid 投标/出价",
+      "examples": [
+        {
+          "en": "We submitted our tender for the steel structure package last Friday, and the client is expected to announce the award by the end of this month.",
+          "zh": "我方上周五递交了钢结构标段的投标书，客户预计本月底宣布授标结果。",
+          "audio": "audio/ex/tender-1.mp3"
+        }
+      ],
+      "mnemonic": "tender 本义\"提出、呈交\"（tender one's resignation 提交辞呈），引申为\"把自己的报价正式呈上去\"——投标就是郑重其事地把价递出去。别和 tender（温柔的）混，招投标场合一律是\"递标书\"。记一条完整链路：ITT 发标 → prepare tender 编标 → submit 递标 → evaluate 评标 → award 授标 → sign contract 签约。催结果的高频句：Could you please advise the status of our tender and the expected award date?（烦请告知我方投标的当前状态及预计授标日期。）——这比反复问\"我们中标了吗\"得体得多。",
+      "issue": 27,
+      "date": "2026-09-30",
+      "theme": "屋面收屋脊 → 消防报审定耐火等级 → 海外项目投标 → 客户来访备茶歇 → 周会收反馈",
+      "gloss": "投标；招标；标书",
+      "category": "外贸",
+      "audio": "audio/tender.mp3"
+    },
+    {
+      "word": "catering",
+      "phonetic": "/ˈkeɪtərɪŋ/",
+      "meaning": "为活动、会议或来访团队统一提供餐饮的服务，客户接待里的实操词。它把已学的接待链条补完整了：appointment（第 26 期预约）→ itinerary（第 1 期行程）→ pick-up（第 4 期接机）→ briefing（第 15 期简报）→ catering（用餐安排）→ protocol（第 16 期礼宾规程）。海外客户来访时，catering 是最容易踩坑的细节：必须在会前确认 dietary requirements（饮食禁忌）——清真（halal）、素食（vegetarian）、过敏（allergies）、斋月（Ramadan）期间的用餐时间都要问到。常见三类安排：working lunch（工作午餐，边吃边谈，最省时）、coffee break / tea break（上下午茶歇）、banquet（第 9 期宴会，正式晚宴）。动词用 cater for（为……供餐），供应商叫 caterer。",
+      "collocation": "catering 餐饮供应/团膳；catering service 餐饮服务；cater for 为……供餐；caterer 餐饮供应商；working lunch 工作午餐；coffee break / tea break 茶歇；refreshments 茶点饮料；dietary requirements 饮食要求/禁忌；halal 清真；vegetarian / vegan 素食/纯素；food allergy 食物过敏；buffet 自助餐；set menu 套餐；in-house catering 内部供餐；arrange catering 安排餐饮",
+      "examples": [
+        {
+          "en": "Before the factory visit, please check the delegation's dietary requirements so that we can arrange halal catering for the working lunch.",
+          "zh": "验厂之前，请核实来访代表的饮食禁忌，以便我们为工作午餐安排清真餐饮。",
+          "audio": "audio/ex/catering-1.mp3"
+        }
+      ],
+      "mnemonic": "cater（供餐）+ -ing。谐音\"K 特润\"——来访那天，茶歇管够，嗓子才\"润\"，谈判才顺。记一条接待万能问句，会前群发确认，几乎不会出错：Could you please advise any dietary requirements or allergies within your team?（请告知贵团队成员有无饮食忌口或过敏？）——问这一句，比事后发现客户不吃猪肉再手忙脚乱强一百倍。另记： halal 与 Ramadan 是中东、非洲、东南亚客户接待的高频关键词，写进客户档案里。",
+      "issue": 27,
+      "date": "2026-09-30",
+      "theme": "屋面收屋脊 → 消防报审定耐火等级 → 海外项目投标 → 客户来访备茶歇 → 周会收反馈",
+      "gloss": "餐饮供应；茶歇与团膳",
+      "category": "客户接待",
+      "audio": "audio/catering.mp3"
+    },
+    {
+      "word": "feedback",
+      "phonetic": "/ˈfiːdbæk/",
+      "meaning": "对工作成果、方案或服务回来的评价意见，职场沟通里最高频的名词之一。它和已学的 clarification（第 7 期澄清）、negotiation（第 11 期谈判）、rapport（第 18 期融洽关系）、appraisal（第 25 期绩效评估）串成一条闭环：先建 rapport → 用 clarification 对齐理解 → 交成果 → 收 feedback → 改方案 → 年终 appraisal 里用 feedback 举证。职场真正专业的用法是把它当成可索取、可落地的东西：give feedback（给反馈）、ask for feedback（主动要反馈）、act on feedback（照反馈改）、incorporate feedback into the design（把意见并进设计）。注意英文商务里的 feedback 是中性词，不一定是好话，所以邮件里常说 constructive feedback（建设性意见）来柔化；反义词组是 positive feedback（肯定）与 negative feedback（批评）。",
+      "collocation": "feedback 反馈意见；give/provide feedback 给出反馈；ask for feedback 征求反馈；collect feedback 收集反馈；act on feedback 根据反馈改进；incorporate feedback 采纳意见；constructive feedback 建设性意见；positive/negative feedback 正面/负面反馈；client feedback 客户反馈；feedback loop 反馈闭环；welcome your feedback 欢迎提出意见；feedback form 反馈表；360-degree feedback 360 度评估",
+      "examples": [
+        {
+          "en": "We have revised the shop drawings based on your feedback, and the updated version will be sent for your approval today.",
+          "zh": "我们已根据贵方反馈修改了加工图，更新版本将于今日发出供贵方审核。",
+          "audio": "audio/ex/feedback-1.mp3"
+        }
+      ],
+      "mnemonic": "feed（喂养）+ back（回来）= 你把方案\"喂\"出去，意见\"回\"过来，形成一个 loop（闭环）。谐音\"feed 反馈\"——喂食要有回路。记一组职场高频三连：Thanks for the feedback.（谢谢反馈。）/ We'll incorporate it into the revised design.（我们会把它并入修改版设计。）/ Please let us know if you have any further comments.（如有进一步意见请告知。）主动索取反馈是职场加分项：Could you share some feedback on the proposal so we can fine-tune it?（能否就这份方案提些意见，以便我们微调？）——敢问的人进步最快。",
+      "issue": 27,
+      "date": "2026-09-30",
+      "theme": "屋面收屋脊 → 消防报审定耐火等级 → 海外项目投标 → 客户来访备茶歇 → 周会收反馈",
+      "gloss": "反馈意见；回馈",
+      "category": "职场",
+      "audio": "audio/feedback.mp3"
     }
   ]
 }
