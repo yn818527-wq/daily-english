@@ -13,6 +13,7 @@ import json
 import os
 import re
 import sys
+import time
 
 try:
     import edge_tts
@@ -52,6 +53,31 @@ async def synth(text, out):
     await comm.save(out)
 
 
+def synth_retry(text, path, tries=3):
+    """合成到 path；失败/产出空文件时自动重试，仍失败则删除残留空文件。
+
+    edge-tts 偶发 wss 连接超时，且失败时会在磁盘留下 0 字节 mp3，
+    导致下一次运行因 os.path.exists 判断而永久跳过该文件。
+    """
+    last = None
+    for i in range(tries):
+        try:
+            synth_retry(text, path)
+            if os.path.exists(path) and os.path.getsize(path) > 0:
+                return True
+            last = RuntimeError("empty output file")
+        except Exception as e:
+            last = e
+        if os.path.exists(path):
+            try:
+                os.remove(path)          # 清掉 0 字节残留，避免下次被跳过
+            except OSError:
+                pass
+        if i < tries - 1:
+            time.sleep(2)
+    raise last
+
+
 def main():
     force = "--force" in sys.argv
     os.makedirs(AUDIO_DIR, exist_ok=True)
@@ -71,7 +97,7 @@ def main():
             w["audio"] = rel
             return
         try:
-            asyncio.run(synth(w["word"], path))
+            synth_retry(w["word"], path)
             w["audio"] = rel
             made += 1
             print("  +", w["word"], "->", rel)
@@ -93,7 +119,7 @@ def main():
             if not text:
                 continue
             try:
-                asyncio.run(synth(text, path))
+                synth_retry(text, path)
                 ex["audio"] = rel
                 made += 1
                 print("  + 例句", w["word"], i + 1, "->", rel)

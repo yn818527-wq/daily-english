@@ -10,6 +10,7 @@ Token 来源：环境变量 GH_TOKEN，或仓库上级目录 .gh_token 文件。
 只会上传与远端不一致的文件（按 git blob sha1 比对），音频等二进制走 base64。
 """
 import base64
+import time
 import hashlib
 import json
 import os
@@ -65,17 +66,28 @@ def main():
         "X-GitHub-Api-Version": "2022-11-28",
     }
 
+    def req(method, url, tries=5, **kw):
+        """统一带重试的请求：沙箱到 api.github.com 偶发 SSL EOF / 连接重置，重试即可通过"""
+        last = None
+        for i in range(tries):
+            try:
+                rr = requests.request(method, url, headers=H, **kw)
+                rr.raise_for_status()
+                return rr
+            except Exception as e:
+                last = e
+                if i < tries - 1:
+                    print(f"  ! {method} {url.split('/repos/')[-1]} 重试 {i + 1}/{tries - 1}：{type(e).__name__}")
+                    time.sleep(3 * (i + 1))
+        raise last
+
     # 1. 远端当前 commit / tree
-    r = requests.get(f"{API}/repos/{OWNER}/{REPO}/branches/{BRANCH}", headers=H, timeout=30)
-    r.raise_for_status()
+    r = req("GET", f"{API}/repos/{OWNER}/{REPO}/branches/{BRANCH}", timeout=30)
     base_commit = r.json()["commit"]["sha"]
     base_tree = r.json()["commit"]["commit"]["tree"]["sha"]
 
-    r = requests.get(
-        f"{API}/repos/{OWNER}/{REPO}/git/trees/{base_tree}",
-        headers=H, params={"recursive": "1"}, timeout=30
-    )
-    r.raise_for_status()
+    r = req("GET", f"{API}/repos/{OWNER}/{REPO}/git/trees/{base_tree}",
+            params={"recursive": "1"}, timeout=30)
     remote = {i["path"]: i["sha"] for i in r.json().get("tree", []) if i["type"] == "blob"}
 
     # 2. 找出需要上传的文件
@@ -95,20 +107,11 @@ def main():
 
     # 3. 上传 blob（二进制用 base64）
     for rel, data, sha in upload:
-        try:
-            payload = {
-                "content": base64.b64encode(data).decode("ascii"),
-                "encoding": "base64",
-            }
-            rr = requests.post(f"{API}/repos/{OWNER}/{REPO}/git/blobs",
-                               headers=H, json=payload, timeout=120)
-            rr.raise_for_status()
-        except Exception:
-            # 纯文本可退回 utf-8 直接提交
-            txt = data.decode("utf-8")
-            rr = requests.post(f"{API}/repos/{OWNER}/{REPO}/git/blobs",
-                               headers=H, json={"content": txt, "encoding": "utf-8"}, timeout=120)
-            rr.raise_for_status()
+        payload = {
+            "content": base64.b64encode(data).decode("ascii"),
+            "encoding": "base64",
+        }
+        rr = req("POST", f"{API}/repos/{OWNER}/{REPO}/git/blobs", json=payload, timeout=120)
         got = rr.json()["sha"]
         assert got == sha, f"blob sha 不一致: {rel}"
         tree.append({"path": rel, "mode": "100644", "type": "blob", "sha": sha})
@@ -125,21 +128,18 @@ def main():
         return
 
     # 5. 建树
-    rr = requests.post(f"{API}/repos/{OWNER}/{REPO}/git/trees",
-                       headers=H, json={"base_tree": base_tree, "tree": tree}, timeout=60)
-    rr.raise_for_status()
+    rr = req("POST", f"{API}/repos/{OWNER}/{REPO}/git/trees", timeout=60,
+             json={"base_tree": base_tree, "tree": tree})
     new_tree = rr.json()["sha"]
 
     # 6. 建提交
-    rr = requests.post(f"{API}/repos/{OWNER}/{REPO}/git/commits", headers=H, timeout=60,
-                       json={"message": msg, "tree": new_tree, "parents": [base_commit]})
-    rr.raise_for_status()
+    rr = req("POST", f"{API}/repos/{OWNER}/{REPO}/git/commits", timeout=60,
+             json={"message": msg, "tree": new_tree, "parents": [base_commit]})
     new_commit = rr.json()["sha"]
 
     # 7. 更新分支引用
-    rr = requests.patch(f"{API}/repos/{OWNER}/{REPO}/git/refs/heads/{BRANCH}",
-                        headers=H, json={"sha": new_commit}, timeout=60)
-    rr.raise_for_status()
+    req("PATCH", f"{API}/repos/{OWNER}/{REPO}/git/refs/heads/{BRANCH}",
+        timeout=60, json={"sha": new_commit})
 
     print(f"已提交 {new_commit[:8]}：{msg}")
     print("完成。GitHub Pages 通常 1-2 分钟后生效。")

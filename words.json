@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30",
-  "total": 135,
+  "updated": "2026-10-10",
+  "total": 140,
   "words": [
     {
       "word": "truss",
@@ -2801,6 +2801,106 @@
       "gloss": "反馈意见；回馈",
       "category": "职场",
       "audio": "audio/feedback.mp3"
+    },
+    {
+      "word": "coating",
+      "phonetic": "/ˈkəʊtɪŋ/",
+      "meaning": "涂覆在钢材表面起保护或装饰作用的一层材料，也指整套涂装体系。它和已学的 corrosion（第 13 期腐蚀）、galvanize（第 2 期热浸镀锌）、torque（第 13 期扭矩）、fire rating（第 27 期耐火等级）串成钢结构防腐防火的完整链条：表面处理（surface preparation）→ 底漆 primer → 中间漆 intermediate coat → 面漆 topcoat → 干膜厚度验收 DFT。海外项目报价里最容易被追问的三件事：涂装体系几道（how many coats）、干膜总厚度多少微米（total DFT in microns）、表面处理等级是不是 Sa 2.5 喷砂。常见体系：hot-dip galvanizing（热浸镀锌，已学 galvanize）、epoxy zinc-rich primer（环氧富锌底漆）、polyurethane topcoat（聚氨酯面漆）、intumescent coating（膨胀型防火涂料）。注意三个近义区别：coating 是\"涂层/涂层体系\"，paint 偏\"涂料/油漆\"，lining 是内衬（如管内壁、水池内衬）。",
+      "collocation": "coating 涂层/涂装；anti-corrosion coating 防腐涂层；coating system 涂装体系；primer 底漆；intermediate coat 中间漆；topcoat 面漆；epoxy zinc-rich primer 环氧富锌底漆；polyurethane topcoat 聚氨酯面漆；intumescent coating 膨胀型防火涂料；surface preparation 表面处理；Sa 2.5 blast cleaning 喷砂除锈 Sa 2.5；DFT (dry film thickness) 干膜厚度；WFT (wet film thickness) 湿膜厚度；coat 一道涂层/涂覆；touch-up 补涂；coating thickness gauge 涂层测厚仪；holiday detection 针孔检测",
+      "examples": [
+        {
+          "en": "The coating system shall be epoxy zinc-rich primer plus polyurethane topcoat, with a total dry film thickness of not less than 240 microns.",
+          "zh": "涂装体系应为环氧富锌底漆加聚氨酯面漆，干膜总厚度不得小于 240 微米。",
+          "audio": "audio/ex/coating-1.mp3"
+        }
+      ],
+      "mnemonic": "coat 本义\"外套\"，给钢梁穿一件外套就是 coating——穿上外套才不怕风吹雨淋生锈。谐音\"扣挺\"：涂层要\"扣\"得牢、表面\"挺\"平整才算合格。记三个验收必问的数字：Sa 2.5（除锈等级）、DFT 240 μm（总干膜厚度）、two-pack（双组分）。谈判避雷句：Please confirm the coating system and the required DFT before we finalize the price.（请在定稿价格前确认涂装体系及要求的干膜厚度。）——涂装差一道，报价能差出一成，签合同前必须锁死。",
+      "issue": 28,
+      "date": "2026-10-10",
+      "theme": "给钢构件定防腐涂装体系 → 荷载核算分清恒载活载 → 平面图汇报动线 → 报价改报 EXW 工厂交货 → 车间里开技术研讨会",
+      "gloss": "涂层；防腐涂装",
+      "category": "钢结构",
+      "audio": "audio/coating.mp3"
+    },
+    {
+      "word": "dead load",
+      "phonetic": "/ˈded ləʊd/",
+      "meaning": "结构自身及长期固定附着物的重量所产生的荷载，也就是\"永远压在那儿、不会挪走\"的那部分力。它和已学的 deflection（第 4 期挠度）、camber（第 18 期预起拱）、shear（第 15 期剪力）、span（第 8 期跨度）同属结构设计的核心词汇。荷载组合里最重要的四兄弟必须分清：dead load 恒载（DL，自重）、live load 活载（LL，人、家具、可移动设备）、wind load 风载（WL）、seismic load 地震作用（EL）；此外还有雪载 snow load、吊车荷载 crane load。海外项目最容易出问题的一点：客户所在国的活载与风载取值按当地规范（美标 ASCE 7、欧标 EN 1991），不能直接套国内 GB 取值，报价前必须让业主书面提供设计荷载参数（design load data），否则后期加料谁买单说不清。",
+      "collocation": "dead load 恒载/静载；live load 活载；wind load 风荷载；seismic load 地震作用；snow load 雪荷载；crane load 吊车荷载；imposed load 施加荷载（英式说法≈活载）；load combination 荷载组合；design load 设计荷载；load case 工况；uniformly distributed load 均布荷载；point load 集中荷载；self-weight 自重；superimposed dead load 附加恒载；factor of safety 安全系数；ASCE 7 / EN 1991 美标/欧标荷载规范",
+      "examples": [
+        {
+          "en": "Please provide the design dead load and live load for the mezzanine, as our current calculation is based on the Chinese code only.",
+          "zh": "请提供夹层的设计恒载与活载，因为我们目前的计算仅依据中国规范。",
+          "audio": "audio/ex/dead-load-1.mp3"
+        }
+      ],
+      "mnemonic": "dead = 死，\"死了不动的荷载\"就是恒载——梁自己的重量、楼板的重量，永远在那儿，跑不掉；live = 活，\"会走会动的\"人和家具才是活载。一句口诀：DL 是死的（自重），LL 是活的（人）。实操里最有用的一句话：Our quote is based on a live load of 5 kN/m²; any increase will be re-quoted.（我方报价基于 5 千牛/平方米的活载，若提高将重新报价。）——把荷载写进报价附件，是外贸技术人最值钱的一个习惯。",
+      "issue": 28,
+      "date": "2026-10-10",
+      "theme": "给钢构件定防腐涂装体系 → 荷载核算分清恒载活载 → 平面图汇报动线 → 报价改报 EXW 工厂交货 → 车间里开技术研讨会",
+      "gloss": "恒荷载；静载",
+      "category": "工程结构",
+      "audio": "audio/dead-load.mp3"
+    },
+    {
+      "word": "floor plan",
+      "phonetic": "/ˈflɔː plæn/",
+      "meaning": "从上方向下剖切后画出的建筑图纸，表达墙体、柱网、门窗、房间划分与尺寸，是方案汇报里最先被看的一张图。它和已学的 layout（第 6 期平面布置）、elevation（第 2 期立面图）、section（第 11 期剖面图）、grid line（第 26 期轴线）、circulation（第 18 期流线）构成一套完整的图纸词汇。三个\"看图\"动词要会：draw / prepare a floor plan（画平面图）、review the floor plan（审图）、mark up the floor plan（在图上标注修改意见）。汇报时客户最常问的三件事：柱子会不会挡住使用空间（column grid）、人流物流会不会交叉（circulation）、能不能加个门或隔墙（partition，第 19 期）。近义区分：plan / floor plan 是平面图，site plan 是总平面图（看场地与道路），layout plan 偏\"布置图\"（设备、家具布置）。",
+      "collocation": "floor plan 平面图；ground floor plan 一层平面图；typical floor plan 标准层平面图；site plan 总平面图；layout plan 布置图；floor area 建筑面积；built-up area 总建筑面积；net area 使用面积；room layout 房间布置；column grid 柱网；door schedule 门窗表；dimension 尺寸标注；scale 比例尺；mark up 在图上批注；floor plan drawing 平面图图纸；as-built drawing 竣工图；key plan 索引图",
+      "examples": [
+        {
+          "en": "I have marked up the floor plan with three changes: a wider door, an extra partition, and a relocated column on grid C.",
+          "zh": "我已在这张平面图上批注了三处修改：加宽的门、新增的一道隔墙，以及 C 轴上一根移位的柱子。",
+          "audio": "audio/ex/floor-plan-1.mp3"
+        }
+      ],
+      "mnemonic": "floor（楼板/楼层）+ plan（图）= \"把这一层拍扁了看的图\"，就像把蛋糕横切一刀从上往下看。谐音\"浮plan\"——平面图是\"浮\"在半空中往下看的图。记一组对照三件套：plan = 从上往下看（平面）、elevation = 从外往里看（立面）、section = 切一刀看里面（剖面）。汇报万能句：Let me walk you through the floor plan first, then we'll look at the elevations.（我先带您过一遍平面图，然后我们再看立面。）——先平面后立面，是国际通行的汇报顺序。",
+      "issue": 28,
+      "date": "2026-10-10",
+      "theme": "给钢构件定防腐涂装体系 → 荷载核算分清恒载活载 → 平面图汇报动线 → 报价改报 EXW 工厂交货 → 车间里开技术研讨会",
+      "gloss": "平面图；平面布置图",
+      "category": "建筑设计",
+      "audio": "audio/floor-plan.mp3"
+    },
+    {
+      "word": "EXW",
+      "phonetic": "/ˌiː eks ˈdʌbljuː/",
+      "meaning": "Incoterms 里卖方责任最小的一个贸易术语，意思是\"货备好放在我方工厂/仓库，买方上门提货\"，此后的一切风险、运费、出口报关全由买方承担。它把已学的外贸术语链补齐了：EXW（工厂交货）→ FOB（第 21 期离岸价，卖方送到装运港船上）→ CIF（第 23 期到岸价，卖方加运保费）→ DDP（完税后交货，卖方全包），责任与报价依次递增。EXW 对卖方最省事但有两个坑：一是出口报关名义上归买方，买方若没有中国境内的清关能力，会卡在报关环节，实务中常约定\"卖方协助报关但费用买方承担\"；二是装车责任（loading）要写清楚，EXW 默认卖方不负责装车，若客户要求装柜，应改报 FCA（货交承运人）。报价邮件里务必把术语版本写明：EXW Qingdao, Incoterms 2020。",
+      "collocation": "EXW 工厂交货/出厂价；Ex Works 工厂交货（全称）；EXW Qingdao 青岛工厂交货价；FCA (Free Carrier) 货交承运人；FOB 离岸价；CIF 到岸价；DDP (Delivered Duty Paid) 完税后交货；Incoterms 2020 国际贸易术语通则 2020；ex-factory price 出厂价；ex-works price 出厂价；loading 装车/装柜；risk transfer 风险转移；delivery point 交货地点；buyer's nominated carrier 买方指定承运人；export declaration 出口报关；pick up the goods 提货",
+      "examples": [
+        {
+          "en": "The quoted price is EXW our Qingdao factory, Incoterms 2020, which excludes loading, inland transport and export customs declaration.",
+          "zh": "所报价格为青岛工厂交货价（Incoterms 2020",
+          "audio": "audio/ex/exw-1.mp3"
+        }
+      ],
+      "mnemonic": "EX = exit / out of（出门），W = works（工厂，注意 works 有\"工厂\"的意思，不是\"工作\"）——货一出工厂大门，剩下全归买方。记一条责任递增线：EXW（只管备货）→ FCA（送到承运人）→ FOB（装上船）→ CIF（加运保费）→ DDP（送到门+完税），越往右卖方责任越重、报价越高。谈判金句：If you prefer us to handle loading and export declaration, we can quote FCA instead of EXW.（若贵方希望由我方负责装车与出口报关，我们可以改报 FCA 而非 EXW。）——一句切换，既显专业又不让利。",
+      "issue": 28,
+      "date": "2026-10-10",
+      "theme": "给钢构件定防腐涂装体系 → 荷载核算分清恒载活载 → 平面图汇报动线 → 报价改报 EXW 工厂交货 → 车间里开技术研讨会",
+      "gloss": "工厂交货（出厂价）",
+      "category": "外贸",
+      "audio": "audio/exw.mp3"
+    },
+    {
+      "word": "workshop",
+      "phonetic": "/ˈwɜːkʃɒp/",
+      "meaning": "一个词两个场景，工程与职场都高频。作\"车间\"讲时指生产加工场所（钢结构厂里常说 fabrication workshop / workshop drawing），和已学的 fabrication（第 1 期加工）、shop drawing（第 21 期深化加工图）、prefabricate（第 14 期预制）同源——shop = 车间，车间里做的图叫 shop drawing，车间里开的会叫 workshop。作\"研讨会/工作坊\"讲时指小范围、重互动的讨论会，区别于一言堂的 presentation：workshop 强调一起动手出结果（brainstorm、分组讨论、现场出方案），客户接待里安排一个 half-day technical workshop（半天技术研讨会）往往比请一顿饭更能推进项目。动词搭配：hold / run / facilitate a workshop（举办/主持研讨会），attend a workshop（参加工作坊）。",
+      "collocation": "workshop 车间/研讨会；fabrication workshop 加工车间；workshop drawing 车间加工图；workshop manager 车间主任；machine shop 机加工车间；hold a workshop 举办研讨会；run/facilitate a workshop 主持研讨会；technical workshop 技术研讨会；design workshop 设计工作坊；half-day workshop 半日研讨会；workshop agenda 研讨会议程；breakout session 分组讨论；brainstorming 头脑风暴；handout 会议资料；action items 行动事项；takeaway 会议收获",
+      "examples": [
+        {
+          "en": "We suggest a half-day technical workshop at our fabrication workshop so your engineers can review the connection details with our team on site.",
+          "zh": "我们建议在我方加工车间举办一场半天的技术研讨会，以便贵方工程师与我方团队现场核对连接节点。",
+          "audio": "audio/ex/workshop-1.mp3"
+        }
+      ],
+      "mnemonic": "work（工作）+ shop（车间）= \"干活的地方\"——在厂里它就是车间；把\"一群人聚在一个房间里一起干活\"引申出去，就是研讨会。一句双关记牢：a workshop in the workshop（在车间里开研讨会）——这句话本身就涵盖了它两个意思。职场加分句：Shall we fix a two-hour workshop next Tuesday to close out the open items?（我们下周二安排个两小时的研讨会来收掉遗留问题，好吗？）——用 workshop 代替 meeting，听起来目标更明确、更专业。",
+      "issue": 28,
+      "date": "2026-10-10",
+      "theme": "给钢构件定防腐涂装体系 → 荷载核算分清恒载活载 → 平面图汇报动线 → 报价改报 EXW 工厂交货 → 车间里开技术研讨会",
+      "gloss": "车间；研讨会",
+      "category": "职场",
+      "audio": "audio/workshop.mp3"
     }
   ]
 }

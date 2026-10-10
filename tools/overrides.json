@@ -539,5 +539,25 @@
   "feedback": {
     "gloss": "反馈意见；回馈",
     "category": "职场"
+  },
+  "coating": {
+    "gloss": "涂层；防腐涂装",
+    "category": "钢结构"
+  },
+  "dead load": {
+    "gloss": "恒荷载；静载",
+    "category": "工程结构"
+  },
+  "floor plan": {
+    "gloss": "平面图；平面布置图",
+    "category": "建筑设计"
+  },
+  "exw": {
+    "gloss": "工厂交货（出厂价）",
+    "category": "外贸"
+  },
+  "workshop": {
+    "gloss": "车间；研讨会",
+    "category": "职场"
   }
 }
