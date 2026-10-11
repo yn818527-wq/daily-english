@@ -49,32 +49,41 @@ def silent_wav(path):
 
 
 async def synth(text, out):
+    """合成到临时文件，成功且非空后再原子替换成正式文件。
+
+    这样即使中途超时/中断，也不会在磁盘留下残缺 mp3
+    （残缺文件会被 os.path.exists 判断当成"已生成"而永久跳过）。
+    """
+    tmp = out + ".part"
     comm = edge_tts.Communicate(text, VOICE, rate=RATE)
-    await comm.save(out)
+    await asyncio.wait_for(comm.save(tmp), timeout=40)
+    if not os.path.exists(tmp) or os.path.getsize(tmp) == 0:
+        raise RuntimeError("empty output file")
+    os.replace(tmp, out)
 
 
 def synth_retry(text, path, tries=3):
     """合成到 path；失败/产出空文件时自动重试，仍失败则删除残留空文件。
 
-    edge-tts 偶发 wss 连接超时，且失败时会在磁盘留下 0 字节 mp3，
-    导致下一次运行因 os.path.exists 判断而永久跳过该文件。
+    edge-tts 偶发 wss 连接超时，因此每次尝试都带 40s 超时并退避重试。
     """
     last = None
     for i in range(tries):
         try:
-            synth_retry(text, path)
+            asyncio.run(synth(text, path))
             if os.path.exists(path) and os.path.getsize(path) > 0:
                 return True
             last = RuntimeError("empty output file")
         except Exception as e:
             last = e
-        if os.path.exists(path):
-            try:
-                os.remove(path)          # 清掉 0 字节残留，避免下次被跳过
-            except OSError:
-                pass
+        for p in (path, path + ".part"):
+            if os.path.exists(p):
+                try:
+                    os.remove(p)         # 清掉 0 字节/残缺残留，避免下次被跳过
+                except OSError:
+                    pass
         if i < tries - 1:
-            time.sleep(2)
+            time.sleep(3 + 2 * i)
     raise last
 
 

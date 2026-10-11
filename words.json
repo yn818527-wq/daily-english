@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-10",
-  "total": 140,
+  "updated": "2026-10-11",
+  "total": 145,
   "words": [
     {
       "word": "truss",
@@ -2901,6 +2901,106 @@
       "gloss": "车间；研讨会",
       "category": "职场",
       "audio": "audio/workshop.mp3"
+    },
+    {
+      "word": "beam",
+      "phonetic": "/biːm/",
+      "meaning": "水平方向承受弯矩并把荷载传给柱或墙的构件，是钢结构里出场率最高的词。它和已学的 girder（第 10 期主梁）、joist（第 25 期次梁/搁栅）、rafter（第 9 期屋面斜梁）、purlin（第 2 期檩条）、web（第 21 期腹板）、flange（第 5 期翼缘）、stiffener（第 7 期加劲肋）构成完整的梁系词汇。常用分类要分清：main beam / primary beam 主梁、secondary beam 次梁、crane beam 吊车梁、composite beam 组合梁、castellated beam 蜂窝梁；连接说法是 beam-to-column connection（梁柱连接）。看图纸时最常被追问的三个参数：截面规格（section size，如 HN400×200）、跨度（span，第 8 期）、挠度限值（deflection limit，第 4 期）。注意与 girder 的区分：girder 是\"更大的、承托次梁的主梁\"，beam 是通用词，日常口语里几乎都用 beam。",
+      "collocation": "beam 梁/钢梁；main beam 主梁；secondary beam 次梁；crane beam 吊车梁；composite beam 组合梁；castellated beam 蜂窝梁；beam-to-column connection 梁柱连接；beam-to-beam connection 梁梁连接；simply supported beam 简支梁；continuous beam 连续梁；cantilever beam 悬臂梁；beam span 梁跨度；beam depth 梁高；beam deflection 梁挠度；H-beam / I-beam H 型钢/工字钢；box beam 箱形梁；lattice beam 格构梁",
+      "examples": [
+        {
+          "en": "All secondary beams shall be HN300×150, simply supported, with a deflection limit of L/250 under live load.",
+          "zh": "所有次梁应采用 HN300×150，简支支承，活载作用下挠度限值为 L/250。",
+          "audio": "audio/ex/beam-1.mp3"
+        }
+      ],
+      "mnemonic": "beam 谐音\"壁木\"——墙上横着架的一根木头就是梁；也可以联想 gymnastics 里的 balance beam（平衡木），同样是一根横着的条。记一组层级：girder（老大，托别人的）> main beam（主梁）> secondary beam（次梁）> joist（搁栅/密次梁）> purlin（檩条，托屋面板的）。谈判/技术澄清金句：The beam size is governed by deflection, not by strength.（梁的截面由挠度控制，而非强度。）——这句话一出口，业主就知道你懂行，改截面时也能据理力争。",
+      "issue": 29,
+      "date": "2026-10-11",
+      "theme": "核对钢梁截面与连接 → 确认屋面坡度排水 → 谈交钥匙总包范围 → 接待来访客户代表团 → 技术会上达成共识",
+      "gloss": "梁；钢梁",
+      "category": "钢结构",
+      "audio": "audio/beam.mp3"
+    },
+    {
+      "word": "pitch",
+      "phonetic": "/pɪtʃ/",
+      "meaning": "屋面的倾斜程度，通常写成比例（1:10、10%）或角度（如 5°）。它和已学的 drainage（第 14 期排水）、ridge（第 27 期屋脊）、gable（第 24 期山墙）、seam（第 23 期直立锁边缝）、skylight（第 13 期天窗）、eaves 檐口串成屋面系统的完整链条。工程上要会三种表达：a roof pitch of 1:10（坡度 1:10）、a 10% slope（10% 坡度）、a 6-degree pitch（6 度坡）。客户最容易在这里踩坑的点：直立锁边屋面的最低坡度要求（standing seam roof 一般不宜小于 1:20 / 3%），坡度过小会倒灌漏水，做海外项目必须按当地降雨强度复核。另外 pitch 一词多义：还有\"沥青（bitumen 的旧称）\"、\"音高\"、\"推销话术（sales pitch）\"的意思，工程语境里默认指坡度。",
+      "collocation": "roof pitch 屋面坡度；pitch of 1:10 坡度 1:10；minimum pitch 最小坡度；steep pitch 陡坡；low-pitched roof 缓坡屋面；single pitch 单坡；double pitch 双坡；roof slope 屋面坡度（同义）；fall（英式）排水找坡；gradient 坡度/梯度；drainage fall 排水找坡；eaves 檐口；ridge 屋脊；standing seam roof 直立锁边屋面；roof run 坡长；roof rise 起坡高度；ponding 积水（倒灌）",
+      "examples": [
+        {
+          "en": "The roof pitch shall not be less than 1:20 to ensure proper drainage, especially in areas with heavy rainfall.",
+          "zh": "屋面坡度不得小于 1:20，以确保排水顺畅，尤其在强降雨地区。",
+          "audio": "audio/ex/pitch-1.mp3"
+        }
+      ],
+      "mnemonic": "pitch 谐音\"坡起\"——坡\"起\"来的那个角度就是坡度。足球场叫 pitch（场地），屋顶也有自己的\"场\"，两者都是一块面。记一个实用换算：1:10 = 10% ≈ 5.7°，1:20 = 5% ≈ 2.9°，客户说 percentage 你报 ratio，说 degree 你报度，来回切换不掉链。谈判金句：With a pitch below 3%, we recommend switching to a welded seam system instead of standing seam.（坡度低于 3% 时，我们建议改用焊接缝体系而非直立锁边。）——提前堵住漏水索赔的口子。",
+      "issue": 29,
+      "date": "2026-10-11",
+      "theme": "核对钢梁截面与连接 → 确认屋面坡度排水 → 谈交钥匙总包范围 → 接待来访客户代表团 → 技术会上达成共识",
+      "gloss": "屋面坡度；斜度",
+      "category": "建筑设计",
+      "audio": "audio/pitch.mp3"
+    },
+    {
+      "word": "turnkey",
+      "phonetic": "/ˈtɜːnkiː/",
+      "meaning": "指承包商从设计、采购、施工到调试全部负责，完工后\"把钥匙交给业主即可入住/投产\"的承包模式，是海外工程报价里最高频的一个词。它和已学的 tender（第 27 期投标）、proposal（第 24 期方案建议书）、scope of work 工作范围、handover（第 12 期移交）、commissioning（第 17 期调试）构成项目交付的完整链条。模式梯度要记住：supply only（供货）→ supply + erection（供货+安装）→ EPC（设计采购施工）→ turnkey / EPC turnkey（交钥匙）→ BOT/PPP（投资运营类）。出价时最大的风险是范围边界不清（battery limits / scope split），所以 turnkey 报价单里必须逐条列明 inclusions（含）与 exclusions（不含），尤其是地基、外接水电、室内装修、家具家电这些最容易扯皮的项。",
+      "collocation": "turnkey project 交钥匙工程；turnkey solution 交钥匙解决方案；turnkey contract 交钥匙合同；turnkey basis 交钥匙方式；on a turnkey basis 以交钥匙方式；EPC turnkey 设计采购施工交钥匙；lump-sum turnkey 总价包干交钥匙；supply only 仅供货；supply and erect 供货并安装；scope of work (SOW) 工作范围；battery limits 界区/范围边界；inclusions and exclusions 包含项与排除项；subcontract 分包；single point of responsibility 单一责任主体；LSTK (Lump Sum Turnkey) 总价交钥匙",
+      "examples": [
+        {
+          "en": "We can offer this camp project on a turnkey basis, including design, fabrication, delivery, erection and commissioning, but excluding site levelling and external utilities.",
+          "zh": "我方可以交钥匙方式承接该营地项目，含设计、加工、运输、安装与调试，但不含场地平整与外接水电。",
+          "audio": "audio/ex/turnkey-1.mp3"
+        }
+      ],
+      "mnemonic": "turn（转）+ key（钥匙）= 把钥匙一转，门就开了，业主拎包入住——承包商把活全干完，你只需要转动钥匙。谐音\"腾起\"：项目整体\"腾\"地一下就立起来了。谈判必背分界句：Please note our exclusions: civil foundation, external power and water supply, and loose furniture.（请注意我方的排除项：土建基础、外接水电及活动家具。）——turnkey 最容易亏钱的地方就是没写 exclusions，写清楚了报价才守得住。",
+      "issue": 29,
+      "date": "2026-10-11",
+      "theme": "核对钢梁截面与连接 → 确认屋面坡度排水 → 谈交钥匙总包范围 → 接待来访客户代表团 → 技术会上达成共识",
+      "gloss": "交钥匙（工程总承包）",
+      "category": "外贸",
+      "audio": "audio/turnkey.mp3"
+    },
+    {
+      "word": "delegation",
+      "phonetic": "/ˌdelɪˈɡeɪʃn/",
+      "meaning": "指来访的一整个客户/官方团队，是客户接待邮件里最标准的说法。注意与已学的 delegate（第 14 期：v. 授权/分派；n. 代表，指单个代表） 区分：delegation 是\"团\"（集体），delegate 是\"代表\"（个人）。接待常用搭配：receive/host a delegation（接待代表团）、lead/head a delegation（率团）、a delegation of six（六人代表团）、the delegation is headed by the CEO（代表团由首席执行官带队）。接待流程里的关键动作：确认 arrival details（航班抵达信息）、安排 airport pick-up（接机，第 4 期）、准备 itinerary（行程，第 1 期）、指定 liaison（对接人，第 19 期）、准备 name cards / welcome board（席卡/接机牌）、赠送 souvenir / company brochure（纪念品/宣传册，第 25 期）。邮件里最实用的一句是请对方提前提供名单与职务，以便安排车辆、酒店与对等接待。",
+      "collocation": "delegation 代表团；a delegation of six 六人代表团；head/lead a delegation 率团；receive/host a delegation 接待代表团；the delegation is headed by… 代表团由……带队；delegation list 代表团名单； delegation members 代表团成员；counterpart 对口人员；protocol officer 礼宾负责人；welcome board 接机牌；name card 席卡；meet and greet 迎候；escort 陪同（引领）；see off 送行；courtesy call 礼节性拜访（第 2 期）；official visit 正式访问",
+      "examples": [
+        {
+          "en": "Could you please send us the delegation list with full names and titles so that we can arrange the pick-up, hotel rooms and the factory tour accordingly?",
+          "zh": "烦请提供代表团名单及全名与职务，以便我方相应安排接机、酒店房间及工厂参观。",
+          "audio": "audio/ex/delegation-1.mp3"
+        }
+      ],
+      "mnemonic": "delegate（代表）+ -ion（名词后缀）= 一群代表组成的\"团\"。口诀：一个人是 delegate，一群人是 delegation。谐音\"带了 gates\"——带了一\"队\"人来考察。接待加分句：We will assign a dedicated liaison to accompany your delegation throughout the visit.（我方将指定专人全程陪同贵方代表团。）——把 liaison（第 19 期）和 delegation 连用，显得接待安排专业周到。",
+      "issue": 29,
+      "date": "2026-10-11",
+      "theme": "核对钢梁截面与连接 → 确认屋面坡度排水 → 谈交钥匙总包范围 → 接待来访客户代表团 → 技术会上达成共识",
+      "gloss": "代表团；来访团队",
+      "category": "客户接待",
+      "audio": "audio/delegation.mp3"
+    },
+    {
+      "word": "consensus",
+      "phonetic": "/kənˈsensəs/",
+      "meaning": "经过讨论后各方都能接受的共同意见，强调\"不是多数压倒少数，而是大家都认可\"。它和已学的 negotiation（第 12 期谈判）、clarification（第 7 期澄清）、counteroffer（第 10 期还盘）、briefing（第 15 期简报）、feedback（第 27 期反馈）构成会议沟通的完整词汇。动词搭配固定为 reach / arrive at / build consensus（达成共识），形容词是 general consensus（普遍共识）、consensus decision（共识决策）。注意它不等同于 agreement：agreement 是\"签下来的协议\"，consensus 是\"会上达成一致的意见\"，会上先有 consensus，会后才有 agreement。技术会上最好用的推进句式：总结已达成部分 → 标出未决项 → 约定下一步时间与责任人。",
+      "collocation": "consensus 共识；reach a consensus 达成共识；arrive at a consensus 取得一致意见；build consensus 建立共识；by general consensus 根据普遍共识；consensus decision 共识决策；consensus building 凝聚共识；unanimous 一致同意的；consent 同意/许可；common ground 共同点；dissent 异议；open item 未决项/遗留问题；close out 收尾销项；action item 行动事项；minutes 会议纪要",
+      "examples": [
+        {
+          "en": "Before we close the meeting, let me summarise the points where we have reached consensus and list the three open items for next week.",
+          "zh": "在结束会议前，我先总结一下我们已达成共识的要点，并列出留待下周处理的三个未决项。",
+          "audio": "audio/ex/consensus-1.mp3"
+        }
+      ],
+      "mnemonic": "con（共同）+ sens（感觉/看法，同 sense、sensible）+ -us = 大家的\"感觉\"想到一块儿去了，就是共识。谐音\"肯 sorted\"——大家肯把分歧sorted（理顺）了。会议收尾三件套背下来：consensus（已达成的）→ open items（未决的）→ action items with owners and deadlines（带责任人和期限的行动项）。万能推进句：Can we agree to disagree on this point and move on, so that we can close the rest today?（这一点我们能否保留各自意见先往前推进，以便今天把其余部分敲定？）——比硬顶更容易保住整体进度。",
+      "issue": 29,
+      "date": "2026-10-11",
+      "theme": "核对钢梁截面与连接 → 确认屋面坡度排水 → 谈交钥匙总包范围 → 接待来访客户代表团 → 技术会上达成共识",
+      "gloss": "共识；一致意见",
+      "category": "职场",
+      "audio": "audio/consensus.mp3"
     }
   ]
 }

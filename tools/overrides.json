@@ -559,5 +559,25 @@
   "workshop": {
     "gloss": "车间；研讨会",
     "category": "职场"
+  },
+  "beam": {
+    "gloss": "梁；钢梁",
+    "category": "钢结构"
+  },
+  "pitch": {
+    "gloss": "屋面坡度；斜度",
+    "category": "建筑设计"
+  },
+  "turnkey": {
+    "gloss": "交钥匙（工程总承包）",
+    "category": "外贸"
+  },
+  "delegation": {
+    "gloss": "代表团；来访团队",
+    "category": "客户接待"
+  },
+  "consensus": {
+    "gloss": "共识；一致意见",
+    "category": "职场"
   }
 }
