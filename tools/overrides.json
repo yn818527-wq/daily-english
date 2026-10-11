@@ -579,5 +579,25 @@
   "consensus": {
     "gloss": "共识；一致意见",
     "category": "职场"
+  },
+  "eaves": {
+    "gloss": "檐口；屋檐（出挑部分）",
+    "category": "建筑设计"
+  },
+  "alignment": {
+    "gloss": "对齐；定线；校直（安装精度）",
+    "category": "工程施工"
+  },
+  "demurrage": {
+    "gloss": "滞期费；集装箱超期堆存费",
+    "category": "外贸"
+  },
+  "escort": {
+    "gloss": "陪同人员；护送（v. 陪同）",
+    "category": "客户接待"
+  },
+  "onboarding": {
+    "gloss": "入职引导；新员上岗培训",
+    "category": "职场"
   }
 }

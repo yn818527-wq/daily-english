@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11",
-  "total": 145,
+  "updated": "2026-10-12",
+  "total": 150,
   "words": [
     {
       "word": "truss",
@@ -3001,6 +3001,106 @@
       "gloss": "共识；一致意见",
       "category": "职场",
       "audio": "audio/consensus.mp3"
+    },
+    {
+      "word": "eaves",
+      "phonetic": "/iːvz/",
+      "meaning": "屋面板在墙外侧挑出的边缘部分，是屋面与墙体交接的关键收口位置。它和已学的 pitch（第 29 期屋面坡度）、ridge（第 27 期屋脊）、gable（第 24 期山墙）、soffit（第 24 期挑檐底板/构件底面）、seam（第 23 期直立锁边缝）、parapet（第 20 期女儿墙）、canopy（第 16 期雨棚）串成完整的屋面系统链条。工程上常说的是 eaves height（檐口高度） 与 eaves overhang（檐口挑出长度），这两个值直接决定钢结构厂房的报价与排水做法。注意 eaves 永远是复数形式（没有 eave 的单数用法），谓语动词要用复数：The eaves are…。檐口漏水是海外项目最高频的投诉点，收边要配 eaves trim / eaves flashing（檐口收边件） 和 gutter（天沟）。",
+      "collocation": "eaves 檐口/屋檐；eaves height 檐口高度；eaves overhang 檐口挑出长度；eaves trim 檐口收边件；eaves flashing 檐口泛水；eaves beam 檐口梁；eaves gutter 檐沟/天沟；eaves closure 檐口堵头；soffit 挑檐底板（第 24 期）；fascia 封檐板；ridge cap 屋脊盖帽；barge board 山墙封板；downpipe 雨落管；drip edge 滴水边",
+      "examples": [
+        {
+          "en": "The eaves height is 8.0 m with a 600 mm overhang, and every eaves panel must be fitted with a closure strip to prevent water ingress.",
+          "zh": "檐口高度为 8.0 米，挑出 600 毫米，每块檐口板都必须安装堵头条以防进水。",
+          "audio": "audio/ex/eaves-1.mp3"
+        }
+      ],
+      "mnemonic": "eaves 谐音\"衣物\"——屋檐就像房子披在外面的衣物，给墙挡雨。记三个必背尺寸参数：eaves height 檐口高度、ridge height 屋脊高度、eaves overhang 挑出长度，客户询价三件套一出口就专业。谈判金句：Please confirm the eaves height — it governs the column length and therefore the whole steel tonnage.（请先确认檐口高度——它决定柱子长度，进而决定整个钢结构用量。）——把技术参数与造价挂上钩，改图时就有据可依。",
+      "issue": 30,
+      "date": "2026-10-12",
+      "theme": "核对檐口收边防水 → 现场放线校对齐平 → 集装箱压港算滞期费 → 陪同客户参观车间 → 给新同事做入职引导",
+      "gloss": "檐口；屋檐（出挑部分）",
+      "category": "建筑设计",
+      "audio": "audio/eaves.mp3"
+    },
+    {
+      "word": "alignment",
+      "phonetic": "/əˈlaɪnmənt/",
+      "meaning": "构件就位后位置是否对正、是否在一条线上的状态，是现场安装验收最核心的指标之一。它和已学的 tolerance（第 1 期公差）、grid line（第 26 期轴线）、layout（第 6 期平面布置）、shim（第 19 期垫铁）、anchor bolt（第 6 期地脚螺栓）、erection（第 6 期安装吊装）构成现场校装的完整词汇。常用表达：in alignment（对齐的）、out of alignment（错位/不对中）、check the alignment（校核对齐）、alignment tolerance（安装对中公差）。还有 alignment of equipment（设备对中）、road alignment（道路定线）、column alignment（柱列对齐）。现场最常见的问题是柱底螺栓预埋偏位，需要扩孔或加垫铁纠偏，这时候用词就是 misalignment。",
+      "collocation": "alignment 对齐/定线/校直；in alignment 对齐的；out of alignment 错位的；misalignment 不重合/偏位；check/verify the alignment 校核对齐；alignment tolerance 对中公差；column alignment 柱列对齐；bolt alignment 螺栓对中；equipment alignment 设备对中；grid line 轴线（第 26 期）；set out 放线；survey 测量放线；centre line 中心线；plumb 垂直度；level 水平度",
+      "examples": [
+        {
+          "en": "Before grouting the base plates, the erector must verify the column alignment in both directions and record the plumb and level deviations.",
+          "zh": "柱底板灌浆前，安装单位必须校核两个方向的柱列对齐情况，并记录垂直度与水平度偏差。",
+          "audio": "audio/ex/alignment-1.mp3"
+        }
+      ],
+      "mnemonic": "a-（去）+ line（线）+ -ment = 排到一条线上去，就是对齐。谐音\"一条线门特\"——一条线，门就特好装。记一组现场验收三度：alignment 对中、plumb 垂直度、level 水平度，验收单上永远绑在一起。句型：The columns are within the alignment tolerance of ±5 mm.（柱子的对中偏差在 ±5 毫米公差范围内。）——报数据用 within tolerance，超差用 exceed tolerance。",
+      "issue": 30,
+      "date": "2026-10-12",
+      "theme": "核对檐口收边防水 → 现场放线校对齐平 → 集装箱压港算滞期费 → 陪同客户参观车间 → 给新同事做入职引导",
+      "gloss": "对齐；定线；校直（安装精度）",
+      "category": "工程施工",
+      "audio": "audio/alignment.mp3"
+    },
+    {
+      "word": "demurrage",
+      "phonetic": "/dɪˈmʌrɪdʒ/",
+      "meaning": "集装箱在码头或堆场超过免费存放期后产生的费用，按天计收，是海运环节最容易产生意外成本的一项。它和已学的 freight（第 5 期运费）、bill of lading（第 9 期提单）、customs clearance（第 7 期清关）、shipment（第 6 期发货）、consignee（第 17 期收货人）、FOB（第 21 期）/CIF（第 23 期）/EXW（第 28 期）构成外贸物流的完整链条。务必分清两个常被混淆的概念：demurrage 滞期费（箱子在码头内超期）与 detention 滞箱费（箱子被提出码头后超期未还）；另外 free time / free days（免费期） 是谈判要点，通常干货箱 7-14 天，超期后费用按天递增且可能分档计价。项目上最实用的做法：发货前把 free time 写进合同或让货代书面确认，清关单据提前备齐，避免周末与节假日压港。",
+      "collocation": "demurrage 滞期费；demurrage charge 滞期费；demurrage fee 滞港费；detention 滞箱费（箱出码头后超期）；free time / free days 免费堆存期；demurrage and detention (D&D) 滞期费与滞箱费；per diem 按日计；container yard (CY) 集装箱堆场；port congestion 港口拥堵；customs hold 海关扣留；gate-out 提箱出场；shipping line 船公司；forwarder 货代；notice of arrival 到货通知",
+      "examples": [
+        {
+          "en": "Please advise the free days at the port of discharge — any demurrage caused by delayed customs clearance shall be borne by the buyer.",
+          "zh": "请告知目的港的免费堆存天数——因清关延误产生的滞期费应由买方承担。",
+          "audio": "audio/ex/demurrage-1.mp3"
+        }
+      ],
+      "mnemonic": "de-（停留/延迟）+ mur（墙，同 mural 壁画）+ -age = 货被\"堵在墙里\"多待了几天，就要交钱。谐音\"抵码头挤\"——抵在码头挤着出不去。口诀：箱在码头内超期 = demurrage，箱出了码头超期还 = detention，两个一起叫 D&D。谈判必背句：Who bears the demurrage risk if clearance is delayed?（若清关延误，滞期费风险由谁承担？）——写进合同比事后扯皮省一百倍力气。",
+      "issue": 30,
+      "date": "2026-10-12",
+      "theme": "核对檐口收边防水 → 现场放线校对齐平 → 集装箱压港算滞期费 → 陪同客户参观车间 → 给新同事做入职引导",
+      "gloss": "滞期费；集装箱超期堆存费",
+      "category": "外贸",
+      "audio": "audio/demurrage.mp3"
+    },
+    {
+      "word": "escort",
+      "phonetic": "/ˈeskɔːt/",
+      "meaning": "指专人陪同、引领来访人员，是客户接待里最专业的说法，也用于安保护送与重要物资押运。它和已学的 delegation（第 29 期代表团）、pick-up（第 4 期接机）、itinerary（第 1 期行程）、hospitality（第 3 期接待礼遇）、protocol（第 16 期礼宾规程）、liaison（第 19 期对接人）、site visit（第 8 期现场考察）、reception（第 14 期接待/前台）构成接待全流程。注意词性转换时重音不同：名词 escort 重音在前 /ˈeskɔːt/，动词 escort 重音在后 /ɪˈskɔːt/。接待邮件里最高频的搭配是 escort sb. to…（陪同某人前往……） 与 a dedicated escort（专人陪同）。厂区安全场景下还有固定要求：visitors must be escorted at all times（访客须全程有人陪同），这句话常出现在安全告知与 HSE 手册里。",
+      "collocation": "escort 陪同/护送；escort sb. to… 陪同某人前往；a dedicated escort 专人陪同；under escort 在陪同下；visitors must be escorted at all times 访客须全程陪同；PPE escort 佩戴劳保用品的陪同人；see off 送行；meet and greet 迎候；factory tour 工厂参观；site visit 现场考察（第 8 期）；sign in / sign out 签到/签离；visitor badge 访客证；HSE induction 入场安全教育",
+      "examples": [
+        {
+          "en": "For safety reasons, all visitors must be escorted at all times inside the fabrication workshop and shall wear the provided PPE.",
+          "zh": "出于安全考虑，所有访客在加工车间内须全程有人陪同，并佩戴提供的劳保用品。",
+          "audio": "audio/ex/escort-1.mp3"
+        }
+      ],
+      "mnemonic": "es-（向外）+ cort（同 court/cohort 一队人）= 派一队人护着你走出去，就是陪同。谐音\"爱思考他\"——陪同的人得爱思考，随时能答上客户的问题。接待加分句：Our project manager will escort your delegation through the fabrication line and answer any technical questions on site.（我方项目经理将陪同贵方代表团参观加工生产线，并现场解答技术问题。）——escort + delegation 连用，专业度立刻拉满。",
+      "issue": 30,
+      "date": "2026-10-12",
+      "theme": "核对檐口收边防水 → 现场放线校对齐平 → 集装箱压港算滞期费 → 陪同客户参观车间 → 给新同事做入职引导",
+      "gloss": "陪同人员；护送（v. 陪同）",
+      "category": "客户接待",
+      "audio": "audio/escort.mp3"
+    },
+    {
+      "word": "onboarding",
+      "phonetic": "/ˈɒnbɔːdɪŋ/",
+      "meaning": "指新员工入职后熟悉公司制度、系统、流程与团队的整个过程，是职场 HR 与团队管理里的高频词。它和已学的 briefing（第 15 期简报）、appraisal（第 25 期绩效评估）、delegation 授权分派（第 14 期 delegate）、workshop（第 28 期研讨会）、workload（第 3 期工作量）、burnout（第 19 期职业倦怠）构成职场成长链条。注意区分：orientation 偏向\"入职第一天的公司介绍与制度宣讲\"，onboarding 是\"持续数周甚至数月的完整融入过程\"；Orientation is part of onboarding. 对外业务里 onboarding 也指新客户/新供应商的导入上线：supplier onboarding（供应商准入）、client onboarding（客户建档导入），做外贸时经常要填 supplier onboarding form 并通过对方的合规审核。",
+      "collocation": "onboarding 入职引导/上岗培训；onboarding process 入职流程；onboarding checklist 入职清单；onboarding buddy 入职帮带人；employee onboarding 员工入职；new hire onboarding 新员工入职引导；orientation 入职导向（偏第一天宣讲）；probation period 试用期；handbook 员工手册；supplier onboarding 供应商准入；client onboarding 客户导入；supplier onboarding form 供应商准入表；compliance review 合规审核",
+      "examples": [
+        {
+          "en": "We have prepared a two-week onboarding plan for you, including product training, a tour of the workshop and an introduction to our export procedures.",
+          "zh": "我们为你准备了为期两周的入职引导计划，包括产品培训、车间参观以及出口流程介绍。",
+          "audio": "audio/ex/onboarding-1.mp3"
+        }
+      ],
+      "mnemonic": "on（上）+ board（船/板，同 on board 在船上/入职）+ -ing = 让人\"上船\"的过程，就是入职引导。谐音\"昂boarding\"——昂首挺胸地登上甲板。记一个递进关系：recruitment 招聘 → onboarding 入职融入 → training 技能培训 → appraisal 绩效评估 → promotion 晋升。实用句：Please complete the supplier onboarding form and return it with your business licence and bank details.（请填写供应商准入表，并连同营业执照与银行信息一并回传。）——海外客户导入供应商时的标准开场。",
+      "issue": 30,
+      "date": "2026-10-12",
+      "theme": "核对檐口收边防水 → 现场放线校对齐平 → 集装箱压港算滞期费 → 陪同客户参观车间 → 给新同事做入职引导",
+      "gloss": "入职引导；新员上岗培训",
+      "category": "职场",
+      "audio": "audio/onboarding.mp3"
     }
   ]
 }
