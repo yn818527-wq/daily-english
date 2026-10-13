@@ -619,5 +619,25 @@
   "visa": {
     "gloss": "签证",
     "category": "接待"
+  },
+  "excavation": {
+    "gloss": "开挖；土方工程",
+    "category": "工程施工"
+  },
+  "fascia": {
+    "gloss": "封檐板；门头招牌板",
+    "category": "钢结构"
+  },
+  "orientation": {
+    "gloss": "朝向；入职导向",
+    "category": "建筑设计"
+  },
+  "transshipment": {
+    "gloss": "转运；海运中转",
+    "category": "外贸"
+  },
+  "probation": {
+    "gloss": "试用期",
+    "category": "职场"
   }
 }

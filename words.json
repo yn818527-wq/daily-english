@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13",
-  "total": 155,
+  "updated": "2026-10-14",
+  "total": 160,
   "words": [
     {
       "word": "truss",
@@ -3201,6 +3201,106 @@
       "gloss": "签证",
       "category": "接待",
       "audio": "audio/visa.mp3"
+    },
+    {
+      "word": "excavation",
+      "phonetic": "/ˌekskəˈveɪʃn/",
+      "meaning": "为做基础、地下室或管沟而挖除土方的作业，以及由此形成的基坑、沟槽本身。它和已学的 foundation（第 9 期基础）、footing（第 23 期独立基础）、rebar（第 24 期钢筋）、grout（第 16 期灌浆）、backfill（回填）、survey（第 31 期测量）、alignment（第 30 期校直）构成基础施工的完整链条。工程上必须分清几个词：excavation（开挖/挖方总称）、bulk excavation（大开挖）、trench excavation（沟槽开挖）、excavation depth（开挖深度）、bottom of excavation（坑底）、excavation support / shoring（基坑支护）、dewatering（降水/排水）。安全上最关键的是 slope / batter（放坡） 与 safety factor（安全系数），深基坑还要考虑 sheet piling（钢板桩）。合同与报价里常见 earthwork（土方工程） 这个词，量单上按 cubic meter（立方米） 计量，海外项目最容易扯皮的就是 rock excavation（石方开挖） 比土方贵好几倍，签合同前一定要在 soil investigation report（地勘报告） 上写清楚。",
+      "collocation": "excavation 开挖/挖方；excavate v. 开挖；bulk excavation 大开挖；trench excavation 沟槽开挖；excavation depth 开挖深度；bottom of excavation 坑底；excavation support / shoring 基坑支护；dewatering 降水；slope / batter 放坡；sheet piling 钢板桩；earthwork 土方工程；cut and fill 挖填方；spoil 弃土；backfill 回填；soil investigation report 地勘报告；bearing capacity 地基承载力；foundation 基础（第 9 期）",
+      "examples": [
+        {
+          "en": "Bulk excavation will start once the geotechnical report confirms the bearing capacity, and dewatering must be in place before the bottom of excavation is reached.",
+          "zh": "一旦地勘报告确认地基承载力即开始大开挖，且必须在挖至坑底前完成降水措施。",
+          "audio": "audio/ex/excavation-1.mp3"
+        }
+      ],
+      "mnemonic": "ex-（向外）+ cav（洞，同 cave 洞穴）+ -ation = 把土挖出去形成一个洞，就是开挖。谐音\"艾克斯卡维逊\"——挖出卡车一车一车的土。记一条施工顺序：survey 测量 → set out 放线 → excavation 开挖 → blinding 垫层 → rebar 钢筋 → concrete 浇筑 → grout 灌浆 → backfill 回填。谈判金句：Rock excavation is not included in our earthwork rate; if rock is encountered, it will be re-measured and charged separately.（石方开挖不含在我们的土方单价内；如遇岩石将另行计量收费。）——这一句能帮你挡掉海外项目最常见的超支。",
+      "issue": 32,
+      "date": "2026-10-14",
+      "theme": "基础土方开挖交底 → 檐口封板收边确认 → 方案汇报讲朝向 → 海运中转港改直达 → 新员工试用期转正评估",
+      "gloss": "开挖；土方工程",
+      "category": "工程施工",
+      "audio": "audio/excavation.mp3"
+    },
+    {
+      "word": "fascia",
+      "phonetic": "/ˈfeɪʃə/",
+      "meaning": "安装在檐口外沿、把屋面与墙面板端部封住的水平装饰收边板，兼有遮盖端部、导水和立面造型三重作用。它和已学的 eaves（第 30 期檐口）、gutter（第 31 期天沟）、parapet（第 20 期女儿墙）、soffit（第 24 期挑檐底板）、ridge（第 27 期屋脊）、cladding（第 10 期墙面板）、sealant（第 22 期密封胶）串成完整的檐口收边体系。注意区分三个易混词：fascia（竖向封檐板，装在檐口外侧立面）、soffit（水平挑檐底板，人抬头看到的那一面）、barge board / gable trim（山墙封边板，沿坡屋面斜边走）。材质多为彩钢、铝合金或复合铝板，颜色通常与墙面板统一；遗漏 fascia 是海外项目最常见的尾项之一——板端切不齐、外观难看，客户一眼就看到。fascia 的另一个高频场景是商业门头：fascia sign / shopfront fascia（门头招牌底板），做模块化商铺、售楼处这类产品时经常要跟客户确认招牌尺寸与电源预留。医学里 fascia 指\"筋膜\"，不影响工程语境。",
+      "collocation": "fascia 封檐板/檐口板；fascia board 封檐板；fascia panel 檐口面板；barge board 山墙封边板；gable trim 山墙收边；soffit 挑檐底板（第 24 期）；eaves 檐口（第 30 期）；gutter 天沟（第 31 期）；fascia bracket 封檐板托架；trim / flashing 收边件/泛水；colour matching 配色；fascia sign 门头招牌；shopfront 店面门头；signage 标识系统；concealed fixing 隐藏式固定",
+      "examples": [
+        {
+          "en": "The fascia boards shall be colour-matched to the wall cladding, and all cut ends must be sealed with sealant to prevent water ingress.",
+          "zh": "封檐板颜色须与墙面板统一配色，所有切割端部必须用密封胶封严以防进水。",
+          "audio": "audio/ex/fascia-1.mp3"
+        }
+      ],
+      "mnemonic": "fascia 源自拉丁语\"带子/束带\"= 给檐口系上的一条腰带，把难看的板端全都挡住。谐音\"飞舍\"——房子飞出去的那一圈边。记三兄弟方位：soffit 抬头看的底面 + fascia 正面看的立面 + barge board 侧面斜的。实用句：Please confirm whether the fascia and barge boards are required; they are not included in the standard scope but are strongly recommended for a clean finish.（请确认是否需要封檐板与山墙封边；标准范围不含此项，但为收口整洁强烈建议加配。）——把可选项点出来，既专业又能加单。",
+      "issue": 32,
+      "date": "2026-10-14",
+      "theme": "基础土方开挖交底 → 檐口封板收边确认 → 方案汇报讲朝向 → 海运中转港改直达 → 新员工试用期转正评估",
+      "gloss": "封檐板；门头招牌板",
+      "category": "钢结构",
+      "audio": "audio/fascia.mp3"
+    },
+    {
+      "word": "orientation",
+      "phonetic": "/ˌɔːriənˈteɪʃn/",
+      "meaning": "一个词横跨建筑设计与职场两条线。建筑上指建筑物或房间相对于方位、日照、主导风向的朝向——这是方案汇报里最常被追问的指标之一，直接影响采光、能耗与舒适度。它和已学的 layout（第 6 期平面布置）、floor plan（第 28 期平面图）、circulation（第 18 期动线）、atrium（第 20 期中庭）、skylight（第 13 期天窗）、ventilation（第 12 期通风）、insulation（第 11 期保温）构成方案设计逻辑链。常见表达：building orientation（建筑朝向）、north-south orientation（南北朝向）、solar orientation（日照朝向）、orientation of openings（洞口朝向）；中东项目要谈 minimize solar gain（减少太阳辐射得热），热带项目要谈 cross ventilation（穿堂风）。职场里 orientation 指新人入职导向或项目启动交底会——new employee orientation（新员工入职培训）、orientation session（导向会/启动会），与已学的 onboarding（第 30 期入职引导）、briefing（第 15 期简报）、delegation（第 29 期代表团）配套使用。",
+      "collocation": "orientation 朝向/导向；building orientation 建筑朝向；north-south orientation 南北朝向；solar orientation 日照朝向；solar gain 太阳辐射得热；sun path 日照轨迹；shading 遮阳；cross ventilation 穿堂风；prevailing wind 主导风向；site orientation 场地朝向；new employee orientation 新员工入职培训；orientation session 导向会/启动会；orientation programme 导向计划；onboarding 入职引导（第 30 期）；get one's bearings 摸清状况",
+      "examples": [
+        {
+          "en": "The building has been rotated to a north-south orientation to reduce solar gain, and the living areas face the prevailing breeze for cross ventilation.",
+          "zh": "建筑已调整为南北朝向以减少太阳辐射得热，起居空间朝向主导风向以获得穿堂风。",
+          "audio": "audio/ex/orientation-1.mp3"
+        }
+      ],
+      "mnemonic": "orient（东方/确定方位）+ -ation = 先找到东在哪里，再决定朝哪儿，既是朝向也是\"让人摸清方向\"的入职导向。谐音\"奥利安\"——奥运村选址第一件事就是定朝向。记一句方案汇报万能句：Our orientation strategy balances daylight, solar gain and prevailing wind.（我们的朝向策略兼顾了采光、太阳辐射得热与主导风向。）——海外方案汇报讲朝向，讲这三个词就够专业。职场用法：We will hold a half-day orientation session for the new engineers before they join the project team.（新工程师加入项目组前会安排半天的入职导向会。）",
+      "issue": 32,
+      "date": "2026-10-14",
+      "theme": "基础土方开挖交底 → 檐口封板收边确认 → 方案汇报讲朝向 → 海运中转港改直达 → 新员工试用期转正评估",
+      "gloss": "朝向；入职导向",
+      "category": "建筑设计",
+      "audio": "audio/orientation.mp3"
+    },
+    {
+      "word": "transshipment",
+      "phonetic": "/trænsˈʃɪpmənt/",
+      "meaning": "货物在运往目的港的途中，于某个中转港从一艘船卸下再装上另一艘船的作业，是国际海运报价与合同条款里的关键变量。它和已学的 shipment（第 6 期发货）、bill of lading（第 9 期提单）、demurrage（第 30 期滞期费）、surcharge（第 31 期附加费）、FOB（第 21 期）/CIF（第 23 期）、customs clearance（第 7 期清关）、port congestion（港口拥堵）构成完整的海运交付链条。实务中最关键的三件事：一是 transshipment port（中转港） 要写清楚（常见的有 Singapore、Jebel Ali、Port Klang、Durban 等）；二是信用证里常有 \"transshipment allowed / prohibited\"（允许/禁止转运） 条款——若 L/C 写着 prohibited 而实际走了中转，银行会拒付，这是外贸最典型的高风险点；三是 direct sailing（直航） 通常更快但贵，transit time（运输时效） 与运价要一起报。中转还带来 extra handling（额外装卸）、cargo damage risk（货损风险） 与 roll-over（甩柜/漏装），钢构件这类重货尤其要在提单上注明 \"transshipment at Singapore\"（在新加坡转运）。",
+      "collocation": "transshipment 转运/中转；transship v. 转运；transshipment port 中转港；transshipment allowed / prohibited 允许/禁止转运；direct sailing 直航；direct service 直航服务；transit time 运输时效；ETA (estimated time of arrival) 预计到港时间；ETD 预计离港时间；via 经由……中转；feeder vessel 支线船；mother vessel 干线母船；roll-over 甩柜/漏装；extra handling 额外装卸；port of discharge 卸货港；port of loading 装货港；through bill of lading 联运提单；L/C 信用证（第 8 期）",
+      "examples": [
+        {
+          "en": "Please note that transshipment is prohibited under the letter of credit, so we must book a direct sailing even though the freight is slightly higher.",
+          "zh": "请注意信用证规定禁止转运，因此即便运费略高我们也必须订直航船。",
+          "audio": "audio/ex/transshipment-1.mp3"
+        }
+      ],
+      "mnemonic": "trans-（跨越/转换）+ shipment（装运）= 中途换一趟船，就是转运。谐音\"穿ship\"——货穿过好几个港口才到。记一条铁律：看到 L/C 上的 \"transshipment prohibited\"，第一时间告诉货代，别等开船了才发现。实用句：The cargo will be transshipped at Singapore with an estimated transit time of 28 days to Durban.（货物将经新加坡中转，预计 28 天抵达德班。）——中转港 + 时效一起报，客户心里有数就不催你。",
+      "issue": 32,
+      "date": "2026-10-14",
+      "theme": "基础土方开挖交底 → 檐口封板收边确认 → 方案汇报讲朝向 → 海运中转港改直达 → 新员工试用期转正评估",
+      "gloss": "转运；海运中转",
+      "category": "外贸",
+      "audio": "audio/transshipment.mp3"
+    },
+    {
+      "word": "probation",
+      "phonetic": "/prəˈbeɪʃn/",
+      "meaning": "新员工入职后企业考察其是否胜任的约定考察期，海外项目本地雇员管理与国内职场都用得上。它和已学的 onboarding（第 30 期入职引导）、appraisal（第 25 期绩效评估）、workload（第 3 期工作量）、delegate（第 14 期授权分派）、feedback（第 27 期反馈）、consensus（第 29 期共识）、burnout（第 19 期职业倦怠）构成职场成长链条。常见搭配：probation period（试用期）——国内与多数海外国家常见 three-month / six-month probation period（三/六个月试用期）；on probation（在试用期内）；pass / complete one's probation（通过试用期）；probation review（试用期考核）；confirm sb. in the position（转正）；extend the probation（延长试用期）；terminate during probation（试用期内解除）。海外用工特别注意：试用期时长、能否延长、解除通知期都受当地劳动法约束，非洲、南美多国对 termination（解雇） 要求极严，中方外派人员常踩坑。法律语境里 probation 也指\"缓刑\"，不影响职场用法。",
+      "collocation": "probation 试用期；probation period 试用期；on probation 在试用期内；probationary period 试用期（正式）；pass / complete one's probation 通过试用期；probation review 试用期考核；confirmation of employment 转正确认；extend the probation 延长试用期；terminate during probation 试用期内解除；notice period 通知期；performance review 绩效考核；onboarding 入职引导（第 30 期）；appraisal 绩效评估（第 25 期）；KPI 关键绩效指标；probation officer 缓刑监督官（法律义）",
+      "examples": [
+        {
+          "en": "New engineers are on a six-month probation, and a formal probation review will be held one week before the period ends.",
+          "zh": "新工程师有六个月的试用期，期满前一周将进行正式的试用期考核。",
+          "audio": "audio/ex/probation-1.mp3"
+        }
+      ],
+      "mnemonic": "prob（检验/证明，同 prove 证明、probe 探查）+ -ation = 先让你证明自己行不行的一段时间，就是试用期。谐音\"普若贝逊\"——普通员工要被考验一遭。记一条外派经验：海外雇员的 probation 期限、能否延长、解除通知期三项，务必先问当地 HR 或律师，不要照搬国内做法。实用句：How long is the probation period, and can it be extended under local labour law?（试用期多长？按当地劳动法可以延长吗？）——派驻海外前问这句，能省掉后面一堆麻烦。",
+      "issue": 32,
+      "date": "2026-10-14",
+      "theme": "基础土方开挖交底 → 檐口封板收边确认 → 方案汇报讲朝向 → 海运中转港改直达 → 新员工试用期转正评估",
+      "gloss": "试用期",
+      "category": "职场",
+      "audio": "audio/probation.mp3"
     }
   ]
 }
