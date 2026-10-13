@@ -599,5 +599,25 @@
   "onboarding": {
     "gloss": "入职引导；新员上岗培训",
     "category": "职场"
+  },
+  "gutter": {
+    "gloss": "天沟；檐沟",
+    "category": "建筑"
+  },
+  "survey": {
+    "gloss": "测量；勘测；调查",
+    "category": "工程"
+  },
+  "courier": {
+    "gloss": "快递；专递",
+    "category": "外贸"
+  },
+  "surcharge": {
+    "gloss": "附加费",
+    "category": "外贸"
+  },
+  "visa": {
+    "gloss": "签证",
+    "category": "接待"
   }
 }

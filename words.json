@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12",
-  "total": 150,
+  "updated": "2026-10-13",
+  "total": 155,
   "words": [
     {
       "word": "truss",
@@ -3101,6 +3101,106 @@
       "gloss": "入职引导；新员上岗培训",
       "category": "职场",
       "audio": "audio/onboarding.mp3"
+    },
+    {
+      "word": "gutter",
+      "phonetic": "/ˈɡʌtə(r)/",
+      "meaning": "屋面或檐口处收集雨水并导向雨落管的槽形构件，是金属围护系统排水的第一道关口。它和已学的 eaves（第 30 期檐口）、drainage（第 14 期排水）、pitch（第 29 期屋面坡度）、ridge（第 27 期屋脊）、seam（第 23 期直立锁边缝）、downpipe（第 12 期通风/管道语境）、soffit（第 24 期挑檐底板）串成完整屋面排水链。工程上常区分 eaves gutter（檐沟，挂在檐口外侧） 与 valley gutter（天沟，位于两坡屋面交汇的凹角），后者排水量集中、最易渗漏，海外项目索赔多出在这里。天沟设计的关键参数是 gutter width / depth（断面尺寸）、gutter slope（沟内坡度，通常不小于 1:200） 与 gutter capacity（排水能力），需按当地 rainfall intensity（降雨强度） 校核，热带与中东暴雨区常常要加大断面或多设雨落管。材质常用镀锌钢板、彩钢或不锈钢，接缝必须打 sealant（第 22 期密封胶）。",
+      "collocation": "gutter 天沟/檐沟；eaves gutter 檐沟；valley gutter 天沟（屋面凹角）；box gutter 箱形天沟；gutter bracket / hanger 天沟支架/吊架；gutter slope 天沟坡度；gutter capacity 排水能力；rainwater downpipe 雨落管；rainfall intensity 降雨强度；catchment area 汇水面积；gutter guard 天沟滤网；leaf guard 落叶挡网；overflow 溢流；siphonic drainage 虹吸排水；drainage 排水（第 14 期）；eaves 檐口（第 30 期）",
+      "examples": [
+        {
+          "en": "The valley gutter must be widened to 500 mm with a minimum slope of 1:200, otherwise it will overflow during the rainy season.",
+          "zh": "屋面凹角天沟必须加宽到 500 毫米并保证不小于 1:200 的坡度，否则雨季会溢流。",
+          "audio": "audio/ex/gutter-1.mp3"
+        }
+      ],
+      "mnemonic": "gut（内脏/沟槽）+ -er = 房子肚子里那条流水沟，就是天沟。谐音\"嘎疼\"——天沟堵了漏水，甲方嘎疼。记一条设计铁律：gutter 断面 × 坡度 × 雨落管间距三样一起算，只加大断面不加雨落管没用。谈判金句：The gutter sizing is based on a rainfall intensity of 150 mm/h; if your local data is higher, please advise and we will re-size.（天沟断面按 150 毫米/小时的降雨强度设计；若贵方当地数据更高请告知，我们会重新核算。）——把设计参数写进邮件，后期渗漏就不再是你的锅。",
+      "issue": 31,
+      "date": "2026-10-13",
+      "theme": "屋面天沟排水复核 → 现场测量放线 → 寄送正本单据 → 核算燃油附加费 → 客户来访办签证邀请函",
+      "gloss": "天沟；檐沟",
+      "category": "建筑",
+      "audio": "audio/gutter.mp3"
+    },
+    {
+      "word": "survey",
+      "phonetic": "/ˈsɜːveɪ/",
+      "meaning": "对场地、地形、既有结构或构件位置进行实地量测并形成数据的过程，是工程开工前与安装验收时最基础的工作。它和已学的 alignment（第 30 期对齐校直）、grid line（第 26 期轴线）、layout（第 6 期平面布置）、set out（第 6 期放线）、tolerance（第 1 期公差）、foundation（第 9 期基础）构成现场测量验收链条。注意重音：名词 survey 重音在前 /ˈsɜːveɪ/，动词 survey 重音在后 /səˈveɪ/。工程里常见几种：land survey / topographical survey（地形测量）、site survey（现场踏勘）、structural survey（结构检测鉴定）、as-built survey（竣工测量）、survey report（测量报告）。商务与生活语境里 survey 也指问卷调查：market survey（市场调查）、customer satisfaction survey（客户满意度调查），做外贸调研客户所在国市场需求时用得上。",
+      "collocation": "survey 测量/勘测/调查；site survey 现场踏勘；topographical survey 地形测量；land survey 土地测量；as-built survey 竣工测量；structural survey 结构检测；survey report 测量报告；surveyor 测量员/验船师；survey data 测量数据；set out / setting out 放线；grid line 轴线（第 26 期）；benchmark 水准点；total station 全站仪；GPS survey GPS 测量；market survey 市场调查；customer satisfaction survey 客户满意度调查；questionnaire 问卷",
+      "examples": [
+        {
+          "en": "A topographical survey of the plot shall be carried out before foundation design, and the survey report must confirm the existing ground levels and boundary lines.",
+          "zh": "基础设计前必须完成场地的地形测量，测量报告须确认现有地面标高与用地边界线。",
+          "audio": "audio/ex/survey-1.mp3"
+        }
+      ],
+      "mnemonic": "sur-（在上/超）+ vey（看，同 view 视野）= 站在高处把整片地都看一遍，就是勘测。谐音\"扫vey\"——扫一遍全场。记一组现场开工顺序：survey 测量 → set out 放线 → excavate 开挖 → foundation 基础 → erection 安装。实用句：We will arrange a site survey next week and send you the survey report together with our revised foundation proposal.（我们下周安排现场踏勘，随后将测量报告连同修订后的基础方案一并发送。）——把踏勘当成拿单的第一步。",
+      "issue": 31,
+      "date": "2026-10-13",
+      "theme": "屋面天沟排水复核 → 现场测量放线 → 寄送正本单据 → 核算燃油附加费 → 客户来访办签证邀请函",
+      "gloss": "测量；勘测；调查",
+      "category": "工程",
+      "audio": "audio/survey.mp3"
+    },
+    {
+      "word": "courier",
+      "phonetic": "/ˈkʊriə(r)/",
+      "meaning": "指专门递送文件、样品或小件包裹的服务与人员，是外贸单据流转与国际寄样环节的高频词。它和已学的 sample（第 11 期样品）、packing list（第 12 期装箱单）、bill of lading（第 9 期提单）、certificate of origin（第 26 期原产地证）、shipment（第 6 期发货）、customs clearance（第 7 期清关）构成单据与样品交付链条。国际快递三巨头常挂嘴边：DHL / FedEx / UPS，另外 TNT、SF Express（顺丰）、Aramex（中东常用） 也常见。外贸里最关键的两个搭配：by courier（用快递寄送） 与 courier charges / courier fee（快递费），还有实务中必备的 courier tracking number（快递单号）、AWB = air waybill（空运提单/快递运单号）、courier receipt（快递底单）。涉及正本提单、原产地证、发票等original documents（正本单据） 必须走 express courier（快递直送） 而不能用平邮，因为对方银行只认正本。",
+      "collocation": "courier 快递/专递；by courier 用快递寄送；send sth. by courier 快递寄送某物；courier service 快递服务；courier charges / courier fee 快递费；courier tracking number 快递单号；courier receipt 快递底单；AWB (air waybill) 空运运单号；express courier 快递直送；original documents 正本单据；registered mail 挂号信；DHL / FedEx / UPS / Aramex 国际快递公司；sample delivery 送样；door-to-door 门到门；signature on delivery 签收回单",
+      "examples": [
+        {
+          "en": "The original bill of lading and certificate of origin were sent by courier yesterday, and the tracking number will be forwarded to you for reference.",
+          "zh": "正本提单与原产地证已于昨日快递寄出，快递单号稍后转发给你以便查询。",
+          "audio": "audio/ex/courier-1.mp3"
+        }
+      ],
+      "mnemonic": "cour（跑，同 course 跑道/current 流动）+ -ier（人）= 一路跑着送东西的人，就是信使。谐音\"快rier\"——快递员。记一句外贸铁律：正本走 courier，副本走 email；寄出后立刻回传 tracking number，客户问起就能三秒答复。实用句：Please send two hard copies by courier and email the scanned version to me in advance.（请用快递寄两份纸质件，并提前把扫描件发邮件给我。）——寄送动作的标准写法。",
+      "issue": 31,
+      "date": "2026-10-13",
+      "theme": "屋面天沟排水复核 → 现场测量放线 → 寄送正本单据 → 核算燃油附加费 → 客户来访办签证邀请函",
+      "gloss": "快递；专递",
+      "category": "外贸",
+      "audio": "audio/courier.mp3"
+    },
+    {
+      "word": "surcharge",
+      "phonetic": "/ˈsɜːtʃɑːdʒ/",
+      "meaning": "在基础运费或基础报价之上另行加收的费用，海运、空运与酒店账单里都极常见。它和已学的 freight（第 5 期运费）、demurrage（第 30 期滞期费）、tariff（第 24 期关税）、FOB（第 21 期）/CIF（第 23 期）/EXW（第 28 期）、MOQ（第 16 期起订量）构成完整的价格术语体系。海运里最高频的几种：BAF = bunker adjustment factor（燃油附加费）、CAF = currency adjustment factor（货币贬值附加费）、PSS = peak season surcharge（旺季附加费）、GRI = general rate increase（综合费率上涨）、WRS = war risk surcharge（战争险附加费）、port congestion surcharge（港口拥堵附加费）。做报价时的黄金原则：在 quotation 里写明 \"freight and surcharges are subject to change\"（运费及附加费随行就市） 或给出 validity period（报价有效期），否则船公司临时加收，利润就被吃掉。生活里也常见 fuel surcharge（燃油附加费）、credit card surcharge（刷卡手续费）、overweight baggage surcharge（超重行李费）。",
+      "collocation": "surcharge 附加费；fuel surcharge 燃油附加费；BAF (bunker adjustment factor) 燃油附加费；CAF (currency adjustment factor) 货币贬值附加费；PSS (peak season surcharge) 旺季附加费；GRI (general rate increase) 综合费率上调；war risk surcharge 战争险附加费；port congestion surcharge 港口拥堵附加费；overweight surcharge 超重附加费；credit card surcharge 刷卡手续费；impose a surcharge 加收附加费；subject to surcharge 可能加收附加费；all-in rate 全包价；freight 运费（第 5 期）；validity period 报价有效期",
+      "examples": [
+        {
+          "en": "The quoted freight is valid for 15 days only, as the shipping line may impose a peak season surcharge at short notice.",
+          "zh": "所报运费仅在 15 天内有效，因为船公司可能在临近时加收旺季附加费。",
+          "audio": "audio/ex/surcharge-1.mp3"
+        }
+      ],
+      "mnemonic": "sur-（在上面）+ charge（收费）= 在原来的收费上面再叠一层，就是附加费。谐音\"上charge\"——上面再加一笔费。记缩写四兄弟：BAF 燃油、CAF 汇率、PSS 旺季、GRI 普涨，报价邮件里写全这四项立刻显得内行。谈判金句：Is the rate all-in, or are surcharges excluded?（这个价格是全包价，还是不含附加费？）——问清 all-in 与否，是外贸报价最值钱的一个问题。",
+      "issue": 31,
+      "date": "2026-10-13",
+      "theme": "屋面天沟排水复核 → 现场测量放线 → 寄送正本单据 → 核算燃油附加费 → 客户来访办签证邀请函",
+      "gloss": "附加费",
+      "category": "外贸",
+      "audio": "audio/surcharge.mp3"
+    },
+    {
+      "word": "visa",
+      "phonetic": "/ˈviːzə/",
+      "meaning": "一国政府签发给外国公民的出入境许可，贴在或印在护照上，是海外出差与客户来访绕不开的一环。它和已学的 itinerary（第 1 期行程）、pick-up（第 4 期接机）、protocol（第 16 期礼宾规程）、accommodation（第 10 期住宿）、site visit（第 8 期现场考察/验厂）、delegation（第 29 期代表团）构成完整的涉外接待链条。做外贸与海外工程必须分清三类：business visa（商务签证）、work visa / work permit（工作签证，海外项目派人常驻必备）、tourist visa（旅游签证）；另外 visa on arrival（落地签）、e-visa（电子签证）、transit visa（过境签证）、multiple-entry visa（多次入境签证） 也极为常见。对中方企业来说，邀请客户来访要提供 invitation letter（邀请函），通常需要公司抬头纸盖章，客户凭它去使馆办签证；而我们自己派人去现场，则要提前算好 visa processing time（签证办理周期），非洲、南美多国需要黄热病疫苗 yellow fever certificate（黄皮书），这一项经常是临行前才发现、耽误航班的典型坑。",
+      "collocation": "visa 签证；business visa 商务签证；work visa 工作签证；work permit 工作许可；tourist visa 旅游签证；transit visa 过境签证；e-visa 电子签证；visa on arrival 落地签；multiple-entry visa 多次入境签证；apply for a visa 申请签证；visa application 签证申请；visa processing time 签证办理周期；invitation letter 邀请函；letter of invitation 邀请函（正式）；visa on arrival 落地签；passport 护照；yellow fever certificate 黄皮书/黄热疫苗证书；embassy 大使馆；consulate 领事馆",
+      "examples": [
+        {
+          "en": "Please send us the scanned copy of your passport and your company details so that we can issue the official invitation letter for your business visa application.",
+          "zh": "请将护照扫描件与贵司信息发给我们，以便出具办理商务签证所需的正式邀请函。",
+          "audio": "audio/ex/visa-1.mp3"
+        }
+      ],
+      "mnemonic": "visa 源自拉丁语\"已看过（的文件）\"——官方看过了、批准了，就是签证。谐音\"维萨\"——拿着 Visa 卡还不行，还得有 visa 签证才能入境（顺便记：VISA 信用卡同名，一个刷卡一个盖章）。记一套邀请流程：client 提出来访 → 我方出具 invitation letter → 客户 apply for business visa → 我方做 itinerary → pick-up 接机 → escort 陪同。实用句：It usually takes two to three weeks for visa processing, so please start the application as early as possible.（签证办理通常要两到三周，请尽早开始申请。）——提醒客户时把周期说在前面，避免临时改期。",
+      "issue": 31,
+      "date": "2026-10-13",
+      "theme": "屋面天沟排水复核 → 现场测量放线 → 寄送正本单据 → 核算燃油附加费 → 客户来访办签证邀请函",
+      "gloss": "签证",
+      "category": "接待",
+      "audio": "audio/visa.mp3"
     }
   ]
 }

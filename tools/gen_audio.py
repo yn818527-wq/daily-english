@@ -29,6 +29,14 @@ WORDS_JS = os.path.join(ROOT, "words.js")
 VOICE = os.environ.get("D5_VOICE", "en-US-AriaNeural")
 RATE = os.environ.get("D5_RATE", "-8%")
 
+# ---- 离线兜底：Windows SAPI 语音（edge-tts 被封/限流时使用）----
+SAPI_VOICE = os.environ.get(
+    "D5_SAPI_VOICE",
+    r"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.0",
+)
+SAPI_RATE = int(os.environ.get("D5_SAPI_RATE", "184"))  # 默认 200，-8% ≈ 184
+_sapi_engine = None
+
 
 def slug(word):
     s = re.sub(r"[^a-z0-9]+", "-", word.lower()).strip("-")
@@ -62,10 +70,90 @@ async def synth(text, out):
     os.replace(tmp, out)
 
 
-def synth_retry(text, path, tries=3):
-    """合成到 path；失败/产出空文件时自动重试，仍失败则删除残留空文件。
+def _sapi_render(text, out):
+    """真正做合成的一段：windows SAPI -> wav -> lameenc 编码 mp3。
 
-    edge-tts 偶发 wss 连接超时，因此每次尝试都带 40s 超时并退避重试。
+    ⚠️ 必须在独立子进程里跑：pyttsx3 复用同一个 engine 多次调用
+    save_to_file + runAndWait 时会在第二次起永久挂死（无报错、无输出）。
+    因此每条音频都新起一个 python 进程，并用 timeout 兜底。
+    """
+    import wave
+
+    import lameenc
+    import pyttsx3
+
+    tmp_wav = out + ".sapi.wav"
+    tmp = out + ".part"
+    for p in (tmp_wav, tmp):
+        if os.path.exists(p):
+            os.remove(p)
+
+    eng = pyttsx3.init()
+    try:
+        eng.setProperty("voice", SAPI_VOICE)
+    except Exception:
+        pass                      # 语音不存在就用系统默认
+    eng.setProperty("rate", SAPI_RATE)
+    eng.save_to_file(text, tmp_wav)
+    eng.runAndWait()
+    try:
+        eng.stop()
+    except Exception:
+        pass
+    if not os.path.exists(tmp_wav) or os.path.getsize(tmp_wav) == 0:
+        raise RuntimeError("sapi produced no audio")
+
+    with wave.open(tmp_wav, "rb") as w:
+        nch, sw, fr = w.getnchannels(), w.getsampwidth(), w.getframerate()
+        pcm = w.readframes(w.getnframes())
+    if sw != 2:
+        raise RuntimeError("unsupported sample width %d" % sw)
+
+    enc = lameenc.Encoder()
+    enc.set_bit_rate(48)
+    enc.set_in_sample_rate(fr)
+    enc.set_channels(nch)
+    enc.set_quality(2)
+    with open(tmp, "wb") as f:
+        f.write(enc.encode(pcm) + enc.flush())
+    if os.path.getsize(tmp) == 0:
+        raise RuntimeError("mp3 encode produced empty file")
+    os.replace(tmp, out)
+    os.remove(tmp_wav)
+
+
+def sapi_synth(text, out, timeout=90):
+    """在独立子进程里跑 SAPI 合成，避免 pyttsx3 复用 engine 挂死。"""
+    import subprocess
+
+    r = subprocess.run(
+        [sys.executable, os.path.abspath(__file__), "--sapi-worker", text, out],
+        timeout=timeout,
+        capture_output=True,
+    )
+    if r.returncode != 0:
+        raise RuntimeError(
+            "sapi worker failed: %s" % (r.stderr.decode("utf-8", "ignore")[-200:] or r.returncode)
+        )
+    if not os.path.exists(out) or os.path.getsize(out) == 0:
+        raise RuntimeError("sapi produced empty file")
+
+
+def _cleanup(path):
+    for p in (path, path + ".part", path + ".sapi.wav"):
+        if os.path.exists(p):
+            try:
+                os.remove(p)      # 清掉 0 字节/残缺残留，避免下次被跳过
+            except OSError:
+                pass
+
+
+def synth_retry(text, path, tries=3):
+    """合成到 path：edge-tts 优先，失败则退避重试，仍失败转离线 SAPI 兜底。
+
+    - edge-tts 偶发 wss 超时 -> 每次带 40s 超时并退避重试；
+    - edge-tts 返回 403（微软按 IP 封禁/限流）-> 不再重试，直接走 SAPI；
+    - SAPI 也失败 -> 删除残留后抛出，交给上层记录"失败"。
     """
     last = None
     for i in range(tries):
@@ -76,14 +164,22 @@ def synth_retry(text, path, tries=3):
             last = RuntimeError("empty output file")
         except Exception as e:
             last = e
-        for p in (path, path + ".part"):
-            if os.path.exists(p):
-                try:
-                    os.remove(p)         # 清掉 0 字节/残缺残留，避免下次被跳过
-                except OSError:
-                    pass
+        _cleanup(path)
+        # 403 说明服务端已拒绝该出口 IP，重试没有意义，直接转离线兜底
+        if "403" in str(last):
+            break
         if i < tries - 1:
             time.sleep(3 + 2 * i)
+
+    try:
+        sapi_synth(text, path)
+        if os.path.exists(path) and os.path.getsize(path) > 0:
+            print("    (离线 SAPI 兜底)", end=" ")
+            return True
+        last = RuntimeError("sapi produced empty file")
+    except Exception as e:
+        last = e
+    _cleanup(path)
     raise last
 
 
@@ -151,4 +247,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) >= 4 and sys.argv[1] == "--sapi-worker":
+        _sapi_render(sys.argv[2], sys.argv[3])   # 子进程模式：只合成这一条
+    else:
+        main()
