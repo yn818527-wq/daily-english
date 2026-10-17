@@ -639,5 +639,25 @@
   "probation": {
     "gloss": "试用期",
     "category": "职场"
+  },
+  "shoring": {
+    "gloss": "基坑支护；临时支撑",
+    "category": "工程"
+  },
+  "backfill": {
+    "gloss": "回填；回填土",
+    "category": "工程"
+  },
+  "retention": {
+    "gloss": "质保金；保留金",
+    "category": "外贸"
+  },
+  "consolidation": {
+    "gloss": "拼箱集运；合并发货",
+    "category": "外贸"
+  },
+  "induction": {
+    "gloss": "入场安全教育；入职引导",
+    "category": "职场"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14",
-  "total": 160,
+  "updated": "2026-10-17",
+  "total": 165,
   "words": [
     {
       "word": "truss",
@@ -3301,6 +3301,106 @@
       "gloss": "试用期",
       "category": "职场",
       "audio": "audio/probation.mp3"
+    },
+    {
+      "word": "shoring",
+      "phonetic": "/ˈʃɔːrɪŋ/",
+      "meaning": "为防止土体、墙体或结构在施工期间坍塌而设置的临时支撑体系，深基坑、沟槽开挖和既有建筑加固都要用到。它和已学的 excavation（第 32 期开挖）、foundation（第 9 期基础）、footing（第 23 期独立基础）、rebar（第 24 期钢筋）、backfill（回填）、survey（第 31 期测量）、scaffolding（第 15 期脚手架）、bracing（第 3 期支撑/斜撑）构成施工安全链条。必须分清几组近义词：shoring（从外部顶住、支护）、bracing（构件之间的斜撑/拉结，多属永久结构）、scaffolding（供人作业的操作架）、underpinning（托换/既有基础加固）。常见形式有 sheet piling（钢板桩）、soldier pile（排桩）、diaphragm wall（地下连续墙）、soil nailing（土钉墙）、strut（内支撑/对撑）、waler（围檩）。海外项目报价时最容易漏掉的就是基坑支护，尤其 deep excavation（深基坑） 在软土、高水位场地费用极高，签合同前务必在 method statement（施工方案） 里写清责任归属。",
+      "collocation": "shoring 支护/支撑；shore v. 支撑；shore up 撑住/加固；shoring system 支护体系；excavation support 基坑支护；deep excavation 深基坑；trench shoring 沟槽支护；sheet piling 钢板桩；soldier pile 排桩；diaphragm wall 地下连续墙；soil nailing 土钉墙；strut 内支撑/对撑；waler 围檩；underpinning 托换加固；bracing 斜撑（第 3 期）；scaffolding 脚手架（第 15 期）；method statement 施工方案；dewatering 降水；collapse 坍塌",
+      "examples": [
+        {
+          "en": "Shoring must be installed before the crew enters the trench, and the excavation support shall remain in place until the backfill is fully compacted.",
+          "zh": "施工人员进入沟槽前必须完成支护，且基坑支护须保留至回填完全压实为止。",
+          "audio": "audio/ex/shoring-1.mp3"
+        }
+      ],
+      "mnemonic": "shore 本义\"海岸/撑柱\"→ 像撑住堤岸一样把土撑住，就是支护。谐音\"肖ring\"——肖像工地里的一圈钢支撑。记一条生死线：shoring 支护 → excavation 开挖 → blinding 垫层 → rebar 钢筋 → concrete 浇筑 → backfill 回填 → remove shoring 拆支撑，回填没压实前绝不能拆支撑。安全金句：No one is allowed to enter an unsupported trench deeper than 1.2 metres.（未支护且深度超过 1.2 米的沟槽禁止任何人进入。）——海外安全员检查必问这句。",
+      "issue": 33,
+      "date": "2026-10-17",
+      "theme": "深基坑支护方案确认 → 基础回填压实度验收 → 质保金条款谈判 → 拼箱集运省运费 → 客户入场安全教育导向",
+      "gloss": "基坑支护；临时支撑",
+      "category": "工程",
+      "audio": "audio/shoring.mp3"
+    },
+    {
+      "word": "backfill",
+      "phonetic": "/ˈbækfɪl/",
+      "meaning": "基础、管沟或地下室施工完成后，把挖出的土或其他材料重新填回坑槽并压实的作业，以及所用的填料本身。它和已学的 excavation（第 32 期开挖）、shoring（支护）、compaction（压实）、footing（第 23 期独立基础）、grout（第 16 期二次灌浆）、drainage（第 14 期排水）、survey（第 31 期测量）串成完整的土方工程链条。技术上最关键的是 compaction（压实） 与 compaction degree / relative compaction（压实度）——海外规范常要求 95% of maximum dry density（最大干密度的 95%），需做 field density test（现场密度试验）；填料要区分 select backfill / suitable material（合格填料） 与 spoil / unsuitable material（弃土/不合格料），含石块、有机质、冻土的土不能直接回填。分层填筑叫 backfill in layers（分层回填），每层厚度称 layer thickness（分层厚度），通常用 plate compactor（平板夯） 或 roller（压路机） 压实。常见质量通病是回填不实导致后期 settlement（沉降）、地面开裂、散水坡塌陷，这是海外项目最容易被业主索赔的尾项之一。",
+      "collocation": "backfill 回填/回填土；backfill in layers 分层回填；layer thickness 分层厚度；compaction 压实；compaction degree 压实度；relative compaction 相对压实度；maximum dry density 最大干密度；field density test 现场密度试验；plate compactor 平板夯；roller 压路机；select backfill 合格回填料；suitable material 合格填料；spoil 弃土；unsuitable material 不合格料；settlement 沉降；cut and fill 挖填方；earthwork 土方工程（第 32 期）；excavation 开挖（第 32 期）",
+      "examples": [
+        {
+          "en": "The backfill shall be placed in layers not exceeding 300 mm and compacted to at least 95% of the maximum dry density, with field density tests carried out for every layer.",
+          "zh": "回填应分层铺筑，每层不超过 300 毫米，压实度不低于最大干密度的 95%，每层均须做现场密度试验。",
+          "audio": "audio/ex/backfill-1.mp3"
+        }
+      ],
+      "mnemonic": "back（回）+ fill（填）= 把挖出去的土填回去，直白到不用记。谐音\"back-fill\"——背着土填回去。记一组数字：300 mm 一层 + 95% 压实度 + 每层一测，三个数报出去业主就信你专业。索赔防御句：The settlement of the floor slab is caused by inadequate backfill compaction by others, not by our structural works.（楼板沉降是因他方回填压实不到位造成的，不属于我方结构工程责任。）——分清责任时这句很有用。",
+      "issue": 33,
+      "date": "2026-10-17",
+      "theme": "深基坑支护方案确认 → 基础回填压实度验收 → 质保金条款谈判 → 拼箱集运省运费 → 客户入场安全教育导向",
+      "gloss": "回填；回填土",
+      "category": "工程",
+      "audio": "audio/backfill.mp3"
+    },
+    {
+      "word": "retention",
+      "phonetic": "/rɪˈtenʃn/",
+      "meaning": "业主在每期进度款中按约定比例扣留、待工程完工或缺陷责任期满后再支付的款项，是工程合同与外贸合同的核心商务条款之一。它和已学的 warranty（第 14 期质保）、deposit（第 3 期定金）、remittance（第 19 期汇款）、claim（第 13 期索赔）、punch list（第 22 期尾项清单）、handover（第 12 期移交）、milestone（第 23 期里程碑）构成完整的回款链条。常见表达：retention money / retention sum（保留金）、retention rate（扣留比例，通常 5%~10%）、retention period（保留期，常与 defects liability period 缺陷责任期挂钩，多为 12 个月）、release of retention（质保金释放/返还）、retention certificate（保留金支付证书）。实务中最容易扯皮的是返还条件——常见写法是 \"50% released on completion, 50% on expiry of the defects liability period\"（竣工时返还一半，缺陷责任期满返还另一半）。另一个高频场景是用 retention bond / guarantee（保留金保函） 替代现金扣留，这样承包商现金流更好，海外项目谈判时这是很实用的一招。retention 在非工程语境里还有\"保留/留存/客户留存率（customer retention）\"的意思。",
+      "collocation": "retention 保留金/质保金；retention money 保留金；retention sum 质保金金额；retention rate 扣留比例；retention period 保留期；release of retention 质保金返还；retention certificate 保留金支付证书；retention bond 保留金保函；defects liability period 缺陷责任期；DLP 缺陷责任期（缩写）；progress payment 进度款；final account 最终结算；warranty 质保（第 14 期）；punch list 尾项清单（第 22 期）；handover 移交（第 12 期）；cash flow 现金流；customer retention 客户留存率",
+      "examples": [
+        {
+          "en": "A retention of 5% will be deducted from each progress payment, with half released upon completion and the balance upon expiry of the twelve-month defects liability period.",
+          "zh": "每期进度款扣留 5% 作为质保金，竣工时返还一半，余款在十二个月缺陷责任期满后返还。",
+          "audio": "audio/ex/retention-1.mp3"
+        }
+      ],
+      "mnemonic": "retain（保留）+ -ion = 业主先把钱留着不给，就是质保金。谐音\"瑞ten逊\"——瑞士银行先存着的那十分之一。谈判金句：We propose to replace the cash retention with a retention bond, which secures your interest without affecting our cash flow.（我们建议以保证金保函替代现金扣留，既保障贵方权益又不影响我方现金流。）——这招在海外项目谈判里既专业又体面。",
+      "issue": 33,
+      "date": "2026-10-17",
+      "theme": "深基坑支护方案确认 → 基础回填压实度验收 → 质保金条款谈判 → 拼箱集运省运费 → 客户入场安全教育导向",
+      "gloss": "质保金；保留金",
+      "category": "外贸",
+      "audio": "audio/retention.mp3"
+    },
+    {
+      "word": "consolidation",
+      "phonetic": "/kənˌsɒlɪˈdeɪʃn/",
+      "meaning": "把多个发货人（或多个订单）的小批量货物集中到同一个集装箱或同一票运输中发运的操作，是外贸物流里节省运费的核心手段。它和已学的 shipment（第 6 期发货）、freight（第 5 期运费）、packing list（第 12 期装箱单）、bill of lading（第 9 期提单）、demurrage（第 30 期滞期费）、surcharge（第 31 期附加费）、courier（第 31 期快递）、transshipment（第 32 期转运）构成完整的物流链条。核心术语：LCL (Less than Container Load)（拼箱） 对 FCL (Full Container Load)（整箱），拼箱由 consolidator（集拼经营人） 操作，在 CFS (Container Freight Station)（集装箱货运站） 装箱，出具的是 house bill of lading（分提单） 而非船公司主提单。实务要点：拼箱按 chargeable weight / revenue ton（计费吨，取体积与重量孰高） 计费，所以轻抛货要压缩体积；拼箱 transit time（时效） 比整箱长 3~7 天，且要等 cut-off time（截关时间） 与其他货主的货配齐。外贸邮件里常见的\"合并发货\"也用这个词：consolidate the orders into one shipment（把订单合并成一票发运）、consolidated invoice（合并发票）。",
+      "collocation": "consolidation 拼箱集运/合并；consolidate v. 合并/集拼；consolidator 集拼经营人；LCL 拼箱；FCL 整箱；CFS 集装箱货运站；house bill of lading 分提单；master bill of lading 主提单；chargeable weight 计费重量；revenue ton 计费吨；volumetric weight 体积重；cut-off time 截关时间；transit time 运输时效；consolidated shipment 合并发运；consolidated invoice 合并发票；freight forwarder 货代；freight 运费（第 5 期）",
+      "examples": [
+        {
+          "en": "To save freight we suggest LCL consolidation at the Shenzhen warehouse, but please allow five extra days for consolidation and customs clearance.",
+          "zh": "为节省运费我们建议在深圳仓库拼箱集运，但请为集拼与清关预留额外的五天时间。",
+          "audio": "audio/ex/consolidation-1.mp3"
+        }
+      ],
+      "mnemonic": "con-（共同）+ solid（坚固的/整体的）+ -ation = 把散货凑成一个结实的整体，就是集拼。谐音\"肯solid\"——肯定要凑实了才发。记一组对比：FCL 整箱自己用一柜，LCL 拼箱跟别人合装；拼箱省运费但慢 3~7 天，且按体积重计费。催客户句：If you can consolidate these three orders into one shipment, we can cut the freight by nearly 40%.（若能把这三笔订单合并成一票发运，运费可省近四成。）",
+      "issue": 33,
+      "date": "2026-10-17",
+      "theme": "深基坑支护方案确认 → 基础回填压实度验收 → 质保金条款谈判 → 拼箱集运省运费 → 客户入场安全教育导向",
+      "gloss": "拼箱集运；合并发货",
+      "category": "外贸",
+      "audio": "audio/consolidation.mp3"
+    },
+    {
+      "word": "induction",
+      "phonetic": "/ɪnˈdʌkʃn/",
+      "meaning": "一个词横跨现场接待与职场两条线。工程现场上指任何人进入工地前必须接受的入场安全教育（全称 site induction / safety induction），讲清危险源、个人防护用品、应急疏散和禁区范围，这是海外项目客户来访、分包进场的第一道法定程序，通常由 HSE officer（安全官） 主持，做完要 sign the induction register（签到表签字） 并发 induction card / visitor pass（入场证/访客证）。它和已学的 safety（安全）、PPE（personal protective equipment 个人防护用品）、site visit（第 8 期现场考察）、escort（第 30 期陪同）、protocol（第 16 期礼宾规程）、onboarding（第 30 期入职引导）、orientation（第 32 期入职导向）、briefing（第 15 期简报）配套使用。职场里 induction 指新员工入职引导培训（induction training / induction programme），与 onboarding 近义但更强调\"正式培训那一套流程\"。PPE 三件套在英文里要说得顺口：safety helmet（安全帽）、hi-vis vest（反光背心）、safety boots（劳保鞋），中东与非洲项目通常还要求 safety glasses（护目镜） 与 gloves（手套）。",
+      "collocation": "induction 入场教育/入职引导；site induction 现场入场教育；safety induction 安全教育；induction training 岗前培训；induction programme 入职培训计划；induction register 入场签到表；induction card 入场证；visitor pass 访客证；HSE officer 安全官；PPE 个人防护用品；safety helmet 安全帽；hi-vis vest 反光背心；safety boots 劳保鞋；safety glasses 护目镜；toolbox talk 班前会；method statement 施工方案；risk assessment 风险评估；escort 陪同（第 30 期）；site visit 现场考察（第 8 期）",
+      "examples": [
+        {
+          "en": "All visitors must complete the site safety induction and wear the required PPE before they are allowed to enter the erection area.",
+          "zh": "所有访客须完成现场安全教育并穿戴规定的个人防护用品，方可进入安装作业区。",
+          "audio": "audio/ex/induction-1.mp3"
+        }
+      ],
+      "mnemonic": "induct（引导进入）+ -ion = 把人领进门之前先讲规矩，既是入场教育也是入职引导。谐音\"in-duct\"——进入管道区域前先听安全交底。记一句接待流程话术：Before we go to the workshop, there will be a ten-minute safety induction — helmets and hi-vis vests will be provided.（进车间前有十分钟的安全教育，安全帽和反光背心我们会提供。）——客户来访时说这句，专业度立刻拉满，也体现你对安全的重视。",
+      "issue": 33,
+      "date": "2026-10-17",
+      "theme": "深基坑支护方案确认 → 基础回填压实度验收 → 质保金条款谈判 → 拼箱集运省运费 → 客户入场安全教育导向",
+      "gloss": "入场安全教育；入职引导",
+      "category": "职场",
+      "audio": "audio/induction.mp3"
     }
   ]
 }
