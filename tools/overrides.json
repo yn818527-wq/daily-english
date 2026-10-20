@@ -679,5 +679,25 @@
   "stakeholder": {
     "gloss": "相关方；干系人",
     "category": "职场"
+  },
+  "varnish": {
+    "gloss": "清漆；罩面漆",
+    "category": "工程材料"
+  },
+  "cofferdam": {
+    "gloss": "围堰；挡水围护",
+    "category": "工程施工"
+  },
+  "setback": {
+    "gloss": "建筑退线；退台；挫折",
+    "category": "建筑设计"
+  },
+  "backlog": {
+    "gloss": "积压订单；待办积压",
+    "category": "外贸商务"
+  },
+  "escalation": {
+    "gloss": "升级上报；价格上涨",
+    "category": "职场沟通"
   }
 }

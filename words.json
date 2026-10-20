@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20",
-  "total": 170,
+  "updated": "2026-10-21",
+  "total": 175,
   "words": [
     {
       "word": "truss",
@@ -3501,6 +3501,106 @@
       "gloss": "相关方；干系人",
       "category": "职场",
       "audio": "audio/stakeholder.mp3"
+    },
+    {
+      "word": "varnish",
+      "phonetic": "/ˈvɑːrnɪʃ/",
+      "meaning": "涂装体系里最后一道透明或有色的罩面漆，作用是封住下层涂层、提高耐候与耐污性，并给出想要的光泽度。它和已学的 coating（第 28 期涂层/防腐涂装）、galvanize（第 2 期镀锌）、corrosion（第 13 期腐蚀）、sealant（第 20 期密封胶）、sandwich panel（第 26 期夹芯板）串成\"防腐—涂装—罩面\"链条。钢结构与木作里最常见的三种：polyurethane varnish（聚氨酯清漆，耐候最好，户外首选）、alkyd varnish（醇酸清漆，便宜但易黄变）、water-based varnish（水性清漆，环保低味，室内木作常用）；光泽分 gloss（亮光）/ semi-gloss（半光）/ satin（丝光）/ matte（哑光） 四档，报价单上必须写清。木饰面上常说的\"两底两面\"英文是 two coats of primer plus two coats of varnish（两遍底漆加两遍面漆），膜厚单位是 DFT / dry film thickness（干膜厚度）。动词义要留意：varnish the truth 是\"粉饰事实、把难听的话说好听\"，商务写作里出现频率不低。",
+      "collocation": "varnish 清漆/罩面漆；polyurethane (PU) varnish 聚氨酯清漆；alkyd varnish 醇酸清漆；water-based varnish 水性清漆；clear varnish 透明清漆；gloss / semi-gloss / satin / matte finish 亮光/半光/丝光/哑光面；two coats of primer plus two coats of varnish 两底两面；dry film thickness (DFT) 干膜厚度；wet film thickness (WFT) 湿膜厚度；topcoat 面漆；primer 底漆；intermediate coat 中间漆；touch-up 补涂；yellowing 黄变；UV resistance 抗紫外；coating 涂层（第 28 期）；galvanize 镀锌（第 2 期）",
+      "examples": [
+        {
+          "en": "The exposed steel canopy shall receive two coats of polyurethane varnish, with a minimum dry film thickness of 80 microns, and the finish shall be satin rather than full gloss.",
+          "zh": "外露钢雨棚应涂两遍聚氨酯清漆，干膜厚度不低于 80 微米，饰面采用丝光而非全亮光。",
+          "audio": "audio/ex/varnish-1.mp3"
+        }
+      ],
+      "mnemonic": "谐音\"瓦尼诗\"——给瓦面刷上尼龙刷，刷完像诗一样亮。词根记法：varnish 和 veneer（饰面板/薄木皮） 同源，都是\"给表面贴/涂一层好看的皮\"，所以两者都带\"表面功夫\"的引申义。对比记忆：primer 底漆管附着，topcoat 面漆管耐候，varnish 清漆管光泽——三层各司其职，报价时少写一层，两年后就掉漆索赔。职场引申义例句：He tried to varnish the delay by calling it a schedule optimization.（他把延误粉饰成\"进度优化\"。）",
+      "issue": 35,
+      "date": "2026-10-21",
+      "theme": "钢构表面罩清漆收尾 → 水中承台做围堰干地施工 → 方案阶段核对建筑退线 → 产能告急谈积压订单排产 → 现场争议按流程升级上报",
+      "gloss": "清漆；罩面漆",
+      "category": "工程材料",
+      "audio": "audio/varnish.mp3"
+    },
+    {
+      "word": "cofferdam",
+      "phonetic": "/ˈkɔːfərdæm/",
+      "meaning": "在水中或高地下水位处修筑的临时挡水围护结构，把施工区域围起来抽干水，形成\"干地施工\"条件，常用于桥梁承台、码头、泵站、取排水口的基础施工。它和已学的 shoring（第 33 期支护）、dewatering（第 34 期降水）、excavation（第 32 期开挖）、backfill（第 33 期回填）、footing（第 23 期独立基础）、sheet piling（钢板桩）串成\"挡水—降水—开挖—浇筑—拆除\"完整链条。常见类型按用材分：sheet pile cofferdam（钢板桩围堰，最常用，可回收）、earth-filled cofferdam（土石围堰，就地取材造价低）、concrete cofferdam（混凝土围堰）、cellular cofferdam（格形钢板桩围堰，深水大工程）；按是否允许过水分 watertight cofferdam（不透水围堰） 与 overflow cofferdam（过水围堰）。设计三要素：内支撑（internal bracing / waling 围檩与 strut 第 34 期撑杆）、防渗（seepage 渗漏与 uplift 扬力）、拆除（removal / extraction）。实务提醒：围堰属临时工程但风险极高，海外项目里围堰失稳往往一次事故吃掉整个项目利润，报价时千万别按\"临时措施\"随便填个包干价。",
+      "collocation": "cofferdam 围堰；sheet pile cofferdam 钢板桩围堰；earth-filled cofferdam 土石围堰；cellular cofferdam 格形围堰；watertight / overflow cofferdam 不透水/过水围堰；cofferdam removal 围堰拆除；dewater 抽水降水（第 34 期 dewatering）；pumping 抽水；seepage 渗漏；uplift 扬压力；waling / waler 围檩；internal bracing 内支撑；strut 撑杆（第 34 期）；bearing stratum 持力层；pile cap 承台；abutment 桥台；coffer 保险箱/围堰（同源词）",
+      "examples": [
+        {
+          "en": "The sheet pile cofferdam shall be dewatered and kept dry until the pile cap concrete reaches its design strength, after which the bracing shall be removed in the reverse order of installation.",
+          "zh": "钢板桩围堰应抽水并保持干燥，直至承台混凝土达到设计强度，此后按安装的相反顺序拆除内支撑。",
+          "audio": "audio/ex/cofferdam-1.mp3"
+        }
+      ],
+      "mnemonic": "coffer（保险箱）+ dam（坝）= 围出一个像保险箱一样滴水不进的坝，就是围堰。谐音\"靠佛挡\"——水来了靠着钢板桩这尊佛把它挡住。记一条施工时序：cofferdam 围堰 → dewatering 降水 → excavation 开挖 → rebar 钢筋 → concrete 浇筑 → backfill 回填 → removal 拆围堰，顺序错了就会\"一边抽水一边塌\"。谈判提醒句：Cofferdam works are priced as a lump sum based on the geotechnical report provided; any change in water level beyond the report shall be treated as a variation.（围堰工程按所提供的地勘报告包干报价；水位超出报告的，应按变更处理。）",
+      "issue": 35,
+      "date": "2026-10-21",
+      "theme": "钢构表面罩清漆收尾 → 水中承台做围堰干地施工 → 方案阶段核对建筑退线 → 产能告急谈积压订单排产 → 现场争议按流程升级上报",
+      "gloss": "围堰；挡水围护",
+      "category": "工程施工",
+      "audio": "audio/cofferdam.mp3"
+    },
+    {
+      "word": "setback",
+      "phonetic": "/ˈsetbæk/",
+      "meaning": "一词横跨规划与日常两条线。建筑设计上指建筑物外墙相对于用地红线、道路红线后退的距离，是报规阶段必查项，常见术语有 building setback（建筑退线）、front / side / rear setback（前/侧/后退线）、setback line（退线控制线）、stepped setback / setback terrace（退台，高层逐层后退形成的露台）；与它配套的高频词是 building line（建筑控制线）、property line / plot boundary（用地红线）、floor area ratio (FAR) 容积率、site coverage 建筑密度、height restriction 限高。日常与职场上 setback = 挫折、倒退，是写周报和复盘时的高频词（a major setback 重大挫折、suffer a setback 遭受挫折、a temporary setback 暂时的挫折），与 resilience（第 20 期韧性）、burnout（第 19 期职业倦怠）常同框出现。一个词同时管\"房子要退后\"和\"项目要退步\"，非常好用。",
+      "collocation": "setback 退线/退台/挫折；building setback 建筑退线；front / side / rear setback 前/侧/后退线；setback line 退线控制线；stepped setback 退台；setback terrace 退台露台；property line / plot boundary 用地红线；building line 建筑控制线；road red line 道路红线；floor area ratio (FAR) 容积率；site coverage 建筑密度；height restriction 限高；planning approval 规划报批；zoning 区划；a major / temporary setback 重大/暂时挫折；suffer / overcome a setback 遭受/克服挫折；layout 平面布置（第 6 期）；grid line 轴线（第 26 期）",
+      "examples": [
+        {
+          "en": "The tower shall maintain a front setback of twelve metres from the property line, and the upper ten floors shall be stepped back to reduce the visual mass on the street.",
+          "zh": "塔楼应保持距用地红线十二米的前退线，上部十层应做退台处理，以减轻对街道的体量压迫感。",
+          "audio": "audio/ex/setback-1.mp3"
+        }
+      ],
+      "mnemonic": "set（往后放）+ back（向后）= 往后退，房子往后退是退线，进度往后退是挫折。画图记忆：先在总图上画一条 property line（用地红线），再往里量一段写 setback，剩下的才是能盖房的地方——这三根线是方案汇报第一页必画的三根。职场金句：We met a temporary setback in the tender, but the design team has already revised the scheme and we are back on track.（投标遭遇暂时挫折，但设计团队已修改方案，我们已重回正轨。）",
+      "issue": 35,
+      "date": "2026-10-21",
+      "theme": "钢构表面罩清漆收尾 → 水中承台做围堰干地施工 → 方案阶段核对建筑退线 → 产能告急谈积压订单排产 → 现场争议按流程升级上报",
+      "gloss": "建筑退线；退台；挫折",
+      "category": "建筑设计",
+      "audio": "audio/setback.mp3"
+    },
+    {
+      "word": "backlog",
+      "phonetic": "/ˈbæklɔːɡ/",
+      "meaning": "外贸与生产语境里指已接但尚未交付的订单量，是判断工厂排产与交期的核心指标，常写成 order backlog（订单积压）、a backlog of orders（积压的订单）；产能谈判时最实用的一句是 \"Our current backlog runs into February\"（我们现在的积压订单已排到二月），这句话一出口，客户对交期的预期立刻现实起来。它与已学的 lead time（第 2 期交货期）、MOQ（第 16 期最小起订量）、shipment（第 6 期发货）、deadline（第 12 期截止日期）、priority（第 26 期优先级）、production schedule（生产计划）、capacity（产能）构成\"接单—排产—交付\"链条。职场与 IT 语境里 backlog = 待办清单/积压工作（clear the backlog 清理积压、a backlog of emails 堆成山的邮件），敏捷开发里的 product backlog（产品待办列表） 也是同一个词。形容词 backlogged 很常用：We are heavily backlogged.（我们积压严重。）",
+      "collocation": "backlog 积压订单/待办积压；order backlog 订单积压；a backlog of orders 积压的订单；backlog of work 工作积压；production backlog 生产积压；clear / work off the backlog 清理/消化积压；reduce the backlog 减少积压；our backlog runs into ... 我们的积压排到……；production schedule 生产计划；capacity 产能；lead time 交货期（第 2 期）；delivery slot 交期档期；MOQ 最小起订量（第 16 期）；product backlog 产品待办列表；be backlogged 积压严重",
+      "examples": [
+        {
+          "en": "Due to a heavy order backlog, the earliest shipment for this container house model is in eight weeks, unless you can accept delivery in two separate batches.",
+          "zh": "由于订单积压严重，该型号集装箱房最早八周后发货，除非贵方接受分两批交付。",
+          "audio": "audio/ex/backlog-1.mp3"
+        }
+      ],
+      "mnemonic": "back（后面）+ log（原木/记录本）= 堆在后面的那堆木头/记录，越堆越多就是积压。谐音\"back-唠嗑\"——活儿都堆到后背了，你还有空唠嗑？报价交期三连句：Our backlog runs into February.（积压排到二月。）/ We can offer an earlier slot if you confirm the order this week.（本周确认订单可给更早档期。）/ Shall we split the shipment into two batches?（可否分两批发货？）——这三句基本能应付所有催交期场景。",
+      "issue": 35,
+      "date": "2026-10-21",
+      "theme": "钢构表面罩清漆收尾 → 水中承台做围堰干地施工 → 方案阶段核对建筑退线 → 产能告急谈积压订单排产 → 现场争议按流程升级上报",
+      "gloss": "积压订单；待办积压",
+      "category": "外贸商务",
+      "audio": "audio/backlog.mp3"
+    },
+    {
+      "word": "escalation",
+      "phonetic": "/ˌeskəˈleɪʃn/",
+      "meaning": "职场与项目管理里指问题超出本级职权或处理能力时，按既定路径向上汇报请示的过程，是专业度极高的一个词。它与已学的 clarification（第 7 期澄清）、claim（第 13 期索赔）、liaison（第 19 期联络人）、consensus（第 29 期共识）、stakeholder（第 34 期相关方）、feedback（第 27 期反馈）构成\"问题—澄清—升级—决策—反馈\"的沟通链条。核心搭配：escalate an issue to the project manager（把问题上报给项目经理）、escalation path / escalation procedure（升级路径/升级流程）、escalation matrix（升级矩阵，写明几小时内报给谁）、escalation clause（价格调整条款）。后一个商务义特别重要：合同里的 price escalation clause（价格调涨条款） 或 cost escalation（成本上涨），用来约定钢材、水泥等主材涨价超一定幅度时如何调价，是海外长周期工程的保命条款。动词 escalate 同样高频：Don't escalate it yet — try to resolve it at site level first.（先别上报，试着在现场层面解决。）",
+      "collocation": "escalation 升级上报/价格上涨；escalate an issue 上报问题；escalation path / procedure 升级路径/流程；escalation matrix 升级矩阵；escalate to senior management 上报至高层；escalation of a dispute 争议升级；price escalation 价格调涨；cost escalation 成本上涨；price escalation clause 价格调整条款；price adjustment formula 调价公式；steel price index 钢材价格指数；de-escalate 降级降温；site level 现场层面；clarification 澄清（第 7 期）；claim 索赔（第 13 期）",
+      "examples": [
+        {
+          "en": "If the site dispute cannot be resolved within 48 hours, it shall be escalated to the project manager in writing, and the escalation matrix shall be followed as agreed in the kick-off meeting.",
+          "zh": "若现场争议在 48 小时内无法解决，应以书面形式上报项目经理，并按启动会上约定的升级矩阵执行。",
+          "audio": "audio/ex/escalation-1.mp3"
+        }
+      ],
+      "mnemonic": "escalator（自动扶梯）+ -ion = 把问题送上扶梯，一级一级往上送，就是升级上报。谐音\" escalate = 一层一层 escalate\"。记住一个职场分寸感：先 resolve（解决），再 escalate（上报）——事事都上报会被认为没有担当，事事不上报又会在出事时背全锅；判断标准很简单：涉及钱、工期、安全、客户投诉的四类问题，一律走书面升级。合同金句：Should the steel price index increase by more than 5%, the contract price shall be adjusted in accordance with the price escalation clause.（钢材价格指数涨幅超过 5% 时，合同价格应按价格调整条款予以调整。）",
+      "issue": 35,
+      "date": "2026-10-21",
+      "theme": "钢构表面罩清漆收尾 → 水中承台做围堰干地施工 → 方案阶段核对建筑退线 → 产能告急谈积压订单排产 → 现场争议按流程升级上报",
+      "gloss": "升级上报；价格上涨",
+      "category": "职场沟通",
+      "audio": "audio/escalation.mp3"
     }
   ]
 }
