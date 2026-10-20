@@ -659,5 +659,25 @@
   "induction": {
     "gloss": "入场安全教育；入职引导",
     "category": "职场"
+  },
+  "strut": {
+    "gloss": "撑杆；受压杆件",
+    "category": "钢结构"
+  },
+  "dewatering": {
+    "gloss": "基坑降水；脱水",
+    "category": "工程"
+  },
+  "settlement": {
+    "gloss": "沉降；结算；和解",
+    "category": "工程"
+  },
+  "detention": {
+    "gloss": "滞箱费；超期占用费",
+    "category": "外贸"
+  },
+  "stakeholder": {
+    "gloss": "相关方；干系人",
+    "category": "职场"
   }
 }

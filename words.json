@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17",
-  "total": 165,
+  "updated": "2026-10-20",
+  "total": 170,
   "words": [
     {
       "word": "truss",
@@ -3401,6 +3401,106 @@
       "gloss": "入场安全教育；入职引导",
       "category": "职场",
       "audio": "audio/induction.mp3"
+    },
+    {
+      "word": "strut",
+      "phonetic": "/strʌt/",
+      "meaning": "结构中主要承受轴向压力的杆件，与承受拉力的 tie / tension member（拉杆/受拉构件） 相对。它和已学的 bracing（第 3 期支撑/斜撑）、column（第 11 期柱）、web（第 21 期腹板）、truss（第 1 期桁架）、camber（第 18 期起拱）、deflection（第 4 期挠度）、bolt anchor（第 6 期地脚螺栓）串成结构与计算链条。桁架里位于腹板的受压斜杆叫 diagonal strut（斜压杆），柱间设置的水平或竖向联系构件也常称 strut。受压构件的核心验算是 buckling（屈曲/失稳），控制指标是 slenderness ratio（长细比） 与 effective length（计算长度）——和受拉构件完全不同，拉杆怕拉断，压杆怕失稳。混凝土设计里的 strut-and-tie model（拉压杆模型） 也是同一个 strut。另外记一个高频工贸词：strut channel（成品支吊架槽钢，俗称万能角钢，Unistrut 是品牌名），机电管线支吊架报价时天天用到。日常英语里 strut 作动词还有\"昂首阔步走\"的意思。",
+      "collocation": "strut 撑杆/受压杆；compression strut 受压撑杆；diagonal strut 斜撑/斜压杆；tie / tension member 拉杆/受拉构件；web member 腹杆；strut-and-tie model 拉压杆模型；buckling 屈曲失稳；slenderness ratio 长细比；effective length 计算长度；radius of gyration 回转半径；K-bracing / X-bracing 交叉支撑；strut channel 成品支吊架槽钢；Unistrut 万能角钢；compression member 受压构件（第 11 期）；bracing 支撑（第 3 期）",
+      "examples": [
+        {
+          "en": "All compression struts shall be checked for buckling, and the slenderness ratio shall not exceed the limit stated in the approved specification.",
+          "zh": "所有受压撑杆均应验算屈曲，长细比不得超过经批准的规范限值。",
+          "audio": "audio/ex/strut-1.mp3"
+        }
+      ],
+      "mnemonic": "谐音\"死抓它\"——受压杆件得死死抓住它，一松手就屈曲失稳。记一对反义词：strut 受压（会失稳）、tie 受拉（会拉断），结构界最经典的押韵：Compression members buckle, tension members break.（受压构件屈曲，受拉构件拉断。）另外顺手记日常义：He strutted into the meeting room.（他昂首阔步走进会议室。）",
+      "issue": 34,
+      "date": "2026-10-20",
+      "theme": "确认受压撑杆的长细比 → 高水位场地基坑降水 → 沉降限值复核以防开裂 → 集装箱免箱期外的滞箱费 → 启动会锁定关键相关方",
+      "gloss": "撑杆；受压杆件",
+      "category": "钢结构",
+      "audio": "audio/strut.mp3"
+    },
+    {
+      "word": "dewatering",
+      "phonetic": "/diːˈwɔːtərɪŋ/",
+      "meaning": "开挖前把地下水降低或排干，使基坑能在干燥条件下施工的整套措施与作业。它和已学的 excavation（第 32 期开挖）、shoring（第 33 期支护）、backfill（第 33 期回填）、footing（第 23 期独立基础）、rebar（第 24 期钢筋）、grout（第 16 期灌浆）、drainage（第 14 期排水）、gutter（第 31 期天沟）串成完整的水土控制链条。常用方法按深度递增：sump pumping（集水坑明排） → wellpoint dewatering（轻型井点降水） → deep well dewatering（管井/深井降水）；软土地区还会配合 dewatering well（降水井） 与 wellpoint system（井点系统）。核心概念是 drawdown（水位降深） 与 cone of depression（降水漏斗）。实务提醒：降水方案里务必写清\"由谁负责、降多久、停泵条件\"三件事，否则一旦周边建筑出现沉降开裂，责任很难扯清。",
+      "collocation": "dewatering 降水/脱水；dewatering system 降水系统；wellpoint dewatering 井点降水；deep well dewatering 管井降水；sump pump 集水坑泵；sump pit 集水坑；groundwater table / water table 地下水位；drawdown 水位降深；cone of depression 降水漏斗；dewatering well 降水井；high groundwater 高水位；sludge dewatering 污泥脱水；permeability 渗透性；sheet piling 钢板桩（第 33 期）；excavation 开挖（第 32 期）",
+      "examples": [
+        {
+          "en": "Dewatering shall continue until the blinding concrete and footing reinforcement are completed, since a high groundwater table would otherwise soften the bearing stratum.",
+          "zh": "降水须持续到垫层混凝土与基础钢筋完成为止，否则高地下水位会软化持力层。",
+          "audio": "audio/ex/dewatering-1.mp3"
+        }
+      ],
+      "mnemonic": "de-（去掉）+ water + -ing = 把水去掉，就是降水。谐音\"de-袜特ring\"——把脚下的袜子特别拧干。记一条程序链：dewatering 降水 → excavation 开挖 → shoring 支护 → blinding 垫层 → rebar 钢筋 → concrete 浇筑 → stop dewatering 停降水，垫层没打完就停泵，持力层泡水必被监理叫停。另外提醒一个常见发音：注意 water 不读 \"沃特\"，是 /ˈwɔːtə(r)/。",
+      "issue": 34,
+      "date": "2026-10-20",
+      "theme": "确认受压撑杆的长细比 → 高水位场地基坑降水 → 沉降限值复核以防开裂 → 集装箱免箱期外的滞箱费 → 启动会锁定关键相关方",
+      "gloss": "基坑降水；脱水",
+      "category": "工程",
+      "audio": "audio/dewatering.mp3"
+    },
+    {
+      "word": "settlement",
+      "phonetic": "/ˈsetlmənt/",
+      "meaning": "一个词横跨技术与商务三条线。工程上指地基或结构随时间下沉，最致命的不是均匀沉降而是 differential settlement（不均匀沉降）——相邻基础沉降差大会拉裂上部墙体、楼板和幕墙，是海外项目最容易吃索赔的质量缺陷之一，常通过 settlement monitoring / settlement observation（沉降观测） 与 allowable settlement（容许沉降值） 来控制，指标多写成 1/500 之类的相对差值。商务上 settlement = 结算（final settlement / settlement of payment 最终结算、full and final settlement 一次性最终结清）；法律外贸上 = 和解/争议解决（settlement of disputes 争议解决、out-of-court settlement 庭外和解、amicable settlement 友好协商解决）。它和已学的 foundation（第 9 期基础）、backfill（第 33 期回填）、compaction（压实度）、claim（第 13 期索赔）、retention（第 33 期质保金）、arbitration（第 20 期仲裁）构成\"沉降开裂 → 索赔 → 和解或仲裁\"的完整链条。",
+      "collocation": "settlement 沉降/结算/和解；differential settlement 不均匀沉降；uniform settlement 均匀沉降；allowable settlement 容许沉降；total settlement 总沉降；settlement monitoring 沉降监测；settlement observation 沉降观测；settlement gauge 沉降观测点；bearing capacity 承载力；bearing stratum 持力层；final settlement 最终结算/最终沉降；full and final settlement 一次性最终结清；settlement of payment 结算付款；settlement of disputes 争议解决；out-of-court settlement 庭外和解；amicable settlement 友好协商和解；claim 索赔（第 13 期）",
+      "examples": [
+        {
+          "en": "The differential settlement between adjacent footings shall be limited to 1 in 500, otherwise cracking may appear in the partition walls above.",
+          "zh": "相邻基础之间的不均匀沉降应控制在 1/500 以内，否则上部隔墙可能出现开裂。",
+          "audio": "audio/ex/settlement-1.mp3"
+        }
+      ],
+      "mnemonic": "settle（安顿下来）+ -ment = 地基\"安顿\"下去了就是沉降，账目安顿下来了就是结算，争执安顿下来了就是和解——一词三义一次打包带回家。谐音\"赛头ment\"——沉降要比赛看谁头先低下去。赔款防御句：The floor cracking is caused by differential settlement resulting from inadequate compaction of the backfill, which is outside our scope of works.（地面开裂源于回填压实不足引起的不均匀沉降，不在我方工程范围内。）——这句话的实际作用是分清土方与结构两家责任。",
+      "issue": 34,
+      "date": "2026-10-20",
+      "theme": "确认受压撑杆的长细比 → 高水位场地基坑降水 → 沉降限值复核以防开裂 → 集装箱免箱期外的滞箱费 → 启动会锁定关键相关方",
+      "gloss": "沉降；结算；和解",
+      "category": "工程",
+      "audio": "audio/settlement.mp3"
+    },
+    {
+      "word": "detention",
+      "phonetic": "/dɪˈtenʃn/",
+      "meaning": "和已学的 demurrage（第 30 期滞期费） 是外贸物流里最经典的一对——demurrage 是集装箱还堆在码头堆场里超期产生的费用，detention 是集装箱已被提走、收货人拿着不归还箱产生的费用。行业口语合称 D&D（demurrage and detention），船公司给的免费期限叫 free time（免费箱期），常写成 \"14 days free time for demurrage and detention combined\"（滞期与滞箱合并十四天免费期），超期后按 per diem（按日） 、per container per day（每箱每天） 计费。它与 container yard（CY 堆场）、empty return（空箱还箱）、transshipment（第 32 期转运）、consolidation（第 33 期拼箱）、customs clearance（第 7 期清关）、surcharge（第 31 期附加费）、freight forwarder（货代）构成运费与杂费链条。实务经验：目的港压箱不还算常见风险，尤其是清关延误、客户迟迟不提货时；建议发货前就把 free time 条款谈到二十一天以上，比事后去申请减免（detention waiver 滞箱费减免）划算得多。",
+      "collocation": "detention 滞箱费；detention charge 滞箱费；demurrage and detention (D&D) 滞期费与滞箱费；free time 免费箱期；combined free time 合并免费期；per diem 按日计费；per container per day 每箱每天；empty return / return of empty container 空箱还箱；container yard (CY) 集装箱堆场；detention waiver 滞箱费减免；demurrage 滞期费（第 30 期）；customs clearance 清关（第 7 期）；surcharge 附加费（第 31 期）",
+      "examples": [
+        {
+          "en": "You have fourteen days of combined free time, after which a detention charge of USD 30 per container per day will apply until the empty boxes are returned to nominated yard.",
+          "zh": "贵方可享受十四天合并免费箱期，此后将按每箱每天 30 美元计收滞箱费，直至空箱还至指定堆场。",
+          "audio": "audio/ex/detention-1.mp3"
+        }
+      ],
+      "mnemonic": "detain（扣留）+ -ion = 你把箱子扣着不还，那就要按天给钱。背一句顺口溜区分这对孪生兄弟：Demurrage when the box sits inside the terminal, detention when the box sits outside with you.（箱子停在码头里叫 demurrage，箱子被你提走不还叫 detention。）谈判金句：We request a seven-day detention waiver since the delay was caused by the extended customs inspection, not by our consignee.（申请减免七天滞箱费，因为延误由海关延长查验所致，而非收货人原因。）",
+      "issue": 34,
+      "date": "2026-10-20",
+      "theme": "确认受压撑杆的长细比 → 高水位场地基坑降水 → 沉降限值复核以防开裂 → 集装箱免箱期外的滞箱费 → 启动会锁定关键相关方",
+      "gloss": "滞箱费；超期占用费",
+      "category": "外贸",
+      "audio": "audio/detention.mp3"
+    },
+    {
+      "word": "stakeholder",
+      "phonetic": "/ˈsteɪkhəʊldə(r)/",
+      "meaning": "项目管理里指所有能影响项目或受项目影响的个人与组织，是开会写报表的第一高频词。它和已学的 milestone（第 23 期里程碑）、briefing（第 15 期简报）、consensus（第 29 期共识）、liaison（第 19 期联络人）、delegate（第 14 期授权）、feedback（第 27 期反馈）、proposal（第 24 期方案建议书）构成项目沟通管理链条。工程语境里主要的相关方有 employer / owner（业主）、consultant / engineer（监理/工程师）、contractor（承包商）、subcontractor（分包）、supplier / vendor（供应商）、local authority（当地政府主管部门）、end user（最终使用方）。标准动作是先在启动会做 stakeholder analysis（相关方分析）、画 stakeholder map（相关方图谱），定出 key stakeholder（关键相关方），再明确 communication matrix（沟通矩阵） 与更新频率。进阶用法：stakeholder engagement（相关方参与）、keep all stakeholders informed（让相关方知悉）、manage stakeholder expectations（管理相关方期望）、RACI matrix（负责人/批准人/咨询人/知悉人责任矩阵）。这个词在 PPT 里出现的频率比在施工图上高得多，面试与汇报都很加分。",
+      "collocation": "stakeholder 相关方；stakeholder analysis 相关方分析；stakeholder map 相关方图谱；key stakeholder 关键相关方；internal / external stakeholder 内部/外部相关方；stakeholder engagement 相关方参与；stakeholder meeting 相关方会议；manage stakeholder expectations 管理相关方期望；keep stakeholders informed 让相关方知情；communication matrix 沟通矩阵；RACI matrix 责任分配矩阵；kick-off meeting 启动会；employer / owner 业主；consultant 监理/咨询；subcontractor 分包；end user 最终使用方；consensus 共识（第 29 期）",
+      "examples": [
+        {
+          "en": "We should identify all key stakeholders at the kick-off meeting and agree on how often each of them needs to be updated on the project progress.",
+          "zh": "我们应在启动会上识别所有关键相关方，并就各自的进展通报频率达成一致。",
+          "audio": "audio/ex/stakeholder-1.mp3"
+        }
+      ],
+      "mnemonic": "stake（赌注/利益份额）+ holder（持有者）= 手里攥着项目成败那份利益的人，就是相关方。谐音\"stake holder\"——项目这块蛋糕谁（拿）了份额谁就得参与意见。汇报万能句：Please circulate the minutes to all stakeholders within 24 hours.（请在 24 小时内把会议纪要分发给所有相关方。）——这句话一说，项目经理的气质就有了。",
+      "issue": 34,
+      "date": "2026-10-20",
+      "theme": "确认受压撑杆的长细比 → 高水位场地基坑降水 → 沉降限值复核以防开裂 → 集装箱免箱期外的滞箱费 → 启动会锁定关键相关方",
+      "gloss": "相关方；干系人",
+      "category": "职场",
+      "audio": "audio/stakeholder.mp3"
     }
   ]
 }
