@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21",
-  "total": 175,
+  "updated": "2026-10-22",
+  "total": 180,
   "words": [
     {
       "word": "truss",
@@ -3601,6 +3601,106 @@
       "gloss": "升级上报；价格上涨",
       "category": "职场沟通",
       "audio": "audio/escalation.mp3"
+    },
+    {
+      "word": "underpinning",
+      "phonetic": "/ˌʌndərˈpɪnɪŋ/",
+      "meaning": "既有建筑需要加层、增载，或邻近开挖、地基出问题时，在原基础下方或两侧补做新的承重结构，把荷载转移到更深更好的持力层上的加固工法。它与已学的 foundation（第 9 期基础）、footing（第 23 期独立基础）、shoring（第 33 期支护）、excavation（第 32 期开挖）、backfill（第 33 期回填）、grout（第 16 期灌浆）、settlement（第 34 期沉降）串成\"既有建筑加固\"的完整链条。常见做法按传力方式分：mass concrete underpinning（混凝土墩式托换，最传统，分段跳槽施工）、pile underpinning / mini-pile underpinning（桩式托换 / 微型桩托换，深基础首选）、needle and pile underpinning（托梁加桩，墙下常用）、jet grouting underpinning（旋喷桩托换）。施工铁律是 alternate bay construction（分段跳槽施工）：必须把基础分成 1.2 米左右的小段，隔一段做一段，绝不能同时掏空。比喻义在写作里极常用：the underpinnings of the economy（经济的根基）、the theoretical underpinning of the design（设计的理论支撑）。",
+      "collocation": "underpinning 基础托换/加固；mass concrete underpinning 混凝土墩式托换；pile underpinning 桩式托换；mini-pile / micropile underpinning 微型桩托换；needle and pile underpinning 托梁加桩；jet grouting 旋喷桩；alternate bay construction 分段跳槽施工；load transfer 荷载转移；existing foundation 既有基础；bearing stratum 持力层；differential settlement 不均匀沉降（第 34 期 settlement）；structural strengthening 结构加固；load-bearing capacity 承载力；underpin a building 托换加固建筑；theoretical underpinning 理论支撑",
+      "examples": [
+        {
+          "en": "The two-storey workshop will be strengthened by mini-pile underpinning, executed in alternate bays of 1.2 metres, and no two adjacent bays may be excavated at the same time.",
+          "zh": "该两层车间将采用微型桩托换加固，按 1.2 米分段跳槽施工，相邻两段不得同时开挖。",
+          "audio": "audio/ex/underpinning-1.mp3"
+        }
+      ],
+      "mnemonic": "under（在下面）+ pin（别针/钉住）+ -ing = 从下面把房子\"钉\"住撑起来，就是基础托换。谐音\"按得稳\"——底下补一排桩，按住老房子让它得到稳固。记一句最值钱的现场英文：Never excavate two adjacent bays simultaneously.（绝不同时开挖相邻两段。）这句话在海外加固项目的安全交底里出现频率极高，写进方案里也显得非常专业。抽象义例句：Cost control is the underpinning of our competitive offer.（成本控制是我们有竞争力报价的根基。）",
+      "issue": 36,
+      "date": "2026-10-22",
+      "theme": "老厂房加层做基础托换加固 → 室外雕塑与钢柱的柱础勒脚收口 → 提单背书后正本寄客户清关 → 新项目开启动会定责任分工 → 用对标数据给方案做成本基准",
+      "gloss": "基础托换加固",
+      "category": "工程施工",
+      "audio": "audio/underpinning.mp3"
+    },
+    {
+      "word": "plinth",
+      "phonetic": "/plɪnθ/",
+      "meaning": "柱子、墙体、雕塑或设备底部向外扩出的方形底座，作用是扩散集中荷载、把潮气挡在主体之外，同时给出视觉上的\"落地感\"。它与已学的 column（第 11 期柱）、base plate（第 22 期柱底板）、footing（第 23 期独立基础）、grout（第 16 期灌浆）、anchor bolt（第 6 期地脚螺栓）、fascia（第 32 期封檐板）、parapet（第 20 期女儿墙）串成\"竖向落地收口\"的做法链条。建筑上最常说的两个部位是 plinth course（勒脚层，外墙底部一圈做实、做深色的收边） 与 column plinth / pedestal（柱础）；材料上有 concrete plinth（混凝土基座）、granite plinth（花岗岩勒脚）、steel plinth（钢底座）。设备与机电语境里 plinth = 设备基础座/底座（pump plinth 泵底座、transformer plinth 变压器基座），图纸上常标注 plinth height 基座高度、100 mm above finished floor level（高出完成面 100 毫米），目的就是防水防潮。钢柱柱脚的实操要点：混凝土基座顶面要高出室外地坪，柱底板与基座之间留 50 毫米缝隙做 grout（二次灌浆），避免柱脚泡水锈蚀。",
+      "collocation": "plinth 柱础/勒脚/基座；plinth course 勒脚层；column plinth / pedestal 柱础；concrete plinth 混凝土基座；granite plinth 花岗岩勒脚；steel plinth 钢底座；equipment plinth 设备基础座；pump / transformer plinth 泵/变压器基座；plinth height 基座高度；above finished floor level (AFFL) 高出完成面；damp-proof course (DPC) 防潮层；base plate 柱底板（第 22 期）；grout 灌浆（第 16 期）；anchor bolt 地脚螺栓（第 6 期）；pedestal 基座/柱脚墩",
+      "examples": [
+        {
+          "en": "Each steel column shall be supported on a concrete plinth raised 150 millimetres above the finished ground level, with a 50-millimetre gap left under the base plate for subsequent grouting.",
+          "zh": "每根钢柱应支承于高出室外完成地坪 150 毫米的混凝土基座上，柱底板下方留 50 毫米空隙以便后续灌浆。",
+          "audio": "audio/ex/plinth-1.mp3"
+        }
+      ],
+      "mnemonic": "谐音\"铺灵石\"——柱脚底下铺一块灵验的石头，撑住整栋楼。词源记忆：plinth 来自希腊语 plinthos（砖块），和 plank（木板）、plate（板） 是远亲，都指\"扁平的一块\"——所以 plinth 永远是一块扁而外扩的东西，不是细长的柱子。现场自查三问：基座顶高出地坪多少（防积水）？柱底板下留了多少灌浆缝（防悬空）？地脚螺栓有没有做防腐包封（防锈蚀）？三问答全了，柱脚就不会出事。",
+      "issue": 36,
+      "date": "2026-10-22",
+      "theme": "老厂房加层做基础托换加固 → 室外雕塑与钢柱的柱础勒脚收口 → 提单背书后正本寄客户清关 → 新项目开启动会定责任分工 → 用对标数据给方案做成本基准",
+      "gloss": "柱础/勒脚/基座",
+      "category": "建筑设计",
+      "audio": "audio/plinth.mp3"
+    },
+    {
+      "word": "endorsement",
+      "phonetic": "/ɪnˈdɔːrsmənt/",
+      "meaning": "一词横跨外贸与职场两条线。外贸与单证语境里指持有人在提单、汇票、保险单背面签字盖章，把物权或收款权转让给他人的行为，是信用证交单里最容易出错的一个环节。它与已学的 bill of lading（第 9 期提单）、letter of credit（第 8 期信用证）、consignee（第 17 期收货人）、customs clearance（第 7 期清关）、certificate of origin（第 26 期原产地证）、courier（第 31 期快递）串成\"签单—背书—寄单—清关\"的完整链路。实操要点三种：blank endorsement（空白背书，只盖章不写被背书人，谁拿到正本谁提货，风险最大）、special / full endorsement（记名背书，写明\"交付给某某公司\"，最安全）、to order endorsement（指示背书，写 to the order of XXX）；提单上的 \"consigned to order, blank endorsed\" 是信用证最常见的要求写法。职场与商务语境里 endorsement = 公开认可、支持、背书（endorse a proposal 认可一项提案、the endorsement of senior management 高层的支持），营销上则是 名人代言（celebrity endorsement / brand endorsement）。",
+      "collocation": "endorsement 背书/认可/代言；blank endorsement 空白背书；special / full endorsement 记名背书；to order endorsement 指示背书；endorse a bill of lading 背书提单；consigned to order, blank endorsed 凭指示、空白背书；endorsee 被背书人；endorser 背书人；original bill of lading 正本提单；set of three originals 一式三份正本；discrepancy 不符点；endorse a proposal 认可提案；endorse a candidate 支持候选人；celebrity / brand endorsement 名人/品牌代言；letter of credit 信用证（第 8 期）",
+      "examples": [
+        {
+          "en": "Please return the full set of three original bills of lading, duly endorsed in blank, together with the certificate of origin, so that we can arrange customs clearance at the destination port.",
+          "zh": "请将全套三份正本提单做妥空白背书后，连同原产地证一并寄回，以便我们在目的港安排清关。",
+          "audio": "audio/ex/endorsement-1.mp3"
+        }
+      ],
+      "mnemonic": "en-（使）+ dorsum（拉丁语\"背面\"）= 在背面签字，就是背书。联想：你签的每张合同、每张提单，背面才是真正能转让权利的地方。谐音\"摁倒撕门特\"——摁住提单倒过来签字，才能撕开清关那门。记忆口诀三选一：空白背书（只签字）= 谁拿正本谁提货（快但险）；记名背书（写名字）= 只有指定方能提货（慢但稳）；指示背书 = 凭指定方指示提货。寄单前的自查：几份正本？背书了吗？章盖在哪一面？三问答完再封快递袋。",
+      "issue": 36,
+      "date": "2026-10-22",
+      "theme": "老厂房加层做基础托换加固 → 室外雕塑与钢柱的柱础勒脚收口 → 提单背书后正本寄客户清关 → 新项目开启动会定责任分工 → 用对标数据给方案做成本基准",
+      "gloss": "提单背书/认可",
+      "category": "外贸",
+      "audio": "audio/endorsement.mp3"
+    },
+    {
+      "word": "kickoff",
+      "phonetic": "/ˈkɪk ɔːf/",
+      "meaning": "项目管理语境里指项目正式启动的第一次全体会议，用来统一目标、确认范围、明确分工与时间节点，是海外工程里最重要的一次会议。它与已学的 briefing（第 15 期简报/交底会）、agenda（第 4 期议程）、milestone（第 23 期里程碑）、stakeholder（第 34 期相关方）、delegation（第 29 期代表团）、consensus（第 29 期共识）、escalation（第 35 期升级上报）、induction（第 33 期入场安全教育）串成\"启动—交底—执行—收尾\"的完整管理链条。标准写法是 kick-off meeting（启动会） 或 project kick-off，动词用 kick off the project。启动会必备六个动作：introduce the team（介绍团队与联系方式）、confirm the scope and exclusions（确认范围与除外项）、agree the programme and milestones（确认进度与节点）、set the communication protocol（约定沟通机制与报告频率）、define the escalation matrix（明确升级矩阵）、list the action items with owners and due dates（列出行动项、责任人与截止日）。词源是足球的 kick off（开球），所以日常口语里也指\"开始、拉开序幕\"：Let's kick off the discussion.（咱们开始讨论吧。）",
+      "collocation": "kick-off meeting / project kick-off 项目启动会；kick off the project 启动项目；kick-off date 启动日期；kick-off agenda 启动会议程；scope and exclusions 范围与除外项；programme / schedule 总进度计划；milestone 里程碑（第 23 期）；action item list 行动项清单；owner 责任人；due date 截止日；communication protocol 沟通机制；escalation matrix 升级矩阵（第 35 期）；minutes of meeting (MoM) 会议纪要；kick off the discussion 开始讨论；kickoff call 启动电话会",
+      "examples": [
+        {
+          "en": "We will hold the project kick-off meeting next Monday, at which we shall confirm the scope and exclusions, agree the milestone dates, and issue the action item list with named owners.",
+          "zh": "我们将于下周一召开项目启动会，会上确认工程范围与除外项、商定里程碑日期，并下发载明责任人的行动项清单。",
+          "audio": "audio/ex/kickoff-1.mp3"
+        }
+      ],
+      "mnemonic": "kick（踢）+ off（出发）= 把球踢出去，比赛开始 → 项目启动。谐音\"开球——kick 一脚就 off 跑了\"。启动会万能开场白三句记牢：Welcome, and thank you for joining the kick-off meeting.（欢迎参加启动会。）／ Today we will confirm the scope, the programme and the communication protocol.（今天将确认范围、进度与沟通机制。）／ All action items will be circulated within 24 hours with owners and due dates.（所有行动项将在 24 小时内下发，注明责任人与截止日。）——把这三句背下来，任意一个国际项目启动会都能撑住场面。",
+      "issue": 36,
+      "date": "2026-10-22",
+      "theme": "老厂房加层做基础托换加固 → 室外雕塑与钢柱的柱础勒脚收口 → 提单背书后正本寄客户清关 → 新项目开启动会定责任分工 → 用对标数据给方案做成本基准",
+      "gloss": "项目启动会",
+      "category": "职场",
+      "audio": "audio/kickoff.mp3"
+    },
+    {
+      "word": "benchmark",
+      "phonetic": "/ˈbentʃmɑːrk/",
+      "meaning": "职场与工程管理里指用来对比衡量的参照标准，既可以是量化的成本、工期、能耗指标，也可以是业界公认做得最好的那个对象。它与已学的 specification（第 10 期规格书）、tender（第 27 期投标）、appraisal（第 25 期绩效评估）、feedback（第 27 期反馈）、priority（第 26 期优先级）、milestone（第 23 期里程碑）串成\"定标准—做对比—找差距—持续改进\"的闭环。三种主流用法：benchmark against（与……对标）、set a benchmark / industry benchmark（树立标杆/行业基准）、benchmark test / benchmarking study（基准测试/对标研究）。工程实务里最实用的是成本与能耗两个维度：benchmark cost per square metre（每平方米造价基准）、energy benchmark（能耗基准，如 kWh/m²·年）、benchmark the quotation against three comparable projects（把报价与三个同类项目对标）；测绘里的 benchmark (BM) 还是\"水准点\"的专业术语，与已学的 survey（第 31 期测量）同源。动词用法很地道：We benchmarked our fabrication cost against two local competitors.（我们把加工成本与两家本地同行做了对标。）形容词 best-in-class 常与它同框。",
+      "collocation": "benchmark 基准/标杆/水准点；benchmark against 与……对标；benchmark with 以……为参照；set / establish a benchmark 树立标杆；industry benchmark 行业基准；benchmark cost per square metre 每平方米造价基准；benchmark figure 基准数值；energy / performance benchmark 能耗/性能基准；benchmarking study 对标研究；benchmark test 基准测试；best-in-class 一流的、业界最优；comparable project 同类可比项目；gap analysis 差距分析；benchmark (BM) 水准点（测量）；appraisal 绩效评估（第 25 期）",
+      "examples": [
+        {
+          "en": "Before we submit the tender, let us benchmark the fabrication cost per tonne against the two warehouse projects we delivered in Kenya last year.",
+          "zh": "投标前，我们先把每吨加工成本与去年在肯尼亚交付的两个仓库项目做个对标。",
+          "audio": "audio/ex/benchmark-1.mp3"
+        }
+      ],
+      "mnemonic": "bench（工作台）+ mark（刻痕）= 工匠在工作台上刻的那道标准刻痕，后来引申为一切\"拿来当尺子\"的基准。联想记忆：木匠在工作台（bench）上刻一道印子（mark），以后每根木料都比着这道印子锯——这就是 benchmark。职场三连句：What is the benchmark for this type of project?（这类项目的基准是多少？）／ We benchmarked against three comparable projects.（我们与三个同类项目做了对标。）／ Our figure is 8% below the industry benchmark.（我们的数值低于行业基准 8%。）汇报方案时用上\"对标\"两个字，专业度立刻不一样。",
+      "issue": 36,
+      "date": "2026-10-22",
+      "theme": "老厂房加层做基础托换加固 → 室外雕塑与钢柱的柱础勒脚收口 → 提单背书后正本寄客户清关 → 新项目开启动会定责任分工 → 用对标数据给方案做成本基准",
+      "gloss": "基准/对标",
+      "category": "职场",
+      "audio": "audio/benchmark.mp3"
     }
   ]
 }

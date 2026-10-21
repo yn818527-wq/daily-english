@@ -699,5 +699,25 @@
   "escalation": {
     "gloss": "升级上报；价格上涨",
     "category": "职场沟通"
+  },
+  "underpinning": {
+    "gloss": "基础托换加固",
+    "category": "工程施工"
+  },
+  "plinth": {
+    "gloss": "柱础/勒脚/基座",
+    "category": "建筑设计"
+  },
+  "endorsement": {
+    "gloss": "提单背书/认可",
+    "category": "外贸"
+  },
+  "kickoff": {
+    "gloss": "项目启动会",
+    "category": "职场"
+  },
+  "benchmark": {
+    "gloss": "基准/对标",
+    "category": "职场"
   }
 }
