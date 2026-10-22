@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22",
-  "total": 180,
+  "updated": "2026-10-23",
+  "total": 185,
   "words": [
     {
       "word": "truss",
@@ -3701,6 +3701,106 @@
       "gloss": "基准/对标",
       "category": "职场",
       "audio": "audio/benchmark.mp3"
+    },
+    {
+      "word": "riprap",
+      "phonetic": "/ˈrɪpræp/",
+      "meaning": "把大块坚硬、不易风化的石块（或预制混凝土块）按一定厚度抛填、铺砌在边坡、河岸、桥台、堤坝或海岸线上，用来抵抗水流冲刷、波浪掏蚀和雨水冲蚀的护面做法。它与已学的 excavation（第 32 期开挖）、backfill（第 33 期回填）、shoring（第 33 期支护）、dewatering（第 34 期降水）、footing（第 23 期独立基础）、drainage（第 14 期排水）、cofferdam（第 35 期围堰）串成\"场地与基础施工\"的完整链条。三种主流做法：dumped riprap（抛填抛石，石块直接倾倒，最省事）、hand-placed riprap（人工铺砌，最规整美观但最贵）、grouted riprap（灌浆抛石，缝隙灌水泥砂浆，整体性强）。设计三要素：stone size（块石粒径，决定抗流速能力）、layer thickness（铺设厚度，一般取最大粒径的 1.5–2 倍，常见 300–600 毫米）、filter layer / geotextile underlayment（反滤层/土工布垫层，防止土粒被水掏走——这是最容易被漏掉、也最容易出事的一层）。",
+      "collocation": "riprap 抛石护坡；dumped / hand-placed / grouted riprap 抛填/人工铺砌/灌浆抛石；riprap protection 抛石防护；riprap slope protection 边坡抛石防护；rock riprap 块石抛石；stone size / gradation 块石粒径/级配；layer thickness 铺设厚度；filter layer 反滤层；geotextile underlayment 土工布垫层；scour protection 冲刷防护；bridge abutment 桥台；embankment 路堤/填方；erosion 侵蚀、冲刷；toe protection 坡脚防护；channel lining 渠道衬砌",
+      "examples": [
+        {
+          "en": "The abutments shall be protected with 500 millimetres of dumped riprap placed on a geotextile filter layer to prevent scour during the rainy season.",
+          "zh": "桥台应采用 500 毫米厚的抛填抛石防护，铺设在土工布反滤层上，以防止雨季冲刷。",
+          "audio": "audio/ex/riprap-1.mp3"
+        }
+      ],
+      "mnemonic": "rip（撕扯、冲刷）+ rap（敲击、拍打）= 水流\"撕扯拍打\"的地方铺上大石头，就是抛石护坡。谐音\"锐扑软铺\"——锐利的浪扑上来，拿硬石头铺上去挡住。现场三问自查：石头够不够大（抗得住设计流速）？底下有没有土工布反滤层（防土粒被掏空）？坡脚 toe 有没有加宽加厚（防淘刷失稳）？三问答全，护坡才能扛过第一个雨季。",
+      "issue": 37,
+      "date": "2026-10-23",
+      "theme": "雨季前桥台做抛石护坡 → 引桥钢构分三段加工浮运就位 → 小批量配件走拼箱站到站 → 项目分工上 RACI 责任矩阵 → 竣工查验出缺陷清单、销项后释放质保金",
+      "gloss": "抛石护坡",
+      "category": "工程现场",
+      "audio": "audio/riprap.mp3"
+    },
+    {
+      "word": "jetty",
+      "phonetic": "/ˈdʒeti/",
+      "meaning": "从岸边向水域伸出的狭长构筑物，工程上有三类常见含义，海外项目都可能遇到：一、货运突堤码头（cargo jetty / loading jetty）——港口里伸出去的钢结构或混凝土栈桥，上面布置皮带机、工艺管道或检修行车，用于散货、油品装卸船；二、人员引桥（access jetty）——供人员上下交通船的通道；三、导流堤（training jetty）——河口两侧修筑的堤，用来束窄河道、提高流速、减轻淤积。它与已学的 corrosion（第 13 期腐蚀）、coating（第 28 期涂装）、cofferdam（第 35 期围堰）、dewatering（第 34 期降水）、riprap（今日）构成\"水工构筑物\"词汇网。钢栈桥防腐是生死线，务必会说：splash zone（浪溅区，干湿交替腐蚀最快，要加重防腐或加大壁厚）、cathodic protection（阴极保护）、sacrificial anode（牺牲阳极）、marine-grade coating（海洋级重防腐涂装）。",
+      "collocation": "jetty 突堤码头/栈桥；cargo / loading jetty 货运/装船突堤；oil jetty 油品码头；access jetty 人员引桥；training jetty 导流堤；jetty structure 码头结构；approach trestle 引桥栈桥；berth 泊位；mooring dolphin 系船墩；fender 护舷；bollard 系船柱；pile bent 排桩；splash zone 浪溅区；cathodic protection 阴极保护；sacrificial anode 牺牲阳极；marine-grade coating 海洋级防腐涂层；marine growth 海生物附着；scour 冲刷",
+      "examples": [
+        {
+          "en": "The 180-metre steel access jetty will be fabricated in three sections and floated into position, with all members in the splash zone receiving a marine-grade coating plus sacrificial anodes.",
+          "zh": "这座 180 米长的钢引桥将分三段加工制作后浮运就位，浪溅区内的所有构件均采用海洋级防腐涂装并加装牺牲阳极。",
+          "audio": "audio/ex/jetty-1.mp3"
+        }
+      ],
+      "mnemonic": "jet（喷射）+ -ty = 像水柱一样\"喷\"进海里的一道狭长结构 → 突堤码头。谐音\"接梯\"——船靠不了岸，修条栈桥接上去当梯子走人。三兄弟区分：jetty 是伸出海里的突堤/工作栈桥；pier 是伸出海面的客运观光长桥（也指桥墩）；wharf 是沿岸平行布置的顺岸码头（货物直接卸到岸上）。记一句：We load at the wharf, walk along the pier, and tie up at the jetty.（我们在顺岸码头装货，沿长桥走人，在突堤码头系缆。）",
+      "issue": 37,
+      "date": "2026-10-23",
+      "theme": "雨季前桥台做抛石护坡 → 引桥钢构分三段加工浮运就位 → 小批量配件走拼箱站到站 → 项目分工上 RACI 责任矩阵 → 竣工查验出缺陷清单、销项后释放质保金",
+      "gloss": "突堤码头/栈桥",
+      "category": "工程现场",
+      "audio": "audio/jetty.mp3"
+    },
+    {
+      "word": "CFS",
+      "phonetic": "/ˌsiː ef ˈes/",
+      "meaning": "Container Freight Station 的缩写，指港口或内陆的拼箱仓库——散货在这里集中装进同一个集装箱（CFS to CFS，站到站 / 拼箱），进口集装箱也在这里拆箱分拨给不同收货人。它与已学的 consolidation（第 33 期拼箱集运）、bill of lading（第 9 期提单）、demurrage（第 30 期滞期费）、detention（第 34 期滞箱费）、transshipment（第 32 期转运）、customs clearance（第 7 期清关）、MOQ（第 16 期最小起订量）、tariff（第 24 期关税）串成\"外贸物流与关务\"的完整链路。三组必会对照：FCL (Full Container Load) 整箱 vs LCL (Less than Container Load) 拼箱；CY (Container Yard) 集装箱堆场 vs CFS 集装箱货运站；CFS charge 拼箱服务费 vs THC (Terminal Handling Charge) 码头操作费。报价时最实用的一句：CFS charges are quoted per revenue ton, i.e. per CBM or per tonne, whichever is greater.（拼箱费按运费吨计，取体积吨与重量吨之大者。）",
+      "collocation": "CFS (Container Freight Station) 集装箱货运站；LCL / FCL 拼箱/整箱；consolidation 拼箱集运（第 33 期）；CFS to CFS 站到站（拼箱）；CFS charge 拼箱服务费；CFS receipt 货运站收据；CY (Container Yard) 集装箱堆场；THC 码头操作费；revenue ton 运费吨；CBM 立方米；chargeable weight 计费重量；stuffing / destuffing 装箱/拆箱；devanning 拆箱；co-loader 拼箱同行；consignee 收货人（第 17 期）；house B/L 货代提单；master B/L 船东提单",
+      "examples": [
+        {
+          "en": "Since this shipment is only 8 CBM, we suggest LCL on CFS-to-CFS terms; the CFS charges will be calculated per revenue ton, based on the greater of the volume or the gross weight.",
+          "zh": "此批货仅 8 立方米，建议走拼箱站到站条款；拼箱费按运费吨计收，取体积与毛重二者之大者。",
+          "audio": "audio/ex/cfs-1.mp3"
+        }
+      ],
+      "mnemonic": "C-F-S = Container（箱子）+ Freight（货运）+ Station（站点）。联想：货装不满一整箱，就送到\"站点\"去跟别人的货拼车。运费四笔账分清的口诀：CFS 是\"箱子里的位子钱\"，THC 是\"码头上搬箱子的钱\"，Demurrage 是\"箱子在码头超期滞留的钱\"，Detention 是\"箱子拖出场外超期不还的钱\"——四笔都算到，物流成本才不会漏项。",
+      "issue": 37,
+      "date": "2026-10-23",
+      "theme": "雨季前桥台做抛石护坡 → 引桥钢构分三段加工浮运就位 → 小批量配件走拼箱站到站 → 项目分工上 RACI 责任矩阵 → 竣工查验出缺陷清单、销项后释放质保金",
+      "gloss": "集装箱货运站",
+      "category": "外贸物流",
+      "audio": "audio/cfs.mp3"
+    },
+    {
+      "word": "RACI",
+      "phonetic": "/ˈreɪsi/",
+      "meaning": "项目管理里把一项任务与相关角色对应起来的责任划分表。四个字母分别是：R = Responsible（负责执行，干活的人，可以有多个）、A = Accountable（最终担责，签字拍板的人，有且只能有一个）、C = Consulted（被咨询的人，事前双向沟通）、I = Informed（被知会的人，事后单向通知）。它与已学的 stakeholder（第 34 期相关方）、escalation（第 35 期升级上报）、briefing（第 15 期简报）、kickoff（第 36 期启动会）、delegate（第 14 期授权）、milestone（第 23 期里程碑）、consensus（第 29 期共识）串成\"项目组织与沟通\"的完整链条。三条铁律：A 只能有一个（多人担责等于没人担责）；R 与 A 可以是同一人（小团队常见）；C 是双向的、I 是单向的（把该咨询的人只当知会对象，往往出大乱子）。常见变体 RASCI 多一个 S = Support（支持配合）。",
+      "collocation": "RACI matrix / chart 责任分配矩阵；Responsible (R) 负责执行；Accountable (A) 最终担责；Consulted (C) 被咨询；Informed (I) 被知会；RASCI 变体（含 Support）；roles and responsibilities 角色与职责；single point of accountability 唯一担责人；ownership 主人翁意识；action item owner 行动项责任人；approval authority 审批权限；sign-off 签字确认；escalation matrix 升级矩阵（第 35 期）；stakeholder 相关方（第 34 期）；delegate 授权（第 14 期）",
+      "examples": [
+        {
+          "en": "Before the kick-off meeting, please circulate the RACI chart so that every deliverable has exactly one Accountable person and at least one Responsible owner.",
+          "zh": "启动会前请把责任分配矩阵发下去，确保每项交付成果都有且仅有一位最终担责人，以及至少一位具体负责人。",
+          "audio": "audio/ex/raci-1.mp3"
+        }
+      ],
+      "mnemonic": "谐音\"RA 谁——R 干活的、A 背锅的；C 要问、I 只要通知\"。顺口溜：R 抬杠（执行），A 背锅（担责），C 出主意，I 看通知。最常见的错误是一张表里出现两个 A，记住这句：Two A's means no one is accountable.（两个 A 等于没人担责。）发矩阵前自查三问：每项任务有几个 A（必须 =1）？R 有没有落到具体人名（不能只写部门）？该咨询的 C 有没有漏掉（安全、质量、法务常漏）？",
+      "issue": 37,
+      "date": "2026-10-23",
+      "theme": "雨季前桥台做抛石护坡 → 引桥钢构分三段加工浮运就位 → 小批量配件走拼箱站到站 → 项目分工上 RACI 责任矩阵 → 竣工查验出缺陷清单、销项后释放质保金",
+      "gloss": "责任分配矩阵",
+      "category": "职场管理",
+      "audio": "audio/raci.mp3"
+    },
+    {
+      "word": "snag list",
+      "phonetic": "/snæɡ lɪst/",
+      "meaning": "工程接近完工时，业主/监理会同承包商现场逐项检查，把未完成、有缺陷、需修补的部位记录下来形成的清单，承包商按单销项后才算实质性竣工。它就是已学 punch list（第 25 期尾项整改清单） 的英联邦说法——英式/中东/非洲/东南亚（前英联邦体系）用 snag list，美式用 punch list，两者含义完全相同，这是海外项目最实用的一条术语差异。它与已学的 handover（第 12 期移交）、commissioning（第 17 期调试）、punch list（第 25 期）、warranty（第 14 期质保）、retention（第 33 期质保金）、settlement（第 34 期沉降/结算）串成\"竣工—整改—移交—结算\"的收尾链条。流程四步：snagging inspection（缺陷检查） → issue the snag list（下发清单） → clear / close out the snags（销项整改） → sign-off and handover（签字移交）。动词 snag 原意是\"钩住、卡住、障碍\"，生活与职场口语里极常用：hit a snag（遇到麻烦、卡壳）。",
+      "collocation": "snag list 缺陷清单/尾项清单；punch list 尾项清单（美式，第 25 期）；snagging inspection 缺陷查验；carry out snagging 做竣工查验；close out / clear the snags 销项整改；outstanding snags 遗留缺陷；snag item 缺陷项；defects liability period (DLP) 缺陷责任期；practical completion 实质性竣工；taking-over certificate 接收证书；handover 移交（第 12 期）；retention 质保金（第 33 期）；sign-off 签字确认；hit a snag 遇到阻碍",
+      "examples": [
+        {
+          "en": "The client's engineer will carry out the snagging inspection next week, and no retention will be released until all outstanding snags have been closed out and signed off.",
+          "zh": "业主工程师下周将进行缺陷查验，在全部遗留缺陷销项并签字确认之前，质保金不予释放。",
+          "audio": "audio/ex/snag-list-1.mp3"
+        }
+      ],
+      "mnemonic": "snag（钩子、卡住的东西）+ list（单子）= 把\"卡住\"验收的问题记成一张单子。谐音\"死那格清单\"——死盯着那一格格的问题不放，直到销项。生活里的万能口语记牢：We hit a snag.（我们卡住了/遇上麻烦了。）——进度延误、清关受阻、图纸被打回，都能用这一句救场。英美对照速记：英联邦 = snag list；美国 = punch list，两个词一起记，见到哪个都不慌。",
+      "issue": 37,
+      "date": "2026-10-23",
+      "theme": "雨季前桥台做抛石护坡 → 引桥钢构分三段加工浮运就位 → 小批量配件走拼箱站到站 → 项目分工上 RACI 责任矩阵 → 竣工查验出缺陷清单、销项后释放质保金",
+      "gloss": "缺陷清单",
+      "category": "工程现场",
+      "audio": "audio/snag-list.mp3"
     }
   ]
 }

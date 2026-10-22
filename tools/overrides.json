@@ -719,5 +719,25 @@
   "benchmark": {
     "gloss": "基准/对标",
     "category": "职场"
+  },
+  "riprap": {
+    "gloss": "抛石护坡",
+    "category": "工程现场"
+  },
+  "jetty": {
+    "gloss": "突堤码头/栈桥",
+    "category": "工程现场"
+  },
+  "cfs": {
+    "gloss": "集装箱货运站",
+    "category": "外贸物流"
+  },
+  "raci": {
+    "gloss": "责任分配矩阵",
+    "category": "职场管理"
+  },
+  "snag list": {
+    "gloss": "缺陷清单",
+    "category": "工程现场"
   }
 }
