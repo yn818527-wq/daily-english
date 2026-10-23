@@ -739,5 +739,25 @@
   "snag list": {
     "gloss": "缺陷清单",
     "category": "工程现场"
+  },
+  "piling": {
+    "gloss": "桩基工程；打桩",
+    "category": "工程施工"
+  },
+  "threshold": {
+    "gloss": "门槛；阈值",
+    "category": "建筑设计"
+  },
+  "fcl": {
+    "gloss": "整箱货 Full Container Load",
+    "category": "外贸"
+  },
+  "jet lag": {
+    "gloss": "时差反应；倒时差",
+    "category": "职场生活"
+  },
+  "defects liability period": {
+    "gloss": "缺陷责任期 DLP",
+    "category": "工程施工"
   }
 }

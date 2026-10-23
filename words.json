@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23",
-  "total": 185,
+  "updated": "2026-10-24",
+  "total": 190,
   "words": [
     {
       "word": "truss",
@@ -3801,6 +3801,106 @@
       "gloss": "缺陷清单",
       "category": "工程现场",
       "audio": "audio/snag-list.mp3"
+    },
+    {
+      "word": "piling",
+      "phonetic": "/ˈpaɪlɪŋ/",
+      "meaning": "把预制或现浇的细长构件（桩）打入、压入或钻孔浇筑到地基深处，把上部结构的荷载传到深处坚硬土层的地基做法。它与已学的 foundation（第 9 期基础）、footing（第 23 期独立基础）、excavation（第 32 期开挖）、shoring（第 33 期基坑支护）、dewatering（第 34 期降水）、underpinning（第 36 期基础托换）、settlement（第 34 期沉降）、rebar（第 24 期钢筋）、grout（第 16 期灌浆）串成\"地基与基础工程\"的完整链条。按受力分两类：end-bearing pile（端承桩，桩端坐在坚硬持力层上） 与 friction pile（摩擦桩，靠桩身侧摩阻力承载），实际多为两者共同作用。按施工分：driven pile（打入桩，含 precast concrete pile 预制混凝土桩、steel H-pile 钢桩）、bored pile / cast-in-place pile（钻孔灌注桩）、CFA pile（长螺旋钻孔压灌桩）、micropile / minipile（微型桩，常用于托换加固）、sheet pile（钢板桩，作支护兼止水）。海外报价与验收最常问的六个词：bearing stratum（持力层）、embedment depth / socket length（入土深度/嵌岩深度）、pile cap（承台）、dynamic / static load test（动/静载试验）、low-strain integrity test（低应变完整性检测）、set / refusal（贯入度/拒打）。",
+      "collocation": "piling 桩基工程/打桩；pile foundation 桩基础；driven / bored / cast-in-place pile 打入桩/钻孔灌注桩；CFA pile 长螺旋压灌桩；micropile 微型桩；sheet pile 钢板桩；precast concrete pile 预制混凝土桩；steel H-pile H 型钢桩；end-bearing / friction pile 端承桩/摩擦桩；bearing stratum 持力层；embedment depth 入土深度；socket length 嵌岩深度；pile cap 承台；pile shaft / toe 桩身/桩端；skin friction 侧摩阻力；end bearing 端承力；pile load test 桩载荷试验；low-strain integrity test 低应变完整性检测；set 贯入度；refusal 拒打；driving sequence 打桩顺序；pile heave 桩上浮；spoil 弃土/泥浆",
+      "examples": [
+        {
+          "en": "Because the geotechnical report shows soft clay down to nine metres, we changed from shallow footings to driven precast piles with a minimum embedment of two metres into the bearing stratum.",
+          "zh": "由于岩土报告显示 9 米深度内为软黏土，我们把方案从浅埋独立基础改为打入式预制桩，桩端进入持力层不小于 2 米。",
+          "audio": "audio/ex/piling-1.mp3"
+        }
+      ],
+      "mnemonic": "pile（桩、堆）+ -ing = 打桩这件事。谐音\"派领\"——派人领着桩机进场，一根一根往下打。现场四问自查：持力层在哪一层（报告有没有说清）？桩端进入持力层够不够深（常见要求 1–2 米或 2 倍桩径）？有没有做载荷试验与低应变检测（承载力与完整性两件事都要验）？打桩顺序对不对（从中间往外打会挤压邻桩上浮，应从一侧推进）？四问答全，桩基才敢在上面起钢结构。",
+      "issue": 38,
+      "date": "2026-10-24",
+      "theme": "软土地基改打预制桩入持力层 → 无障碍入口做平门槛加泛水 → 订量够了走 40 尺高柜整箱、厂内装柜封条 → 飞内罗毕先倒一天时差再进现场 → 竣工起算 12 个月缺陷责任期，期满释放质保金",
+      "gloss": "桩基工程；打桩",
+      "category": "工程施工",
+      "audio": "audio/piling.mp3"
+    },
+    {
+      "word": "threshold",
+      "phonetic": "/ˈθreʃhəʊld/",
+      "meaning": "一词双场景，工地和办公室都能用。建筑上指门洞底部的横档构件（door threshold / sill），用来封住室内外高差、挡水、挡风、挡虫，材质常见铝合金、不锈钢、实木；level threshold（平门槛，无高差门槛） 是无障碍设计的硬要求，高差通常要求不超过 5 毫米，配 threshold flashing（门槛下泛水） 防水。工程与职场口语里则指阈值、临界点、起始线：pain threshold（承受极限）、tax threshold（起征点）、threshold value / limit（限值、临界值）、detection threshold（检测阈值）。它与已学的 handrail（第 25 期扶手）、ramp（第 21 期坡道）、setback（第 35 期退线）、orientation（第 32 期朝向）、fire rating（第 27 期耐火等级）同属\"建筑细部与规范条文\"词汇网。动词搭配极实用：cross the threshold（跨过门槛 / 越过临界点）、below / above the threshold（低于/高于阈值）。",
+      "collocation": "threshold 门槛/阈值；door threshold / sill 门槛、门下框；level / flush threshold 平门槛（无障碍）；zero-step entry 零高差入口；threshold flashing 门槛泛水；weather stripping 密封毛条/挡风雨条；barrier-free access 无障碍通行；upstand 高差、翻边；wheelchair access 轮椅通行；threshold value / limit 阈值、限值；detection threshold 检测阈值；pain threshold 承受极限；tax / income threshold 起征点；cross the threshold 跨过门槛、越过临界点",
+      "examples": [
+        {
+          "en": "The main entrance shall be provided with a level threshold having a maximum upstand of five millimetres for barrier-free access, together with a stainless steel threshold flashing beneath.",
+          "zh": "主入口应设置平门槛，最大高差不大于 5 毫米以满足无障碍通行，并在其下方设置不锈钢门槛泛水。",
+          "audio": "audio/ex/threshold-1.mp3"
+        }
+      ],
+      "mnemonic": "thresh（原意打谷、反复踩踏）+ hold（挡住）= 门口被反复踩踏、又要挡住雨水的地方，就是门槛。抽象义来自\"跨过去才算数\"的意象——跨过门槛就进入新状态，所以引申为阈值、临界点。一句串起两个场景：The threshold is both a strip under the door and a line in the contract.（门槛既是门下那道条，也是合同里那条线。）设计自查三问：高差是否 ≤5 毫米（无障碍）？底下有没有泛水（防雨水倒灌）？材质耐不耐腐蚀（海边项目必须 316 不锈钢）？",
+      "issue": 38,
+      "date": "2026-10-24",
+      "theme": "软土地基改打预制桩入持力层 → 无障碍入口做平门槛加泛水 → 订量够了走 40 尺高柜整箱、厂内装柜封条 → 飞内罗毕先倒一天时差再进现场 → 竣工起算 12 个月缺陷责任期，期满释放质保金",
+      "gloss": "门槛；阈值",
+      "category": "建筑设计",
+      "audio": "audio/threshold.mp3"
+    },
+    {
+      "word": "FCL",
+      "phonetic": "/ˌef siː ˈel/",
+      "meaning": "一票货独占一个集装箱的运输方式，与已学的 LCL / CFS（第 37 期拼箱/集装箱货运站） 正好成对，FCL = Full Container Load（整箱），LCL = Less than Container Load（拼箱），这是外贸报价与订舱最基础的一组对照。整箱最典型的条款是 FCL/FCL 或 CY to CY（堆场到堆场）：发货人在自己工厂 stuff / load the container（装箱），海关或第三方在场，装满后上 seal number（封条号） 并填 VGM（Verified Gross Mass，核实的集装箱总重，SOLAS 强制要求，误差超限不给装船） ；收货人在目的港整箱提走后自行拆箱。它与已学的 FOB（第 21 期）、CIF（第 23 期）、EXW（第 28 期）、Incoterms（第 25 期）、demurrage（第 30 期滞期费）、detention（第 34 期滞箱费）、bill of lading（第 9 期提单）、transshipment（第 32 期转运）串成完整的海运链路。判据很好记：一般 20 立方米左右是分水岭——超过 20–25 立方米，整箱往往比拼箱更便宜、货损更少、清关更省心。",
+      "collocation": "FCL (Full Container Load) 整箱；LCL (Less than Container Load) 拼箱（第 37 期）；FCL/FCL、CY to CY 整箱交接/堆场到堆场；20GP / 40GP / 40HC 20 尺普柜/40 尺普柜/40 尺高柜；stuffing / loading 装箱；devanning / stripping 拆箱；seal number 封条号；VGM (Verified Gross Mass) 核实的集装箱总重；cut-off time 截关时间；free time 免费箱期；demurrage 滞期费（第 30 期）；detention 滞箱费（第 34 期）；booking / S/O (shipping order) 订舱/订舱单；container stuffing plan 装箱计划；payload 有效载重；tare weight 皮重",
+      "examples": [
+        {
+          "en": "Once the order exceeds about 25 CBM, FCL in a 40-foot high-cube container works out cheaper than LCL, and we can stuff and seal the container at our own factory.",
+          "zh": "一旦订量超过约 25 立方米，走 40 英尺高柜整箱算下来比拼箱便宜，而且可以在我们自己工厂装箱并封柜。",
+          "audio": "audio/ex/fcl-1.mp3"
+        }
+      ],
+      "mnemonic": "F-C-L = Full（满的）+ Container（箱子）+ Load（装载），\"装满一整箱\"就是整箱。口诀三句：FCL 自己装、自己封、整箱走；LCL 送站点、跟人拼、按方算；CFS 是站点，CY 是堆场。报价时三笔账别漏：海运费 + THC（码头操作费）+ 免费箱期外的 D&D（滞期费与滞箱费）。",
+      "issue": 38,
+      "date": "2026-10-24",
+      "theme": "软土地基改打预制桩入持力层 → 无障碍入口做平门槛加泛水 → 订量够了走 40 尺高柜整箱、厂内装柜封条 → 飞内罗毕先倒一天时差再进现场 → 竣工起算 12 个月缺陷责任期，期满释放质保金",
+      "gloss": "整箱货 Full Container Load",
+      "category": "外贸",
+      "audio": "audio/fcl.mp3"
+    },
+    {
+      "word": "jet lag",
+      "phonetic": "/ˈdʒet læɡ/",
+      "meaning": "乘飞机跨多个时区后，人体生物钟与目的地当地时间不同步造成的一系列不适——白天困倦、夜里清醒、注意力不集中、头痛、肠胃紊乱。这是海外项目出差、客户接待里出场频率极高的生活词汇，与已学的 visa（第 31 期签证）、surcharge（第 31 期附加费）、courier（第 31 期快递）、accommodation（第 10 期住宿）、escort（第 30 期陪同）、itinerary（第 1 期行程）、courtesy（第 2 期礼遇）同属\"海外差旅\"词汇网。动词搭配：get over / shake off jet lag（倒过时差）、suffer from jet lag（有时差反应）、be jet-lagged（还在倒时差的状态）、adjust to the local time（适应当地时间）。实用经验三条：向东飞（时区增加）比向西飞更难适应；落地当天按当地时间作息、白天多晒太阳、别超过 30 分钟小睡；头 24 小时别安排关键谈判或现场验收，判断力会明显下降。",
+      "collocation": "jet lag 时差反应；get over / shake off jet lag 倒过时差；suffer from jet lag 有时差反应；jet-lagged 还在倒时差的；circadian rhythm 昼夜节律；time zone 时区；red-eye flight 红眼航班；direct / connecting flight 直飞/中转航班；adjust to local time 适应当地时间；power nap 小睡；stay hydrated 多喝水；sleep schedule 作息；business trip 出差；itinerary 行程（第 1 期）；site visit 现场考察（第 8 期）；time difference 时差",
+      "examples": [
+        {
+          "en": "I land in Nairobi at six on Monday morning, so please don't put the site visit before Wednesday — I need a day to get over the jet lag before any technical discussion.",
+          "zh": "我周一早上六点落地内罗毕，所以现场考察请别排在周三之前——我需要一天倒时差，之后再进行技术讨论。",
+          "audio": "audio/ex/jet-lag-1.mp3"
+        }
+      ],
+      "mnemonic": "jet（喷气式飞机）+ lag（落后、滞后）= 身体还\"滞后\"在原来的时区，就是时差反应。谐音\"捷 lag\"——飞得再捷（快），身体还是 lag（卡） 着跟不上。一句话救场：Sorry, I'm still a bit jet-lagged — could we move the meeting to tomorrow morning?（抱歉我还在倒时差，会议能挪到明天上午吗？）接待外方客户时反过来用这一句理解对方的疲惫，把第一天安排成轻松的厂区参观而不是高强度谈判，是极实用的接待技巧。",
+      "issue": 38,
+      "date": "2026-10-24",
+      "theme": "软土地基改打预制桩入持力层 → 无障碍入口做平门槛加泛水 → 订量够了走 40 尺高柜整箱、厂内装柜封条 → 飞内罗毕先倒一天时差再进现场 → 竣工起算 12 个月缺陷责任期，期满释放质保金",
+      "gloss": "时差反应；倒时差",
+      "category": "职场生活",
+      "audio": "audio/jet-lag.mp3"
+    },
+    {
+      "word": "defects liability period",
+      "phonetic": "/dɪˈfekts ˌlaɪəˈbɪləti ˈpɪəriəd/",
+      "meaning": "工程合同的收尾核心条款——从实质性竣工（practical completion / substantial completion）之日起算的一段固定期限（常见 12 个月，有的合同 24 个月），在此期间承包商有义务自费修复因材料或施工工艺缺陷造成的问题；期满且缺陷全部修复后，业主签发 defects / performance certificate（缺陷责任终止证书） 并释放 retention（第 33 期质保金，常见合同额的 5%–10%，有的合同分两半：竣工释放一半、DLP 期满释放另一半）。它与已学的 snag list（第 37 期缺陷清单）、punch list（第 25 期尾项清单）、handover（第 12 期移交）、warranty（第 14 期质保）、commissioning（第 17 期调试）、settlement（第 34 期结算）、retention（第 33 期质保金）串成\"竣工—整改—责任期—结算\"的完整收尾链条。三个必须分清的概念：DLP（缺陷责任期，合同约定的修复义务期）、warranty / guarantee period（质量保证期，可能是法定的或更长的承诺期）、latent defect（隐蔽缺陷，很多法域下即使过了 DLP 仍可追责）。配套的保函叫 performance bond（履约保函） 或 maintenance bond / warranty bond（维修保函），DLP 期满后才会释放。",
+      "collocation": "defects liability period (DLP) 缺陷责任期；defects notification period (DNP) 缺陷通知期（FIDIC 说法）；practical / substantial completion 实质性竣工；taking-over certificate 接收证书；performance certificate / defects certificate 履约证书/缺陷责任终止证书；retention / retention money 质保金（第 33 期）；retention bond 质保金保函；performance bond 履约保函；maintenance bond 维修保函；snag list / punch list 缺陷清单（第 37/25 期）；close out the snags 销项整改；latent defect 隐蔽缺陷；make good the defects 修复缺陷；expiry of the DLP 责任期满；warranty period 质保期；handover 移交（第 12 期）",
+      "examples": [
+        {
+          "en": "The defects liability period shall be twelve months from the date of practical completion, and the second half of the retention will be released upon expiry of the DLP provided all defects have been made good.",
+          "zh": "缺陷责任期为自实质性竣工之日起 12 个月；在缺陷责任期满且全部缺陷修复完毕后，质保金的第二半部分予以释放。",
+          "audio": "audio/ex/defects-liability-period-1.mp3"
+        }
+      ],
+      "mnemonic": "defects（缺陷）+ liability（责任）+ period（期间）= \"缺陷由谁负责\"的那段时间。谐音记不住就别硬记，直接拆词记：DLP = 你还得回来修的这段时间。收尾四笔账背下来：竣工拿接收证书 → 兑现一半质保金 → 熬过 12 个月 DLP 随叫随到修缺陷 → 拿缺陷责任终止证书、释放剩下的一半质保金。谈判要点记一句：Retention is released only after the DLP expires, not at handover.（质保金在缺陷责任期满后释放，不是移交时就放。）",
+      "issue": 38,
+      "date": "2026-10-24",
+      "theme": "软土地基改打预制桩入持力层 → 无障碍入口做平门槛加泛水 → 订量够了走 40 尺高柜整箱、厂内装柜封条 → 飞内罗毕先倒一天时差再进现场 → 竣工起算 12 个月缺陷责任期，期满释放质保金",
+      "gloss": "缺陷责任期 DLP",
+      "category": "工程施工",
+      "audio": "audio/defects-liability-period.mp3"
     }
   ]
 }
