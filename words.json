@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24",
-  "total": 190,
+  "updated": "2026-10-25",
+  "total": 195,
   "words": [
     {
       "word": "truss",
@@ -3901,6 +3901,106 @@
       "gloss": "缺陷责任期 DLP",
       "category": "工程施工",
       "audio": "audio/defects-liability-period.mp3"
+    },
+    {
+      "word": "sheet pile",
+      "phonetic": "/ʃiːt paɪl/",
+      "meaning": "一种带锁口（interlock）的热轧或冷弯型钢（常见 U 型、Z 型、直线型），用振动锤、冲击锤或静压设备逐根打入土中，相邻桩的锁口互相咬合，形成一道连续的板桩墙（sheet pile wall），既能挡土又能止水。它与已学的 piling（第 38 期桩基）、shoring（第 33 期基坑支护）、cofferdam（第 35 期围堰）、backfill（第 33 期回填）、dewatering（第 34 期降水）、excavation（第 32 期开挖）、riprap（第 37 期抛石护坡）、jetty（第 37 期突堤码头）串成\"涉水与深基坑工程\"的完整链条。与常规支护桩的关键区别：sheet pile 是\"面\"不是\"点\"——锁口连成整片墙，地下水渗径被大幅拉长，所以特别适用于码头岸墙、船闸、桥台、地下室外墙兼支护、河岸护岸。三个高频参数：section modulus（截面模量，决定抗弯能力）、penetration depth（入土深度）、interlock / clutch（锁口，失锁叫 declutch，是打入过程中最怕的事故）。打入方式三种：impact driving（冲击打入）、vibratory driving（振动打入，城市里最常用，噪音小）、press-in / silent piling（静压植入，紧邻既有建筑时用）。",
+      "collocation": "sheet pile 钢板桩；sheet pile wall 板桩墙；steel sheet pile 钢板桩；U-type / Z-type / straight web  U 型/Z 型/直线型；interlock / clutch 锁口；declutch 锁口脱落（失锁）；driving / extraction 打桩/拔桩；vibratory hammer 振动锤；impact hammer 冲击锤；press-in piler 静压植桩机；penetration depth 入土深度；section modulus 截面模量；anchor / tie rod 锚杆/拉杆；waling / waler 围檩；capping beam 冠梁；cofferdam 围堰（第 35 期）；tie-back / ground anchor 拉锚/地锚；jetting 射水助沉；pitch and drive / panel driving 依次打/成组打（后者防倾斜累积）；weeping / leaking at the interlock 锁口渗漏",
+      "examples": [
+        {
+          "en": "Since the warehouse sits only six metres from the riverbank, we propose a Z-type steel sheet pile wall with a penetration depth of seven metres, driven by a vibratory hammer and capped with a reinforced concrete capping beam.",
+          "zh": "由于仓库距河岸仅 6 米，我们建议采用 Z 型钢板桩墙，入土深度 7 米，采用振动锤打入，顶部设钢筋混凝土冠梁。",
+          "audio": "audio/ex/sheet-pile-1.mp3"
+        }
+      ],
+      "mnemonic": "sheet（一片片薄板）+ pile（桩）= 一片片互相咬合的桩，就是钢板桩。谐音\"希特派欧\"——想象工地上一派钢板锁成一片墙。与 cofferdam（围堰）的因果关系记牢：先打 sheet pile 围成墙 → 抽干里面的水 → 才形成 cofferdam 干地施工面。现场四问自查：锁口有没有失锁（declutch 必须拔出来重打）？入土深度够不够（不足会踢脚、管涌）？顶部冠梁与围檩做了没有（分散土压力的关键）？拔桩后锁口渗漏怎么处理（注浆或留桩不拔）？",
+      "issue": 39,
+      "date": "2026-10-25",
+      "theme": "河岸仓库做钢板桩支护兼止水 → 桩顶浇筑承台连成整体 → 门洞上方补过梁托住砌体 → 让货代拿订舱单去订舱拿 S/O → 新主管太爱微观管理，团队开始憋屈",
+      "gloss": "钢板桩、板桩墙",
+      "category": "结构工程",
+      "audio": "audio/sheet-pile.mp3"
+    },
+    {
+      "word": "pile cap",
+      "phonetic": "/ˈpaɪl kæp/",
+      "meaning": "浇筑在一组桩顶部、把几根桩连成一个整体并向上传递柱荷载的钢筋混凝土块体。单根桩顶的小块叫 single pile cap，两根叫 two-pile cap，三根及以上成群叫 group pile cap / pile group（群桩）。它与已学的 piling（第 38 期桩基）、footing（第 23 期独立基础）、foundation（第 9 期基础）、rebar（第 24 期钢筋）、grout（第 16 期灌浆）、settlement（第 34 期沉降）、base plate（第 22 期柱底板）、anchor bolt（第 6 期地脚螺栓）串成\"从桩到钢柱\"的完整传力链：pile → pile cap → base plate → anchor bolt → column。三个施工要点必须盯：pile head / cutoff level（桩顶标高、凿桩头到设计标高）、pile reinforcement / dowel（桩顶预留锚固钢筋，伸入承台的长度要够）、pile cap bottom reinforcement（承台底部钢筋网，保护层垫块别漏）。常见的麻烦是桩位偏差（pile deviation）超出规范允许值，此时要加大承台或补桩，并出设计变更。",
+      "collocation": "pile cap 桩承台；pile group / group of piles 群桩；single / two-pile / three-pile cap 单桩/两桩/三桩承台；pile head 桩头；cut-off level 凿桩标高；breaking / trimming the pile head 凿桩头；pile deviation / tolerance 桩位偏差/允许偏差；dowel / starter bar 预留锚固筋、插筋；anchor bolt 地脚螺栓（第 6 期）；base plate 柱底板（第 22 期）；lean concrete / blinding 素混凝土垫层；formwork 模板；rebar cage 钢筋笼（第 24 期）；cover / spacer 保护层/垫块；pile cap soffit 承台底面；tie beam / grade beam 联系梁/地梁",
+      "examples": [
+        {
+          "en": "Two of the driven piles showed a positional deviation larger than the allowable tolerance, so the pile cap has been enlarged to 2.4 by 2.4 metres and an additional pile will be added on the north side.",
+          "zh": "有两根打入桩的桩位偏差超出了允许公差，因此承台已加大到 2.4 × 2.4 米，并在北侧补加一根桩。",
+          "audio": "audio/ex/pile-cap-1.mp3"
+        }
+      ],
+      "mnemonic": "pile（桩）+ cap（帽子）= 给一排桩戴上共同的\"帽子\"，把它们连成一体，就是承台。形象记忆：几根桩各顶各的会打架，戴上承台这顶帽子才齐步走。传力链条背熟这一句：The load goes from the column, through the base plate and anchor bolts, into the pile cap, and down into the piles.（荷载从钢柱经柱底板与地脚螺栓进入承台，再向下传给桩。）验收三查：桩顶标高凿到位没有（高了凿、低了接）？锚固钢筋伸入长度够不够（常见 35d–40d）？桩位偏差记录有没有留底（结算和索赔都靠它）？",
+      "issue": 39,
+      "date": "2026-10-25",
+      "theme": "河岸仓库做钢板桩支护兼止水 → 桩顶浇筑承台连成整体 → 门洞上方补过梁托住砌体 → 让货代拿订舱单去订舱拿 S/O → 新主管太爱微观管理，团队开始憋屈",
+      "gloss": "桩承台、承台",
+      "category": "结构工程",
+      "audio": "audio/pile-cap.mp3"
+    },
+    {
+      "word": "lintel",
+      "phonetic": "/ˈlɪntl/",
+      "meaning": "门洞、窗洞上方横跨洞口的水平构件，用来托住洞口以上的砌体重量并把它传到两侧墙体。它是建筑设计里出场频率极高的细部词，与已学的 soffit（第 24 期构件底面）、parapet（第 20 期女儿墙）、threshold（第 38 期门槛）、fascia（第 32 期封檐板）、eaves（第 30 期檐口）、canopy（第 16 期雨棚）、glazing（第 22 期玻璃装配）同属\"洞口与收边\"词汇网。按材质分三类：steel lintel（钢过梁，常用角钢、槽钢或方管，海外项目最常见）、reinforced concrete lintel（钢筋混凝土过梁，常与圈梁、构造柱一起现浇）、precast concrete lintel（预制混凝土过梁）。三个必须记住的构造要求：bearing length（支承长度，两端搭进墙体的长度，常见 150–250 毫米，太短会掉）、lintel level / head height（过梁标高与洞口净高）、weep hole / flashing（钢过梁上方的泛水与滴水，防止雨水顺墙渗入）。容易混淆的一对：lintel 是洞口上方（上梁），sill / threshold 是洞口下方（下槛）。",
+      "collocation": "lintel 过梁、门楣；steel lintel 钢过梁；RC / reinforced concrete lintel 钢筋混凝土过梁；precast lintel 预制过梁；angle / channel lintel 角钢/槽钢过梁；door / window lintel 门/窗过梁；lintel level 过梁标高；bearing length / end bearing 支承长度；head / head height 洞口上沿/洞口净高；jamb 洞口侧边、门窗侧壁；sill / threshold 窗台板/门槛（第 38 期）；weep hole 泄水孔；flashing 泛水；cavity tray 空腔导水板；drop / dripslot 滴水槽；lining / reveal 洞口内衬/侧壁外露面",
+      "examples": [
+        {
+          "en": "Every external door opening shall be provided with a galvanized steel angle lintel with a minimum end bearing of 200 millimetres, complete with a bituminous coating and a flashing above with a dripslot.",
+          "zh": "每个外门洞口均应设置镀锌角钢过梁，每端支承长度不小于 200 毫米，表面涂沥青漆，并在其上方设置带滴水槽的泛水。",
+          "audio": "audio/ex/lintel-1.mp3"
+        }
+      ],
+      "mnemonic": "谐音\"临头\"——临到头顶上那根梁，就是过梁。一句对仗记牢上下关系：Lintel on top, threshold at the bottom.（上面过梁，下面门槛。）画图记忆最直观：画一个门洞，上面一横是 lintel，下面一横是 threshold，左右两竖是 jamb。设计自查三问：支承长度够不够（常见 ≥200 毫米）？过梁上方有没有泛水与滴水（外墙必做）？钢过梁做没做防腐（热镀锌或环氧富锌漆）？",
+      "issue": 39,
+      "date": "2026-10-25",
+      "theme": "河岸仓库做钢板桩支护兼止水 → 桩顶浇筑承台连成整体 → 门洞上方补过梁托住砌体 → 让货代拿订舱单去订舱拿 S/O → 新主管太爱微观管理，团队开始憋屈",
+      "gloss": "过梁、门楣、窗过梁",
+      "category": "建筑设计",
+      "audio": "audio/lintel.mp3"
+    },
+    {
+      "word": "booking note",
+      "phonetic": "/ˈbʊkɪŋ nəʊt/",
+      "meaning": "发货人（或其货代）向船公司／承运人申请订舱的书面文件，是海运出口流程的起点单据——先有 B/N，船公司确认后签发 S/O（shipping order，订舱单/下货纸），凭 S/O 提空箱、装箱、还重箱，装船后签发 bill of lading（第 9 期提单）。它与已学的 FCL（第 38 期整箱）、CFS/LCL（第 37 期拼箱站/拼箱）、demurrage（第 30 期滞期费）、detention（第 34 期滞箱费）、transshipment（第 32 期转运）、customs clearance（第 7 期清关）、packing list（第 12 期装箱单）、certificate of origin（第 26 期原产地证）串成完整的外贸发货链路。B/N 上必须写清的核心字段：shipper / consignee（第 17 期收货人）、notify party（通知人）、port of loading / discharge（装货港/卸货港）、ETD / ETA（预计离港/到港时间）、cargo description、number of packages、gross weight、measurement（品名/件数/毛重/体积）、container type & quantity（箱型箱量）、freight terms（prepaid 预付 / collect 到付）。三个时间节点别搞混：cut-off time（截关时间）、VGM cut-off（VGM 截止时间）、CY closing（堆场截箱时间）——错过任何一个都上不了船。",
+      "collocation": "booking note (B/N) 订舱单、订舱委托书；book space / make a booking 订舱；S/O (shipping order) 订舱确认单、下货纸；container booking 集装箱订舱；port of loading / discharge 装货港/卸货港；ETD / ETA 预计离港/预计到港；CY (container yard) 集装箱堆场；CFS (container freight station) 集装箱货运站（第 37 期）；FCL / LCL 整箱/拼箱（第 38/37 期）；gross weight / measurement 毛重/体积；VGM (Verified Gross Mass) 核实总重；cut-off time 截关时间；CY closing 截箱时间；freight prepaid / collect 运费预付/到付；shipping instruction 出运指示；b/l 提单（第 9 期）；sailing schedule 船期",
+      "examples": [
+        {
+          "en": "Please send the booking note to the carrier at least seven days before the required ETD, and make sure the gross weight and measurement match the packing list so that the VGM can be submitted before the cut-off.",
+          "zh": "请在要求的预计离港时间前至少 7 天把订舱单发给承运人，并确保毛重与体积同装箱单一致，以便 VGM 能在截止时间前提交。",
+          "audio": "audio/ex/booking-note-1.mp3"
+        }
+      ],
+      "mnemonic": "book（预订）+ note（单据）= 用来订舱的那张单，就是订舱单。谐音\"不啃闹特\"——订舱这事不能啃（拖），拖到截关就闹特（麻烦了）。流程链条背下来：Booking Note（订舱申请）→ S/O（船公司放舱）→ 提空箱 → 装箱封条 → 提交 VGM → 还重箱进港 → 装船 → Bill of Lading（提单）→ 寄单清关。新人最常犯的错：B/N 上的件数毛重装箱单对不上，导致 VGM 被拒、整柜甩柜——填完 B/N 一定要拿 packing list 逐项核对一遍。",
+      "issue": 39,
+      "date": "2026-10-25",
+      "theme": "河岸仓库做钢板桩支护兼止水 → 桩顶浇筑承台连成整体 → 门洞上方补过梁托住砌体 → 让货代拿订舱单去订舱拿 S/O → 新主管太爱微观管理，团队开始憋屈",
+      "gloss": "订舱单、订舱委托书 B/N",
+      "category": "外贸物流",
+      "audio": "audio/booking-note.mp3"
+    },
+    {
+      "word": "micromanage",
+      "phonetic": "/ˈmaɪkrəʊˌmænɪdʒ/",
+      "meaning": "管理者过度介入下属工作的每一个细节——频繁追问进度、要求事事先请示、连排版和措辞都要亲手改，本质上是不授权、不放手。它带明显的贬义色彩，是职场英语里评价管理风格的常用词，与已学的 delegate（第 14 期授权分派）、burnout（第 19 期职业倦怠）、consensus（第 29 期共识）、escalation（第 35 期升级上报）、onboarding（第 30 期入职引导）、probation（第 32 期试用期）、appraisal（第 25 期绩效评估）、feedback（第 27 期反馈）、morale 串成\"团队管理\"词汇网。它与 delegate 构成最直接的一组反义：delegate = 放手授权，micromanage = 抓着不放。三个高频搭配：micromanage every detail（管到每个细节）、micromanage your team（微观管理团队）、stop micromanaging（别再事无巨细地插手）。相关但不同的词：hands-on（亲力亲为，偏中性甚至褒义）、control freak（控制狂，口语、更负面）、bottleneck（瓶颈，微观管理者的典型副作用）。",
+      "collocation": "micromanage 微观管理、过度干预；micromanagement 微观管理（名词）；micromanager 微观管理者；micromanage every detail 管到每个细节；micromanage a team 微观管理团队；stop micromanaging 别再插手细节；delegate authority 授权（第 14 期）；empower the team 赋权团队；autonomy 自主权；hands-off management 放手式管理；hands-on 亲力亲为；check in on progress 跟进进度；status update 进度汇报；bottleneck 瓶颈；morale 士气；burnout 职业倦怠（第 19 期）；turnover 人员流失；trust your team 信任团队；ownership 主人翁意识",
+      "examples": [
+        {
+          "en": "Our new supervisor micromanages every drawing, so the team spends more time waiting for approvals than actually designing — we should agree on clear checkpoints instead of reviewing each revision line by line.",
+          "zh": "我们的新主管每张图纸都要亲自过问，结果团队花在等审批上的时间比真正做设计还多——我们应该约定清晰的节点评审，而不是逐条审查每一次修改。",
+          "audio": "audio/ex/micromanage-1.mp3"
+        }
+      ],
+      "mnemonic": "micro-（微小、微观）+ manage（管理）= 管到\"微观\"层面，就是微观管理。谐音\"买颗肉·蛮你几\"——老板买颗肉都要蛮（问）你几块钱，事无巨细。与其相对：micromanage ↔ delegate。给管理者的三句替换话术（比\"you're micromanaging\"委婉得多）：Could we set a checkpoint at 50% instead of reviewing daily?（能约定 50% 时评审一次，而不是每天看吗？）、Happy to loop you in at the next milestone.（到下一个里程碑再请您介入。）、I'll flag it if anything blocks me.（有卡点我会主动上报。）",
+      "issue": 39,
+      "date": "2026-10-25",
+      "theme": "河岸仓库做钢板桩支护兼止水 → 桩顶浇筑承台连成整体 → 门洞上方补过梁托住砌体 → 让货代拿订舱单去订舱拿 S/O → 新主管太爱微观管理，团队开始憋屈",
+      "gloss": "微观管理、事无巨细地干预",
+      "category": "职场",
+      "audio": "audio/micromanage.mp3"
     }
   ]
 }

@@ -759,5 +759,25 @@
   "defects liability period": {
     "gloss": "缺陷责任期 DLP",
     "category": "工程施工"
+  },
+  "sheet pile": {
+    "gloss": "钢板桩、板桩墙",
+    "category": "结构工程"
+  },
+  "pile cap": {
+    "gloss": "桩承台、承台",
+    "category": "结构工程"
+  },
+  "lintel": {
+    "gloss": "过梁、门楣、窗过梁",
+    "category": "建筑设计"
+  },
+  "booking note": {
+    "gloss": "订舱单、订舱委托书 B/N",
+    "category": "外贸物流"
+  },
+  "micromanage": {
+    "gloss": "微观管理、事无巨细地干预",
+    "category": "职场"
   }
 }
