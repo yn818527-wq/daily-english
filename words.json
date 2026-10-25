@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25",
-  "total": 195,
+  "updated": "2026-10-26",
+  "total": 200,
   "words": [
     {
       "word": "truss",
@@ -4001,6 +4001,106 @@
       "gloss": "微观管理、事无巨细地干预",
       "category": "职场",
       "audio": "audio/micromanage.mp3"
+    },
+    {
+      "word": "dowel",
+      "phonetic": "/ˈdaʊəl/",
+      "meaning": "一种短而粗的圆柱形金属（或硬木、塑料）销件，插入两个构件预留的孔中，用来定位、传力或抗剪。三类最常见的用法：steel dowel（钢销，预制构件之间定位传力）、dowel bar（传力杆，混凝土路面/地坪接缝里把相邻板块的荷载传过去）、starter bar / dowel（插筋、预留锚固筋，先埋在混凝土里，后接上部结构）。它与已学的 anchor bolt（第 6 期地脚螺栓）、fastener（第 5 期紧固件）、weld（第 7 期焊接）、splice（第 17 期拼接）、base plate（第 22 期柱底板）、grout（第 16 期灌浆）、pile cap（第 39 期承台）串成\"构件怎么连起来\"的完整词汇网。与 anchor bolt 的关键区别：dowel 靠\"插进去\"抗剪和定位，不拧紧、不靠埋深抗拉拔；anchor bolt 靠拧紧和埋深抗拉拔与抗倾覆。一句话分工：Dowel takes the shear, the anchor bolt takes the pull. 常见构造动作：cast-in（预埋）、drilled and epoxy-grouted（钻孔植筋、化学锚固）、grouted dowel（灌浆锚固销）。",
+      "collocation": "dowel 销钉、连接销；steel dowel 钢销；dowel bar 传力杆；dowel pin 定位销；dowel hole / sleeve 销孔/套筒；starter bar 插筋、预留筋；epoxy dowel 植筋；cast-in 预埋；grouted dowel 灌浆锚固销；shear key 抗剪键；non-shrink grout 无收缩灌浆料（第 16 期）；anchor bolt 地脚螺栓（第 6 期）；rebar 钢筋（第 24 期）；precast panel 预制墙板（第 14 期）；levelling 调平；tolerance 公差（第 1 期）；fastener 紧固件（第 5 期）；splice 拼接（第 17 期）",
+      "examples": [
+        {
+          "en": "Each precast wall panel is aligned with two galvanized steel dowels cast into the foundation, and the 20-millimetre gap around each dowel is filled with non-shrink grout after levelling.",
+          "zh": "每块预制墙板用预埋在基础里的两根镀锌钢销定位，调平后销钉周围 20 毫米的缝隙用无收缩灌浆料填实。",
+          "audio": "audio/ex/dowel-1.mp3"
+        }
+      ],
+      "mnemonic": "谐音\"倒我\"——一根小销钉插进去，构件就倒不了了。与 anchor bolt 的分工口诀背熟：Dowel takes the shear, the anchor bolt takes the pull.（销钉抗剪，地脚螺栓抗拉拔。）现场三查：销钉位置对不对（预制件孔位偏差最要命）？缝隙灌浆灌没灌满（无收缩料、别留空腔）？镀锌层或环氧防腐做没做（海边与化工厂项目必查）？",
+      "issue": 40,
+      "date": "2026-10-26",
+      "theme": "预制墙板靠钢销定位、缝隙灌浆 → 幕墙底部泄水孔被胶堵死导致三楼渗漏 → 门洞侧壁垂直度偏差 12 毫米用垫片找平 → 蒙巴萨港拥堵，船在等泊位，滞期费要谈 → 连加两个月班后士气低落，停周末班、轮换值班、公开表扬",
+      "gloss": "销钉、连接销、插筋",
+      "category": "钢结构",
+      "audio": "audio/dowel.mp3"
+    },
+    {
+      "word": "weep hole",
+      "phonetic": "/ˈwiːp həʊl/",
+      "meaning": "在砌体墙、挡土墙、幕墙或门窗框底部预留的小孔，让渗入内部空腔的水能排出来，避免积水造成冻胀、锈蚀、泛碱和渗漏。它与已学的 drainage（第 14 期排水）、gutter（第 31 期天沟）、sealant（第 20 期密封胶）、flashing（泛水）、lintel（第 39 期过梁）、jamb、parapet（第 20 期女儿墙）、cladding（第 10 期墙面板）、curtain wall（第 23 期幕墙）串成\"防水与排水\"词汇网。常见做法三种：砌体留竖缝或塞 PVC 管、铝合金型材上开排水孔并加孔盖、挡土墙里预埋 PVC 泄水管（外包土工布反滤）。三个必须盯的要点：孔要向外下倾（不能倒坡）、要加防虫网或孔盖、绝不能被密封胶或砂浆糊死——\"胶把 weep hole 堵死\"是幕墙渗漏返工最常见的原因之一。常见间距：at 1200 mm centres（间距 1.2 米）。",
+      "collocation": "weep hole 泄水孔；weep holes at 1200 mm centres 泄水孔间距 1.2 米；drainage hole 排水孔；weep hole blocked / clogged 泄水孔被堵；cavity 空腔；flashing 泛水；sealant 密封胶（第 20 期）；backer rod 泡沫棒；drip / dripslot 滴水槽；cladding 墙面板（第 10 期）；curtain wall 幕墙（第 23 期）；pressure equalization 等压（雨幕原理）；drainage plane 排水面；geotextile 土工布；retaining wall 挡土墙；gutter 天沟（第 31 期）；damp proof course 防潮层",
+      "examples": [
+        {
+          "en": "Please check that the weep holes at the bottom of the curtain wall are not blocked by sealant, because water trapped in the cavity is the main reason for the leaks reported on the third floor.",
+          "zh": "请检查幕墙底部的泄水孔没有被密封胶堵住——空腔里排不出去的积水，正是三楼报的渗漏的主因。",
+          "audio": "audio/ex/weep-hole-1.mp3"
+        }
+      ],
+      "mnemonic": "weep（哭泣、渗水）+ hole（孔）= 墙\"哭\"出来的那个孔。画面记忆：一场大雨后，幕墙底部一排小孔在往下滴水，像墙在流泪。记一句反直觉的口诀：A weeping wall is a dry wall.（会\"哭\"的墙才是干墙——水排得出来，室内才不漏。）现场自查三问：间距够不够（常见 1.0–1.5 米）？孔有没有向外下倾？打胶时有没有人把孔给糊死了？",
+      "issue": 40,
+      "date": "2026-10-26",
+      "theme": "预制墙板靠钢销定位、缝隙灌浆 → 幕墙底部泄水孔被胶堵死导致三楼渗漏 → 门洞侧壁垂直度偏差 12 毫米用垫片找平 → 蒙巴萨港拥堵，船在等泊位，滞期费要谈 → 连加两个月班后士气低落，停周末班、轮换值班、公开表扬",
+      "gloss": "泄水孔、排水孔",
+      "category": "建筑设计",
+      "audio": "audio/weep-hole.mp3"
+    },
+    {
+      "word": "jamb",
+      "phonetic": "/dʒæm/",
+      "meaning": "门洞、窗洞两侧的竖向构件或侧壁面。它与已学的 lintel（第 39 期过梁，洞口上方）、threshold（第 38 期门槛，洞口下方）、fascia（第 32 期封檐板）、soffit（第 24 期挑檐底板）、parapet（第 20 期女儿墙）、glazing（第 22 期玻璃装配）同属\"洞口与收边\"词汇网，并且和 lintel、threshold 一起构成了完整的洞口三件套。三层常见所指：door jamb / window jamb（门洞、窗洞两侧）、door jamb（车门框，上下车容易碰头的那个框）、reveal（洞口侧壁的可见面，与 jamb 的细微差别：jamb 偏构件本身，reveal 偏\"你看到的那一圈侧面\"）。施工要点：垂直度（plumb）、与过梁的搭接与锚固、外门窗侧壁的保温与防水收口、门框与钢结构的连接方式。发音务必注意：b 不发音，读作 /dʒæm/，与 jam（果酱；卡住）完全同音。",
+      "collocation": "door jamb 门洞侧边/门框；window jamb 窗洞侧边/窗框；jamb liner 洞口内衬；reveal 洞口侧壁（可见面）；lintel 过梁（第 39 期）；head 洞口上沿；sill 窗台板；threshold 门槛（第 38 期）；clear opening 洞口净宽；out of plumb 不垂直、垂直度超差；shim 垫铁/垫片（第 19 期）；jamb anchor 框固定件；sealant / backer rod 密封胶/泡沫棒；fire-rated door jamb 防火门框；re-anchor 重新固定；pack / packer 垫塞",
+      "examples": [
+        {
+          "en": "The door jamb on the east elevation is out of plumb by twelve millimetres, so we will pack it with stainless steel shims and re-anchor the frame before the final coat of paint.",
+          "zh": "东立面的门洞侧边垂直度偏差 12 毫米，我们将用不锈钢垫片垫实并重新固定门框，然后再刷最后一遍面漆。",
+          "audio": "audio/ex/jamb-1.mp3"
+        }
+      ],
+      "mnemonic": "b 不发音，jamb 读作 /dʒæm/，跟 jam（果酱）一模一样——把\"门框\"想成门上抹的那层果酱，两个词一起记，永远忘不掉。洞口三件套画一张图就记住：Jambs on the sides, lintel on top, threshold at the bottom.（两侧 jamb，上面 lintel，下面 threshold。）验收三查：垂直度超不超差？两端支承与锚固牢不牢？外侧打胶与防水收口做没做到位？",
+      "issue": 40,
+      "date": "2026-10-26",
+      "theme": "预制墙板靠钢销定位、缝隙灌浆 → 幕墙底部泄水孔被胶堵死导致三楼渗漏 → 门洞侧壁垂直度偏差 12 毫米用垫片找平 → 蒙巴萨港拥堵，船在等泊位，滞期费要谈 → 连加两个月班后士气低落，停周末班、轮换值班、公开表扬",
+      "gloss": "门窗洞口侧边、侧壁、边框",
+      "category": "建筑设计",
+      "audio": "audio/jamb.mp3"
+    },
+    {
+      "word": "berth",
+      "phonetic": "/bɜːθ/",
+      "meaning": "港口中供一艘船停靠的位置（泊位），也指船或火车上的卧铺，是外贸与物流的高频词。它与已学的 jetty（第 37 期突堤码头）、booking note（第 39 期订舱单）、demurrage（第 30 期滞期费）、detention（第 34 期滞箱费）、transshipment（第 32 期转运）、FCL / LCL（第 38/37 期整箱/拼箱）、courier（第 31 期快递）串成海运物流链。三层含义要分清：① berth 泊位（the vessel berths at the terminal）；② berth 卧铺（a sleeping berth on the night train）；③ give someone or something a wide berth（习语：远远避开）。配套动作名词：berthing（靠泊）、berth window（靠泊窗口期）、berth allocation（泊位分配）、berth occupancy（泊位占用率）、on-berth / off-berth（在泊/离泊）。项目上最常遇到的麻烦：港口拥堵 → waiting for a berth（等泊位）→ ETA 顺延 → 产生 demurrage（滞期费），这时要么谈延长 laytime，要么申请 free time。",
+      "collocation": "berth 泊位/卧铺；berthing 靠泊；berth at the terminal 停靠码头；waiting for a berth 等泊位；berth window 靠泊窗口期；berth allocation / booking 泊位分配/预订；berth occupancy 泊位占用率；berth congestion 港口拥堵；on-berth / off-berth 在泊/离泊；alongside 靠泊、靠边；jetty 突堤码头（第 37 期）；demurrage 滞期费（第 30 期）；detention 滞箱费（第 34 期）；laytime 装卸时间；free time 免费期；ETD / ETA 预计离港/到港；sailing schedule 船期；give something a wide berth 远远避开；lower / upper berth 下铺/上铺",
+      "examples": [
+        {
+          "en": "The vessel is currently waiting for a berth at Mombasa because of port congestion, so the ETA has slipped by four days and we may incur demurrage unless the buyer agrees to extend the laytime.",
+          "zh": "该船目前因港口拥堵正在蒙巴萨等泊位，预计到港时间已推迟 4 天，除非买方同意延长装卸时间，否则我们可能要承担滞期费。",
+          "audio": "audio/ex/berth-1.mp3"
+        }
+      ],
+      "mnemonic": "谐音\"泊斯\"——船泊在此处，就是泊位。一词两义用一天的画面串起来：白天在港口抢泊位（berth），晚上躺上火车卧铺（berth）。习语必背：give someone or something a wide berth = 远远避开（工地上可直接用：Give the excavation a wide berth. 离基坑远点）。常用句：We are still waiting for a berth.（我们还在等泊位。）",
+      "issue": 40,
+      "date": "2026-10-26",
+      "theme": "预制墙板靠钢销定位、缝隙灌浆 → 幕墙底部泄水孔被胶堵死导致三楼渗漏 → 门洞侧壁垂直度偏差 12 毫米用垫片找平 → 蒙巴萨港拥堵，船在等泊位，滞期费要谈 → 连加两个月班后士气低落，停周末班、轮换值班、公开表扬",
+      "gloss": "泊位；卧铺；靠泊",
+      "category": "外贸物流",
+      "audio": "audio/berth.mp3"
+    },
+    {
+      "word": "morale",
+      "phonetic": "/məˈrɑːl/",
+      "meaning": "一个团队或个人在工作中的信心、热情与整体精神状态，是职场英语里评价团队的常用词。它与已学的 burnout（第 19 期职业倦怠）、micromanage（第 39 期微观管理）、delegate（第 14 期授权）、retention（第 33 期留任/质保金）、turnover（人员流失）、team building、appraisal（第 25 期绩效评估）、feedback（第 27 期反馈）串成\"团队管理\"词汇网。发音与拼写务必注意：morale /məˈrɑːl/ 重音在第二音节，是\"士气\"；moral /ˈmɔːrəl/ 重音在第一音节，是\"道德、寓意\"——拼写只差一个 e，重音和意思都不同。高频搭配：boost / raise / lift morale（提振士气）、morale is high / low（士气高/低）、staff morale / team morale（员工/团队士气）、morale booster（提气的事、打气活动）。真正能拉起 morale 的三件事：recognize（公开认可）、rest（保证休息）、rotate（轮换分工）。",
+      "collocation": "morale 士气；boost / raise / lift morale 提振士气；morale is high / low 士气高/低；staff / team / employee morale 员工/团队士气；morale booster 提气的事、打气活动；damage / undermine morale 打击士气；low morale 士气低落；moral 道德、寓意（注意区分重音）；burnout 职业倦怠（第 19 期）；micromanage 微观管理（第 39 期）；delegate 授权（第 14 期）；recognition / recognise 认可；turnover 人员流失；team building 团建；retention 留任（第 33 期）；ownership 主人翁意识",
+      "examples": [
+        {
+          "en": "After two months of overtime, team morale was low, so we stopped the weekend shifts, rotated the site duties and publicly recognised the three engineers who closed the punch list ahead of schedule.",
+          "zh": "连续加班两个月后团队士气低落，于是我们停掉了周末班、轮换现场值班，并公开表扬了提前完成尾项销项的三位工程师。",
+          "audio": "audio/ex/morale-1.mp3"
+        }
+      ],
+      "mnemonic": "morale（士气）vs moral（道德）——记法：士气要\"啊——\"地喊出来，所以重音在后面（morale /məˈrɑːl/）；道德是慢慢讲的，重音在前面（moral /ˈmɔːrəl/）。拉士气三件套缩写 R³：Recognize, Rest, Rotate（认可、休息、轮换），缺一样 morale 就往下掉。可直接搬用的两句：What is one thing we can do this week to lift morale?（这周我们能做一件事提振士气吗？）/ Nothing kills morale faster than unpaid overtime.（没有什么比无薪加班更伤士气。）",
+      "issue": 40,
+      "date": "2026-10-26",
+      "theme": "预制墙板靠钢销定位、缝隙灌浆 → 幕墙底部泄水孔被胶堵死导致三楼渗漏 → 门洞侧壁垂直度偏差 12 毫米用垫片找平 → 蒙巴萨港拥堵，船在等泊位，滞期费要谈 → 连加两个月班后士气低落，停周末班、轮换值班、公开表扬",
+      "gloss": "士气、精神面貌、团队状态",
+      "category": "职场",
+      "audio": "audio/morale.mp3"
     }
   ]
 }

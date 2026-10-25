@@ -779,5 +779,25 @@
   "micromanage": {
     "gloss": "微观管理、事无巨细地干预",
     "category": "职场"
+  },
+  "dowel": {
+    "gloss": "销钉、连接销、插筋",
+    "category": "钢结构"
+  },
+  "weep hole": {
+    "gloss": "泄水孔、排水孔",
+    "category": "建筑设计"
+  },
+  "jamb": {
+    "gloss": "门窗洞口侧边、侧壁、边框",
+    "category": "建筑设计"
+  },
+  "berth": {
+    "gloss": "泊位；卧铺；靠泊",
+    "category": "外贸物流"
+  },
+  "morale": {
+    "gloss": "士气、精神面貌、团队状态",
+    "category": "职场"
   }
 }
