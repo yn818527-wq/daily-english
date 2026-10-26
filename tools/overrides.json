@@ -799,5 +799,25 @@
   "morale": {
     "gloss": "士气、精神面貌、团队状态",
     "category": "职场"
+  },
+  "flashing": {
+    "gloss": "泛水、披水板、防水泛水件",
+    "category": "工程施工"
+  },
+  "mullion": {
+    "gloss": "幕墙竖框、中竖框、窗棂竖挺",
+    "category": "建筑设计"
+  },
+  "screed": {
+    "gloss": "找平层、砂浆找平层；刮平",
+    "category": "工程施工"
+  },
+  "laytime": {
+    "gloss": "装卸时间、装卸期限",
+    "category": "外贸"
+  },
+  "autonomy": {
+    "gloss": "自主权、自治、独立自主",
+    "category": "职场"
   }
 }

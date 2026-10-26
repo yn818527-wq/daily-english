@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26",
-  "total": 200,
+  "updated": "2026-10-27",
+  "total": 205,
   "words": [
     {
       "word": "truss",
@@ -4101,6 +4101,106 @@
       "gloss": "士气、精神面貌、团队状态",
       "category": "职场",
       "audio": "audio/morale.mp3"
+    },
+    {
+      "word": "flashing",
+      "phonetic": "/ˈflæʃɪŋ/",
+      "meaning": "在屋面、墙面、女儿墙、烟囱、管道根部等交接部位或穿透部位铺设的金属板（镀锌钢板、铝板、不锈钢）或卷材构件，作用是把水\"甩\"到外侧、挡住进水通道，是防水细部里最关键的零件之一。它与已学的 weep hole（第 40 期泄水孔）、sealant（第 20 期密封胶）、seam（第 23 期锁边缝）、parapet（第 20 期女儿墙）、gutter（第 31 期天沟）、ridge（第 29 期屋脊）、eaves（第 30 期檐口）、fascia（第 32 期封檐板）、soffit（第 24 期挑檐底板）、cladding（第 10 期墙面板）、curtain wall（第 23 期幕墙）串成完整的\"屋面与防水收边\"词汇网。六种最常见的类型：base flashing（底部泛水，立面上的下脚）、counter-flashing / counterflashing（盖泛水、压顶泛水，压在 base flashing 之上、可随主体沉降滑动的那一片）、step flashing（阶梯泛水，坡屋面与墙交接处一片压一片）、apron flashing（披水板，烟囱、管道前方那一片）、cap / coping flashing（女儿墙压顶泛水）、through-wall flashing（墙体通长泛水，砌体墙里把水引到室外）。三条铁律：顺水搭接（lap in the direction of water flow）、上片压下片（upper piece over the lower piece）、搭接长度不得小于 150 毫米并用密封胶封边。",
+      "collocation": "flashing 泛水/披水板；step flashing 阶梯泛水；base flashing 底部泛水；counter-flashing 盖泛水；apron flashing 披水板；cap / coping flashing 压顶泛水；through-wall flashing 墙体通长泛水；drip edge 滴水边；lap 搭接；150 mm lap 150 毫米搭接长度；roof-to-wall junction 屋墙交接处；penetration 穿透部位；weep hole 泄水孔（第 40 期）；sealant 密封胶（第 20 期）；parapet 女儿墙（第 20 期）；ridge 屋脊（第 29 期）；eaves 檐口（第 30 期）；cladding 墙面板（第 10 期）；cavity 空腔；waterproofing 防水；leak 渗漏",
+      "examples": [
+        {
+          "en": "The step flashing at the roof-to-wall junction was not lapped correctly, so we removed the cladding panels, refitted the flashing with a 150-millimetre lap and resealed every joint before the rain season.",
+          "zh": "屋墙面交接处的阶梯泛水没有按正确方式搭接，所以我们拆掉墙面板，改用 150 毫米搭接长度重新安装泛水，并在雨季来临前把每一道缝重新打胶。",
+          "audio": "audio/ex/flashing-1.mp3"
+        }
+      ],
+      "mnemonic": "flash（闪光、闪一下）+ ing——雨水打在金属泛水板上一闪就被甩到外面去了，这就是 flashing。记住一句核心口诀：Flashing sends the water flashing past the joint.（泛水让水\"一闪而过\"接缝，进不去。）现场三查：搭接方向对不对（必须上压下、顺水流）？搭接长度够不够（常见不小于 150 毫米）？穿透部位有没有单独做泛水加套管（管道根部最易漏）？",
+      "issue": 41,
+      "date": "2026-10-27",
+      "theme": "屋墙面交接处泛水搭接做错导致渗漏返工 → 风荷载验算后幕墙竖框间距从 1.5 米改到 1.2 米 → 铺地板前先做 50 毫米水泥砂浆找平层并养护七天 → 航次租船装卸时间只给五天，超期按每天 1.2 万美元计滞期费 → 新主管不再微观管理，把制图标准自主权交给深化组",
+      "gloss": "泛水、披水板、防水泛水件",
+      "category": "工程施工",
+      "audio": "audio/flashing.mp3"
+    },
+    {
+      "word": "mullion",
+      "phonetic": "/ˈmʌliən/",
+      "meaning": "幕墙、玻璃隔断或大玻璃窗中分隔玻璃的竖向构件。它与已学的 transom（横框、中横框）、curtain wall（第 23 期幕墙）、glazing（第 22 期玻璃装配）、jamb（第 40 期洞口侧边）、lintel（第 39 期过梁）、threshold（第 38 期门槛）、reveal（洞口侧壁）、fascia（第 32 期封檐板）同属\"幕墙与洞口\"词汇网。方向一定要记死：mullion 是竖的，transom 是横的——记法：mullion 里有 ll，像两根竖着的柱子；或者画面法：先把竖的 mullion 立起来，再把横的 transom 搭上去。三层常见所指：① 幕墙竖框（铝合金或钢型材，承受风荷载并传给主体结构）；② 门窗中竖挺（把一樘窗分成两扇或三扇）；③ 装饰性窗棂（仿古或装饰风格里的竖棂）。设计与施工要点：间距由风荷载与玻璃厚度决定、竖框要算挠度与热胀冷缩位移、型材腔体要做排水与等压设计、与主体结构的连接要允许三向调节。",
+      "collocation": "mullion 幕墙竖框/中竖挺；transom 横框/中横框；mullion spacing 竖框间距；aluminium mullion 铝合金竖框；steel mullion 钢竖框；mullion cap 竖框扣盖；mullion deflection 竖框挠度；pressure plate 压板；structural glazing 结构胶装配；curtain wall 幕墙（第 23 期）；glazing 玻璃装配（第 22 期）；wind load 风荷载；shop drawing 深化加工图（第 21 期）；extrusion 型材挤压、挤压型材；stack joint 层间伸缩缝；anchor / bracket 连接件；jamb 洞口侧边（第 40 期）；reveal 洞口侧壁",
+      "examples": [
+        {
+          "en": "After the wind load check, the aluminium mullion spacing was revised from 1.5 metres to 1.2 metres, so please update the curtain wall shop drawings before we release the extrusions.",
+          "zh": "风荷载验算之后，铝合金竖框的间距从 1.5 米改成了 1.2 米，请在挤压型材投产前把幕墙深化加工图更新一版。",
+          "audio": "audio/ex/mullion-1.mp3"
+        }
+      ],
+      "mnemonic": "mullion 竖，transom 横——记法：mullion 中间那两个 l 像两根并排站立的竖柱；再记一句对仗：Mullions run up and down, transoms run side to side.（竖框上下走，横框左右走。）画格子法：先在纸上画两根竖线（mullion），再画横线搭上去（transom），一张幕墙分格图就出来了。",
+      "issue": 41,
+      "date": "2026-10-27",
+      "theme": "屋墙面交接处泛水搭接做错导致渗漏返工 → 风荷载验算后幕墙竖框间距从 1.5 米改到 1.2 米 → 铺地板前先做 50 毫米水泥砂浆找平层并养护七天 → 航次租船装卸时间只给五天，超期按每天 1.2 万美元计滞期费 → 新主管不再微观管理，把制图标准自主权交给深化组",
+      "gloss": "幕墙竖框、中竖框、窗棂竖挺",
+      "category": "建筑设计",
+      "audio": "audio/mullion.mp3"
+    },
+    {
+      "word": "screed",
+      "phonetic": "/skriːd/",
+      "meaning": "浇筑在混凝土楼板或地面基层之上的一层水泥砂浆（有时是细石混凝土或自流平材料），用来把高低不平的结构面找平、找坡，并为面层（地砖、PVC 地板、环氧地坪、地毯）提供平整基层。它与已学的 backfill（第 33 期回填）、grout（第 16 期灌浆）、settlement（第 34 期沉降）、floor plan（第 28 期平面图）、joist（第 25 期搁栅）、dead load（第 28 期恒荷载）、handover（第 12 期移交）、punch list（第 22 期尾项清单）串成\"地面与装修\"词汇网。四类常见说法：cement screed / sand-cement screed（水泥砂浆找平层）、levelling screed（找平层）、screed to falls（找坡层，往地漏方向做坡）、self-levelling screed（自流平）。施工要点：厚度常见 40–70 毫米、要设分格缝（bays / day joints）防开裂、必须养护至少 7 天且含水率达标后才能铺面层、大面积要做伸缩缝并与墙体脱开。一词另义（文学/口语）：a screed = 一篇长篇大论、连篇累牍的抱怨文章（He wrote a long screed against the new policy.），读材料时别会错意。",
+      "collocation": "screed 找平层；cement / sand-cement screed 水泥砂浆找平层；levelling screed 找平层；self-levelling screed 自流平；screed to falls 找坡层；screed thickness 找平层厚度；curing 养护；day joint / bay 分格缝、施工分仓；moisture content 含水率；substrate / base 基层；screed rail 冲筋、刮平导轨；float / trowel 抹子；floor finish 地面面层；vinyl flooring PVC 地板；epoxy flooring 环氧地坪；slab 楼板；levelling 找平；backfill 回填（第 33 期）；grout 灌浆（第 16 期）",
+      "examples": [
+        {
+          "en": "Before the vinyl flooring is laid, the slab has to be levelled with a 50-millimetre cement screed, which must cure for at least seven days and pass the moisture test.",
+          "zh": "铺设 PVC 地板之前，楼板必须用 50 毫米厚的水泥砂浆找平层找平，找平层至少要养护七天并通过含水率测试。",
+          "audio": "audio/ex/screed-1.mp3"
+        }
+      ],
+      "mnemonic": "谐音\"死刮的\"——找平层就是拿着刮尺死命刮平的那一层。记工艺流程一句话：Pour it, screed it, float it, cure it.（浇筑→刮平→抹光→养护。）验收三问：厚度够不够（常见 40–70 毫米）？分格缝设没设（不设必裂）？含水率测没测（没干透就铺地板，日后必起鼓）？",
+      "issue": 41,
+      "date": "2026-10-27",
+      "theme": "屋墙面交接处泛水搭接做错导致渗漏返工 → 风荷载验算后幕墙竖框间距从 1.5 米改到 1.2 米 → 铺地板前先做 50 毫米水泥砂浆找平层并养护七天 → 航次租船装卸时间只给五天，超期按每天 1.2 万美元计滞期费 → 新主管不再微观管理，把制图标准自主权交给深化组",
+      "gloss": "找平层、砂浆找平层；刮平",
+      "category": "工程施工",
+      "audio": "audio/screed.mp3"
+    },
+    {
+      "word": "laytime",
+      "phonetic": "/ˈleɪtaɪm/",
+      "meaning": "租船合同或航次合同中约定的、允许承租人用来装卸货物而不必额外付费的时间。它与已学的 demurrage（第 30 期滞期费）、detention（第 34 期滞箱费）、berth（第 40 期泊位）、booking note（第 39 期订舱单）、FCL（第 38 期整箱货）、transshipment（第 32 期转运）、consignee（第 17 期收货人）串成完整的海运与租船链条。超期部分即产生 demurrage（滞期费）；提前完成则船东支付 despatch（速遣费）——这是 laytime 与 demurrage 的因果关系：Run out of laytime, and you pay demurrage. 五个必背术语：laytime allowed / permitted laytime（允许的装卸时间）、laytime commences / starts（装卸时间起算）、NOR / Notice of Readiness（装卸就绪通知书，递交后按合同起算）、laydays（装卸日数、装货期限）、despatch（速遣费，demurrage 的反面）。时间单位也要分清：working days（工作日）、weather working days（晴天工作日）、running days（连续日）——差一个词可能差出好几天的滞期费。",
+      "collocation": "laytime 装卸时间；laytime allowed 允许的装卸时间；laytime commences / starts 装卸时间起算；laydays 装卸日数；NOR / Notice of Readiness 装卸就绪通知书；demurrage 滞期费（第 30 期）；despatch / dispatch 速遣费；free time 免费期；working days 工作日；weather working days 晴天工作日；running days 连续日；voyage charter 航次租船；charter party 租船合同；laytime statement 装卸时间计算表；berth 泊位（第 40 期）；FCL 整箱货（第 38 期）；detention 滞箱费（第 34 期）；demurrage rate 滞期费率；demurrage and detention (D&D) 滞期费与滞箱费",
+      "examples": [
+        {
+          "en": "Under the voyage charter the laytime allowed is five weather working days, so any delay beyond that will trigger demurrage at USD 12,000 per day unless we agree an extension with the buyer in writing.",
+          "zh": "根据航次租船合同，允许的装卸时间是五个晴天工作日，超出部分将按每天 1.2 万美元计收滞期费，除非我们与买方书面商定延长期限。",
+          "audio": "audio/ex/laytime-1.mp3"
+        }
+      ],
+      "mnemonic": "lay（铺设、放置）+ time（时间）——船靠在那儿\"等着装卸\"的时间就是 laytime。因果链条一句背牢：Run out of laytime → pay demurrage; finish early → earn despatch.（装卸超期付滞期费，提前完成拿速遣费。）谈单三问：允许几天？按哪种日子算（working / weather working / running days）？滞期费率多少、有没有免费期？",
+      "issue": 41,
+      "date": "2026-10-27",
+      "theme": "屋墙面交接处泛水搭接做错导致渗漏返工 → 风荷载验算后幕墙竖框间距从 1.5 米改到 1.2 米 → 铺地板前先做 50 毫米水泥砂浆找平层并养护七天 → 航次租船装卸时间只给五天，超期按每天 1.2 万美元计滞期费 → 新主管不再微观管理，把制图标准自主权交给深化组",
+      "gloss": "装卸时间、装卸期限",
+      "category": "外贸",
+      "audio": "audio/laytime.mp3"
+    },
+    {
+      "word": "autonomy",
+      "phonetic": "/ɔːˈtɒnəmi/",
+      "meaning": "个人、团队或组织自行决定如何做事的权力与空间，是职场英语里谈管理风格与员工体验的高频词。它与已学的 micromanage（第 39 期微观管理）、delegate（第 14 期授权）、morale（第 40 期士气）、burnout（第 19 期职业倦怠）、retention（第 33 期留任）、turnover（人员流失）、appraisal（第 25 期绩效评估）、feedback（第 27 期反馈）串成\"团队管理\"词汇网，并且与 micromanage 构成最直接的反义：micromanage 是把权力收走，autonomy 是把权力交出去。三个高频用法：give / grant someone autonomy（给予自主权）、autonomy over something（在某件事上的自主权）、have full / complete autonomy（拥有完全自主权）。配套词：ownership（主人翁意识）、empowerment（赋能）、discretion（裁量权）、micromanagement（微观管理，名词形式）。管理者最实用的一句话：Give people autonomy over the how, and be clear about the what and the why.（怎么做交给他们，\"做什么\"和\"为什么做\"必须由你说清楚。）",
+      "collocation": "autonomy 自主权；give / grant autonomy 给予自主权；autonomy over something 在某方面的自主权；full / complete autonomy 完全自主权；professional autonomy 职业自主权；autonomy and accountability 自主权与责任；micromanage 微观管理（第 39 期，反义）；delegate 授权（第 14 期）；empowerment 赋能；ownership 主人翁意识；discretion 裁量权；morale 士气（第 40 期）；burnout 职业倦怠（第 19 期）；retention 留任（第 33 期）；turnover 人员流失；autonomy vs control 自主与管控；self-directed 自我驱动的",
+      "examples": [
+        {
+          "en": "Instead of micromanaging the detailing team, the new manager gave them full autonomy over drawing standards and checked only the interface points, and both morale and output improved within a month.",
+          "zh": "新主管没有对深化组微观管理，而是把制图标准的完全自主权交给他们，只核查接口部位——一个月之内士气和产出都上来了。",
+          "audio": "audio/ex/autonomy-1.mp3"
+        }
+      ],
+      "mnemonic": "拆词 auto-（自己）+ -nomy（法则、管理，同 economy 里的 -nomy）= 自己管自己 = 自主权。与 micromanage 配成反义对一起背：Micromanage kills autonomy; autonomy builds ownership.（微观管理掐死自主权，自主权养出主人翁意识。）给自主权的正确姿势记一句：Autonomy over the how, clarity on the what and the why.（怎么做交出去，做什么和为什么做讲清楚。）",
+      "issue": 41,
+      "date": "2026-10-27",
+      "theme": "屋墙面交接处泛水搭接做错导致渗漏返工 → 风荷载验算后幕墙竖框间距从 1.5 米改到 1.2 米 → 铺地板前先做 50 毫米水泥砂浆找平层并养护七天 → 航次租船装卸时间只给五天，超期按每天 1.2 万美元计滞期费 → 新主管不再微观管理，把制图标准自主权交给深化组",
+      "gloss": "自主权、自治、独立自主",
+      "category": "职场",
+      "audio": "audio/autonomy.mp3"
     }
   ]
 }
