@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27",
-  "total": 205,
+  "updated": "2026-10-28",
+  "total": 210,
   "words": [
     {
       "word": "truss",
@@ -4201,6 +4201,106 @@
       "gloss": "自主权、自治、独立自主",
       "category": "职场",
       "audio": "audio/autonomy.mp3"
+    },
+    {
+      "word": "transom",
+      "phonetic": "/ˈtrænsəm/",
+      "meaning": "幕墙、玻璃隔断或门窗中分隔玻璃的横向构件，与昨天学的 mullion（第 41 期竖框）是一对。它同时还有第二个常用义：门上方的亮窗、气窗（门顶那块可开启或固定的小玻璃，办公室与酒店客房极常见）。它与已学的 mullion（第 41 期竖框）、curtain wall（第 23 期幕墙）、glazing（第 22 期玻璃装配）、jamb（第 40 期洞口侧边）、lintel（第 39 期过梁）、threshold（第 38 期门槛）、reveal（洞口侧壁）、sill（窗台板）、mullion cap（竖框扣盖）、shop drawing（第 21 期深化加工图）串成完整的\"幕墙与洞口\"词汇网。方向铁律：mullion 是竖的，transom 是横的——昨天那句对仗继续背：Mullions run up and down, transoms run side to side. 三类所指：① 幕墙横框（承受玻璃自重与部分风荷载，并把水排到竖框的排水腔）；② 门窗中横挺（把一樘窗上下分成固定扇与开启扇）；③ 门顶亮窗 / transom window（门上方那道横向玻璃，也作采光与通风用，带铰链可开启的叫 transom ventilator）。设计与施工要点：横框要做排水孔与等压腔，不能让水积在腔里、横框与竖框的连接处必须打胶密封（这是幕墙渗漏第一高发点）、横框要留热胀冷缩位移量。",
+      "collocation": "transom 横框/中横框；mullion 竖框（第 41 期）；transom spacing 横框间距；aluminium transom 铝合金横框；transom window 亮窗、气窗；transom ventilator 亮窗通风器；transom bar 横挺；pressure plate 压板；structural glazing 结构胶装配；curtain wall 幕墙（第 23 期）；glazing 玻璃装配（第 22 期）；drainage hole 排水孔；stack joint 层间伸缩缝；shop drawing 深化加工图（第 21 期）；jamb 洞口侧边（第 40 期）；sill 窗台板；reveal 洞口侧壁",
+      "examples": [
+        {
+          "en": "Once the mullion spacing was fixed, we set the transom positions at 1.8 metres above each floor level and checked that every transom-to-mullion joint is sealed before the glass arrives on site.",
+          "zh": "竖框间距定下来之后，我们把横框位置定在每层楼面上方 1.8 米处，并在玻璃进场前检查每一处横框与竖框的接缝都已打胶密封。",
+          "audio": "audio/ex/transom-1.mp3"
+        }
+      ],
+      "mnemonic": "拆词 tran-（横穿、越过，同 transmit、transverse）+ -som——横着跨过两竖框之间的那根就是 transom。与 mullion 配成一对记死：Mullions run up and down, transoms run side to side.（竖框上下走，横框左右走。）画面法：画\"日\"字——两根竖线是 mullion，中间那根横线是 transom。现场一查：横框与竖框交界的那道胶打没打（幕墙漏水九成漏在这儿）。",
+      "issue": 42,
+      "date": "2026-10-28",
+      "theme": "幕墙竖框定完接着定横框，玻璃分格才算画完 → 女儿墙压顶做错坡度倒泛水，雨水往室内流 → 业主要把屋面夹芯板换成岩棉板，走变更令重报工期与费用 → 深化加工图分包给外部团队，主合同责任仍在你方 → 年底算人员流失率，两个主力深化员离职，留任方案要跟上",
+      "gloss": "幕墙横框、中横框；门顶亮窗",
+      "category": "建筑设计",
+      "audio": "audio/transom.mp3"
+    },
+    {
+      "word": "coping",
+      "phonetic": "/ˈkəʊpɪŋ/",
+      "meaning": "砌体墙、女儿墙、挡土墙或围墙顶部那层覆盖构件（预制混凝土、石材、金属板、砖砌斜顶），作用是把墙顶封住、把雨水导向一侧，防止水从墙顶渗入墙体内部。它是防水收口的\"最后一道帽子\"，与已学的 parapet（第 20 期女儿墙）、flashing（第 41 期泛水）、sealant（第 20 期密封胶）、weep hole（第 40 期泄水孔）、gutter（第 31 期天沟）、ridge（第 29 期屋脊）、gable（第 24 期山墙）、cavity（空腔）串成\"墙顶防水\"词汇网。三种常见构造：stone / concrete coping（石材或预制混凝土压顶，两侧挑出墙面做滴水）、metal coping（金属压顶板，常与 cap flashing 合成一体）、brick-on-edge coping（侧砖斜砌压顶）。三条设计铁律：压顶必须两侧挑出墙面至少 50 毫米并做滴水槽（drip groove）、压顶必须向内或向外找坡（绝不能做成水平或倒坡）、压顶下设通长泛水并与墙体脱开滑动（防裂）。最常见的返工原因就是倒泛水——压顶往室内一侧找坡，雨水直接灌进墙里。",
+      "collocation": "coping 压顶/盖顶；parapet coping 女儿墙压顶；stone coping 石材压顶；concrete coping 混凝土压顶；metal coping 金属压顶板；coping flashing / cap flashing 压顶泛水；drip groove 滴水槽；drip edge 滴水边；coping to falls 压顶找坡；back fall / inverted fall 倒坡；parapet 女儿墙（第 20 期）；flashing 泛水（第 41 期）；weep hole 泄水孔（第 40 期）；cavity 空腔；sealant 密封胶（第 20 期）；damp proof course (DPC) 防潮层；efflorescence 泛碱",
+      "examples": [
+        {
+          "en": "The precast concrete coping on the parapet was laid level instead of sloping outwards, so rainwater ran back towards the roof and stained the ceiling below; we will re-lay it with a 1:40 fall and add a drip groove on both sides.",
+          "zh": "女儿墙上的预制混凝土压顶做成了水平而没有向外找坡，于是雨水倒流回屋面方向，把下面的吊顶泡出了水渍；我们将按 1:40 的坡度重铺，并在两侧加滴水槽。",
+          "audio": "audio/ex/coping-1.mp3"
+        }
+      ],
+      "mnemonic": "来自动词 cope（应付、处理）——墙顶天天要\"应付\"雨水，所以给它戴一顶帽子（coping）。核心一句：Coping copes with the rain.（压顶就是用来\"对付\"雨水的。）验收三问：挑出够不够（两侧至少挑出并做滴水槽）？坡向对不对（必须朝外，倒坡必返工）？下面通长泛水有没有（没泛水的压顶等于没做）？",
+      "issue": 42,
+      "date": "2026-10-28",
+      "theme": "幕墙竖框定完接着定横框，玻璃分格才算画完 → 女儿墙压顶做错坡度倒泛水，雨水往室内流 → 业主要把屋面夹芯板换成岩棉板，走变更令重报工期与费用 → 深化加工图分包给外部团队，主合同责任仍在你方 → 年底算人员流失率，两个主力深化员离职，留任方案要跟上",
+      "gloss": "压顶、盖顶（墙顶女儿墙顶覆盖构件）",
+      "category": "工程施工",
+      "audio": "audio/coping.mp3"
+    },
+    {
+      "word": "variation order",
+      "phonetic": "/ˌveəriˈeɪʃn ˈɔːdə/",
+      "meaning": "工程合同履行过程中，由业主或工程师签发的、确认对原合同范围、工程量、做法或工期作出变更的正式书面指令。只有拿到 variation order，承包商才有权就该项变更主张额外费用与工期延长；口头要求就干活，结算时基本要不回钱。它与已学的 contract、claim（第 13 期索赔）、retention（第 33 期质保金）、tender（第 27 期投标）、specification（第 10 期技术规范）、shop drawing（第 21 期深化加工图）、proposal（第 24 期方案建议书）、counteroffer（第 10 期还盘）、force majeure（第 18 期不可抗力）、arbitration（第 20 期仲裁）串成\"合同与索赔\"词汇网。配套术语：variation / change order（变更单，美式常用 change order）、VO request / variation request（变更申请）、variation valuation（变更估价）、omission（删减项）、additional work（增项）、dayworks（计日工）、extension of time / EOT（工期延长）、claim（索赔）。标准动作四步：书面提出变更申请 → 报价并说明工期影响 → 业主/工程师签发 VO → 按 VO 施工并留好记录。",
+      "collocation": "variation order (VO) 变更令/工程变更单；change order 变更单（美式）；issue a variation order 签发变更令；variation request 变更申请；variation valuation 变更估价；additional work 增项；omission 删减项；dayworks 计日工；extension of time / EOT 工期延长；claim 索赔（第 13 期）；contract sum 合同总价；scope of work 工作范围；specification 技术规范（第 10 期）；retention 质保金（第 33 期）；force majeure 不可抗力（第 18 期）；arbitration 仲裁（第 20 期）；variation order log 变更台账",
+      "examples": [
+        {
+          "en": "The client asked us to replace the roof sandwich panels with rock wool panels, so we submitted a variation request covering the extra material cost and a two-week extension of time, and we will not start the replacement until the variation order is issued in writing.",
+          "zh": "业主要求把屋面夹芯板换成岩棉板，因此我们提交了变更申请，涵盖增加的材料费用与两周工期延长；在变更令书面签发之前，我们不会开始更换。",
+          "audio": "audio/ex/variation-order-1.mp3"
+        }
+      ],
+      "mnemonic": "variation（变化）+ order（指令）= 变更令。一句话记住它的法律效力：No VO in writing, no money, no time.（没有书面变更令，就没有钱，也没有工期。）流程四步记成口号：Request it, price it, get the VO, then do it.（先申请、再报价、拿到变更令、最后才干活。）与 claim 的关系：VO 是事前确认，claim 是事后追讨——能走 VO 的绝不要拖成 claim。",
+      "issue": 42,
+      "date": "2026-10-28",
+      "theme": "幕墙竖框定完接着定横框，玻璃分格才算画完 → 女儿墙压顶做错坡度倒泛水，雨水往室内流 → 业主要把屋面夹芯板换成岩棉板，走变更令重报工期与费用 → 深化加工图分包给外部团队，主合同责任仍在你方 → 年底算人员流失率，两个主力深化员离职，留任方案要跟上",
+      "gloss": "变更令、工程变更单（VO）",
+      "category": "工程施工",
+      "audio": "audio/variation-order.mp3"
+    },
+    {
+      "word": "subcontract",
+      "phonetic": "/ˌsʌbkənˈtrækt/",
+      "meaning": "总承包商把主合同中的一部分工作交给第三方（分包商 subcontractor）完成所签订的合同，以及这个\"分包\"的动作本身。它与已学的 variation order（本期变更令）、tender（第 27 期投标）、specification（第 10 期技术规范）、shop drawing（第 21 期深化加工图）、snag list（第 37 期缺陷清单）、retention（第 33 期质保金）、defects liability period（第 38 期缺陷责任期）、RACI（第 37 期责任矩阵）、stakeholder（第 34 期相关方）、kickoff（第 36 期启动会）串成\"合同执行与分包管理\"词汇网。两种词性与读音：名词 /ˈsʌbkɒntrækt/（重音在前）、动词 /ˌsʌbkənˈtrækt/（重音在后）。五个配套词：subcontractor（分包商）、sub-subcontractor（再分包商）、nominated subcontractor（业主指定分包商）、domestic subcontractor（自择分包商）、back-to-back（背靠背条款，把主合同风险原样传导给分包）。法律红线：分包不等于转移责任——主合同项下的责任仍由总承包商对业主承担；且多数合同禁止未经书面同意的再分包，涉及主体结构的关键工序尤其敏感。",
+      "collocation": "subcontract 分包合同/分包；subcontractor 分包商；subcontract the work to 把工程分包给；nominated subcontractor 业主指定分包商；sub-subcontractor 再分包商；back-to-back terms 背靠背条款；subcontract agreement 分包协议；subcontract works 分包工程；main contract / head contract 主合同；general contractor 总承包商；scope of work 工作范围；liability 责任；indemnity 赔偿保证；retention 质保金（第 33 期）；snag list 缺陷清单（第 37 期）；RACI 责任矩阵（第 37 期）；variation order 变更令（本期）",
+      "examples": [
+        {
+          "en": "We subcontracted the detailing work to an external team, but the responsibility for the shop drawings under the main contract still stays with us, so every drawing has to pass our internal check before it is sent to the client.",
+          "zh": "我们把深化加工工作分包给了一个外部团队，但主合同项下深化加工图的责任仍在我们这边，因此每张图在发给业主之前都必须通过我们的内部校审。",
+          "audio": "audio/ex/subcontract-1.mp3"
+        }
+      ],
+      "mnemonic": "sub-（在下面、次级）+ contract（合同）= 主合同下面的次级合同 = 分包合同。读音分家：名词重音在前 SUB-contract，动词重音在后 sub-con-TRACT。红线一句牢记：You can subcontract the work, but you cannot subcontract the responsibility.（活可以分包，责任分不掉。）谈分包三问：业主同不同意？是不是背靠背条款？关键工序允不允许再分包？",
+      "issue": 42,
+      "date": "2026-10-28",
+      "theme": "幕墙竖框定完接着定横框，玻璃分格才算画完 → 女儿墙压顶做错坡度倒泛水，雨水往室内流 → 业主要把屋面夹芯板换成岩棉板，走变更令重报工期与费用 → 深化加工图分包给外部团队，主合同责任仍在你方 → 年底算人员流失率，两个主力深化员离职，留任方案要跟上",
+      "gloss": "分包合同；分包、转包",
+      "category": "工程施工",
+      "audio": "audio/subcontract.mp3"
+    },
+    {
+      "word": "turnover",
+      "phonetic": "/ˈtɜːnəʊvə(r)/",
+      "meaning": "职场与商务英语里的三义高频词：① 人员流失率（一定时期内离职人数占平均在职人数的比例，HR 与管理的头号指标）；② 营业额、营收（一段时间内的销售总额，财务口径）；③ 周转、周转量（库存周转、集装箱周转、人员轮转）。它与已学的 retention（第 33 期留任）、morale（第 40 期士气）、autonomy（第 41 期自主权）、burnout（第 19 期职业倦怠）、onboarding（第 30 期入职引导）、probation（第 32 期试用期）、appraisal（第 25 期绩效评估）、workload（第 3 期工作量）、stakeholder（第 34 期相关方）、backlog（第 35 期积压）串成\"团队与经营\"词汇网。retention 与 turnover 是一对反义：留任率高，流失率就低。金融与财务里另有一义：portfolio turnover（换手率）。三个必背搭配：staff / employee turnover（员工流失率）、annual turnover（年营业额，英式英语里极常用）、inventory turnover（库存周转率）。区分提醒：turnover 在英式英语里常指\"营业额\"，在美式英语里谈营收更常说 revenue，而\"人员流失\"这个义项英美通用。",
+      "collocation": "turnover 人员流失率/营业额/周转；staff / employee turnover 员工流失率；high / low turnover 高/低流失率；turnover rate 流失率；annual turnover 年营业额；inventory turnover 库存周转率；reduce turnover 降低流失率；labour turnover 劳动力流动率；retention 留任（第 33 期，反义概念）；attrition 自然减员；morale 士气（第 40 期）；burnout 职业倦怠（第 19 期）；onboarding 入职引导（第 30 期）；probation 试用期（第 32 期）；appraisal 绩效评估（第 25 期）；revenue 营收",
+      "examples": [
+        {
+          "en": "After two senior detailers resigned, our annual staff turnover rose to 22 per cent, so we put together a retention plan with clearer promotion paths, more autonomy over drawing standards and a quarterly review of workload.",
+          "zh": "两名资深深化员辞职后，我们的年度人员流失率升到了 22%，因此制定了一份留任方案：更清晰的晋升路径、在制图标准上更大的自主权，以及每季度一次的工作量复核。",
+          "audio": "audio/ex/turnover-1.mp3"
+        }
+      ],
+      "mnemonic": "来自短语 turn over（翻过来、周转一次）——人换了一批、货走了一圈、钱转了一遍，都叫 turnover。三个意思一句串：People turn over, stock turns over, money turns over.（人流动、货周转、钱流转。）与 retention 配成一对背：Retention keeps people in; turnover counts those who leave.（留任是把人留住，流失率是数走掉的人。）管理上记一句：High turnover is usually a symptom, not the disease.（高流失率通常是症状，不是病根。）",
+      "issue": 42,
+      "date": "2026-10-28",
+      "theme": "幕墙竖框定完接着定横框，玻璃分格才算画完 → 女儿墙压顶做错坡度倒泛水，雨水往室内流 → 业主要把屋面夹芯板换成岩棉板，走变更令重报工期与费用 → 深化加工图分包给外部团队，主合同责任仍在你方 → 年底算人员流失率，两个主力深化员离职，留任方案要跟上",
+      "gloss": "人员流失率；营业额；周转",
+      "category": "职场",
+      "audio": "audio/turnover.mp3"
     }
   ]
 }

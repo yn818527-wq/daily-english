@@ -819,5 +819,25 @@
   "autonomy": {
     "gloss": "自主权、自治、独立自主",
     "category": "职场"
+  },
+  "transom": {
+    "gloss": "幕墙横框、中横框；门顶亮窗",
+    "category": "建筑设计"
+  },
+  "coping": {
+    "gloss": "压顶、盖顶（墙顶女儿墙顶覆盖构件）",
+    "category": "工程施工"
+  },
+  "variation order": {
+    "gloss": "变更令、工程变更单（VO）",
+    "category": "工程施工"
+  },
+  "subcontract": {
+    "gloss": "分包合同；分包、转包",
+    "category": "工程施工"
+  },
+  "turnover": {
+    "gloss": "人员流失率；营业额；周转",
+    "category": "职场"
   }
 }
