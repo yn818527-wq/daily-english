@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28",
-  "total": 210,
+  "updated": "2026-10-29",
+  "total": 215,
   "words": [
     {
       "word": "truss",
@@ -4301,6 +4301,106 @@
       "gloss": "人员流失率；营业额；周转",
       "category": "职场",
       "audio": "audio/turnover.mp3"
+    },
+    {
+      "word": "sill",
+      "phonetic": "/sɪl/",
+      "meaning": "门窗洞口最下方那道横向构件。三个常用所指：① window sill（窗台板）——窗洞底部那块台面，室内常做石材或木质台面，室外一侧要外挑并做滴水；② 窗下框——铝合金窗或幕墙窗扇底部那根型材；③ sill plate / bottom plate（底梁板）——木结构或轻钢体系里沿基础顶面铺设、靠 anchor bolt（第 6 期地脚螺栓）固定的水平底梁。它与已学的 lintel（第 39 期过梁，洞口上）、jamb（第 40 期洞口侧边）、threshold（第 38 期门槛，门下）、reveal（本期洞口侧壁）、mullion（第 41 期竖框）、transom（第 42 期横框）、flashing（第 41 期泛水）、weep hole（第 40 期泄水孔）串成完整的\"洞口全套\"词汇网。三条施工铁律：室外窗台必须外挑并做滴水槽、窗台必须向外找坡（倒坡必渗水）、窗台下必须通长设泛水并与窗框排水孔对位。与 threshold 的分工：sill 是窗下的台面或框料，threshold 是门洞地面的收口条。",
+      "collocation": "window sill 窗台板；sill plate / bottom plate 底梁板；door sill 门下槛；sloping sill 找坡窗台；sill flashing 窗台泛水；drip groove 滴水槽；drip edge 滴水边；lintel 过梁（第 39 期）；jamb 洞口侧边（第 40 期）；threshold 门槛（第 38 期）；reveal 洞口侧壁（本期）；anchor bolt 地脚螺栓（第 6 期）；weep hole 泄水孔（第 40 期）；flashing 泛水（第 41 期）；outward fall 向外坡度",
+      "examples": [
+        {
+          "en": "Every window sill must be laid with an outward fall of at least 1 to 20 and a drip groove underneath, otherwise rainwater will track back into the wall and leave stains on the plaster below.",
+          "zh": "每个窗台都必须做成至少 1 比 20 的向外坡度并在下方做滴水槽，否则雨水会倒流进墙体，把下面的抹灰洇出水渍。",
+          "audio": "audio/ex/sill-1.mp3"
+        }
+      ],
+      "mnemonic": "与 lintel、jamb、threshold 记成\"洞口四件套\"：Lintel on top, jambs on both sides, sill at the bottom of a window, threshold at the bottom of a door. 一句口诀：上过梁、两侧边、窗下窗台、门下门槛。读音 /sɪl/ 短促，像\"席\"——窗台上薄薄铺一\"席\"台面板。现场验收三问：挑出够不够？坡向朝外不？下面通长泛水有没有？",
+      "issue": 43,
+      "date": "2026-10-29",
+      "theme": "幕墙横框排完，轮到收窗台——窗台倒坡是渗漏第一高发点 → 核对窗洞侧壁深度，窗框外移 50 毫米避热桥 → 银行同时开履约保函与预付款保函，措辞逐句抠 → 钢构件提前配箱订泊位，装货比装卸时间提早一天，挣回半天速遣费 → 年度缩编不做裁员，靠自然减员过渡、关键岗按继任计划补",
+      "gloss": "窗台板；窗下框；底梁板",
+      "category": "建筑设计",
+      "audio": "audio/sill.mp3"
+    },
+    {
+      "word": "reveal",
+      "phonetic": "/rɪˈviːl/",
+      "meaning": "建筑义作名词——门窗洞口侧壁上，从洞口边缘到室内墙面之间的那一圈\"露出来的\"墙面厚度，规范写法是 window reveal / door reveal，比如 \"a 250 mm reveal\" 就是侧壁深 250 毫米。日常最高频的义项是动词：揭示、透露、显示（reveal the price 透露价格、the survey revealed that… 勘测表明……）。它与 jamb（第 40 期洞口侧边）、sill（本期窗台板）、lintel（第 39 期过梁）、threshold（第 38 期门槛）、transom（第 42 期横框）、mullion（第 41 期竖框）、architrave（贴脸线）、insulation（第 11 期保温）串成\"洞口与收口\"词汇网。设计与施工要点：侧壁要做方正垂直，不方正窗框装不进去、侧壁深度决定窗框安装位置与可用窗台宽度、外窗侧壁必须做保温收口避免热桥、侧壁与窗框之间的缝隙要打胶或压密封条。",
+      "collocation": "window reveal 窗洞侧壁；door reveal 门洞侧壁；reveal depth 侧壁深度；reveal insulation 侧壁保温；plastered reveal 抹灰侧壁；architrave 贴脸线；jamb 洞口侧边（第 40 期）；sill 窗台板（本期）；lintel 过梁（第 39 期）；out of square 不方正；thermal bridge 热桥；reveal the price 透露价格；reveal the results 公布结果；reveal that 表明、显示",
+      "examples": [
+        {
+          "en": "The window reveals on the north elevation are 250 millimetres deep, so we moved each frame 50 millimetres outwards to keep enough sill width and to avoid a thermal bridge at the reveal.",
+          "zh": "北立面的窗洞侧壁深 250 毫米，因此我们把每樘窗框向外移了 50 毫米，以保证足够的窗台宽度，并避免侧壁处产生热桥。",
+          "audio": "audio/ex/reveal-1.mp3"
+        }
+      ],
+      "mnemonic": "直接来自动词 reveal（显露、露出）——墙被洞口切开后\"露\"出来的那一圈厚度就是 reveal。一句双义串讲：The reveal reveals how thick the wall is.（洞口侧壁\"显露\"出墙有多厚。）现场开口就专业：What is the reveal depth here?（这里侧壁多深？）商务场合同一词换义：We cannot reveal the unit price before the contract is signed.（合同签订前我们不能透露单价。）",
+      "issue": 43,
+      "date": "2026-10-29",
+      "theme": "幕墙横框排完，轮到收窗台——窗台倒坡是渗漏第一高发点 → 核对窗洞侧壁深度，窗框外移 50 毫米避热桥 → 银行同时开履约保函与预付款保函，措辞逐句抠 → 钢构件提前配箱订泊位，装货比装卸时间提早一天，挣回半天速遣费 → 年度缩编不做裁员，靠自然减员过渡、关键岗按继任计划补",
+      "gloss": "门窗洞口侧壁；揭示、透露",
+      "category": "建筑设计",
+      "audio": "audio/reveal.mp3"
+    },
+    {
+      "word": "performance bond",
+      "phonetic": "/pəˈfɔːməns bɒnd/",
+      "meaning": "国际工程与外贸合同里，由银行或保险公司出具的、担保承包商或供应商按合同约定履约的书面保证；一旦违约，业主可凭保函向担保方索赔。通常按合同金额的 5% 到 10% 开具，有效期一般覆盖到缺陷责任期结束。它与 bid bond / tender bond（投标保函）、advance payment bond（预付款保函）、retention bond（质保金保函） 并称项目\"四大保函\"。它与已学的 tender（第 27 期投标）、specification（第 10 期技术规范）、variation order（第 42 期变更令）、retention（第 33 期质保金）、defects liability period（第 38 期缺陷责任期）、force majeure（第 18 期不可抗力）、arbitration（第 20 期仲裁）、claim（第 13 期索赔）、counteroffer（第 10 期还盘）串成\"合同与担保\"词汇网。三者分工记清：performance bond 保\"干活干到底\"，advance payment bond 保\"预付款要交货\"，retention bond 保\"保修期内会修补\"。省钱技巧：用 retention bond 替代现金质保金，可以把被压住的 5% 现金释放出来改善现金流。风险红线：on-demand bond（见索即付保函）无需业主举证损失即可兑付。",
+      "collocation": "performance bond 履约保函；bid bond / tender bond 投标保函；advance payment bond 预付款保函；retention bond 质保金保函；bond amount 保函金额；issue a bond 开具保函；call the bond 兑付、索赔保函；bank guarantee 银行保函；on-demand bond 见索即付保函；counter-guarantee 反担保；performance security 履约担保；expiry date of the bond 保函到期日；release the bond 释放保函；contract value 合同金额",
+      "examples": [
+        {
+          "en": "The client requires a performance bond for 10 per cent of the contract value, valid until the end of the defects liability period, so we asked our bank to issue it together with an advance payment bond.",
+          "zh": "业主要求提供合同金额 10% 的履约保函，有效期至缺陷责任期结束；因此我方请银行把这份保函与预付款保函一并开出。",
+          "audio": "audio/ex/performance-bond-1.mp3"
+        }
+      ],
+      "mnemonic": "performance（履约表现）+ bond（担保）= 履约保函。四大保函按项目时间线一条线背下来：Bid bond 投标时 → Advance payment bond 付款时 → Performance bond 履约中 → Retention bond 保修期。风险一句刻在脑子里：An on-demand bond can be called without proof of loss, so read the wording before you sign.（见索即付保函无需举证即可兑付，签字前务必看清措辞。）",
+      "issue": 43,
+      "date": "2026-10-29",
+      "theme": "幕墙横框排完，轮到收窗台——窗台倒坡是渗漏第一高发点 → 核对窗洞侧壁深度，窗框外移 50 毫米避热桥 → 银行同时开履约保函与预付款保函，措辞逐句抠 → 钢构件提前配箱订泊位，装货比装卸时间提早一天，挣回半天速遣费 → 年度缩编不做裁员，靠自然减员过渡、关键岗按继任计划补",
+      "gloss": "履约保函；履约保证金",
+      "category": "外贸商务",
+      "audio": "audio/performance-bond.mp3"
+    },
+    {
+      "word": "despatch",
+      "phonetic": "/dɪˈspætʃ/",
+      "meaning": "① 速遣费——租船与海运语境里，装卸队在约定的 laytime（第 41 期装卸时间） 之内提前完成装卸，船东按节省下来的时间支付给租家或发货人的奖励，费率通常为 demurrage（第 30 期滞期费）的一半，行话叫 despatch half demurrage（DHD）。它把第 41 期埋下的链条补齐了：Finish inside the laytime and you earn despatch; run out of laytime and you pay demurrage. ② 日常商务高频义：发货、派送（despatch the goods 发货、despatch a technician 派技术员），也指急件、公文、新闻电讯。它与 bill of lading（第 9 期提单）、booking note（第 39 期订舱单）、customs clearance（第 7 期清关）、consignee（第 17 期收货人）、transshipment（第 32 期转运）、FCL（第 38 期整箱）、CFS（第 37 期拼箱站）、berth（第 40 期泊位）串成\"海运与单据\"词汇网。拼写提醒：英式 despatch 与美式 dispatch 通用，航运单据与租船合同里传统上多写 despatch。",
+      "collocation": "despatch money 速遣费；despatch rate 速遣费率；despatch half demurrage (DHD) 速遣费按滞期费半数计；laytime 装卸时间（第 41 期）；demurrage 滞期费（第 30 期）；detention 滞箱费（第 34 期）；notice of readiness (NOR) 装卸准备就绪通知书；statement of facts 装卸事实记录；time sheet 装卸时间记录表；despatch the goods 发货；despatch an engineer 派工程师；with despatch 从速、尽快",
+      "examples": [
+        {
+          "en": "Because we pre-packed all the steel members by container and booked the berth two weeks early, loading finished a full day inside the laytime, which earned us half a day of despatch money.",
+          "zh": "由于我们提前按集装箱把全部钢构件配好，并提前两周订了泊位，装货比装卸时间提早整整一天完成，为我们挣得了半天的速遣费。",
+          "audio": "audio/ex/despatch-1.mp3"
+        }
+      ],
+      "mnemonic": "de-（解除）+ spatch（拴住）→ 解开束缚赶紧送走 = 派送、发货。航运那句对仗务必记死：Early finish earns despatch; late finish pays demurrage.（提前完工领速遣费，超期完工交滞期费。）费率口诀：DHD means Despatch is Half Demurrage.（速遣费是滞期费的一半。）日常用法也别丢：We will despatch the samples by courier tomorrow.（样品明天走快递发出。）",
+      "issue": 43,
+      "date": "2026-10-29",
+      "theme": "幕墙横框排完，轮到收窗台——窗台倒坡是渗漏第一高发点 → 核对窗洞侧壁深度，窗框外移 50 毫米避热桥 → 银行同时开履约保函与预付款保函，措辞逐句抠 → 钢构件提前配箱订泊位，装货比装卸时间提早一天，挣回半天速遣费 → 年度缩编不做裁员，靠自然减员过渡、关键岗按继任计划补",
+      "gloss": "速遣费；发货、派遣",
+      "category": "外贸商务",
+      "audio": "audio/despatch.mp3"
+    },
+    {
+      "word": "attrition",
+      "phonetic": "/əˈtrɪʃn/",
+      "meaning": "① 管理与 HR 语境里的自然减员：员工离职后不再补员，靠自然流失逐步缩减编制。它与第 42 期的 turnover 要分清楚：turnover 是\"流失率\"这个指标，attrition 是\"只走不补\"这种缩编手段。② 通用义：消耗、磨损、损耗（war of attrition 消耗战、attrition rate 损耗率）。它与 turnover（第 42 期人员流失率）、retention（第 33 期留任）、morale（第 40 期士气）、burnout（第 19 期职业倦怠）、onboarding（第 30 期入职引导）、probation（第 32 期试用期）、appraisal（第 25 期绩效评估）、workload（第 3 期工作量）、backlog（第 35 期积压）、stakeholder（第 34 期相关方）串成\"组织与人力\"词汇网。三条必背说法：reduce headcount through natural attrition（靠自然减员缩编）、attrition rate（流失率、损耗率）、a war of attrition（消耗战，也用来形容与对手的长期拉锯）。管理常识：自然减员比裁员温和、成本低、不伤士气，但不可控——关键岗位必须有继任计划兜底。",
+      "collocation": "natural attrition 自然减员；attrition rate 流失率、损耗率；reduce headcount through attrition 靠自然减员缩编；staff attrition 员工流失；war of attrition 消耗战；turnover 人员流失率（第 42 期）；retention 留任（第 33 期）；redundancy 裁员、冗余；headcount 编制人数；hiring freeze 招聘冻结；succession plan 继任计划；morale 士气（第 40 期）；burnout 职业倦怠（第 19 期）",
+      "examples": [
+        {
+          "en": "Instead of making anyone redundant, we will reduce the team through natural attrition over the next six months, and every critical role will be backfilled from the succession plan.",
+          "zh": "我们不会裁掉任何人，而是在未来六个月内通过自然减员缩减团队规模；每个关键岗位都按继任计划补员。",
+          "audio": "audio/ex/attrition-1.mp3"
+        }
+      ],
+      "mnemonic": "源自拉丁语 atterere（磨掉、磨损）——人被一点点\"磨\"掉一批，就是自然减员。与 turnover、retention 三个一起背：Turnover measures it, retention fights it, attrition is how you use it.（流失率衡量它，留任对抗它，自然减员是你拿它当缩编手段。）管理一句：Manage attrition, don't just measure it.（要管理流失，而不只是统计它。）缩编三步口诀：Hire less, lose some, backfill the critical ones.（少招、自然走、关键岗补上。）",
+      "issue": 43,
+      "date": "2026-10-29",
+      "theme": "幕墙横框排完，轮到收窗台——窗台倒坡是渗漏第一高发点 → 核对窗洞侧壁深度，窗框外移 50 毫米避热桥 → 银行同时开履约保函与预付款保函，措辞逐句抠 → 钢构件提前配箱订泊位，装货比装卸时间提早一天，挣回半天速遣费 → 年度缩编不做裁员，靠自然减员过渡、关键岗按继任计划补",
+      "gloss": "自然减员；消耗、磨损",
+      "category": "职场",
+      "audio": "audio/attrition.mp3"
     }
   ]
 }

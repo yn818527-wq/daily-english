@@ -839,5 +839,25 @@
   "turnover": {
     "gloss": "人员流失率；营业额；周转",
     "category": "职场"
+  },
+  "sill": {
+    "gloss": "窗台板；窗下框；底梁板",
+    "category": "建筑设计"
+  },
+  "reveal": {
+    "gloss": "门窗洞口侧壁；揭示、透露",
+    "category": "建筑设计"
+  },
+  "performance bond": {
+    "gloss": "履约保函；履约保证金",
+    "category": "外贸商务"
+  },
+  "despatch": {
+    "gloss": "速遣费；发货、派遣",
+    "category": "外贸商务"
+  },
+  "attrition": {
+    "gloss": "自然减员；消耗、磨损",
+    "category": "职场"
   }
 }
