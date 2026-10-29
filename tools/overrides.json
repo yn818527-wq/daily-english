@@ -859,5 +859,25 @@
   "attrition": {
     "gloss": "自然减员；消耗、磨损",
     "category": "职场"
+  },
+  "barge board": {
+    "gloss": "博风板；山墙封檐板",
+    "category": "建筑构造"
+  },
+  "damp proof course": {
+    "gloss": "防潮层（DPC）",
+    "category": "建筑构造"
+  },
+  "extension of time": {
+    "gloss": "工期延长（EOT）",
+    "category": "工程合同"
+  },
+  "revenue": {
+    "gloss": "营收；收入",
+    "category": "商务职场"
+  },
+  "headcount": {
+    "gloss": "人员编制；人头数",
+    "category": "职场"
   }
 }

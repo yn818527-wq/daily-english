@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29",
-  "total": 215,
+  "updated": "2026-10-30",
+  "total": 220,
   "words": [
     {
       "word": "truss",
@@ -4401,6 +4401,106 @@
       "gloss": "自然减员；消耗、磨损",
       "category": "职场",
       "audio": "audio/attrition.mp3"
+    },
+    {
+      "word": "barge board",
+      "phonetic": "/bɑːdʒ bɔːd/",
+      "meaning": "钉在山墙（gable）斜边（rake / verge）上、封住屋面檩条与屋面板端头的那块斜向封板，作用是挡雨、挡风、遮丑，同时给屋面端头一个干净的收边。英美地区也叫 verge board、rake fascia、gable board。它与已学的 gable（第 24 期山墙）、fascia（第 32 期封檐板）、eaves（第 30 期檐口）、coping（第 42 期压顶）、flashing（第 41 期泛水）、purlin（第 2 期檩条）、rafter（第 9 期屋面斜梁）、cladding（第 10 期围护板）串成\"屋面与收边\"词汇网。与 fascia 的分工必须记清：fascia 是檐口处水平的封檐板（挂天沟的那块），barge board 是山墙斜边上斜着的封板——一句口诀：Fascia is horizontal at the eaves; barge board is sloping at the gable. 施工要点：板顶必须压住屋面板端头并上翻做泛水、板底要留出滴水或滴水槽、沿海项目优先选同色涂层钢板或铝合金，避免木质博风板在热带雨季腐烂。报价时别漏：博风板按延米（linear metre）计价，山墙两端对称，别只算一边。",
+      "collocation": "barge board 博风板、山墙封檐板；verge board / rake fascia / gable board 同义叫法；barge board cap 博风板压顶条；barge flashing 山墙泛水；rake edge 山墙斜边；verge 山墙边缘；fascia 封檐板（第 32 期）；gable 山墙（第 24 期）；eaves 檐口（第 30 期）；coping 压顶（第 42 期）；flashing 泛水（第 41 期）；purlin 檩条（第 2 期）；rafter 屋面斜梁（第 9 期）；drip groove 滴水槽；linear metre 延米",
+      "examples": [
+        {
+          "en": "Please quote the barge boards separately in linear metres for both gable ends, and make sure each one is fitted with a barge flashing on top and a drip groove underneath.",
+          "zh": "请按延米单独报山墙两端博风板的价格，并确保每块板顶部都配上山墙泛水、底部做出滴水槽。",
+          "audio": "audio/ex/barge-board-1.mp3"
+        }
+      ],
+      "mnemonic": "barge（驳船）+ board（板）——想象一块像船舷一样斜着搭上去的板，那就是山墙斜边上的博风板。与 fascia 的区别只记一张图：横的是檐口 fascia，斜的是山墙 barge board。现场指着说就专业：The barge board on the east gable is missing two fixings.（东山墙的博风板少了两个固定件。）再配一句英文定义压舱：A barge board is the board fixed along the sloping edge of a gable roof.",
+      "issue": 44,
+      "date": "2026-10-30",
+      "theme": "山墙收尾，斜边上的封板与檐口横板是两个件，别混叫 → 墙体防潮层标高复核，低于室外地坪的防潮层等于没做 → 雨季延误走合同申请工期延长，但工期延长只给时间不给钱 → 季度复盘：营收涨了利润率没涨 → 编制冻结会批下来，靠自然减员消化",
+      "gloss": "博风板；山墙封檐板",
+      "category": "建筑构造",
+      "audio": "audio/barge-board.mp3"
+    },
+    {
+      "word": "damp proof course",
+      "phonetic": "/dæmp pruːf kɔːs/",
+      "meaning": "砌体或混凝土墙体中靠近地坪位置水平铺设的一层连续防水阻隔层，作用是切断地下水沿毛细孔向上爬的通道，也就是防 rising damp（上升湿气、返潮）。常见做法：外墙底部铺 bitumen DPC（沥青防潮层） 或 polythene DPC（聚乙烯薄膜防潮层），楼地面与基础底板下则叫 damp proof membrane（DPM，防潮膜）。它与 drainage（第 14 期排水）、sealant（第 20 期密封胶）、weep hole（第 40 期泄水孔）、footing（第 23 期独立基础）、plinth（第 36 期勒脚）、grout（第 16 期灌浆）、insulation（第 11 期保温）、screed（第 41 期找平层）串成\"墙体与防水\"词汇网。三条施工铁律：DPC 必须高出室外完成地坪至少 150 毫米、DPC 必须连续通长、接缝搭接不小于 100 毫米并封严、DPC 绝不能被后期回填土、散水或景观堆土盖过（一盖就形成\"桥\"，返潮立刻上来）。验收时最常开的整改单就三条：标高不够、搭接不连续、被土埋了。",
+      "collocation": "damp proof course (DPC) 防潮层；damp proof membrane (DPM) 防潮膜；rising damp 上升湿气、返潮；damp proofing 防潮处理；bitumen DPC 沥青防潮层；polythene DPC 聚乙烯薄膜防潮层；tanking 整体外包防水；waterproofing 防水工程；DPC level 防潮层标高；lap the DPC 搭接防潮层；bridge the DPC 跨过防潮层形成水桥；footing 基础（第 23 期）；plinth 勒脚（第 36 期）；weep hole 泄水孔（第 40 期）；drainage 排水（第 14 期）；150 mm above ground level 高出室外地坪 150 毫米",
+      "examples": [
+        {
+          "en": "The damp proof course must be laid at least 150 millimetres above the finished external ground level, lapped by not less than 100 millimetres at every joint, and it must never be bridged by backfill or landscaping later.",
+          "zh": "防潮层必须铺设在高于室外完成地坪至少 150 毫米处，每道接缝搭接不小于 100 毫米，且日后绝不能被回填土或景观堆土跨过而形成水桥。",
+          "audio": "audio/ex/damp-proof-course-1.mp3"
+        }
+      ],
+      "mnemonic": "damp（潮气）+ proof（防住）+ course（一层、一道）——在墙里专门铺一\"道\"把潮气挡住的层。缩写 DPC 现场天天说，记住它三要素：Height（够高）、Continuity（连续）、No bridging（不被跨过），简称 H-C-N。验收一张口就问：Is the DPC above ground level and is it continuous?（防潮层够高吗？连续吗？）注意别混：DPC 是墙里的防潮层，DPM 是地面下的防潮膜，waterproofing 才是整体防水。",
+      "issue": 44,
+      "date": "2026-10-30",
+      "theme": "山墙收尾，斜边上的封板与檐口横板是两个件，别混叫 → 墙体防潮层标高复核，低于室外地坪的防潮层等于没做 → 雨季延误走合同申请工期延长，但工期延长只给时间不给钱 → 季度复盘：营收涨了利润率没涨 → 编制冻结会批下来，靠自然减员消化",
+      "gloss": "防潮层（DPC）",
+      "category": "建筑构造",
+      "audio": "audio/damp-proof-course.mp3"
+    },
+    {
+      "word": "extension of time",
+      "phonetic": "/ɪkˈstenʃn əv taɪm/",
+      "meaning": "国际工程合同里，因业主方原因、不可抗力或经批准的变更导致承包商无法按期完工时，由工程师或业主批准顺延竣工日期的合同机制。中文常译\"工期延长、工期顺延\"，单据上常写 EOT claim（工期索赔）。它与 force majeure（第 18 期不可抗力）、claim（第 13 期索赔）、variation order（第 42 期变更令）、milestone（第 23 期里程碑）、performance bond（第 43 期履约保函）、defects liability period（第 38 期缺陷责任期）、arbitration（第 20 期仲裁）、deadline（第 12 期截止日期）、retention（第 33 期质保金）串成\"合同与工期\"词汇网。三条必背规则：EOT 给的是时间不是钱——延长工期只免除误期损害赔偿（liquidated damages / delay damages），现场窝工、管理费要另案提 prolongation cost 索赔；必须在合同规定的时限内书面通知（常见 28 天），过期即失权；必须证明延误在关键线路（critical path）上，非关键线路上的延误换不来 EOT。",
+      "collocation": "extension of time (EOT) 工期延长；grant / award an EOT 批准工期延长；apply for an EOT 申请工期延长；EOT claim 工期索赔；revised completion date 修订后的竣工日期；liquidated damages (LD) 误期损害赔偿；delay damages 延误损害赔偿；prolongation cost 工期延长费用、拖期管理费；critical path 关键线路；notice period 通知期限（常见 28 天）；time bar 时限失权条款；force majeure 不可抗力（第 18 期）；variation order 变更令（第 42 期）；milestone 里程碑（第 23 期）；weather delay 天气延误",
+      "examples": [
+        {
+          "en": "Although the engineer granted us an extension of time of twenty-one days for the exceptional rain, that only relieves us from liquidated damages; we still have to submit a separate claim for the prolongation costs.",
+          "zh": "尽管工程师因异常降雨批准了二十一天的工期延长，但这只免除我们的误期损害赔偿；拖期费用仍需另行提交索赔。",
+          "audio": "audio/ex/extension-of-time-1.mp3"
+        }
+      ],
+      "mnemonic": "extension（顺延）+ of time（时间）= 把竣工日期往后延。最要命的一句话刻在脑子里：An EOT gives you time, not money.（工期延长只给时间，不给钱。）申请三件套按序背：Notice in time（按时通知）→ Prove the delay is on the critical path（证明在关键线路）→ Ask for prolongation costs separately（费用另案提）。时限红线：Miss the notice period and you are time-barred.（过了通知期，你就失权了。）",
+      "issue": 44,
+      "date": "2026-10-30",
+      "theme": "山墙收尾，斜边上的封板与檐口横板是两个件，别混叫 → 墙体防潮层标高复核，低于室外地坪的防潮层等于没做 → 雨季延误走合同申请工期延长，但工期延长只给时间不给钱 → 季度复盘：营收涨了利润率没涨 → 编制冻结会批下来，靠自然减员消化",
+      "gloss": "工期延长（EOT）",
+      "category": "工程合同",
+      "audio": "audio/extension-of-time.mp3"
+    },
+    {
+      "word": "revenue",
+      "phonetic": "/ˈrevənjuː/",
+      "meaning": "① 商务与财务里最核心的词之一——企业在一定期间内通过销售商品或提供服务所获得的总收入，即利润表最上面那一行，所以叫 top line（顶线）；扣除成本费用后的净利润在最后一行，叫 bottom line（底线）。② 政府语境指税收、财政收入（tax revenue 税收、the revenue 税务部门）。它与 quotation（第 1 期报价）、proposal（第 24 期方案建议书）、tender（第 27 期投标）、turnover（第 42 期营业额）、backlog（第 35 期积压订单）、consensus（第 29 期共识）、appraisal（第 25 期绩效评估）、stakeholder（第 34 期相关方）串成\"经营与商务\"词汇网。四个极易混的词一次分清：revenue 营收（进来的总额）→ cost 成本（花出去的）→ profit 利润（剩下的）→ cash flow 现金流（真到账的钱）。三条高频说法：revenue growth 营收增长、revenue stream 收入来源（常说 diversify revenue streams 分散收入来源）、recurring revenue 经常性收入（订阅与运维类最看重）。",
+      "collocation": "revenue 营收、收入；annual revenue 年营收；revenue growth 营收增长；revenue stream 收入来源；recurring revenue 经常性收入；revenue target 营收目标；generate revenue 产生营收；boost revenue 提升营收；top line 顶线（营收）；bottom line 底线（净利）；profit margin 利润率；gross margin 毛利率；cash flow 现金流；turnover 营业额（第 42 期）；cost 成本；break-even 盈亏平衡；tax revenue 税收",
+      "examples": [
+        {
+          "en": "Our revenue grew by eighteen per cent last quarter, but the profit margin is still under pressure because steel plate prices and inland haulage both went up faster than our selling price.",
+          "zh": "我们上季度营收增长了百分之十八，但利润率仍然承压，因为钢板价格与内陆运输费的涨幅都超过了我们的销售价格。",
+          "audio": "audio/ex/revenue-1.mp3"
+        }
+      ],
+      "mnemonic": "re-（回）+ venue（来）→ 钱\"回来\"了 = 营收。四行账一句串起来：Revenue comes in, costs go out, profit is what is left, cash flow is what you can actually spend.（营收进来，成本出去，利润是剩下的，现金流是你真能花的。）汇报开口就这三句：Revenue is up / down by X per cent.（营收涨/跌了百分之 X。） Which revenue stream is growing fastest?（哪条收入来源增长最快？） Revenue is vanity, profit is sanity, cash is reality.（营收是面子，利润是里子，现金才是日子。）",
+      "issue": 44,
+      "date": "2026-10-30",
+      "theme": "山墙收尾，斜边上的封板与檐口横板是两个件，别混叫 → 墙体防潮层标高复核，低于室外地坪的防潮层等于没做 → 雨季延误走合同申请工期延长，但工期延长只给时间不给钱 → 季度复盘：营收涨了利润率没涨 → 编制冻结会批下来，靠自然减员消化",
+      "gloss": "营收；收入",
+      "category": "商务职场",
+      "audio": "audio/revenue.mp3"
+    },
+    {
+      "word": "headcount",
+      "phonetic": "/ˈhedkaʊnt/",
+      "meaning": "① 管理与 HR 里指一个部门或公司的人数编制，即\"人头数\"——headcount plan（编制计划）、headcount freeze（编制冻结）、add headcount（增加编制） 都是日常高频说法。② 字面义为点人数、清点人数（do a headcount 点一下人数）。它与 attrition（第 43 期自然减员）、turnover（第 42 期人员流失率）、retention（第 33 期留任）、morale（第 40 期士气）、burnout（第 19 期职业倦怠）、probation（第 32 期试用期）、onboarding（第 30 期入职引导）、delegation（第 29 期代表团）、workload（第 3 期工作量）、succession plan（继任计划，第 43 期提及）串成\"组织与人力\"词汇网。与 FTE 的分工要分清：headcount 数的是\"人头\"（一个全职和一个兼职各算一个头），FTE（full-time equivalent 全职当量）数的是\"工时当量\"（两个兼职可能只算 1.0 FTE）。三条必背说法：We need two more heads（我们还缺两个人）、The headcount is frozen（编制冻结了）、Reduce headcount through natural attrition（靠自然减员缩编）。",
+      "collocation": "headcount 人员编制、人头数；headcount plan 编制计划；headcount freeze 编制冻结；add / increase headcount 增加编制；reduce headcount 缩减编制；current headcount 现有人数；FTE (full-time equivalent) 全职当量；do a headcount 点人数；redundancy 裁员、冗余；hiring freeze 招聘冻结；natural attrition 自然减员（第 43 期）；turnover 人员流失率（第 42 期）；retention 留任（第 33 期）；succession plan 继任计划；workload 工作量（第 3 期）；morale 士气（第 40 期）",
+      "examples": [
+        {
+          "en": "Headcount is frozen for the rest of the year, so instead of asking for two more engineers, we will cut the workload through standard drawings and backfill only the critical roles from the succession plan.",
+          "zh": "今年剩余时间编制冻结，因此我们不再申请增加两名工程师，而是通过标准图纸降低工作量，仅按继任计划补关键岗位。",
+          "audio": "audio/ex/headcount-1.mp3"
+        }
+      ],
+      "mnemonic": "head（头）+ count（数）= 数人头。与三个近义词一起背：Headcount is the number of people; FTE is the number of full-time hours; attrition is how the number shrinks without firing anyone.（人头数是人数，全职当量是工时，自然减员是不裁员也能把数字降下来的办法。）提需求时这句最地道：Can we get approval for one more head?（能批我们再招一个人吗？）缩编三步口诀沿用第 43 期：Hire less, lose some, backfill the critical ones.（少招、自然走、关键岗补上。）",
+      "issue": 44,
+      "date": "2026-10-30",
+      "theme": "山墙收尾，斜边上的封板与檐口横板是两个件，别混叫 → 墙体防潮层标高复核，低于室外地坪的防潮层等于没做 → 雨季延误走合同申请工期延长，但工期延长只给时间不给钱 → 季度复盘：营收涨了利润率没涨 → 编制冻结会批下来，靠自然减员消化",
+      "gloss": "人员编制；人头数",
+      "category": "职场",
+      "audio": "audio/headcount.mp3"
     }
   ]
 }
