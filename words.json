@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30",
-  "total": 220,
+  "updated": "2026-10-31",
+  "total": 225,
   "words": [
     {
       "word": "truss",
@@ -4501,6 +4501,106 @@
       "gloss": "人员编制；人头数",
       "category": "职场",
       "audio": "audio/headcount.mp3"
+    },
+    {
+      "word": "liquidated damages",
+      "phonetic": "/ˈlɪkwɪdeɪtɪd ˈdæmɪdʒɪz/",
+      "meaning": "在合同里事先写明的、承包人延误一天业主应赔付的固定金额，也叫 liquidated and ascertained damages（LADs）、delay damages。它的法律关键是\"预先约定、数额确定、无需业主再举证实际损失\"，所以叫 liquidated（已清算、已定数额的）。与之相对的是 unliquidated damages（未约定数额、需事后举证的赔偿）和 penalty（惩罚性违约金，英美法下 penalty 条款可能被判无效——这也是谈判时最要命的一条线：想让它可执行，金额必须是对延误损失的真实预估（a genuine pre-estimate of loss），不能写成吓唬人的天价）。它与第 44 期的 extension of time（EOT 工期延长）、第 43 期的 performance bond（履约保函）、第 33 期的 retention（质保金）、第 37 期的 claim（索赔）串成完整的合同链条：延误发生 → 申请 EOT（拿到时间）→ 没批到的天数触发 LD → 同时另案提 prolongation cost（拿到钱）。典型写法：LD at 0.05% of the contract price per day of delay, capped at 10% of the contract price.（按合同价每日 0.05%，累计上限 10%）——上限（cap）一定要谈，没有 cap 的 LD 条款是敞口风险。",
+      "collocation": "liquidated damages (LD / LADs) 误期违约金；liquidated and ascertained damages 已确定数额的违约金；delay damages 延误损害赔偿；unliquidated damages 未确定数额的损害赔偿；penalty clause 惩罚性条款（英美法下可能无效）；a genuine pre-estimate of loss 对损失的真实预估；LD rate 违约金费率；cap on liquidated damages 违约金上限；levy / deduct liquidated damages 收取、扣除违约金；extension of time (EOT) 工期延长（第 44 期）；prolongation cost 工期延长费用；performance bond 履约保函（第 43 期）；retention 质保金（第 33 期）；time at large 工期约束失效",
+      "examples": [
+        {
+          "en": "The contract caps liquidated damages at ten percent of the contract price, so please confirm the daily rate and the cap before we sign, and note that an extension of time does not automatically release us from liquidated damages for the unexcused days.",
+          "zh": "合同把误期违约金的上限定在合同价的百分之十，所以签字前请确认日费率和上限，并注意工期延长并不会自动免除我们对未被批准天数的违约金责任。",
+          "audio": "audio/ex/liquidated-damages-1.mp3"
+        }
+      ],
+      "mnemonic": "liquid 是\"液体、清算\"，liquidated = 已清算成确定数额的——把赔偿金额提前\"清算\"成一个定死的数，就是误期违约金。与 penalty 的分工一句话记住：LD 是算出来的预估，penalty 是吓人的罚款；前者可执行，后者可能无效。现场报价与签约时三连问：What is the LD rate? Is there a cap? Is it a penalty or a genuine pre-estimate?（费率多少？有上限吗？是罚款还是真实预估？）再记一条最实用的红线：EOT gives you time, not money.（工期延长只给时间，不给钱。）拿时间走 EOT，拿钱另案走 prolongation cost。",
+      "issue": 45,
+      "date": "2026-10-31",
+      "theme": "合同里把误期违约金的天数与上限谈清楚，延期一天扣多少是算出来的不是拍出来的 → 港口那一段再补一个词：jetty 是伸出去的突堤，wharf 是贴着岸的顺岸码头 → 季度复盘的第二层：营收和毛利率一起看，只看营收是虚的 → 编制压减时英式英语说 make people redundant，别只会说 fire → 室内收尾最后一件：门窗套线 architrave 把洞口与墙面之间的缝盖住",
+      "gloss": "误期违约金（约定赔偿）",
+      "category": "工程合同",
+      "audio": "audio/liquidated-damages.mp3"
+    },
+    {
+      "word": "wharf",
+      "phonetic": "/wɔːf/",
+      "meaning": "沿河岸、海岸线平行修筑的、供船舶靠泊装卸的实体码头平台，中文常译\"码头\"；它的特征是贴着岸线走向修（parallel to the shore），船舶侧靠。它与港口词汇的分工必须分清：wharf 是顺岸的、贴着陆地修的码头；jetty（第 37 期）是从岸上垂直伸出去的突堤或栈桥，通常用来把水深够的地方接出来、或者保护航道口；pier 也是伸出去的，但多为框架式栈桥，常带休闲、观光功能；quay（读 /kiː/，注意 qu 发 /k/、ay 发 /iː/）是港口里砌石或混凝土的正式顺岸岸壁码头，与 wharf 最接近，欧洲港口更常用 quay；berth（第 40 期）不是建筑物，是\"泊位\"，是船位的概念。它与 shipment（第 6 期发货）、bill of lading（第 9 期提单）、customs clearance（第 7 期清关）、demurrage（第 30 期滞期费）、laytime（第 41 期装卸时间）、detention（第 34 期滞箱费）、booking note（第 39 期订舱单）、FCL（第 38 期整箱）、CFS（第 37 期拼箱站）串成完整的海运链条。工程上常遇到的说法：wharf deck（码头面层）、wharf frontage（码头岸线长度）、wharfage（码头费 / 码头使用费，注意这个派生词是计费概念）、ex wharf（码头交货）。",
+      "collocation": "wharf 码头、顺岸码头（复数 wharves）；quay 顺岸岸壁码头（读 /kiː/）；jetty 突堤、栈桥（第 37 期）；pier 栈桥式码头；berth 泊位（第 40 期）；wharfage 码头费、码头使用费；wharf deck 码头面层；wharf frontage 码头岸线；ex wharf 码头交货；discharge at the wharf 在码头卸货；alongside the wharf 靠在码头边；port 港口；container terminal 集装箱码头；stevedoring 装卸作业",
+      "examples": [
+        {
+          "en": "Steel bundles will be discharged directly at the wharf and trucked to site the same day, so please confirm the wharfage charges and how many days of free storage the wharf allows before demurrage starts.",
+          "zh": "钢构件捆将在码头直接卸货并于当天用卡车运至现场，请确认码头费以及码头允许多少天免费堆存，之后开始计滞期费。",
+          "audio": "audio/ex/wharf-1.mp3"
+        }
+      ],
+      "mnemonic": "wharf 与 jetty 的区别只记一个方向——wharf 顺着岸线修（船侧靠陆地），jetty 从岸上伸出去（像一条手臂伸进水里）。两个谐音助记：wharf 读作\"卧府\"，船卧在岸边的码头；jetty 里有 jet（喷出、突出），记得它是突出去的那一个。再加一个容易读错的：quay 读 /kiː/，跟 key 同音，看到千万别读成 \"kway\"。三个词一起背：wharf 是顺岸码头，jetty 是突堤，berth 是泊位。",
+      "issue": 45,
+      "date": "2026-10-31",
+      "theme": "合同里把误期违约金的天数与上限谈清楚，延期一天扣多少是算出来的不是拍出来的 → 港口那一段再补一个词：jetty 是伸出去的突堤，wharf 是贴着岸的顺岸码头 → 季度复盘的第二层：营收和毛利率一起看，只看营收是虚的 → 编制压减时英式英语说 make people redundant，别只会说 fire → 室内收尾最后一件：门窗套线 architrave 把洞口与墙面之间的缝盖住",
+      "gloss": "码头；顺岸码头",
+      "category": "外贸物流",
+      "audio": "audio/wharf.mp3"
+    },
+    {
+      "word": "gross margin",
+      "phonetic": "/ɡrəʊs ˈmɑːdʒɪn/",
+      "meaning": "毛利（收入减去直接成本）占营业收入的百分比，公式 gross margin = (revenue − cost of goods sold) ÷ revenue。它的\"直接成本\"对制造业来说就是材料 + 人工 + 制造费用，也就是常说的 COGS（cost of goods sold，销货成本）；对工程公司来说通常是材料 + 分包 + 现场直接人工。它与第 44 期的 revenue（营收）串成一条必须一起看的线：revenue 是\"卖了多少\"，gross margin 是\"每一块钱里留下多少\"，net margin 是\"扣完管理费、税费、财务费用后还剩多少\"，cash flow 是\"钱到底到账了没有\"——只涨营收不涨毛利率，多半是低价抢单或成本失控。相关指标：markup（加成率）与 margin（毛利率）是最容易混的一对——markup 是成本上加几个点（成本 × (1+markup)），margin 是售价里含几个点（利润 ÷ 售价），同一个数字加成 25% 对应毛利率只有 20%，报价时把两者混用会算错价。工程与外贸场景常用说法：The gross margin on this African project came in at 18%, two points below budget.（这个非洲项目毛利率落在 18%，比预算低两个点。）注意单位：差 2 个百分点说 two percentage points，不是 two percent。",
+      "collocation": "gross margin 毛利率；gross profit 毛利（绝对金额）；net margin 净利率；markup 加成率（成本加成，与 margin 不同）；COGS (cost of goods sold) 销货成本；cost of sales 销售成本；margin erosion 毛利率被侵蚀；improve / protect the margin 提升、守住毛利；margin squeeze 毛利被两头挤压；percentage point 百分点；bottom line 净利润、最终盈亏；top line 营收总额；revenue 营收（第 44 期）；turnover 营业额（第 42 期）；break-even 盈亏平衡",
+      "examples": [
+        {
+          "en": "Revenue grew by twelve percent last quarter, but gross margin fell by two percentage points because steel prices rose faster than we could pass them on to clients.",
+          "zh": "上季度营收增长了百分之十二，但毛利率下降了两个百分点，因为钢价上涨快于我们向客户传导涨价的速度。",
+          "audio": "audio/ex/gross-margin-1.mp3"
+        }
+      ],
+      "mnemonic": "gross = 总的、毛的；margin = 边缘、余地——卖价与成本之间的那道\"边\"，就是毛利。与 markup 的区别一句话记住：Markup is on cost; margin is on price.（加成看成本，毛利看售价。）换算口诀：25% 的加成 ≈ 20% 的毛利率（1.25 里有 0.25 的利润，0.25/1.25 = 20%）。汇报时两个词都别省：Revenue is up, but margin is under pressure.（营收涨了，但毛利承压。）另外记住 percentage point——说百分点用 point，说百分比用 percent，这是英文汇报里最常被挑的错。",
+      "issue": 45,
+      "date": "2026-10-31",
+      "theme": "合同里把误期违约金的天数与上限谈清楚，延期一天扣多少是算出来的不是拍出来的 → 港口那一段再补一个词：jetty 是伸出去的突堤，wharf 是贴着岸的顺岸码头 → 季度复盘的第二层：营收和毛利率一起看，只看营收是虚的 → 编制压减时英式英语说 make people redundant，别只会说 fire → 室内收尾最后一件：门窗套线 architrave 把洞口与墙面之间的缝盖住",
+      "gloss": "毛利率；毛利",
+      "category": "商务职场",
+      "audio": "audio/gross-margin.mp3"
+    },
+    {
+      "word": "redundancy",
+      "phonetic": "/rɪˈdʌndənsi/",
+      "meaning": "三个场景三种意思，一次全记住：①职场英式用法：因岗位取消而裁员，不是因为员工犯错——这是它与 dismissal / firing（因过错或绩效被开除）最本质的区别；常见搭配 make someone redundant（裁掉某人）、be made redundant、redundancy package / severance（裁员补偿包）、voluntary redundancy（自愿离职计划）、collective redundancy（集体裁员）。②一般意义：多余、冗余、累赘，如 redundancy in the design（设计中的冗余部分）。③工程意义：冗余设计、备份，如 structural redundancy（结构冗余度，超静定结构在某一构件失效后仍能传力）、redundant member（冗余杆件）、system redundancy（系统冗余）——这个义项是褒义，越多越安全，与①的贬义正好相反，是本词最有意思的地方。它与第 42 期的 turnover（人员流失率）、第 43 期的 attrition（自然减员）、第 44 期的 headcount（人员编制）、第 33 期的 retention（保留 / 留任）、第 29 期的 delegation（代表团）串成人事词汇网。区分三兄弟：attrition 是自然走、不补员；redundancy 是公司主动裁、要给补偿；turnover 是流水率指标（含主动辞职与被裁）。",
+      "collocation": "make someone redundant 裁掉某人（因岗位取消）；be made redundant 被裁员；redundancy package 裁员补偿包；severance / severance pay 遣散费；voluntary redundancy 自愿离职（拿补偿走人）；collective redundancy 集体裁员；redundancy notice 裁员通知；statutory redundancy pay 法定裁员补偿；structural redundancy 结构冗余度；redundant member 冗余杆件；system redundancy 系统冗余；redundant 多余的、冗余的、被裁的；attrition 自然减员（第 43 期）；turnover 人员流失率（第 42 期）；headcount 人员编制（第 44 期）",
+      "examples": [
+        {
+          "en": "The client cancelled the second phase, so we had to make twelve people redundant at the fabrication workshop, and we offered a voluntary redundancy package of two months' pay per year of service.",
+          "zh": "客户取消了二期，我们不得不在加工车间裁掉十二个人，并按每年工龄两个月工资的标准提供自愿离职补偿方案。",
+          "audio": "audio/ex/redundancy-1.mp3"
+        }
+      ],
+      "mnemonic": "redundant 的核心是\"多出来的、不再需要的\"——人\"多出来了\"就是被裁，构件\"多出来了\"就是冗余备份。一句话把三个义项串起来：A redundant member saves the structure; a redundant worker loses the job.（冗余杆件救结构，冗余员工丢工作。）英式与美式要分清：英国说 make someone redundant，美国说 lay someone off，两者都指\"因岗位取消而裁员\"，都不等于 fire（因过错开除）。写英文邮件时最稳妥的说法：Following the cancellation of phase two, we regret that several positions have been made redundant.（因二期取消，很遗憾若干岗位被裁撤。）",
+      "issue": 45,
+      "date": "2026-10-31",
+      "theme": "合同里把误期违约金的天数与上限谈清楚，延期一天扣多少是算出来的不是拍出来的 → 港口那一段再补一个词：jetty 是伸出去的突堤，wharf 是贴着岸的顺岸码头 → 季度复盘的第二层：营收和毛利率一起看，只看营收是虚的 → 编制压减时英式英语说 make people redundant，别只会说 fire → 室内收尾最后一件：门窗套线 architrave 把洞口与墙面之间的缝盖住",
+      "gloss": "裁员（英式）；冗余",
+      "category": "职场",
+      "audio": "audio/redundancy.mp3"
+    },
+    {
+      "word": "architrave",
+      "phonetic": "/ˈɑːkɪtreɪv/",
+      "meaning": "安装在门窗洞口四周、盖住门窗框与墙面之间那道收口缝的装饰性线条，中文叫门窗套线、门头线、贴脸线。它的功能很实在：遮丑 + 收缝 + 收边——墙体不平、塞缝打胶做得不漂亮、框与墙之间有 5 到 15 毫米的缝，全靠套线压住。材质常见 MDF architrave（中密度纤维板套线，最经济，需油漆）、timber architrave（实木套线）、PVC / uPVC architrave（塑料套线，防潮、免漆，卫生间与潮湿地区首选）、aluminium architrave（铝合金套线，公建常用）。它与洞口家族的其他成员串成完整的一套：lintel（第 39 期过梁，洞口上方受力构件）、jamb（第 40 期洞口侧边）、sill（第 43 期窗台板）、threshold（第 38 期门槛）、reveal（第 43 期洞口侧壁深度）、architrave（本词，洞口四周的装饰收口）——一句口诀把它们排好：Lintel on top, threshold at the bottom, jambs on both sides, reveal is the depth, and the architrave covers the joint. 注意与第 32 期的 fascia（封檐板、门头招牌板）区分：fascia 在室外檐口或门头外侧，architrave 在室内洞口四周收口。另外，古典建筑里 architrave 还指柱头之上、檐部最下层的额枋（epistyle），属建筑史术语，日常工程对话里少见但读图纸说明时会遇到。",
+      "collocation": "architrave 门窗套线、贴脸线；door architrave 门套线；window architrave 窗套线；architrave block 套线脚块（底部门套线脚）；MDF architrave 中密度板套线；PVC architrave 塑料套线；aluminium architrave 铝合金套线；mitred corner 45° 对角拼接；scribe 现场修口、顺势切口；cover the joint 盖住接缝；lintel 过梁（第 39 期）；jamb 洞口侧边（第 40 期）；sill 窗台板（第 43 期）；threshold 门槛（第 38 期）；reveal 洞口侧壁（第 43 期）；fascia 封檐板（第 32 期）",
+      "examples": [
+        {
+          "en": "Use PVC architraves instead of MDF in all wet areas, and make sure every mitred corner is tight and every joint between the frame and the wall is fully covered before painting.",
+          "zh": "所有湿区改用塑料套线而非中密度板套线，并确保油漆前每个对角拼接严密、框与墙之间的每道缝都被完全盖住。",
+          "audio": "audio/ex/architrave-1.mp3"
+        }
+      ],
+      "mnemonic": "archi- 是\"首要、主要\"（同根词 architect 建筑师、architecture 建筑），-trave 与 traverse / travel（横过）同源——横在洞口一圈的\"首要那条线\"，就是套线。按装法记：套线是先竖后横、上横压两竖，两个上角切 45° 对角（mitred corner），这一步做不好一眼就被看出是外行。architrave 与 fascia 的分工只记室内外：architrave 室内收口，fascia 室外收边。验收一句话：The architrave should sit flat against the wall with no visible gap.（套线要贴墙平整，不得有可见缝隙。）",
+      "issue": 45,
+      "date": "2026-10-31",
+      "theme": "合同里把误期违约金的天数与上限谈清楚，延期一天扣多少是算出来的不是拍出来的 → 港口那一段再补一个词：jetty 是伸出去的突堤，wharf 是贴着岸的顺岸码头 → 季度复盘的第二层：营收和毛利率一起看，只看营收是虚的 → 编制压减时英式英语说 make people redundant，别只会说 fire → 室内收尾最后一件：门窗套线 architrave 把洞口与墙面之间的缝盖住",
+      "gloss": "门窗套线；贴脸线",
+      "category": "建筑设计",
+      "audio": "audio/architrave.mp3"
     }
   ]
 }

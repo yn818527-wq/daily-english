@@ -879,5 +879,25 @@
   "headcount": {
     "gloss": "人员编制；人头数",
     "category": "职场"
+  },
+  "liquidated damages": {
+    "gloss": "误期违约金（约定赔偿）",
+    "category": "工程合同"
+  },
+  "wharf": {
+    "gloss": "码头；顺岸码头",
+    "category": "外贸物流"
+  },
+  "gross margin": {
+    "gloss": "毛利率；毛利",
+    "category": "商务职场"
+  },
+  "redundancy": {
+    "gloss": "裁员（英式）；冗余",
+    "category": "职场"
+  },
+  "architrave": {
+    "gloss": "门窗套线；贴脸线",
+    "category": "建筑设计"
   }
 }
