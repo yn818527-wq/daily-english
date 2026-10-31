@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-31",
-  "total": 225,
+  "updated": "2026-11-01",
+  "total": 230,
   "words": [
     {
       "word": "truss",
@@ -4601,6 +4601,106 @@
       "gloss": "门窗套线；贴脸线",
       "category": "建筑设计",
       "audio": "audio/architrave.mp3"
+    },
+    {
+      "word": "pier",
+      "phonetic": "/pɪər/",
+      "meaning": "把上部结构的荷载往下传到基础的竖向承重构件，中文\"桥墩、墩子、支柱\"。它和桩基家族的分工必须一次理清：pile（第 38 期 piling 桩基工程）是打进地基里的桩 → pile cap（第 39 期）是把几根桩头连成整体的承台 → pier 是从承台往上长出来的墩身 → pier cap 墩帽 → bearing 支座 → girder（第 10 期主梁）。一句话：pile 在地下、pier 在地上；pile 细长成群，pier 粗壮成个。另一义是栈桥式码头 / 突码头：从岸边伸进水里的结构，常带观光休闲功能（fishing pier 钓鱼栈桥、pleasure pier 游乐栈桥）。港口四兄弟再次分工：pier 伸出去的栈桥、wharf（第 45 期）贴岸的顺岸码头、jetty（第 37 期）伸出去的突堤（常兼防波、导堤）、berth（第 40 期）是船位不是建筑物。陆上工程里还有 pier foundation（墩基础）、pier shaft（墩身）、abutment（桥台，两端那个）。",
+      "collocation": "bridge pier 桥墩；pier cap 墩帽；pier shaft 墩身；pier foundation 墩基础；pile cap 承台（第 39 期）；abutment 桥台；bearing / bridge bearing 支座；fishing pier 钓鱼栈桥；pleasure pier 游乐栈桥；wharf 顺岸码头（第 45 期）；jetty 突堤（第 37 期）；berth 泊位（第 40 期）",
+      "examples": [
+        {
+          "en": "Each bridge pier sits on a pile cap carried by four bored piles, so we must keep the differential settlement between adjacent piers within ten millimetres before the bearings are installed.",
+          "zh": "每个桥墩都坐落在由四根钻孔灌注桩支承的承台上，因此在安装支座之前，我们必须把相邻桥墩之间的差异沉降控制在十毫米以内。",
+          "audio": "audio/ex/pier-1.mp3"
+        }
+      ],
+      "mnemonic": "pier 和 pile 只差一个字母——pile 埋在地下，pier 立在地上；再加一个同音梗：pier 与 peer（同龄人、凝视）同音，可记 \"peers look across at each other; a pier reaches across the water\"（同侪隔水相望，栈桥跨水而建）。传力链顺着背一遍就忘不掉：pile → pile cap → pier → bearing → girder → deck.",
+      "issue": 46,
+      "date": "2026-11-01",
+      "theme": "把力的传递链从上往下补齐：pile 打进地基 → pile cap 承台 → pier 桥墩 → 支座 → 主梁 → 老厂房踢脚线返潮，一眼认出是 rising damp 绕过了坏掉的 DPC → 报价时把\"加价率\"和\"毛利率\"分开算，25% 加成不等于 25% 毛利 → 幕墙包给指定分包，记住\"指定不等于免责\" → 资深工程师接连离职后，管理层终于给每个关键技术岗位做了继任计划",
+      "gloss": "桥墩、墩子；栈桥式码头",
+      "category": "钢结构建筑",
+      "audio": "audio/pier.mp3"
+    },
+    {
+      "word": "rising damp",
+      "phonetic": "/ˈraɪzɪŋ dæmp/",
+      "meaning": "地下水通过砖、砌块、混凝土里的毛细孔沿着墙体往上爬，造成的下部墙面返潮现象，中文叫\"上升湿气、返潮、泛潮\"。典型症状非常有辨识度：踢脚线以上约一米范围内涂料起皮剥落、墙纸发霉卷边、墙面泛出白色结晶（efflorescence 泛碱）、并留下一道明显的\"潮痕\"。它与第 44 期的 damp proof course（DPC 防潮层） 是天生一对：DPC 就是专门用来切断 rising damp 的那道水平防潮层。成因判据三连：DPC 缺失、DPC 标高太低（低于室外地坪）、或者被 bridging 桥接（后期室外回填或铺装抬高，把潮气从 DPC 上方\"架桥\"引过去）。治理办法：chemical DPC injection（化学注射防潮）、electro-osmotic system（电渗法）、damp-proof membrane（DPM 防潮膜）。它与 parapet（第 23 期女儿墙）、flashing（第 41 期泛水）、sealant（第 23 期密封胶）、weep hole（第 40 期泄水孔）同属建筑防水家族。",
+      "collocation": "rising damp 上升湿气、返潮；damp proof course (DPC) 防潮层（第 44 期）；damp-proof membrane (DPM) 防潮膜；chemical DPC injection 化学注射防潮；bridging of the DPC 防潮层被桥接；efflorescence 泛碱、白华；tide mark 潮痕；skirting 踢脚线；peeling paint 涂料起皮；render 抹灰；rising damp treatment 返潮治理",
+      "examples": [
+        {
+          "en": "The paint has started peeling above the skirting because rising damp is bypassing a damaged damp proof course, so we propose chemical injection and replastering before handover.",
+          "zh": "踢脚线上方的涂料开始起皮，因为上升湿气正绕过损坏的防潮层，因此我们建议在移交前做化学注射防潮并重新抹灰。",
+          "audio": "audio/ex/rising-damp-1.mp3"
+        }
+      ],
+      "mnemonic": "rise（上升）+ damp（潮湿）= 从地里往上爬的潮气，字面即义。最实用的一句判据口诀：\"DPC missing, too low, or bridged — rising damp follows.\"（防潮层缺失、太低、被桥接，返潮必然来。）再记一个谈判常用句：Rising damp is a pre-existing defect, not a workmanship issue.（返潮是既有缺陷，不是我们的施工质量问题。）",
+      "issue": 46,
+      "date": "2026-11-01",
+      "theme": "把力的传递链从上往下补齐：pile 打进地基 → pile cap 承台 → pier 桥墩 → 支座 → 主梁 → 老厂房踢脚线返潮，一眼认出是 rising damp 绕过了坏掉的 DPC → 报价时把\"加价率\"和\"毛利率\"分开算，25% 加成不等于 25% 毛利 → 幕墙包给指定分包，记住\"指定不等于免责\" → 资深工程师接连离职后，管理层终于给每个关键技术岗位做了继任计划",
+      "gloss": "上升湿气、墙体返潮",
+      "category": "建筑设计",
+      "audio": "audio/rising-damp.mp3"
+    },
+    {
+      "word": "markup",
+      "phonetic": "/ˈmɑːrkʌp/",
+      "meaning": "在成本之上加出来的那一段金额或比率，中文\"加成、加价、加价率\"，公式是 Selling price = Cost × (1 + markup)，分母是成本。它和第 45 期的 gross margin（毛利率） 必须成对记：markup 的分母是成本（markup on cost），margin 的分母是售价（margin on selling price），所以同一个数字下 markup 永远比 margin 大。换算公式背这两个就够：Margin = Markup ÷ (1 + Markup)；Markup = Margin ÷ (1 − Margin)。举例：成本 100 加 25 卖 125 → markup 25%，margin 20%；反过来想要 25% 的毛利，加成要开到 33.3%，所以\"报价时按毛利报、内部算按加成算，口径不说清就差四个点\"。第二义是标红修改：a marked-up drawing（标了修改意见的图纸）、markup comments（批注），设计院退回加工图时常说 Please return the marked-up drawings by Friday. 它与 revenue（第 44 期营收）、counteroffer（第 13 期还盘）、quotation（第 1 期报价）、proforma invoice（第 4 期形式发票）串成报价链条。",
+      "collocation": "markup 加成、加价率；a 25% markup on cost 按成本加 25%；markup percentage 加价率；gross margin 毛利率（第 45 期）；markup on cost 成本加成；margin on selling price 销售毛利；marked-up drawing 标红修改的图纸；markup comments 批注意见；mark-down 降价；net price 净价；cost-plus 成本加酬金；gross profit 毛利",
+      "examples": [
+        {
+          "en": "Our ex-works price is cost plus a twelve percent markup, which works out to a gross margin of about eleven percent once inland haulage and loading are included.",
+          "zh": "我们的工厂交货价是成本加百分之十二的加成，把内陆运输和装车费计入后，算下来毛利率约为百分之十一。",
+          "audio": "audio/ex/markup-1.mp3"
+        }
+      ],
+      "mnemonic": "mark（标价）+ up（往上）= 把价格标上去的那一段。一句话记死口径：markup 往上加在成本上，margin 往下算在售价里——成本 100 卖 125，加成 25%、毛利只有 20%。再加一个口语高频反义词：mark-down（降价），同族一起记：mark-up 涨价 / mark-down 降价 / marked-up drawing 标红图。",
+      "issue": 46,
+      "date": "2026-11-01",
+      "theme": "把力的传递链从上往下补齐：pile 打进地基 → pile cap 承台 → pier 桥墩 → 支座 → 主梁 → 老厂房踢脚线返潮，一眼认出是 rising damp 绕过了坏掉的 DPC → 报价时把\"加价率\"和\"毛利率\"分开算，25% 加成不等于 25% 毛利 → 幕墙包给指定分包，记住\"指定不等于免责\" → 资深工程师接连离职后，管理层终于给每个关键技术岗位做了继任计划",
+      "gloss": "加成、加价率；标红修改",
+      "category": "外贸商务",
+      "audio": "audio/markup.mp3"
+    },
+    {
+      "word": "nominated subcontractor",
+      "phonetic": "/ˈnɒmɪneɪtɪd ˌsʌbkənˈtræktə/",
+      "meaning": "由业主或工程师在合同中指定、但由总承包商与其签订分包合同并负责管理的分包商，中文\"指定分包商\"，常见于幕墙（curtain wall，第 26 期）、电梯、机电、弱电、消防、精装修等专项工程。它与第 42 期的 subcontract（分包） 是一对：domestic subcontractor（总包自行选定的分包） vs nominated subcontractor（业主指定的分包）。合同红线务必记住：\"指定\"不等于\"免责\"——除非合同明确改写责任，总包仍要对指定分包的工期、质量、接口协调向业主负责，所以签约时一定要争取 back-to-back terms（背靠背条款：指定分包给我的义务，与业主给我的义务逐条对等传导），并要求业主承担 nomination 造成的延误与额外费用。它与 subcontract（第 42 期）、variation order（第 42 期变更令）、retention（第 33 期质保金）、extension of time（第 44 期工期延长）、claim（第 16 期索赔）串成完整的分包与索赔链条。",
+      "collocation": "nominated subcontractor 指定分包商；domestic subcontractor 总包自定分包商；nomination letter 指定函；back-to-back terms 背靠背条款；back-to-back 背靠背（合同义务对等传导）；interface risk 接口风险；curtain wall package 幕墙工程包（第 26 期）；subcontract 分包、分包合同（第 42 期）；subcontractor 分包商；nominated supplier 指定供应商；attorn 转让、确认从属",
+      "examples": [
+        {
+          "en": "The curtain wall package goes to a nominated subcontractor, but we still carry full responsibility for interface coordination, so the subcontract must include back-to-back terms and a clear programme of deliverables.",
+          "zh": "幕墙工程包给了指定分包商，但我们仍对接口协调负全部责任，因此分包合同必须包含背靠背条款和明确的成果交付计划。",
+          "audio": "audio/ex/nominated-subcontractor-1.mp3"
+        }
+      ],
+      "mnemonic": "nominate（提名、指定）——\"业主点名，总包签约\"，所以是 nominated。词根助记：nom 来自 name（名字，如 nominal 名义上的、nominate 点名），\"被点名的分包商\"就是指定分包。红线一句话：Nominated does not mean no liability.（指定不等于免责。）谈判三连问：Is it nominated or domestic? Are the terms back-to-back? Who pays for the interface risk?（是指定还是自定？条款背靠背了吗？接口风险谁买单？）",
+      "issue": 46,
+      "date": "2026-11-01",
+      "theme": "把力的传递链从上往下补齐：pile 打进地基 → pile cap 承台 → pier 桥墩 → 支座 → 主梁 → 老厂房踢脚线返潮，一眼认出是 rising damp 绕过了坏掉的 DPC → 报价时把\"加价率\"和\"毛利率\"分开算，25% 加成不等于 25% 毛利 → 幕墙包给指定分包，记住\"指定不等于免责\" → 资深工程师接连离职后，管理层终于给每个关键技术岗位做了继任计划",
+      "gloss": "指定分包商（业主点名）",
+      "category": "工程合同",
+      "audio": "audio/nominated-subcontractor.mp3"
+    },
+    {
+      "word": "succession plan",
+      "phonetic": "/səkˈseʃn plæn/",
+      "meaning": "为关键岗位预先识别并培养后备接班人的制度性安排，中文\"继任计划、接班人计划、人才梯队建设\"，动词形式 succession planning（做继任规划）。它和第 42 期的 turnover（人员流失率）、第 43 期的 attrition（自然减员）、第 44 期的 headcount（人员编制）、第 45 期的 redundancy（裁员）、第 28 期的 onboarding（入职引导）、第 32 期的 probation（试用期） 同属人力资源词汇族，串成一条完整的组织人才线：headcount 定编制 → onboarding 引入 → probation 转正 → succession plan 培养接班 → turnover / attrition 看流失 → redundancy 缩编。核心目的不只是\"找备胎\"，而是压降 key-person risk（关键人风险）：某个资深工程师一走，海外项目的技术口径就断档。常用评价动作：identify a successor（选定接班人）、build bench strength（夯实后备力量）、talent pipeline（人才梯队）、ready-now / ready-in-two-years（立即可用 / 两年内可用）。",
+      "collocation": "succession plan 继任计划；succession planning 继任规划；identify a successor 选定接班人；bench strength 后备力量深度；talent pipeline 人才梯队；key-person risk 关键人风险；ready-now successor 立即可用的接班人；talent review 人才盘点；turnover 人员流失率（第 42 期）；attrition 自然减员（第 43 期）；headcount 人员编制（第 44 期）；redundancy 裁员（第 45 期）",
+      "examples": [
+        {
+          "en": "After two senior engineers resigned within a month, management finally asked each department head to submit a succession plan naming a ready-now successor for every key technical post.",
+          "zh": "两名资深工程师在一个月内相继辞职后，管理层终于要求每位部门负责人提交继任计划，为每个关键技术岗位指名一位立即可用的接班人。",
+          "audio": "audio/ex/succession-plan-1.mp3"
+        }
+      ],
+      "mnemonic": "succeed（接替、继承）→ succession（接连、继任）→ succession plan（谁接你的班）。千万别和 success（成功） 混：success 是\"事成了\"，succession 是\"人接了\"——一个成事，一个换人。再记一个谐音：succession 读起来像\"涩·塞申\"，\"一个接一个塞进来\"，正是\"接连、继任\"的画面。组织里最实用的一句：No succession plan means key-person risk.（没有继任计划，就是关键人风险敞口。）",
+      "issue": 46,
+      "date": "2026-11-01",
+      "theme": "把力的传递链从上往下补齐：pile 打进地基 → pile cap 承台 → pier 桥墩 → 支座 → 主梁 → 老厂房踢脚线返潮，一眼认出是 rising damp 绕过了坏掉的 DPC → 报价时把\"加价率\"和\"毛利率\"分开算，25% 加成不等于 25% 毛利 → 幕墙包给指定分包，记住\"指定不等于免责\" → 资深工程师接连离职后，管理层终于给每个关键技术岗位做了继任计划",
+      "gloss": "继任计划、接班人计划",
+      "category": "职场管理",
+      "audio": "audio/succession-plan.mp3"
     }
   ]
 }
