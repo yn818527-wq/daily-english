@@ -919,5 +919,25 @@
   "succession plan": {
     "gloss": "继任计划、接班人计划",
     "category": "职场管理"
+  },
+  "spandrel": {
+    "gloss": "幕墙层间板；窗下墙板",
+    "category": "建筑设计"
+  },
+  "clerestory": {
+    "gloss": "高侧窗；采光窗带",
+    "category": "建筑设计"
+  },
+  "prolongation cost": {
+    "gloss": "工期延长费用；拖期费",
+    "category": "工程项目"
+  },
+  "bid bond": {
+    "gloss": "投标保函",
+    "category": "外贸"
+  },
+  "severance": {
+    "gloss": "遣散费；离职补偿",
+    "category": "职场"
   }
 }

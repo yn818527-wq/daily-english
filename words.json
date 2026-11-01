@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01",
-  "total": 230,
+  "updated": "2026-11-02",
+  "total": 235,
   "words": [
     {
       "word": "truss",
@@ -4701,6 +4701,106 @@
       "gloss": "继任计划、接班人计划",
       "category": "职场管理",
       "audio": "audio/succession-plan.mp3"
+    },
+    {
+      "word": "spandrel",
+      "phonetic": "/ˈspændrəl/",
+      "meaning": "幕墙系统里位于楼板标高、遮挡结构梁板与管线空间的那块不透光面板，中文\"层间板、窗下墙板、窗间墙板\"。它和已学词汇凑成幕墙三件套：mullion（第 41 期）是竖向的竖框 → transom（第 42 期）是横向的横框 → spandrel 是镶进这个格子里的层间板。玻璃区叫 vision area / vision panel（可视区、采光玻璃），层间板那一段叫 spandrel area（非可视区）。因为背後藏着楼板、梁头、保温与管线，spandrel 面板后面必配 back pan（背衬板） 和 insulation（第 11 期保温），否则会出现冷凝与热桥。第二个含义来自古典建筑：拱肩、拱腹，即相邻两拱之间、拱券外缘与外框之间的三角形墙面。别和 spandrel wall（拱肩墙） 混淆，也别和第 43 期的 sill（窗台板）混：sill 在洞口底部内侧，spandrel 在楼层标高整片。",
+      "collocation": "spandrel panel 层间板；spandrel glass 层间玻璃（彩釉玻璃）；spandrel area 非可视区；vision panel 可视区玻璃；back pan 背衬板；mullion 竖框（第 41 期）；transom 横框（第 42 期）；curtain wall 幕墙（第 23 期）；insulation 保温（第 11 期）；thermal bridge 热桥",
+      "examples": [
+        {
+          "en": "The spandrel panels between the second and third floors must be backed with fifty-millimetre rock wool and a sealed back pan, otherwise condensation will form behind the glass and stain the ceiling below.",
+          "zh": "二层与三层之间的层间板背后必须衬五十毫米岩棉并加密封背衬板，否则玻璃背后会结露，把下面的吊顶弄出污渍。",
+          "audio": "audio/ex/spandrel-1.mp3"
+        }
+      ],
+      "mnemonic": "span + drel —— 记住它\"跨在两楼层之间\"：spandrel 这个词根和 span（第 8 期跨度）同源，位置正好卡在上下两层楼板之间那一段。再配一句工地口诀：\"Mullions run up and down, transoms run side to side, and spandrels hide the slab inside.\"（竖框竖着走、横框横着走、层间板把楼板藏在里头。）看到楼层那道深色不透光带，就是它。",
+      "issue": 47,
+      "date": "2026-11-02",
+      "theme": "把幕墙竖框横框之间的那块层间板补齐 —— mullion 竖框、transom 横框、spandrel 层间板三件套才算完整 → 方案汇报时用 clerestory 高侧窗讲自然采光与通风 → 客户拖期的代价要单独算 prolongation cost，记住 EOT 只给时间不给钱 → 投海外标前先开 bid bond 投标保函，四大保函按时间线一次背全 → 编制收缩到动刀那天，severance 遣散费与 redundancy 裁员的区别必须分清楚",
+      "gloss": "幕墙层间板；窗下墙板",
+      "category": "建筑设计",
+      "audio": "audio/spandrel.mp3"
+    },
+    {
+      "word": "clerestory",
+      "phonetic": "/ˈklɪərəstɔːri/",
+      "meaning": "在墙体高处、通常高于视线甚至高于相邻屋面的一排窗，中文\"高侧窗、高窗、采光窗带\"。做法是把主体屋面抬高一段，在抬高形成的那圈侧墙上开窗，让光线从高处斜射进来、照到房间深处，同时因为位置高，不牺牲私密性、也不占墙面。它的两大价值：daylighting（自然采光） 与 stack ventilation / stack effect（热压通风、烟囱效应）——热空气上升从高窗排出，冷空气从低处补入，所以工业厂房、仓库、展厅、教堂特别爱用。和已学采光家族分工：skylight（第 13 期）是开在屋面上、朝天的天窗；clerestory 是开在高墙上、朝侧面的高窗；atrium（第 20 期）是靠中庭把光引到建筑芯部。变体拼写 clearstory 也可以。",
+      "collocation": "clerestory window 高侧窗；clerestory roof 高低跨采光屋面；north-facing clerestory 北向高侧窗（光线柔和无眩光）；daylighting 自然采光；stack effect 热压通风、烟囱效应；cross ventilation 穿堂风；glare 眩光；skylight 天窗（第 13 期）；atrium 中庭（第 20 期）",
+      "examples": [
+        {
+          "en": "We raised the central bay by one point two metres and added a north-facing clerestory, which brings daylight deep into the workshop without glare and lets hot air escape through the top-hung vents.",
+          "zh": "我们把中间那跨抬高了一米二，加了一圈北向高侧窗，既把自然光送到车间深处又不产生眩光，还能让热空气从上悬开启扇排出去。",
+          "audio": "audio/ex/clerestory-1.mp3"
+        }
+      ],
+      "mnemonic": "拆成 clear + story —— \"多出来那一层（story）专门用来采光（clear）\"，建筑上就是把屋顶抬一层楼（story）好开一排窗。谐音可记\"明了一层\"。再记一句功能对仗：skylight looks up, clerestory looks out.（天窗朝天看，高侧窗朝外看。）厂房里抬头看见侧墙高处那条亮带，就是 clerestory。",
+      "issue": 47,
+      "date": "2026-11-02",
+      "theme": "把幕墙竖框横框之间的那块层间板补齐 —— mullion 竖框、transom 横框、spandrel 层间板三件套才算完整 → 方案汇报时用 clerestory 高侧窗讲自然采光与通风 → 客户拖期的代价要单独算 prolongation cost，记住 EOT 只给时间不给钱 → 投海外标前先开 bid bond 投标保函，四大保函按时间线一次背全 → 编制收缩到动刀那天，severance 遣散费与 redundancy 裁员的区别必须分清楚",
+      "gloss": "高侧窗；采光窗带",
+      "category": "建筑设计",
+      "audio": "audio/clerestory.mp3"
+    },
+    {
+      "word": "prolongation cost",
+      "phonetic": "/prəˌlɒŋˈɡeɪʃən kɒst/",
+      "meaning": "因工期被拖长而额外发生的、可向业主索赔的那部分费用，中文\"工期延长费用、拖期费、延期的成本\"。它是合同索赔链条的最后一环，必须和第 44、45 期连起来记：EOT（extension of time，第 44 期）只给你时间、不给你钱 → prolongation cost 才是那笔钱 → 而如果你没拿到 EOT 又真的晚了，就要被扣 LD（liquidated damages，第 45 期误期违约金）。一句话红线：EOT protects you from LD; prolongation cost recovers your loss.（EOT 挡住违约金，拖期费拿回损失。）它算的都是\"与时间成正比\"的现场与总部开销，典型构成：site overheads（现场管理费：塔吊租金、脚手架租赁、临建、门卫、现场管理人员工资）、head office overheads（总部管理费分摊）、idle labour and plant（窝工的人工与机械）、escalation（第 35 期价格调涨）、financing cost（资金占用利息）。关键举证：as-planned vs as-built programme（计划与实际进度对比）+ 同期现场资源记录；还要注意 global claim（一揽子索赔）在许多法域不被支持，最好是逐事件算。",
+      "collocation": "claim prolongation cost 索赔工期延长费用；site overheads 现场管理费；head office overheads 总部管理费；idle labour / idle plant 窝工人工、闲置机械；financing cost 资金占用成本；extension of time（EOT）工期延长（第 44 期）；liquidated damages（LD/LADs）误期违约金（第 45 期）；loss and expense 损失与费用（英式合同常用词）；global claim 一揽子索赔；as-built programme 实际进度计划",
+      "examples": [
+        {
+          "en": "After the employer granted fourteen weeks of extension of time for the delayed drawings, we submitted a prolongation cost claim covering tower crane rental, site supervision salaries and the fuel escalation over that period.",
+          "zh": "业主因图纸延误批准了十四周工期延长之后，我们提交了工期延长费用索赔，涵盖该期间的塔吊租赁费、现场管理人员工资以及燃料价格上涨。",
+          "audio": "audio/ex/prolongation-cost-1.mp3"
+        }
+      ],
+      "mnemonic": "prolong = 拉长，prolongation cost 就是\"工期被拉长出来的成本\"，记住公式：Time = EOT, Money = prolongation cost, Penalty = LD，三者一个都不能混。再来一句顺口溜：\"EOT stops the damages; prolongation pays the damages you suffered.\" 索赔时永远先问自己两句话：How many days?（给时间）→ How much money?（给钱）。",
+      "issue": 47,
+      "date": "2026-11-02",
+      "theme": "把幕墙竖框横框之间的那块层间板补齐 —— mullion 竖框、transom 横框、spandrel 层间板三件套才算完整 → 方案汇报时用 clerestory 高侧窗讲自然采光与通风 → 客户拖期的代价要单独算 prolongation cost，记住 EOT 只给时间不给钱 → 投海外标前先开 bid bond 投标保函，四大保函按时间线一次背全 → 编制收缩到动刀那天，severance 遣散费与 redundancy 裁员的区别必须分清楚",
+      "gloss": "工期延长费用；拖期费",
+      "category": "工程项目",
+      "audio": "audio/prolongation-cost.mp3"
+    },
+    {
+      "word": "bid bond",
+      "phonetic": "/bɪd bɒnd/",
+      "meaning": "投标人随投标文件提交的、由银行或保险公司开立的担保函，中文\"投标保函、投标保证金\"。作用是防投标人中标后反悔：一旦中标后拒签合同、撤回投标、或拒开履约保函，业主即可向担保人索赔，通常按投标总价的一定比例（常见 1%–5%）赔付。它是保函家族的第一棒，和第 43 期那张时间线一拼就完整：bid bond 投标保函（投标阶段）→ advance payment bond / 预付款保函（业主先付钱时用）→ performance bond 履约保函（第 43 期，施工期）→ retention bond 保留金保函 / warranty bond 质保保函（竣工后用 retention bond 代替留存的质保金，把钱先拿回来）。关键条款三看：amount（金额比例）、validity period（有效期，通常覆盖投标有效期再加 30 天）、on-demand / unconditional（见索即付、无条件）—— 见索即付对业主有利、对投标人风险极大，务必争取 conditional 并要求对方索赔时说明违约事由。还要注意美式说法 bid bond，英式常用 tender bond（和 tender 第 27 期\"投标\"配套），两者是一回事。",
+      "collocation": "issue a bid bond 开立投标保函；bid bond of two percent of the tender price 按投标价 2% 的投标保函；bid security 投标担保（通用说法）；tender bond 投标保函（英式）；performance bond 履约保函（第 43 期）；advance payment bond 预付款保函；retention bond 保留金保函；on-demand / unconditional bond 见索即付保函；bid validity period 投标有效期；forfeit the bid bond 没收投标保函；counter-guarantee 反担保",
+      "examples": [
+        {
+          "en": "The Kenyan client requires a bid bond equal to two percent of the tender price, valid for one hundred and fifty days, so please ask our bank to issue it before the submission deadline on Friday.",
+          "zh": "肯尼亚客户要求提供相当于投标价百分之二的投标保函、有效期一百五十天，所以请在周五投标截止前让银行把它开出来。",
+          "audio": "audio/ex/bid-bond-1.mp3"
+        }
+      ],
+      "mnemonic": "bid = 出价、投标，bond = 保函，bid bond 就是\"为这一次出价做的担保\"。用四棒接力记全家族：Bid → Advance payment → Performance → Retention（投、预、履、留），正好对应项目从投标到质保期满的时间顺序。再记一句红线：A bid bond punishes you for walking away after you win.（中标后跑路，投标保函就罚你。）",
+      "issue": 47,
+      "date": "2026-11-02",
+      "theme": "把幕墙竖框横框之间的那块层间板补齐 —— mullion 竖框、transom 横框、spandrel 层间板三件套才算完整 → 方案汇报时用 clerestory 高侧窗讲自然采光与通风 → 客户拖期的代价要单独算 prolongation cost，记住 EOT 只给时间不给钱 → 投海外标前先开 bid bond 投标保函，四大保函按时间线一次背全 → 编制收缩到动刀那天，severance 遣散费与 redundancy 裁员的区别必须分清楚",
+      "gloss": "投标保函",
+      "category": "外贸",
+      "audio": "audio/bid-bond.mp3"
+    },
+    {
+      "word": "severance",
+      "phonetic": "/ˈsevərəns/",
+      "meaning": "雇员被解雇或离职时，雇主一次性支付的那笔补偿金，中文\"遣散费、离职补偿金、离职金\"，完整说法 severance pay / severance package。它和人才线词汇的分工要一次理清：redundancy（第 45 期）是\"因岗位取消而裁员\"这个动作与状态 → severance 是裁员时支付的\"那笔钱\" → attrition（第 43 期）是自然减员、不走人只缩编、所以没有 severance → turnover（第 42 期）是流失率这个指标 → headcount（第 44 期）是编制数 → succession plan（第 46 期）是走人之后的补位安排。经典算法：severance pay = 服务年限 × 每月工资（或按合同约定的 N+1 等），谈判时可加 payment in lieu of notice（代通知金）、pro-rated bonus（按比例年终奖）、outplacement support（再就业辅导）、extended medical cover（延长医保）。还有两处高频用法：severance package（离职补偿方案，常作为谈判筹码）、severance agreement（离职协议，通常附 waiver of claims 放弃索赔条款）。第二个抽象义是\"断绝、分离\"，如 the severance of diplomatic relations（外交关系断绝）。",
+      "collocation": "severance pay 遣散费；severance package 离职补偿方案；severance agreement 离职协议；payment in lieu of notice 代通知金；statutory redundancy pay 法定裁员补偿；redundancy 裁员（第 45 期）；attrition 自然减员（第 43 期）；turnover 人员流失率（第 42 期）；headcount 人员编制（第 44 期）；succession plan 继任计划（第 46 期）；outplacement 再就业辅导；waiver of claims 放弃索赔",
+      "examples": [
+        {
+          "en": "Under the restructuring plan, every redundant employee will receive a severance package of one month's salary for each year of service, plus payment in lieu of notice and six months of medical cover.",
+          "zh": "根据重组方案，每位被裁员工将获得每服务一年一个月工资的遣散补偿，另加代通知金和六个月的医疗保险。",
+          "audio": "audio/ex/severance-1.mp3"
+        }
+      ],
+      "mnemonic": "sever = 切断（动词），severance 就是\"切断关系时给的补偿\"——把雇佣关系一刀切断，那一刀的钱就是 severance。记住因果链：Redundancy is the reason; severance is the money.（裁员是原因，遣散费是钱。）再记一句 HR 高频：\"No severance for attrition.\"（自然减员没有遣散费——人不被裁，只是走了不补。）",
+      "issue": 47,
+      "date": "2026-11-02",
+      "theme": "把幕墙竖框横框之间的那块层间板补齐 —— mullion 竖框、transom 横框、spandrel 层间板三件套才算完整 → 方案汇报时用 clerestory 高侧窗讲自然采光与通风 → 客户拖期的代价要单独算 prolongation cost，记住 EOT 只给时间不给钱 → 投海外标前先开 bid bond 投标保函，四大保函按时间线一次背全 → 编制收缩到动刀那天，severance 遣散费与 redundancy 裁员的区别必须分清楚",
+      "gloss": "遣散费；离职补偿",
+      "category": "职场",
+      "audio": "audio/severance.mp3"
     }
   ]
 }
