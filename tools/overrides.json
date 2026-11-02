@@ -939,5 +939,25 @@
   "severance": {
     "gloss": "遣散费；离职补偿",
     "category": "职场"
+  },
+  "ndt": {
+    "gloss": "无损检测",
+    "category": "钢结构"
+  },
+  "fenestration": {
+    "gloss": "门窗系统、开窗设计",
+    "category": "建筑设计"
+  },
+  "progress payment": {
+    "gloss": "进度款",
+    "category": "外贸"
+  },
+  "showroom": {
+    "gloss": "样品展厅",
+    "category": "客户接待"
+  },
+  "bandwidth": {
+    "gloss": "时间精力余量、带宽",
+    "category": "职场"
   }
 }

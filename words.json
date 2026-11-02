@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02",
-  "total": 235,
+  "updated": "2026-11-03",
+  "total": 240,
   "words": [
     {
       "word": "truss",
@@ -4801,6 +4801,106 @@
       "gloss": "遣散费；离职补偿",
       "category": "职场",
       "audio": "audio/severance.mp3"
+    },
+    {
+      "word": "NDT",
+      "phonetic": "/ˌen diː ˈtiː/",
+      "meaning": "在不破坏工件、不损伤构件的前提下探查焊缝与钢材内部及表面缺陷的一整套检测方法，全称 non-destructive testing（英式也写 non-destructive examination, NDE；美式通用 NDT）。钢结构海外项目里，它和 weld（第 7 期焊接） 是天生一对：焊完 → NDT → 出报告 → 才能报验、涂装、进下道工序。四大常规方法一次记全：UT（ultrasonic testing 超声检测，查内部未熔合、夹渣）、RT（radiographic testing 射线检测，拍片看气孔裂纹，有辐射要清场）、MT（magnetic particle testing 磁粉检测，查铁磁性材料表面及近表面裂纹）、PT（penetrant testing 渗透检测/着色探伤，查表面开口缺陷）；另有 VT（visual testing 目视检测） 作最基础的一道。判合格要看 acceptance criteria / 验收等级（如 ISO 5817 的 B、C、D 级或 AWS D1.1），不合格则 repair and re-test（返修复探），报告留档进 ITP（inspection and test plan 检验试验计划） 与竣工资料。红线：NDT 报告是监理、业主签认验收与付款的硬凭据；别和 destructive testing（破坏性试验，如拉伸、弯曲、冲击试件） 混淆。",
+      "collocation": "non-destructive testing / NDT 无损检测；NDT report 无损检测报告；NDT technician / Level II inspector 无损检测员、二级检测师；UT 超声检测；RT 射线检测；MT 磁粉检测；PT 渗透检测；VT 目视检测；full penetration weld 全熔透焊缝；acceptance criteria 验收判据；repair and re-test 返修复探；ITP 检验试验计划；weld 焊缝（第 7 期）；painting 涂装（第 28 期 coating）",
+      "examples": [
+        {
+          "en": "All full-penetration welds on the portal frame must undergo ultrasonic testing before painting, and the NDT reports will be submitted to the engineer together with the inspection and test plan.",
+          "zh": "门式刚架上所有全熔透焊缝在涂装前必须做超声检测，无损检测报告要随检验试验计划一起提交给工程师。",
+          "audio": "audio/ex/ndt-1.mp3"
+        }
+      ],
+      "mnemonic": "NDT = Non-Destructive Testing —— \"不破坏（Non-Destructive）地测（Testing）\"，谐音记\"不捣碎·探\"。四大方法编成一句：\"UT 照里、RT 拍片、MT 磁粉、PT 着色\"——前两个查内部、后两个查表面。再记一句工地红线：\"No NDT, no sign-off.\"（没无损检测报告，监理不签字。）看到焊工收枪、检测员拿探头扫焊缝，就是 NDT 环节。",
+      "issue": 48,
+      "date": "2026-11-03",
+      "theme": "焊缝焊完先过 NDT 无损检测、拿到报告才敢报验请款 → 立面 fenestration 门窗系统一次定稿，把幕墙采光家族收官 → 付款条款盯紧 progress payment 进度款，串起 deposit 定金 → 进度款 → retention 质保金 → final account 结算 → 客户来访先领进 showroom 样品展厅看样封样，比画册直观 → 排优先级时坦承这周 bandwidth 不够，学会说\"没余量\"而不是硬扛",
+      "gloss": "无损检测",
+      "category": "钢结构",
+      "audio": "audio/ndt.mp3"
+    },
+    {
+      "word": "fenestration",
+      "phonetic": "/ˌfenɪˈstreɪʃn/",
+      "meaning": "建筑立面上所有门窗与采光洞口的整体布置及系统做法，中文\"门窗系统、外窗布置、开窗设计、门窗工程\"。它不指一扇窗，而是整套\"墙上怎么开洞、开在哪、开多大、用什么框、怎么分格\"的设计与分包范围，所以招标文件里 fenestration package（门窗工程包） 常单独立包。它把已学的立面与围护家族一次串起来：facade（第 5 期）是整张立面外观 → curtain wall（第 23 期）是幕墙体系 → glazing（第 22 期）是玻璃配置 → mullion（第 41 期）竖框与 transom（第 42 期）横框是分格骨架 → spandrel（第 47 期）层间板 → clerestory（第 47 期）高侧窗 → 而 fenestration 是\"这些窗洞的总账\"。方案汇报高频词：window-to-wall ratio（WWR 窗墙比，节能计算关键输入）、daylighting 自然采光、SHGC / solar heat gain coefficient 太阳得热系数、U-value 传热系数、operable / fixed window 开启扇与固定扇、thermal break 断桥隔热。洞口家族也在这里收口：lintel（第 39 期）过梁、jamb（第 40 期）侧壁、sill（第 43 期）窗台、threshold（第 38 期）门槛、reveal（第 43 期）洞口侧深。",
+      "collocation": "fenestration system 门窗系统；fenestration package 门窗工程包；window-to-wall ratio（WWR）窗墙比；daylighting 自然采光；U-value 传热系数；SHGC 太阳得热系数；thermal break 断桥隔热；operable window 开启扇；low-e glazing Low-e 玻璃；energy code 节能规范；facade 立面（第 5 期）；curtain wall 幕墙（第 23 期）；glazing 玻璃（第 22 期）；mullion 竖框（第 41 期）；clerestory 高侧窗（第 47 期）",
+      "examples": [
+        {
+          "en": "The architect reduced the window-to-wall ratio on the west facade to thirty percent, so the fenestration package now uses low-e glazing with a thermal break to meet the energy code.",
+          "zh": "建筑师把西立面的窗墙比降到百分之三十，因此门窗工程包改用 Low-e 玻璃加断桥型材，以满足节能规范。",
+          "audio": "audio/ex/fenestration-1.mp3"
+        }
+      ],
+      "mnemonic": "词根 fenestra 是拉丁语\"窗户\"（法语 fenêtre 窗户也同源），所以 fenestration 就是\"把窗户一件件排上去\"这件事。别只记成\"窗户\"——记成\"门窗总账、开窗方案\"。一句对仗：\"A window is a hole; fenestration is the whole plan.\"（一扇窗是一个洞，门窗系统是整盘账。）听到分包范围、窗墙比、节能计算，就该想到它。",
+      "issue": 48,
+      "date": "2026-11-03",
+      "theme": "焊缝焊完先过 NDT 无损检测、拿到报告才敢报验请款 → 立面 fenestration 门窗系统一次定稿，把幕墙采光家族收官 → 付款条款盯紧 progress payment 进度款，串起 deposit 定金 → 进度款 → retention 质保金 → final account 结算 → 客户来访先领进 showroom 样品展厅看样封样，比画册直观 → 排优先级时坦承这周 bandwidth 不够，学会说\"没余量\"而不是硬扛",
+      "gloss": "门窗系统、开窗设计",
+      "category": "建筑设计",
+      "audio": "audio/fenestration.mp3"
+    },
+    {
+      "word": "progress payment",
+      "phonetic": "/ˈprəʊɡres ˌpeɪmənt/",
+      "meaning": "按已完工程量或里程碑分期支付的工程款，中文\"进度款、进度付款、按进度结算\"。它是付款链条的中段，把往期串成一条线：quotation / counteroffer（第 1、10 期报价还盘）→ deposit / advance payment（第 3 期定金、预付款）→ progress payment 进度款 → retention（第 33 期质保金，每期扣留 5%–10%）→ final payment / final account 竣工结算 → defects liability period（第 38 期缺陷责任期）满释放质保金。外贸合同谈判四个必谈点：payment terms 付款条件、milestone / billing schedule 里程碑与请款节点、payment certificate 付款证书（监理或业主签认后才生效）、retention percentage and release 质保金比例与释放条件。常见做法是 monthly progress payment 月度进度款，流程为 submit the payment application → quantity surveyor 工料测量师核量 → engineer issues the payment certificate → 业主在约定账期（如 30 天）内付款。配套保函：advance payment bond（预付款保函，第 47 期已提） 防定金挪用、performance bond（第 43 期履约保函） 覆盖施工期。红线：\"pay when paid\"（业主付了才付分包）条款对现金流极危险，务必争取背靠背但设最长账期；另外进度款不等于最终结算，超付要在 final account 里扣回。",
+      "collocation": "progress payment 进度款；monthly progress payment 月度进度款；payment application / invoice 请款单；payment certificate 付款证书；milestone payment 里程碑付款；billing schedule 请款计划；advance payment / deposit 预付款、定金（第 3 期）；retention 质保金（第 33 期）；final account 竣工结算；pay when paid 背靠背付款；cash flow 现金流；quantity surveyor（QS）工料测量师",
+      "examples": [
+        {
+          "en": "Our contract allows a monthly progress payment against certified work, with ten percent retention held back until the defects liability period expires and the final account is agreed.",
+          "zh": "合同约定按签认工程量支付月度进度款，扣留百分之十质保金，直到缺陷责任期届满、竣工结算谈定后才释放。",
+          "audio": "audio/ex/progress-payment-1.mp3"
+        }
+      ],
+      "mnemonic": "progress = 进展，progress payment 就是\"跟着进展走的那笔钱\"——干多少、验多少、付多少。用一条付款时间线背全：Deposit → Progress → Retention → Final（定金、进度、质保、结算）。再记一句现金流红线：\"Certificate first, cash second.\"（先拿付款证书，再谈钱到账。）看到月度请款单、QS 核量、监理签证书，就是进度款流程。",
+      "issue": 48,
+      "date": "2026-11-03",
+      "theme": "焊缝焊完先过 NDT 无损检测、拿到报告才敢报验请款 → 立面 fenestration 门窗系统一次定稿，把幕墙采光家族收官 → 付款条款盯紧 progress payment 进度款，串起 deposit 定金 → 进度款 → retention 质保金 → final account 结算 → 客户来访先领进 showroom 样品展厅看样封样，比画册直观 → 排优先级时坦承这周 bandwidth 不够，学会说\"没余量\"而不是硬扛",
+      "gloss": "进度款",
+      "category": "外贸",
+      "audio": "audio/progress-payment.mp3"
+    },
+    {
+      "word": "showroom",
+      "phonetic": "/ˈʃəʊruːm/",
+      "meaning": "专门陈列实物样品、节点样板与成品、供客户现场看样选样的房间或展厅，中文\"样品展厅、样品间、陈列室、样板展示区\"。它是客户接待链路里比画册更硬的一环：brochure（第 25 期宣传册）是纸面 → sample（第 11 期样品）是单件 → showroom 是把全套样品、节点样板、色卡、五金、型材断面摆成一个空间 → 再接 site visit（第 8 期验厂）看产线 → 最后回会议室谈 quotation。钢结构与模块化房屋接待常备三类样板：material samples（彩钢瓦、夹芯板、岩棉断面与镀层色卡，呼应 cladding 第 10 期、galvanize 第 2 期、coating 第 28 期）、connection mock-up（节点样板：柱底板、螺栓、泛水收边，呼应 base plate 第 22 期、fastener 第 5 期、flashing 第 41 期）、finish options（门窗、地板、卫浴、内饰选型，呼应本期 fenestration）。高频动词搭配：walk the client through the showroom 带客户逐项看样、lay out / display samples 陈列样品、take samples away 带走样板；客户当场圈定的叫 sign-off sample / sealed sample（封样），务必拍照签字留档，避免后期\"货不对板\"争议。别和 exhibition hall（展会展馆）、model unit / show flat（样板房，房地产语境） 混淆。",
+      "collocation": "showroom 样品展厅；walk the client through the showroom 带客户看样；material sample 材料样板；colour chart / colour swatch 色卡；connection mock-up 节点样板；sign-off sample / sealed sample 封样；display 陈列；brochure 宣传册（第 25 期）；sample 样品（第 11 期）；site visit 验厂（第 8 期）；cladding 墙面板（第 10 期）；base plate 柱底板（第 22 期）",
+      "examples": [
+        {
+          "en": "Before we sit down for the quotation, let us walk the delegation through the showroom so they can compare the two cladding finishes and sign off on the sealed samples.",
+          "zh": "谈报价之前，先带代表团走一遍样品展厅，让他们对比两种墙面板饰面，并在封样上签字确认。",
+          "audio": "audio/ex/showroom-1.mp3"
+        }
+      ],
+      "mnemonic": "show + room —— \"专门用来 show 的一间 room\"，比单记\"展厅\"更牢。记一条接待动线：\"Brochure → Showroom → Site visit → Offer\"（先画册、再看样、再验厂、后报价）。再记一句实操口诀：\"What they sign off in the showroom is what you must ship.\"（展厅里签封的样，就是日后必须交付的货。）看到色卡、节点样板、客户拿手机拍照，就是 showroom 环节。",
+      "issue": 48,
+      "date": "2026-11-03",
+      "theme": "焊缝焊完先过 NDT 无损检测、拿到报告才敢报验请款 → 立面 fenestration 门窗系统一次定稿，把幕墙采光家族收官 → 付款条款盯紧 progress payment 进度款，串起 deposit 定金 → 进度款 → retention 质保金 → final account 结算 → 客户来访先领进 showroom 样品展厅看样封样，比画册直观 → 排优先级时坦承这周 bandwidth 不够，学会说\"没余量\"而不是硬扛",
+      "gloss": "样品展厅",
+      "category": "客户接待",
+      "audio": "audio/showroom.mp3"
+    },
+    {
+      "word": "bandwidth",
+      "phonetic": "/ˈbændwɪdθ/",
+      "meaning": "本义是通信与 IT 里的带宽（单位时间可传输的数据量，如 network bandwidth）；职场口语里高频引申为\"一个人或一个团队当前还能承接多少工作的余量\"，中文常译\"精力、时间余量、人手余量、负荷承受力\"。典型句型三句背下来：\"I don't have the bandwidth this week.\"（这周腾不出手、忙不过来）、\"Do we have the bandwidth to take on another project?\"（还接得住新项目吗）、\"That's beyond my bandwidth.\"（超出我能负荷的范围）。它比 \"I'm busy\" 更专业得体：不说\"我很忙\"，而说\"目前没有余量\"，把拒绝落在产能上而不是态度上，特别适合外贸跟客户谈交期、跟领导谈排期。和已学负荷线分工：workload（第 3 期）是工作量这个客观总量 → priority（第 26 期）是排序 → deadline（第 12 期）是硬时点 → bandwidth 是\"还剩多少容量\" → 长期超载就是 burnout（第 19 期职业倦怠）→ 该 delegate（第 14 期授权分派）或 escalation（第 35 期升级上报）。近义说法：capacity（产能、承受力，更正式）、headroom（余量）、be stretched thin（人手被摊薄）、be at capacity（已满负荷）。",
+      "collocation": "have the bandwidth to do sth 有余量去做某事；I don't have the bandwidth 腾不出手；be at capacity 已满负荷；be stretched thin 人手摊薄；free up bandwidth 腾出余量；capacity 产能；workload 工作量（第 3 期）；priority 优先级（第 26 期）；deadline 截止日（第 12 期）；burnout 职业倦怠（第 19 期）；delegate 授权分派（第 14 期）；escalation 升级上报（第 35 期）",
+      "examples": [
+        {
+          "en": "I would love to review the shop drawings today, but with three tender deadlines this week I simply do not have the bandwidth — can we push it to Monday or split it with the design team?",
+          "zh": "我很想今天就审深化图，但本周压着三个投标截止，实在腾不出手——能否推到周一，或者分一部分给设计组？",
+          "audio": "audio/ex/bandwidth-1.mp3"
+        }
+      ],
+      "mnemonic": "band（频带）+ width（宽度）—— 本义是\"管道有多宽\"，引申到职场就是\"这根管子这周还能流过多少活\"。想拒绝又不想显得推诿，就用这句万能话：\"It's not a priority issue, it's a bandwidth issue.\"（不是不想做，是没余量。）把 workload（有多少活）→ bandwidth（还剩多少容量）→ burnout（撑爆了） 连成一条线记，最不容易忘。",
+      "issue": 48,
+      "date": "2026-11-03",
+      "theme": "焊缝焊完先过 NDT 无损检测、拿到报告才敢报验请款 → 立面 fenestration 门窗系统一次定稿，把幕墙采光家族收官 → 付款条款盯紧 progress payment 进度款，串起 deposit 定金 → 进度款 → retention 质保金 → final account 结算 → 客户来访先领进 showroom 样品展厅看样封样，比画册直观 → 排优先级时坦承这周 bandwidth 不够，学会说\"没余量\"而不是硬扛",
+      "gloss": "时间精力余量、带宽",
+      "category": "职场",
+      "audio": "audio/bandwidth.mp3"
     }
   ]
 }
