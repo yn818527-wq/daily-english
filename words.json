@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03",
-  "total": 240,
+  "updated": "2026-11-04",
+  "total": 245,
   "words": [
     {
       "word": "truss",
@@ -4901,6 +4901,106 @@
       "gloss": "时间精力余量、带宽",
       "category": "职场",
       "audio": "audio/bandwidth.mp3"
+    },
+    {
+      "word": "ITP",
+      "phonetic": "/ˌaɪ tiː ˈpiː/",
+      "meaning": "贯穿加工、安装、调试全流程的质量检验计划文件，全称 inspection and test plan（检验与试验计划），中文也译\"检验试验计划、质量检验计划\"。它把每个分项工程的工序拆开，逐条写明检查什么、按什么规范查、谁来看、什么环节必须停下来等放行，是钢结构出口项目质量体系的核心文件。三类控制点一次记全：hold point（待检点：必须停下等监理或第三方到场签认才能进入下道工序，如 NDT（第 48 期）检测、painting 涂装前表面处理）、witness point（见证点：通知相关方，到场或不到场到时即过）、surveillance（旁站/巡视：抽查性质的监督）。每条 ITP 行通常列出 reference document 引用规范（如 ISO、AWS D1.1、GB）、acceptance criteria 验收判据、inspection method 检验方法、responsible party 责任方、record form 记录表式。它和已学的质量链天然咬合：shop drawing（第 21 期）审批 → ITP 报批 → 材料证书 → fabrication（第 1 期）加工 → NDT 报告 → erection（第 6 期）安装 → commissioning（第 17 期）调试 → 竣工资料。红线：没有 ITP，监理可以拒绝签认任何付款证书；反过来说，ITP 里每一条 hold point 的放行记录，就是向业主请款的证据链。别和 QA/QC plan（质量保证与质量控制大纲，更宏观） 混淆——ITP 是它落到工序层面的执行表。",
+      "collocation": "inspection and test plan（ITP）检验试验计划；submit the ITP for approval 报批检验计划；hold point 待检点；witness point 见证点；surveillance 巡视旁站；release notice 放行通知；reference document 引用文件；acceptance criteria 验收判据；quality control plan（QCP）质量控制计划；method statement 施工方案；NDT 无损检测（第 48 期）；commissioning 调试（第 17 期）；payment certificate 付款证书（第 48 期）",
+      "examples": [
+        {
+          "en": "Before fabrication begins, the contractor shall submit the ITP for the engineer's approval, and no hold point such as ultrasonic testing or blasting may proceed without a signed release notice.",
+          "zh": "开工加工之前，承包商应将检验试验计划报工程师审批；超声检测、抛丸等任何待检点，未经签字放行通知不得进入下道工序。",
+          "audio": "audio/ex/itp-1.mp3"
+        }
+      ],
+      "mnemonic": "I-T-P 三个字母拆开背：Inspect（查）、Test（试）、Plan（计划）——\"什么时候查、什么时候试，一张计划写清楚\"。再记一句工地铁律：\"No release, no next step.\"（不放行，不进下一道。）三类控制点编个口诀：\"hold 停下等、witness 通知看、surveillance 随时转\"。看到检测员拿着表格找监理签字，那就是 ITP 的 hold point 在被放行。",
+      "issue": 49,
+      "date": "2026-11-04",
+      "theme": "开工前先把 ITP 检验试验计划报批，把 NDT、涂装这些 hold point 钉死在流程里 → 节能计算复核 window-to-wall ratio 窗墙比，玻璃多一分、空调负荷多一截 → 竣工后 final account 竣工结算把变更、拖期费、质保金一锅端 → 回款期间定期 touch base 保持联络，短平快不叨扰 → 新人成长靠 mentorship 导师带教，为继任计划铺路",
+      "gloss": "检验试验计划",
+      "category": "工程设计",
+      "audio": "audio/itp.mp3"
+    },
+    {
+      "word": "window-to-wall ratio",
+      "phonetic": "/ˌwɪndəʊ tə wɔːl ˈreɪʃiəʊ/",
+      "meaning": "建筑外立面上窗户洞口面积占整个立面面积的比例，缩写 WWR，中文\"窗墙比、窗墙面积比\"。它是节能设计与立面方案之间最直接的博弈参数：窗多 → 采光好、观感通透，但夏季得热多、空调负荷大、保温成本高；窗少 → 节能省空调，但白天要补人工照明。节能报审里它与 U-value 传热系数、SHGC 太阳得热系数 一起决定围护结构是否达标；而它正是 fenestration（第 48 期门窗系统） 的量化抓手——fenestration 是做法，WWR 是比例。方案阶段的实战句式：\"We kept the WWR at thirty percent on the west facade.\"（西立面窗墙比控制在 30%）；方向差异也要敏感：西晒面（west facade）通常压低 WWR，北面（north facade，南半球则相反）可以放宽。海外项目常见规范触发线：许多节能规范对 超过 40% 的 WWR 要求更严的玻璃性能参数，所以 30%–40% 是谈判常用区间。相关词串：daylighting 自然采光、glare 眩光、overhang / brise-soleil 遮阳挑檐与遮阳板、low-e glazing Low-e 玻璃（第 48 期）、thermal break 断桥隔热。注意别与 glazing ratio（幕墙行业有时混用）以及 aspect ratio（构件长宽比） 混淆。",
+      "collocation": "window-to-wall ratio（WWR）窗墙比；west facade WWR 西立面窗墙比；reduce / cap the WWR 压低窗墙比；SHGC 太阳得热系数；U-value 传热系数；daylighting 自然采光（第 48 期）；glare 眩光；external shading 遮阳；low-e glazing Low-e 玻璃；energy code 节能规范（第 48 期）；fenestration 门窗系统（第 48 期）；curtain wall 幕墙（第 23 期）",
+      "examples": [
+        {
+          "en": "The energy report shows that raising the WWR on the west facade from thirty to forty percent would increase the cooling load by nearly twelve percent, so we are keeping the fenestration as designed with external shading.",
+          "zh": "节能报告显示，西立面窗墙比从百分之三十提到百分之四十会让空调冷负荷增加近百分之十二，所以我们维持原门窗设计并加外遮阳。",
+          "audio": "audio/ex/window-to-wall-ratio-1.mp3"
+        }
+      ],
+      "mnemonic": "名字自带公式：WWR = 窗面积 ÷ 墙立面总面积，先记中文\"窗墙比\"三个字，再回推英文——先\"窗\"后\"墙\"，分子在前、分母在后。记一句口诀：\"More glass, more glare — and more load.\"（玻璃多一分，眩光和负荷都多一分。）和第 48 期配成对背：fenestration 管怎么开洞，WWR 管开多大比例，两个词一起记就分不开了。",
+      "issue": 49,
+      "date": "2026-11-04",
+      "theme": "开工前先把 ITP 检验试验计划报批，把 NDT、涂装这些 hold point 钉死在流程里 → 节能计算复核 window-to-wall ratio 窗墙比，玻璃多一分、空调负荷多一截 → 竣工后 final account 竣工结算把变更、拖期费、质保金一锅端 → 回款期间定期 touch base 保持联络，短平快不叨扰 → 新人成长靠 mentorship 导师带教，为继任计划铺路",
+      "gloss": "窗墙比（WWR）",
+      "category": "建筑设计",
+      "audio": "audio/window-to-wall-ratio.mp3"
+    },
+    {
+      "word": "final account",
+      "phonetic": "/ˌfaɪnəl əˈkaʊnt/",
+      "meaning": "工程完工后把合同价、所有变更、索赔与各项调整加总算清的最终账目，中文\"竣工结算、最终结算、最终账单\"。它把整条付款链收口：deposit / advance（第 3 期定金、预付款）→ progress payment（第 48 期进度款）→ final account 竣工结算 → defects liability period（第 38 期缺陷责任期）满 → 释放 retention（第 33 期质保金）。结算内容三大块：原合同金额 + variation orders（第 42 期变更令）+ 调整项（EOT（第 44 期工期延长）相伴的 prolongation cost（第 47 期拖期费）、material escalation（第 35 期材料调差）、日计日工 dayworks）；再减去已付款项与质保金，即为尾款。流程关键词：prepare and submit the final account 编制报送竣工结算 → negotiation 结算谈判（第 11 期）→ agree / certify the final account 认定结算 → issue the final payment certificate 最终付款证书 → release the retention 释放质保金。红线三条：① 提交有截止期（合同常规定竣工后 28–56 天内报送，逾期 may be time-barred）；② 结算谈判期间保持客服姿态——尾款与后续订单都在客户手里；③ 不要把 final account 与 final payment（最后那笔付款动作）混用——account 是\"账\"，payment 是\"钱\"。",
+      "collocation": "final account 竣工结算；prepare and submit the final account 编制报送结算；agree / certify the final account 认定结算；final account statement 结算书；variation order 变更令（第 42 期）；prolongation cost 拖期费（第 47 期）；retention release 质保金释放（第 33 期）；defects liability period 缺陷责任期（第 38 期）；final payment 最终付款；payment certificate 付款证书（第 48 期）；back charge 反索赔扣款",
+      "examples": [
+        {
+          "en": "The final account consolidates the contract sum with all variation orders and prolongation costs, and half of the retention will be released once the engineer certifies it.",
+          "zh": "竣工结算把合同总价与全部变更令和拖期费用汇总核定，一经工程师认定，即释放一半质保金。",
+          "audio": "audio/ex/final-account-1.mp3"
+        }
+      ],
+      "mnemonic": "account 在这里就是\"账单、账目\"——final account = 最后算的一笔总账，中文\"竣工结算\"四个字就是它的注释。把付款链背成一句话：\"Deposit → Progress → Final account → Retention out.\"（定金、进度、总账、放质保。）再记一条实务红线：\"Everything ends up in the final account.\"（变更、索赔、调差，最后都要进结算这笔账。）谈判时它就是你手里那张汇总表。",
+      "issue": 49,
+      "date": "2026-11-04",
+      "theme": "开工前先把 ITP 检验试验计划报批，把 NDT、涂装这些 hold point 钉死在流程里 → 节能计算复核 window-to-wall ratio 窗墙比，玻璃多一分、空调负荷多一截 → 竣工后 final account 竣工结算把变更、拖期费、质保金一锅端 → 回款期间定期 touch base 保持联络，短平快不叨扰 → 新人成长靠 mentorship 导师带教，为继任计划铺路",
+      "gloss": "竣工结算",
+      "category": "外贸",
+      "audio": "audio/final-account.mp3"
+    },
+    {
+      "word": "touch base",
+      "phonetic": "/ˌtʌtʃ ˈbeɪs/",
+      "meaning": "与某人进行一次短暂、非正式的沟通以对齐进展，中文\"保持联络、碰一下、通个气、简单沟通一下\"。外贸客户关系里它是高频低成本动作：大项目回款期、报价后等待期、展会后跟进期，隔一两周 touch base 一次，让客户记得你，又不至于叨扰。典型句式五句背熟：\"Let's touch base next week.\"（下周碰一下）、\"I'm just touching base to see if you've received our quotation.\"（想问下报价单收到没）、\"Can we touch base briefly before you fly out?\"（您起飞前能简短聊两句吗）、\"Let's touch base after the holidays.\"（假期后再联系）、\"I'll touch base with our engineering team and get back to you.\"（我先和工程组对一下再答复你）。它不需要正式会议——邮件、WhatsApp 一两句即可，核心是\"我还在、项目还热\"。与已学接待沟通线分工：follow-up（第 5 期跟进）是有具体事项的追（追报价、追反馈），touch base 是无具体事项的养（养关系、刷存在感）；small talk（第 21 期寒暄）是见面时的暖场，touch base 是不见面时的保温。注意三个坑：① 只说 touch base，不要说 touch bases（虽源自棒垒\"各垒\"的梗，但商务惯用单数）；② 正式合同函件里别用，属口语商务词；③ 对方职位很高时可换更郑重的 \"check in\"。",
+      "collocation": "touch base with sb 与某人保持联络；touch base on sth 就某事通气；let's touch base next week 下周碰一下；I'm just touching base to... 想问一下……；keep in touch 保持联系；check in 报到、跟进（更中性）；follow-up 跟进（第 5 期，有具体事项）；small talk 寒暄（第 21 期，面对面）；rapport 默契关系（第 18 期）",
+      "examples": [
+        {
+          "en": "I'm just touching base to see whether you have received our revised quotation, and to let you know the fabrication slots for December are filling up quickly.",
+          "zh": "想简单问候一下：修订后的报价单您方是否已收到？另提示一下，十二月的加工排产档期快满了。",
+          "audio": "audio/ex/touch-base-1.mp3"
+        }
+      ],
+      "mnemonic": "base 是棒垒里的\"垒\"——跑垒员 touch base，脚尖碰一下垒包就走，不停留。商务引申就是\"轻轻碰一下就走\"：一两句话、不占时间、常来常往。和第 5 期 follow-up 分工记：follow-up 追事，touch base 养人。报价发出去石沉大海时的标准动作：别问\"考虑得怎么样了\"，而是 touch base + 给个无害由头（档期紧张、汇率更新、新样板），既刷了存在感又给了对方台阶。",
+      "issue": 49,
+      "date": "2026-11-04",
+      "theme": "开工前先把 ITP 检验试验计划报批，把 NDT、涂装这些 hold point 钉死在流程里 → 节能计算复核 window-to-wall ratio 窗墙比，玻璃多一分、空调负荷多一截 → 竣工后 final account 竣工结算把变更、拖期费、质保金一锅端 → 回款期间定期 touch base 保持联络，短平快不叨扰 → 新人成长靠 mentorship 导师带教，为继任计划铺路",
+      "gloss": "保持联络；碰个头",
+      "category": "客户接待",
+      "audio": "audio/touch-base.mp3"
+    },
+    {
+      "word": "mentorship",
+      "phonetic": "/ˈmentɔːʃɪp/",
+      "meaning": "由资深者一对一指导新人或资浅者成长的长期关系与制度安排，中文\"导师带教、导师制、师徒制\"。它把已学的人才线补上关键一环：onboarding（第 30 期入职引导）管前两周的\"会刷卡、会用系统\"，mentorship 管头六个月的\"会不会做事、留不留得住\"；再往上接 succession plan（第 46 期继任计划）——今天被带好的人，就是明天能顶上来的人。配套词一组记全：mentor 导师（带人的人）、mentee 学员（被带的人，注意别写成 mentoree）、reverse mentorship 反向带教（年轻人教老员工数字工具）、mentorship program / scheme 带教计划、assign a mentor 指定导师、one-on-one 一对一会面（每周固定聊一次）。钢结构设计团队实战做法：pair each new engineer with a senior designer 新工程师配资深设计师 → shadowing 跟岗观摩 → 逐步放手做 shop drawing（第 21 期）与 quotation（第 1 期）→ 定期复盘。对个人，\"find a mentor / be a mentor\"（找一位导师 / 当一位导师） 是职业发展谈话的高频句。和近义词分工：coaching 教练辅导（针对具体技能短板，短期）、training 培训（课堂式、一对多）、mentorship 带教（人盯人、长期、含职业与心态）。",
+      "collocation": "mentorship program 导师带教计划；assign a mentor to sb 为某人指定导师；mentor and mentee 导师与学员；reverse mentorship 反向带教；one-on-one meeting 一对一会面；shadowing 跟岗观摩；career development 职业发展；succession plan 继任计划（第 46 期）；onboarding 入职引导（第 30 期）；coaching 教练式辅导；knowledge transfer 知识传承",
+      "examples": [
+        {
+          "en": "Our mentorship program pairs each new engineer with a senior designer for weekly one-on-ones during the first six months, which has clearly shortened the onboarding curve.",
+          "zh": "我们的导师带教计划为每位新工程师配一位资深设计师，前六个月每周一次一对一，入职上手周期明显缩短了。",
+          "audio": "audio/ex/mentorship-1.mp3"
+        }
+      ],
+      "mnemonic": "mentor 一词来自《奥德赛》——荷马史诗里，奥德修斯出征前把儿子托付给好友 Mentor 教导，所以 mentor 就是\"代师之人\"，mentorship = 这份托付与教导。人设关系记链条：mentor（师）+ mentee（徒）→ mentorship（师徒制）。再挂到人才线上背：onboarding 入职 → mentorship 带教 → succession plan 顶岗，三个词一条线，谁也丢不了。",
+      "issue": 49,
+      "date": "2026-11-04",
+      "theme": "开工前先把 ITP 检验试验计划报批，把 NDT、涂装这些 hold point 钉死在流程里 → 节能计算复核 window-to-wall ratio 窗墙比，玻璃多一分、空调负荷多一截 → 竣工后 final account 竣工结算把变更、拖期费、质保金一锅端 → 回款期间定期 touch base 保持联络，短平快不叨扰 → 新人成长靠 mentorship 导师带教，为继任计划铺路",
+      "gloss": "导师带教；师徒制",
+      "category": "职场",
+      "audio": "audio/mentorship.mp3"
     }
   ]
 }

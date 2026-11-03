@@ -959,5 +959,25 @@
   "bandwidth": {
     "gloss": "时间精力余量、带宽",
     "category": "职场"
+  },
+  "itp": {
+    "gloss": "检验试验计划",
+    "category": "工程设计"
+  },
+  "window-to-wall ratio": {
+    "gloss": "窗墙比（WWR）",
+    "category": "建筑设计"
+  },
+  "final account": {
+    "gloss": "竣工结算",
+    "category": "外贸"
+  },
+  "touch base": {
+    "gloss": "保持联络；碰个头",
+    "category": "客户接待"
+  },
+  "mentorship": {
+    "gloss": "导师带教；师徒制",
+    "category": "职场"
   }
 }
