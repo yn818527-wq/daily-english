@@ -979,5 +979,25 @@
   "mentorship": {
     "gloss": "导师带教；师徒制",
     "category": "职场"
+  },
+  "as-built drawing": {
+    "gloss": "竣工图：按实际建成状况绘制的最终版图纸",
+    "category": "工程管理"
+  },
+  "dayworks": {
+    "gloss": "计日工：零星工作按工料机逐日记录计费",
+    "category": "外贸合同"
+  },
+  "quay": {
+    "gloss": "码头（读 key）：顺岸装卸码头，区别于 jetty 突堤、berth 泊位",
+    "category": "外贸物流"
+  },
+  "portico": {
+    "gloss": "门廊：立柱支撑的入口门廊，自带仪式感",
+    "category": "建筑设计"
+  },
+  "one-on-one": {
+    "gloss": "一对一沟通：上下级定期私聊，聊人不聊表",
+    "category": "职场"
   }
 }

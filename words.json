@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04",
-  "total": 245,
+  "updated": "2026-11-05",
+  "total": 250,
   "words": [
     {
       "word": "truss",
@@ -5001,6 +5001,106 @@
       "gloss": "导师带教；师徒制",
       "category": "职场",
       "audio": "audio/mentorship.mp3"
+    },
+    {
+      "word": "as-built drawing",
+      "phonetic": "/ˌæz bɪlt ˈdrɔːɪŋ/",
+      "meaning": "按工程实际建成状况绘制的最终版图纸，中文\"竣工图、施工完成图、实测竣工图\"。施工过程中现场必然偏离原设计：基础遇障碍物移位、梁高调整、管线翻弯、开洞补洞——竣工图就是把实际做法如实反画到图纸上，成为结算（final account，第 49 期）、运维、后期改造、产权备案的唯一依据。海外项目常见叫法三种并行：as-built drawing（最通用）、record drawing（record doc，工程师核定版，常指标记完成后的正式归档图）、as-constructed drawing（澳新习惯用）。与流程的咬合：shop drawing（第 21 期）是\"打算怎么干\"，as-built 是\"实际干成了什么样\"；竣工资料包（as-built package）通常还包括 mark-up 现场红笔标记图、test packs、NDT（第 48 期）报告、O&M manual 运维手册。红线三条：① 改了不画 = 未来索赔与运维事故的温床，尤其隐蔽工程（基础、埋件、地下管线）覆土后无从查证；② 红线标记（red-line mark-up）要逐日逐层传递，不要竣工前突击回忆；③ 交付前须 QA 复核 + 工程师签认，别把施工过程图当竣工图交差。",
+      "collocation": "as-built drawing 竣工图；as-built documentation 竣工资料；red-line mark-up 红线标记图；record drawing 记录归档图；as-constructed drawing 实际施工图；mark up the changes on site 现场标记变更；submit as-builts for approval 报批竣工图；O&M manual 运维手册；final account 竣工结算（第 49 期）；shop drawing 深化加工图（第 21 期）",
+      "examples": [
+        {
+          "en": "The as-built drawings show that six anchor bolts were relocated on site due to an underground duct, so the record drawings must be updated and certified before the final account is agreed.",
+          "zh": "竣工图显示，因地下管沟有六颗地脚螺栓在现场移了位，因此记录图必须先更新并经签认，竣工结算才能谈定。",
+          "audio": "audio/ex/as-built-drawing-1.mp3"
+        }
+      ],
+      "mnemonic": "as-built 字面就是\"照建成的样子\"——房子盖成什么样，图就画成什么样。和第 21 期配对背：shop drawing 管\"怎么干\"，as-built 管\"干成了啥\"。再记一句工地铁律：\"If it isn't on the as-built, it doesn't exist.\"（竣工图上没有的，以后就等于不存在。）隐蔽工程回填之前，先问自己一句：这张 as-built 画了吗？",
+      "issue": 50,
+      "date": "2026-11-05",
+      "theme": "竣工收尾季——现场实测出 as-built drawing 竣工图，图纸与原设计一一对照归档 → 业主临时追加的零星杂活按 dayworks 计日工计价，工料机逐日签认 → 设备到港卸在 quay 顺岸码头，与 wharf、jetty、berth 分工记清 → 厂区主入口加一个 portico 门廊撑住立面气度 → 季度末和上级约 one-on-one 一对一沟通，谈成长也谈去向",
+      "gloss": "竣工图：按实际建成状况绘制的最终版图纸",
+      "category": "工程管理",
+      "audio": "audio/as-built-drawing.mp3"
+    },
+    {
+      "word": "dayworks",
+      "phonetic": "/ˈdeɪwɜːks/",
+      "meaning": "对无法按工程量清单计价的零星工作，按\"实际投入的人工、材料、机械台班逐日记录计费\"的计价方式，中文\"计日工、点工、按日计价\"。它解决的是变更定价难题：业主临时加个门洞、要求拆改一段围栏、暴雨后抽水清淤——工作量零碎、无法套定额，就按 dayworks 走。三大构成逐日记：labour 人工（工日 × 日费率）、materials 材料（单价 + 运费 + 一定比例利润）、plant 机械（台班费，plant 在英式工程英语里就是机械设备的总称）。清单里的 Daywork Schedule（计日工明细表） 通常在合同签订时就把费率表锁定，现场凭 daywork sheets / daily vouchers（计日工签认单） 逐日让监理签字确认。红线三条：① 当天不签，隔天翻脸不认——daywork sheet 必须当日内送签认；② 费率表里常隐藏\"加班、夜间、节假日加成系数\"，报价阶段就要审；③ 与 variation order（第 42 期变更令） 分工：VO 管\"能算工程量的变更\"，dayworks 管\"算不出来的零星活\"；两者都以监理书面指令（written instruction） 为前提，口头指令先补函。",
+      "collocation": "dayworks 计日工；daywork schedule 计日工明细表；daywork sheet / daily voucher 计日工签认单；work on a dayworks basis 按计日工方式施工；labour rate 人工费率；plant and machinery 机械台班；variation order 变更令（第 42 期）；written instruction 书面指令；prime cost items 暂列金额项；time and materials 工料计价（美式）",
+      "examples": [
+        {
+          "en": "Since removing the abandoned foundation was not in the bill of quantities, we carried it out on a dayworks basis, and the supervisor signed the daywork sheets before noon the next day.",
+          "zh": "由于拆除废弃基础不在工程量清单内，我们按计日工方式施工，监理在次日中午前就签认了计日工单。",
+          "audio": "audio/ex/dayworks-1.mp3"
+        }
+      ],
+      "mnemonic": "day + works = 按天记的活——干一天、记一天、签一天。口诀：\"量不清，走点工；单不签，等于零。\"和第 42 期 VO 配对记：VO 算得清单，dayworks 算不清。海外项目上最常说的一句：\"We'll do it on dayworks — get the sheet signed daily.\"（零星活走计日工，单子每天签掉。）记住 dayworks 常用复数，加 s 才地道。",
+      "issue": 50,
+      "date": "2026-11-05",
+      "theme": "竣工收尾季——现场实测出 as-built drawing 竣工图，图纸与原设计一一对照归档 → 业主临时追加的零星杂活按 dayworks 计日工计价，工料机逐日签认 → 设备到港卸在 quay 顺岸码头，与 wharf、jetty、berth 分工记清 → 厂区主入口加一个 portico 门廊撑住立面气度 → 季度末和上级约 one-on-one 一对一沟通，谈成长也谈去向",
+      "gloss": "计日工：零星工作按工料机逐日记录计费",
+      "category": "外贸合同",
+      "audio": "audio/dayworks.mp3"
+    },
+    {
+      "word": "quay",
+      "phonetic": "/kiː/",
+      "meaning": "顺岸线修建的装卸码头，中文\"码头、驳岸码头、顺岸码头\"。发音是最大的坑：quay 读 /kiː/（\"key\"），q-u-a-y 四个字母只发一个 /k/ 音，源自法语 quai；读成\"夸伊\"客户当场就能听出是外行。港口家族分工（第 45 期背过一半，今天凑齐）：quay 顺岸码头（贴着岸线的连续装卸岸壁）、wharf（第 45 期）顺岸码头/驳岸（与 quay 高度同义，英式更常用，复数 wharves）、jetty（第 37 期）突堤码头（垂直伸入水中的栈桥式）、pier（第 46 期）栈桥/突堤（兼可作游览栈桥）、berth（第 40 期）泊位（一条 quay 上划出的具体船位）。工作场景高频词：quay wall 岸壁、quay crane 岸桥/岸吊、quay side 码头前沿、alongside the quay 靠泊。费用链也要串起来：wharfage（第 45 期）码头费按货计，port dues 港务费按船计。海外工程实战里，设备到港后的内陆运输段（inland haulage）常从 quay 交接算起，条款里写清楚 free time 与堆存费分界，才不会吃哑巴亏。",
+      "collocation": "quay wall 码头岸壁；quay crane 岸吊；quay side / quayside 码头前沿；berth alongside the quay 靠泊码头；loading on the quay 码头装货；wharf 码头（第 45 期）；jetty 突堤码头（第 37 期）；berth 泊位（第 40 期）；wharfage 码头费（第 45 期）；port dues 港务费；inland haulage 内陆运输",
+      "examples": [
+        {
+          "en": "The steel modules were discharged at the container terminal and stacked on the quayside, so we must clear them before the seven-day free storage period expires.",
+          "zh": "钢结构模块在集装箱码头卸下后堆放在码头前沿，我们必须在七天免费堆存期满之前提离。",
+          "audio": "audio/ex/quay-1.mp3"
+        }
+      ],
+      "mnemonic": "发音记死：quay = key（钥匙）——\"码头的钥匙\"：船到港，拿到 quay 这把 key 才靠得了岸。港口家族用方向分工背：quay/wharf 顺着岸、jetty/pier 突出水、berth 是船位。下次看航运动态里的 \"vessel alongside quay 5\"，就知道是\"船已靠 5 号码头\"——别再把它读错，这个字一开口就暴露专业度。",
+      "issue": 50,
+      "date": "2026-11-05",
+      "theme": "竣工收尾季——现场实测出 as-built drawing 竣工图，图纸与原设计一一对照归档 → 业主临时追加的零星杂活按 dayworks 计日工计价，工料机逐日签认 → 设备到港卸在 quay 顺岸码头，与 wharf、jetty、berth 分工记清 → 厂区主入口加一个 portico 门廊撑住立面气度 → 季度末和上级约 one-on-one 一对一沟通，谈成长也谈去向",
+      "gloss": "码头（读 key）：顺岸装卸码头，区别于 jetty 突堤、berth 泊位",
+      "category": "外贸物流",
+      "audio": "audio/quay.mp3"
+    },
+    {
+      "word": "portico",
+      "phonetic": "/ˈpɔːtɪkəʊ/",
+      "meaning": "由立柱支撑、常带山墙或檐部构成的建筑入口门廊，中文\"门廊、柱廊、门斗\"。它是西方建筑最古老的立面语汇之一：古希腊神庙的正立面就是一个大 portico（帕特农的柱廊），美国国会大厦、银行、法院的正面柱廊全是它——因此 portico 天生自带\"仪式感、庄重感、机构感\"的建筑语义。构成三件套：columns 立柱（柱式 orders：Doric 多立克、Ionic 爱奥尼、Corinthian 科林斯）、entablature 檐部、pediment 山花（三角形山墙）。与已学词的分工：canopy（第 16 期）是功能性的雨棚（挡雨为上），portico 是形式感的门廊（气势为上）；colonnade 是一长排柱廊（可以不接门），portico 必须是\"入口 + 柱 + 顶\"的整体；模块化建筑语境里，给标准箱房加一个 portico，是用最便宜的立面手段把\"临时房\"变成\"像样的建筑\"——钢结构安置房、售楼处常用的提气手法。在方案汇报里的高频句式：\"We proposed a steel portico at the main entrance to give the building a civic presence.\"（主入口加一个钢门廊，让建筑有公共气质。）",
+      "collocation": "a grand portico 宏伟的门廊；tetrastyle / hexastyle portico 四柱式/六柱式门廊；Doric columns 多立克柱式；pediment 山花；entablature 檐部；main entrance portico 主入口门廊；a steel portico 钢结构门廊；canopy 雨棚（第 16 期）；colonnade 柱廊；colonnaded facade 柱廊立面；civic presence 公共气质",
+      "examples": [
+        {
+          "en": "For the resettlement housing project, we added a steel hexastyle portico to the community center, which cost little but gave the entrance a dignified civic presence.",
+          "zh": "安置房项目中，我们给社区中心加了一个六柱式钢门廊，花费不多，却让入口有了庄重的公共气质。",
+          "audio": "audio/ex/portico-1.mp3"
+        }
+      ],
+      "mnemonic": "词根 port = 门（port 门 + ico 名词尾）——portico 就是\"门的事儿的延伸\"，即门廊。同根词一起背：portable 可携带的（能过门）、important 重要的（im- 进 + port 门 → \"意义进门了\"）、opportunity 机会（ob-port 站在港门口等船）。和第 16 期 canopy 分工：canopy 挡雨，portico 撑场面。看到政府大楼、法院前面那一排大柱子，脱口而出 portico，词就再也忘不掉了。",
+      "issue": 50,
+      "date": "2026-11-05",
+      "theme": "竣工收尾季——现场实测出 as-built drawing 竣工图，图纸与原设计一一对照归档 → 业主临时追加的零星杂活按 dayworks 计日工计价，工料机逐日签认 → 设备到港卸在 quay 顺岸码头，与 wharf、jetty、berth 分工记清 → 厂区主入口加一个 portico 门廊撑住立面气度 → 季度末和上级约 one-on-one 一对一沟通，谈成长也谈去向",
+      "gloss": "门廊：立柱支撑的入口门廊，自带仪式感",
+      "category": "建筑设计",
+      "audio": "audio/portico.mp3"
+    },
+    {
+      "word": "one-on-one",
+      "phonetic": "/ˌwʌn ɒn ˈwʌn/",
+      "meaning": "上级与下属之间定期举行的两人私密沟通机制，中文\"一对一沟通、一对一面谈\"，职场口语里直接说 \"my one-on-one\"或\"our 1:1\"（读 one-to-one）。它是管理体系里成本最低的保留节目：通常每周或双周固定 30 分钟，员工为主角、上级为倾听者，聊的是进展之外的东西——成长困惑、职业规划、协作摩擦、对团队的匿名反馈。三个黄金法则：① 这是员工的时间，不是老板的——议题由下属主导；② 聊人和事，不聊任务清单——任务清单有 standup 和周会，one-on-one 聊\"你怎么样、卡在哪、想去哪\"；③ 不缺席、不挪期、不泄密——信任是一切的前提。与已学职场沟通线分工：briefing（第 15 期）是自上而下交底、touch base（第 49 期）是同级或对外的轻量联络、one-on-one 是上下级之间定期的深度通道；在 burnout（第 19 期职业倦怠）识别、retention（第 42 期人才留任）、succession plan（第 46 期继任计划） 的链条里，one-on-one 是最早期的雷达——人要走、要垮，最先在 1:1 里露苗头。实战句式：\"Can we move our one-on-one to Thursday?\"（1:1 能挪到周四吗）、\"I put it on the agenda for my one-on-one.\"（这个我放 1:1 议题里说）。",
+      "collocation": "weekly one-on-one 每周一对一；have / schedule a one-on-one with sb 与某人约一对一；1:1 meeting 一对一会面；one-on-one agenda 一对一议题；skip-level 越级沟通；career development 职业发展；action items 行动项；follow up on the one-on-one 跟进一对一内容；touch base 保持联络（第 49 期）；briefing 交底会（第 15 期）；burnout 职业倦怠（第 19 期）",
+      "examples": [
+        {
+          "en": "In yesterday's one-on-one, she told me she felt stuck reviewing shop drawings all day, so we agreed she would lead the curtain wall package to prepare for the succession plan.",
+          "zh": "昨天的一对一里，她说整天审深化图感觉卡住了，所以我们商定由她牵头幕墙工程包，为继任计划做准备。",
+          "audio": "audio/ex/one-on-one-1.mp3"
+        }
+      ],
+      "mnemonic": "one ON one——一个对一个，中间 ON 想成\"押上去\"：把注意力整个押在那一个人身上。记口诀：\"1:1 聊人，不聊表。\"（一对一聊的是状态和成长，不是进度报表。）写法上：数字缩写是 1:1，不是 OOO（OOO 是 out-of-office 不在办公室，别混）。如果你是下属，把想聊的事提前写进 agenda——你的 1:1，你当主角。",
+      "issue": 50,
+      "date": "2026-11-05",
+      "theme": "竣工收尾季——现场实测出 as-built drawing 竣工图，图纸与原设计一一对照归档 → 业主临时追加的零星杂活按 dayworks 计日工计价，工料机逐日签认 → 设备到港卸在 quay 顺岸码头，与 wharf、jetty、berth 分工记清 → 厂区主入口加一个 portico 门廊撑住立面气度 → 季度末和上级约 one-on-one 一对一沟通，谈成长也谈去向",
+      "gloss": "一对一沟通：上下级定期私聊，聊人不聊表",
+      "category": "职场",
+      "audio": "audio/one-on-one.mp3"
     }
   ]
 }
