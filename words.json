@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05",
-  "total": 250,
+  "updated": "2026-11-06",
+  "total": 255,
   "words": [
     {
       "word": "truss",
@@ -5101,6 +5101,106 @@
       "gloss": "一对一沟通：上下级定期私聊，聊人不聊表",
       "category": "职场",
       "audio": "audio/one-on-one.mp3"
+    },
+    {
+      "word": "haunch",
+      "phonetic": "/hɔːns/",
+      "meaning": "为抵抗弯矩峰值、在梁高不足处向上（或向下）局部加高形成的楔形扩大部分，中文\"加腋、梁腋、加腋托肩\"。门式刚架（portal frame，第 8 期）里它是最经典的省钢构件：弯矩最大处正好在梁柱连接的檐口节点——在斜梁端部焊一段楔形 haunch，把该处截面\"局部变厚\"，斜梁中段就可以用更小的截面，整榀刚架用钢量能省下可观的一截。两个常设位置：eaves haunch 檐口加腋（梁柱连接处，最关键）与 apex haunch 屋脊加腋（脊节点处）。做法两种：切割 H 型钢翼缘成楔形段（整体性好）或三块板拼焊（板件下料灵活）；加腋段通过端板 + 高强螺栓（第 6 期 anchor bolt 同族逻辑） 与柱、梁连接，工地螺栓拼装、不现场施焊。配套词：haunch depth 加腋高度、haunch length 加腋长度、haunched beam 加腋梁、cut from beam / fabricated from plate 切割成型/拼焊成型。设计红线：① 加腋长度一般取跨度（span，第 8 期）的 5%~10%，太短不省料、太长费料；② 加腋段翼缘与腹板焊缝是全熔透一级焊缝（weld，第 7 期），须列入 NDT（第 48 期）抽查；③ 别忘了梁腋处通常同时加 stiffener（第 7 期加劲肋），两条线一个部位记。",
+      "collocation": "eaves haunch 檐口加腋；apex haunch 屋脊加腋；haunched rafter 加腋斜梁；haunch depth / length 加腋高度/长度；haunch cut from H-beam H 型钢切割加腋；haunch fabricated from plate 板拼加腋；bolted haunch connection 栓接加腋节点；moment at the eaves 檐口弯矩；stiffener 加劲肋（第 7 期）；portal frame 门式刚架（第 8 期）",
+      "examples": [
+        {
+          "en": "By adding a 500-deep eaves haunch at the column-to-rafter connection, the fabricator could downsize the rafter to a lighter section and save nearly 8% of the steel tonnage.",
+          "zh": "通过在梁柱连接处加一道 500 高的檐口加腋，加工厂得以把斜梁截面调小一号，节省了近 8% 的用钢量。",
+          "audio": "audio/ex/haunch-1.mp3"
+        }
+      ],
+      "mnemonic": "haunch 本义是\"胯、腰腿\"（动物的后胯肉就叫 haunch of venison）——梁也有\"胯\"：梁柱相接处就是梁的\"胯关节\"，弯矩全压在这，所以给\"胯\"加一层楔形肌肉（haunch）最划算。口诀：\"弯矩大的地方做 haunch——哪里的'胯'受力大，就给哪里'练腿'。\" 顺带记固定句式：\"haunch the beam\"（给梁加腋）——haunch 直接作动词用，海外图纸会上很常见。",
+      "issue": 51,
+      "date": "2026-11-06",
+      "theme": "新车间门式刚架定截面——梁柱节点加 haunch 加腋，把弯矩峰值处\"局部变厚\"，斜梁中段就能省钢材 → 柱脚基础的混凝土 curing 养护满七天强度才准上锚栓荷载，\"强度是养出来的\" → 园区扩两期，业主先要一张 master plan 总平面规划图控制全局 → 出口这批评标选 D/P 付款交单，一手交钱一手交单，区别于 L/C 银行担保 → 项目周会按\"决议 / 未决项 / 行动项\"收尾，每个 action item 必须有 owner 和 due date",
+      "gloss": "加腋、梁腋：梁柱节点处楔形加高段，弯矩大处省钢",
+      "category": "钢结构",
+      "audio": "audio/haunch.mp3"
+    },
+    {
+      "word": "curing",
+      "phonetic": "/ˈkjʊərɪŋ/",
+      "meaning": "混凝土浇筑成型后，为让水泥充分水化（hydration）而对其采取的保温保湿措施与时间过程，中文\"养护、保养、固化\"。核心逻辑一句话：强度不是\"干\"出来的，是\"水化反应养出来的\"——水分不够、温度太低，水化停滞，强度永远到不了设计值。三要素：时间（普通硅酸盐水泥标准养护 7 天、28 天才评定设计强度等级）、湿度（表面保持湿润，防止内部水分蒸发过快）、温度（冬期不低于 5℃，高温避开正午暴晒）。常用做法四类：water curing 洒水养护（蓄水、覆盖洒水、喷淋）、curing compound 养护剂喷涂成膜封闭、curing blanket / hessian 养护毯/麻布覆盖（冬期还带保温）、steam curing 蒸汽养护（预制构件厂用）；同理，地脚螺栓（anchor bolt，第 6 期）柱脚二次灌浆（grout，第 16 期）后同样要养护。工程英语高频句：\"Curing shall commence immediately after finishing.\"（收面一完成立即开始养护）。红线三条：① 养护期内上荷载 = 强度\"夭折\"——钢结构吊装（erection，第 6 期）前基础混凝土必须达到规定强度（常要求 ≥ 75% 或按设计）；② 养护剂成膜后再想接着打混凝土要冲毛处理，否则新旧结合面成\"两张皮\"；③ 报验资料里 curing record（养护记录：开始时间、方式、气温、天数） 是 NDT 同级的必查项，缺记录=白养。",
+      "collocation": "concrete curing 混凝土养护；water curing 洒水养护；curing compound 养护剂；curing blanket 养护毯；steam curing 蒸汽养护（预制构件）；curing period / 7-day curing 养护期/七天养护；28-day strength 28 天强度；cement hydration 水泥水化；curing record 养护记录；grout 灌浆（第 16 期）；erection 吊装（第 6 期）",
+      "examples": [
+        {
+          "en": "The anchor bolts cannot take any erection load until the curing period is completed, so keep the foundation under water curing for at least seven days and record the daily temperature.",
+          "zh": "养护期满之前地脚螺栓不能承受任何吊装荷载，所以基础要持续洒水养护至少七天，并逐日记录气温。",
+          "audio": "audio/ex/curing-1.mp3"
+        }
+      ],
+      "mnemonic": "cure = 治愈——混凝土浇筑完就像病人做完手术，要\"坐月子\"养（curing）才能痊愈到 28 天强度。一句工地谚语记牢：\"Concrete is not dried, it is cured.\"（混凝土不是晒干的，是养护出来的）——把\"干\"和\"养\"对立起来，这个词的工程含义就到位了。顺便分家：curing 养护（混凝土）、galvanizing（第 2 期镀锌）、coating（第 28 期涂装）——钢构厂三大\"表面功夫\"各管一段。",
+      "issue": 51,
+      "date": "2026-11-06",
+      "theme": "新车间门式刚架定截面——梁柱节点加 haunch 加腋，把弯矩峰值处\"局部变厚\"，斜梁中段就能省钢材 → 柱脚基础的混凝土 curing 养护满七天强度才准上锚栓荷载，\"强度是养出来的\" → 园区扩两期，业主先要一张 master plan 总平面规划图控制全局 → 出口这批评标选 D/P 付款交单，一手交钱一手交单，区别于 L/C 银行担保 → 项目周会按\"决议 / 未决项 / 行动项\"收尾，每个 action item 必须有 owner 和 due date",
+      "gloss": "（混凝土）养护：保温保湿养出强度，不是晒干",
+      "category": "工程设计",
+      "audio": "audio/curing.mp3"
+    },
+    {
+      "word": "master plan",
+      "phonetic": "/ˌmɑːstə ˈplæn/",
+      "meaning": "表达整个场地（一块地、一个厂区、一个园区）总体布局的规划图，中文\"总平面图、总体规划、总图\"。它是一切单体设计的\"宪法\"：建筑物定位（building footprint 与 grid line（第 26 期轴线）的关系）、道路与消防环路、出入口与门卫、室外管线综合（水电气+排水 drainage（第 14 期）走向）、绿化与铺装、预留发展用地（phased expansion 分期扩建），全部在一张图里交代清楚。多期开发项目（如海外营地、安置房社区、产业园）没有 master plan 就等于\"盖到哪算哪\"——业主投委会审的正是它；有了它，一期二期三期各推多少地、市政接口在哪预留，才有依据。与已学\"图家族\"分工：master plan 管\"整块地\"、floor plan（第 28 期平面图）管\"一层楼\"、elevation（第 2 期立面图）管\"一张皮\"、blueprint（第 9 期蓝图）泛指施工图。设计流程里的位置：concept plan 概念方案 → master plan 总体规划 → schematic design 方案设计（第 23 期 tender 招标就常以 master plan + 任务书为依据）。汇报高频句式：\"The master plan shows the phased development of the industrial park, with utilities stubbed for phase two.\"（总平面图显示园区分期开发，二期市政接口已预留。） 红线两条：① 总图必须标注指北针（orientation，第 32 期朝向）与绝对标高系统，海外项目还要写明坐标系统与 Datum；② setback（第 35 期退线）、fire rating（第 27 期防火间距要求） 在总图阶段就要核完，单体阶段再发现就是大返工。",
+      "collocation": "master plan 总平面规划图；site master plan 场地总图；phased development / phasing 分期开发；site layout 场地布置（layout，第 6 期）；building footprint 建筑轮廓；road network & fire lane 道路网与消防车道；utility corridor 管线走廊；reserved area for expansion 预留发展用地；concept plan 概念方案；floor plan 平面图（第 28 期）；elevation 立面图（第 2 期）；setback 退线（第 35 期）",
+      "examples": [
+        {
+          "en": "Before tendering the first phase, the client asked us to prepare a master plan showing all future workshops, the fire lane loop, and the utility corridor reserved for phase two.",
+          "zh": "在一期招标之前，业主先要我们出一张总平面规划图，标出全部远期车间、消防环路以及为二期预留的管线走廊。",
+          "audio": "audio/ex/master-plan-1.mp3"
+        }
+      ],
+      "mnemonic": "master = 主人——master plan 就是\"主人视角看整块地\"的那张图：站在天上往下看，房子、路、管子、留白尽收眼底。口诀分家记：\"master plan 管地、floor plan 管层、elevation 管脸\"。联想一个场景：你给客户看方案，第一张 PPT 永远是 master plan——先讲\"这块地怎么摆\"，再讲\"这栋楼长啥样\"，顺序一错，汇报节奏就乱了。",
+      "issue": 51,
+      "date": "2026-11-06",
+      "theme": "新车间门式刚架定截面——梁柱节点加 haunch 加腋，把弯矩峰值处\"局部变厚\"，斜梁中段就能省钢材 → 柱脚基础的混凝土 curing 养护满七天强度才准上锚栓荷载，\"强度是养出来的\" → 园区扩两期，业主先要一张 master plan 总平面规划图控制全局 → 出口这批评标选 D/P 付款交单，一手交钱一手交单，区别于 L/C 银行担保 → 项目周会按\"决议 / 未决项 / 行动项\"收尾，每个 action item 必须有 owner 和 due date",
+      "gloss": "总平面规划图：整块地的布局与分期开发",
+      "category": "建筑设计",
+      "audio": "audio/master-plan.mp3"
+    },
+    {
+      "word": "documents against payment",
+      "phonetic": "/ˌdɒkjʊmənts əˈɡenst ˈpeɪmənt/",
+      "meaning": "跟单托收（documentary collection）下的一种交单条件：进口商付清全部货款后，银行才把全套货运单据（提单（bill of lading，第 9 期）等）交给他，中文\"付款交单\"。它与 D/A（documents against acceptance 承兑交单） 是亲兄弟：D/P 要\"先掏钱再拿单\"，D/A 只要\"先签字（承兑汇票）就能拿单、到期再付款\"——所以 D/A 风险明显更大，D/P 至少见钱发货权不丢。再细分：D/P at sight 即期付款交单（见单即付）与 D/P after sight / usance D/P 远期付款交单（到期付款后放单）。与已学付款家族连线：T/T remittance（第 19 期电汇）纯商业信用、L/C（第 8 期信用证）是银行第一性付款承诺、D/P/D/A 是银行\"只当通道不担保\"的托收——银行（remitting bank 托收行、collecting bank 代收行）按 URC522《托收统一规则》 办事，不承担付款责任，付不付全看进口商信用。实战风控三条：① 纯 D/P 仍有\"货到港客户不赎单\"的死穴——货压港口，demurrage / detention（第 30/34 期滞期费/滞箱费） 一天天烧钱，最后被迫降价或转卖；② 最好的对冲是 30% T/T 预付（deposit，第 3 期定金）+ 70% D/P 即期——定金已覆盖成本，尾款见单赎付；③ 别指望银行兜底，关键是 control the B/L：单据做到单证一致，客户拒付的理由越少越好。",
+      "collocation": "D/P at sight 即期付款交单；D/P after sight 远期付款交单；documents against acceptance (D/A) 承兑交单；documentary collection 跟单托收；remitting bank 托收行；collecting bank 代收行；URC522 托收统一规则；release documents against payment 付款后放单；30% T/T deposit plus balance D/P 定金电汇+尾款托收；letter of credit 信用证（第 8 期）；bill of lading 提单（第 9 期）",
+      "examples": [
+        {
+          "en": "For this trial order we agreed on 30% T/T deposit with the balance by D/P at sight, so the buyer must pay the collecting bank before the bill of lading is released.",
+          "zh": "这票试单我们谈定 30% 电汇定金、余款即期付款交单，这样买方必须先向代收行付款，才能拿到提单。",
+          "audio": "audio/ex/documents-against-payment-1.mp3"
+        }
+      ],
+      "mnemonic": "P 是掏钱（Payment），A 是签字（Acceptance）——口诀：\"D/P 交钱，D/A 交白条。\" 和 L/C 一句话分清：L/C 是银行担保付（bank promises），D/P 是银行只跑腿（bank delivers）。再记一串排序就毕业：预付款 > L/C > D/P > D/A > 赊销（open account）——位置越靠后，卖方风险越大；跟客户谈判时心里要有这条\"风险刻度尺\"。",
+      "issue": 51,
+      "date": "2026-11-06",
+      "theme": "新车间门式刚架定截面——梁柱节点加 haunch 加腋，把弯矩峰值处\"局部变厚\"，斜梁中段就能省钢材 → 柱脚基础的混凝土 curing 养护满七天强度才准上锚栓荷载，\"强度是养出来的\" → 园区扩两期，业主先要一张 master plan 总平面规划图控制全局 → 出口这批评标选 D/P 付款交单，一手交钱一手交单，区别于 L/C 银行担保 → 项目周会按\"决议 / 未决项 / 行动项\"收尾，每个 action item 必须有 owner 和 due date",
+      "gloss": "付款交单 D/P：付清货款银行才放单，银行只跑腿不担保",
+      "category": "外贸",
+      "audio": "audio/documents-against-payment.mp3"
+    },
+    {
+      "word": "action item",
+      "phonetic": "/ˈækʃn aɪtəm/",
+      "meaning": "会议或沟通中明确落实到人、有截止日期的具体待办动作，中文\"行动项、待办事项、行动要点\"。它是会议产出物的最小单元：一场会开完，纪要里通常分三栏收口——decision 决议（定了什么）、open item 未决项（还没定、需下轮讨论）、action item 行动项（定了谁去干、什么时候干完）。一个合格 action item 的三要素，缺一不可：owner 责任人（一个人，不是\"设计组\"这种集体）、action 具体动作（动词开头，\"发\"\"核\"\"提交\"）、due date 截止时间（deadline，第 12 期）。与已学职场线连线：kickoff（第 36 期启动会）的产出就是一串 action item；RACI（第 37 期）回答\"谁负责\"，action item 回答\"接下来谁在哪个日期前做什么\"；follow-up（第 5 期跟进）就是到点核对 action item 完成情况；weekly report 周报的第一段永远该是 \"Action items from last week: done / overdue\"。反义提醒：会议里最危险的话是 \"Let's look into it\"（我们研究研究）——没有 owner 和 due date，它就只是一句感叹，永远变不成 action item。实战句式：\"Let's capture that as an action item — Kevin to submit the load calcs by Friday.\"（这条记成行动项——凯文周五前提交荷载计算。）",
+      "collocation": "capture it as an action item 把它记成行动项；assign an action item to sb 把行动项指派给某人；action item list 行动项清单；owner and due date 责任人与截止日；outstanding / overdue action items 未完成/逾期行动项；close out the action items 销项；meeting minutes 会议纪要；decision log 决议记录；open item 未决项；kickoff 启动会（第 36 期）；RACI 责任分配矩阵（第 37 期）；follow-up 跟进（第 5 期）",
+      "examples": [
+        {
+          "en": "The minutes listed three decisions, two open items, and four action items, each with a named owner and a due date before next week's review meeting.",
+          "zh": "会议纪要列了三条决议、两个未决项和四个行动项，每个行动项都有具名责任人和下次评审会前的截止日期。",
+          "audio": "audio/ex/action-item-1.mp3"
+        }
+      ],
+      "mnemonic": "action item = 把一场讨论\"压成一个动作\"——会开得再热闹，散会前压不出 action item，就等于白开。口诀三连：\"No owner, no date, no action item.\"（没有责任人、没有期限，就别叫行动项）。和三件套一起背：decision 定了、open item 没定、action item 定了谁去干。下次主持周会，散会前留两分钟扫一遍清单，问一句 \"Who owns this, and when is it due?\"——这句话是所有项目经理的护身符。",
+      "issue": 51,
+      "date": "2026-11-06",
+      "theme": "新车间门式刚架定截面——梁柱节点加 haunch 加腋，把弯矩峰值处\"局部变厚\"，斜梁中段就能省钢材 → 柱脚基础的混凝土 curing 养护满七天强度才准上锚栓荷载，\"强度是养出来的\" → 园区扩两期，业主先要一张 master plan 总平面规划图控制全局 → 出口这批评标选 D/P 付款交单，一手交钱一手交单，区别于 L/C 银行担保 → 项目周会按\"决议 / 未决项 / 行动项\"收尾，每个 action item 必须有 owner 和 due date",
+      "gloss": "行动项：有责任人和截止日的会议待办",
+      "category": "职场",
+      "audio": "audio/action-item.mp3"
     }
   ]
 }

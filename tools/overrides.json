@@ -999,5 +999,25 @@
   "one-on-one": {
     "gloss": "一对一沟通：上下级定期私聊，聊人不聊表",
     "category": "职场"
+  },
+  "haunch": {
+    "gloss": "加腋、梁腋：梁柱节点处楔形加高段，弯矩大处省钢",
+    "category": "钢结构"
+  },
+  "curing": {
+    "gloss": "（混凝土）养护：保温保湿养出强度，不是晒干",
+    "category": "工程设计"
+  },
+  "master plan": {
+    "gloss": "总平面规划图：整块地的布局与分期开发",
+    "category": "建筑设计"
+  },
+  "action item": {
+    "gloss": "行动项：有责任人和截止日的会议待办",
+    "category": "职场"
+  },
+  "documents against payment": {
+    "gloss": "付款交单 D/P：付清货款银行才放单，银行只跑腿不担保",
+    "category": "外贸"
   }
 }
