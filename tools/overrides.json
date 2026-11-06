@@ -1019,5 +1019,25 @@
   "documents against payment": {
     "gloss": "付款交单 D/P：付清货款银行才放单，银行只跑腿不担保",
     "category": "外贸"
+  },
+  "sag rod": {
+    "gloss": "拉杆、吊杆（檩条拉杆/系杆）",
+    "category": "钢结构"
+  },
+  "coffer": {
+    "gloss": "井格顶棚、密肋梁格；保险箱",
+    "category": "建筑设计"
+  },
+  "advance payment bond": {
+    "gloss": "预付款保函（APG）",
+    "category": "外贸"
+  },
+  "welcome kit": {
+    "gloss": "接待资料袋、欢迎礼包",
+    "category": "客户接待"
+  },
+  "net margin": {
+    "gloss": "净利率、净利润率",
+    "category": "职场"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06",
-  "total": 255,
+  "updated": "2026-11-07",
+  "total": 260,
   "words": [
     {
       "word": "truss",
@@ -5201,6 +5201,106 @@
       "gloss": "行动项：有责任人和截止日的会议待办",
       "category": "职场",
       "audio": "audio/action-item.mp3"
+    },
+    {
+      "word": "sag rod",
+      "phonetic": "/ˈsæɡ rɒd/",
+      "meaning": "沿屋面坡度方向、把一根根檩条（purlin，第 2 期）在中间\"吊住\"或\"串住\"的细长圆钢拉杆，中文\"拉杆、吊杆、系杆、檩条拉杆\"。它解决的是一个特别具体的现场问题：檩条是简支在刚架斜梁上的受弯构件，跨度一大、自重加拉杆自重，中间就会往下垂（sag）；再叠上风吸力，檩条下翼缘受压还会侧向扭转（lateral torsional buckling）。sag rod 一拉，等于在跨中加了一个弹性支点——下垂被吊住、扭转被约束，檩条就能用更薄的规格。两种装法：hanging type 吊挂式（杆从屋脊脊檩往下吊住每根檩条，受拉）与 strut type 撑顶式（杆从檐口往上顶住，受压，需按 strut（第 34 期受压杆件）验长细比）；常规做法是每跨设 1~2 道、沿坡向通长，用花篮螺栓（turnbuckle）张紧，两端配垫板 + 螺母，穿檩条腹板（web，第 21 期）处留孔。与已学构件连线：rafter（第 9 期斜梁）承重 → purlin 承屋面 → sag rod 稳住 purlin → bracing（第 3 期支撑）稳住整体，一条\"从主到次、从重到轻\"的传力与稳定链。红线三条：① sag rod 只抗拉（吊挂式）不抗压，别拿它当支撑杆用；撑顶式则必须验长细比，细杆受压极易失稳；② 张紧度要写进安装（erection，第 6 期）交底：松了等于没装，紧了会把檩条拉变形；规范常说\"用手能轻推晃动即过松\"；③ 开孔位置别打在檩条跨中弯矩最大处的翼缘上，穿腹板、孔边距要留够。",
+      "collocation": "sag rod 檩条拉杆/吊杆；hanging type sag rod 吊挂式拉杆；strut type sag rod 撑顶式拉杆；turnbuckle 花篮螺栓（张紧件）；tension the sag rod 张紧拉杆；rod diameter 8 mm 拉杆直径 8 毫米；purlin 檩条（第 2 期）；lateral torsional buckling 侧向扭转屈曲；bracing 支撑（第 3 期）；strut 受压杆件（第 34 期）",
+      "examples": [
+        {
+          "en": "Without sag rods at mid-span, the 7.5-metre purlins sagged visibly under self-weight and twisted in the wind uplift, so we added two rows of 12 mm sag rods and tensioned them with turnbuckles.",
+          "zh": "跨中没有拉杆时，7.5 米檩条在自重下肉眼可见地下垂、风吸时还会扭转，所以我们加了两道 12 毫米拉杆并用花篮螺栓张紧。",
+          "audio": "audio/ex/sag-rod-1.mp3"
+        }
+      ],
+      "mnemonic": "sag 就是\"下垂\"（裤子松了往下垮就是 sag），sag rod 就是\"防下垂的杆\"——名字本身就是功能说明书。口诀：\"檩条怕坠，拉杆来吊；檩条怕扭，拉杆来抱。\" 联想吊床：一张吊床两头挂住还不够，中间再吊一根绳，人才不会陷下去——檩条就是那张吊床，sag rod 就是中间那根绳。顺带记牢 turnbuckle（花篮螺栓）：\"能拧的才叫张紧，不能拧的只是摆设。\"",
+      "issue": 52,
+      "date": "2026-11-07",
+      "theme": "大跨屋面的檩条被风掀得往下坠——加一道 sag rod 拉杆把檩条\"吊\"回屋脊，受力立刻清爽 → 客户大堂要档次，吊顶做成 coffer 井格，一格一格的密肋梁把设备管线藏进去 → 合同签完，客户先打 30% 预付款，我们得同步开出 advance payment bond 预付款保函做对等担保 → 客户一行落地，前台递上 welcome kit 接待资料袋（胸卡、行程、Wi-Fi、安全须知）→ 月底复盘不看营收看 net margin 净利率，钱到底落了多少在兜里",
+      "gloss": "拉杆、吊杆（檩条拉杆/系杆）",
+      "category": "钢结构",
+      "audio": "audio/sag-rod.mp3"
+    },
+    {
+      "word": "coffer",
+      "phonetic": "/ˈkɒfə(r)/",
+      "meaning": "由纵横密肋（beam/rib）交织成一个个方形凹格（recessed panel）的顶棚或楼板构造，中文\"井格顶棚、格子天花、密肋楼盖\"。建筑上它是\"结构即装饰\"的经典手法：梁格本身承担楼板或屋面的受力，凹进去的格子又天然形成阴影和节奏，大堂、宴会厅、门厅（portico 门廊内）一抬头就是这种\"一格一格\"的秩序感。工程上它的真正价值在于藏：灯具、喷淋、烟感、风口、音响全部收进格子或肋底，吊顶净高不被压掉；密肋楼盖（waffle slab）还能在同等混凝土用量下拿到更大的跨度与刚度。词源很好记：coffer 本义是\"箱子、保险箱\"——金库墙上那种一格一格的储物格，和井格顶棚长得一模一样，所以同一个词身兼两义。与已学空间词分工：atrium（第 20 期中庭）管\"竖向通高空间\"、clerestory（第 47 期高侧窗）管\"顶部采光\"、coffer 管\"顶面的肌理与藏设备\"；材料上有 GRG（玻璃纤维增强石膏）现制、铝板格栅、木饰面密肋 三种常见做法。红线三条：① coffer 深度直接吃掉净高，方案阶段就要和吊顶标高、消防喷淋覆盖半径一起算，别等机电综合（MEP coordination）时才发现管线塞不进去；② 大空间井格顶棚检修口（access panel）必须按格子模数排，否则后期维修要拆整格；③ 声学上凹格容易形成回声聚焦，影院、会议室慎用浅格大平面，需配吸声。",
+      "collocation": "coffered ceiling 井格顶棚；coffer 井格、凹格；coffered slab / waffle slab 密肋楼盖；rib 密肋；recessed panel 凹格板；GRG coffer 玻璃纤维石膏井格；coffer depth 井格深度；access panel 检修口；MEP coordination 机电综合；atrium 中庭（第 20 期）；clerestory 高侧窗（第 47 期）",
+      "examples": [
+        {
+          "en": "The coffered ceiling in the lobby hides the sprinkler mains and downlights inside the ribs, so we kept a clear height of 4.2 metres without dropping the whole ceiling.",
+          "zh": "大堂的井格顶棚把喷淋干管和筒灯都收进密肋里，因此我们保住了 4.2 米的净高，而没有整体降板吊顶。",
+          "audio": "audio/ex/coffer-1.mp3"
+        }
+      ],
+      "mnemonic": "coffer = 保险箱 = 一格一格的柜子——把\"金库墙上的储物格\"横过来贴到天花板上，就是井格顶棚。一个词两个意思，靠\"格子\"这个共同画面绑在一起。口诀：\"肋是骨架，格是抽屉；设备进抽屉，净高留给你。\" 汇报时说一句 \"a coffered ceiling that works as structure, not just decoration\"（既是结构也是装饰的井格顶棚），专业感立刻上来。",
+      "issue": 52,
+      "date": "2026-11-07",
+      "theme": "大跨屋面的檩条被风掀得往下坠——加一道 sag rod 拉杆把檩条\"吊\"回屋脊，受力立刻清爽 → 客户大堂要档次，吊顶做成 coffer 井格，一格一格的密肋梁把设备管线藏进去 → 合同签完，客户先打 30% 预付款，我们得同步开出 advance payment bond 预付款保函做对等担保 → 客户一行落地，前台递上 welcome kit 接待资料袋（胸卡、行程、Wi-Fi、安全须知）→ 月底复盘不看营收看 net margin 净利率，钱到底落了多少在兜里",
+      "gloss": "井格顶棚、密肋梁格；保险箱",
+      "category": "建筑设计",
+      "audio": "audio/coffer.mp3"
+    },
+    {
+      "word": "advance payment bond",
+      "phonetic": "/ədˈvɑːns ˈpeɪmənt bɒnd/",
+      "meaning": "承包商/供货商收到业主预付款（advance payment）后，向业主提供的、保证\"这笔钱会按合同用于本项目\"的银行保函，中文\"预付款保函、预付款还款保函\"。它的逻辑是对等担保：业主先掏钱有风险（怕你拿了钱不干活、跑路），所以要一张银行出具的保函兜底；一旦承包商违约或挪用，业主可凭保函索回未抵扣的预付款。金额通常等于预付款额，并随进度款逐步扣回（amortise / deduct）而递减——这一步非常关键：保函是\"活\"的，不是签一次管到底，实务上要求每期进度款（progress payment，第 48 期）后同步出具减额证明或换开小面额保函。放进四大保函时间线（这条线现在齐了）：bid bond（第 47 期投标保函）→ advance payment bond 预付款保函 → performance bond（第 43 期履约保函）→ retention bond（质保保函），一棒接一棒，覆盖\"投标→开工拿钱→履约→保修\"全过程。红线四条：① 保函措辞优先\"见索即付（on demand / unconditional）\"还是\"有条件（conditional）\"——业主一定想要前者，承包商要争取后者或至少加\"须提供违约证据\"；② 有效期必须覆盖到预付款全额扣完，写\"until full amortisation\"而不是写死一个日期，否则扣款没完保函先过期，业主会要求续期；③ 保函手续费与保证金占用要算进报价，海外项目这笔不小；④ 别把预付款当利润花掉——它是\"借款\"，退场时要还或扣。",
+      "collocation": "advance payment bond (APG) 预付款保函；advance payment guarantee 预付款保证；on demand / unconditional bond 见索即付保函；amortise the advance 抵扣预付款；reduce the bond amount 保函减额；valid until full amortisation 有效期至全额抵扣完毕；bid bond 投标保函（第 47 期）；performance bond 履约保函（第 43 期）；retention bond 质保保函；progress payment 进度款（第 48 期）",
+      "examples": [
+        {
+          "en": "The client released a 20% advance payment against our advance payment bond, and the bond amount is reduced every month in line with the value of work certified.",
+          "zh": "业主凭我们的预付款保函支付了 20% 预付款，保函金额随后按每月已确认的工程产值同步递减。",
+          "audio": "audio/ex/advance-payment-bond-1.mp3"
+        }
+      ],
+      "mnemonic": "顺序背下来就永远不会混：投标要 bid bond、拿钱要 advance payment bond、干活要 performance bond、保修要 retention bond——\"先押标、再押钱、后押活、末押修\"。一句话点透本质：\"业主先给钱，就得有人替他担保这钱不会被拿走。\" 谈判时只盯一件事：保函金额是不是跟着扣款往下走——不减额的保函等于把公司授信白送出去。",
+      "issue": 52,
+      "date": "2026-11-07",
+      "theme": "大跨屋面的檩条被风掀得往下坠——加一道 sag rod 拉杆把檩条\"吊\"回屋脊，受力立刻清爽 → 客户大堂要档次，吊顶做成 coffer 井格，一格一格的密肋梁把设备管线藏进去 → 合同签完，客户先打 30% 预付款，我们得同步开出 advance payment bond 预付款保函做对等担保 → 客户一行落地，前台递上 welcome kit 接待资料袋（胸卡、行程、Wi-Fi、安全须知）→ 月底复盘不看营收看 net margin 净利率，钱到底落了多少在兜里",
+      "gloss": "预付款保函（APG）",
+      "category": "外贸",
+      "audio": "audio/advance-payment-bond.mp3"
+    },
+    {
+      "word": "welcome kit",
+      "phonetic": "/ˈwelkəm kɪt/",
+      "meaning": "客户、考察团或新员工到访时，事先备好并当面递上的一整套\"见面物料\"，中文\"接待资料袋、欢迎礼包、到访资料包\"。它是接待工作里性价比最高的一件小事：成本几百块，但直接把\"我们很专业、很重视你\"这件事做成了可触摸的东西。标准配置（B2B 工厂/工程接待版）：胸卡与访客证（visitor badge，含姓名、公司、陪同人）、当日行程（itinerary，第 1 期）与工厂平面图、公司与产品宣传册（brochure，第 25 期）、安全须知与劳保用品（PPE：安全帽、反光背心、护目镜）、笔记本与笔、Wi-Fi 账号卡、小瓶水/湿巾、伴手礼（branded gift）。客户接待（reception，第 14 期）全流程里的位置：接机（pick-up，第 4 期）→ 酒店入住（accommodation，第 10 期）→ 次日到厂递 welcome kit → 参观动线 → 会谈 → 宴请（banquet，第 9 期）→ 送机；welcome kit 就发生在\"车门打开到走进会议室\"这十五分钟，是建立第一印象（first impression）的黄金窗口。高阶细节三条：① 提前按人头备好、写好名字——现场现找现写，专业感全无；② 多语言版本：非洲/中东客户至少备英文，重要项目加法语/阿拉伯语；③ 安全须知必须签收——既是礼貌，也是进场安全责任划分的证据（与 induction（第 33 期入场安全教育）配套）。",
+      "collocation": "welcome kit / welcome pack 接待资料袋；visitor badge 访客胸卡；itinerary 行程表（第 1 期）；company brochure 公司宣传册（第 25 期）；safety briefing sheet 安全须知单页；PPE (helmet, vest, goggles) 劳保用品；branded gift 定制伴手礼；factory tour route 参观动线；reception 接待（第 14 期）；escort 陪同（第 30 期）",
+      "examples": [
+        {
+          "en": "We prepare a welcome kit for every visitor with a named badge, the day's itinerary, the plant layout and a signed safety briefing, so the tour starts on time and nobody walks into the workshop without a helmet.",
+          "zh": "我们为每位来访者准备接待资料袋，内含具名胸卡、当日行程、厂区平面图与签收过的安全须知，这样参观能准时开始，也不会有人不戴安全帽就进车间。",
+          "audio": "audio/ex/welcome-kit-1.mp3"
+        }
+      ],
+      "mnemonic": "kit = 一套配好的工具包（工具箱就叫 kit）——welcome kit 就是\"欢迎工具箱\"：把\"我们重视你\"这句话拆成胸卡、行程、手册、安全帽，装进一个袋子递过去。口诀：\"嘴上说欢迎，不如手里有东西。\" 记住接待的黄金十五分钟：\"从车门到会议室，客户对这家公司的判断基本已经定型。\" 反过来，最掉价的做法只有一个——客户都坐下了，你还在复印资料装袋。",
+      "issue": 52,
+      "date": "2026-11-07",
+      "theme": "大跨屋面的檩条被风掀得往下坠——加一道 sag rod 拉杆把檩条\"吊\"回屋脊，受力立刻清爽 → 客户大堂要档次，吊顶做成 coffer 井格，一格一格的密肋梁把设备管线藏进去 → 合同签完，客户先打 30% 预付款，我们得同步开出 advance payment bond 预付款保函做对等担保 → 客户一行落地，前台递上 welcome kit 接待资料袋（胸卡、行程、Wi-Fi、安全须知）→ 月底复盘不看营收看 net margin 净利率，钱到底落了多少在兜里",
+      "gloss": "接待资料袋、欢迎礼包",
+      "category": "客户接待",
+      "audio": "audio/welcome-kit.mp3"
+    },
+    {
+      "word": "net margin",
+      "phonetic": "/net ˈmɑːdʒɪn/",
+      "meaning": "净利润（net profit）占营业收入的百分比，中文\"净利率、销售净利率\"，公式：net margin = net profit ÷ revenue × 100%（revenue 营收，第 44 期）。它和已学的 gross margin（第 45 期毛利率） 分工非常清楚，这是财务口径里最容易混的一对：gross margin 只扣直接成本（材料、人工、加工费），net margin 要把管理费、销售费、财务费用、税、利息全扣完——毛利率是\"这门生意本身赚不赚\"，净利率是\"这家公司最后剩多少\"。串成一条瀑布（waterfall）最好记：revenue 营收 → 减直接成本 → gross profit 毛利 → 减期间费用/财务费用 → operating profit 营业利润 → 减税与利息 → net profit 净利 → ÷ revenue = net margin。行业参考：钢结构加工制造通常 gross margin 12%~20%、net margin 3%~8%；海外 EPC 总包 net margin 常在 3%~6%，一个汇率波动或一笔误期违约金（liquidated damages，第 45 期）就能吃掉全部净利——这就是为什么海外项目要盯 net margin 而不是合同额。口语表达：\"top line 营收（第一行）、bottom line 净利（最后一行）\"，\"the bottom line is...\" 在商务语境里就是\"说到底/最终结论是\"。红线两条：① 不同口径不能混比——有人拿 markup（第 46 期加成率）和 margin 对比，有人拿毛利率冒充净利率，谈判桌上很常见，务必问清\"which margin\"；② 报 net margin 一定要连带说口径（税前/税后、含不含总部管理费分摊），否则数字看着漂亮、实际不同项目不可比。",
+      "collocation": "net margin / net profit margin 净利率；gross margin 毛利率（第 45 期）；operating margin 营业利润率；top line 营收；bottom line 净利/最终结论；margin compression 利润率被压缩；thin margin 薄利；margin erosion 利润侵蚀；revenue 营业收入（第 44 期）；markup 加成率（第 46 期）",
+      "examples": [
+        {
+          "en": "Our contract revenue grew 18% last year, but the net margin slipped from 6.2% to 4.1% because of higher freight and two weeks of liquidated damages.",
+          "zh": "去年合同营收增长了 18%，但净利率从 6.2% 滑到 4.1%，原因是运费上涨加两周误期违约金。",
+          "audio": "audio/ex/net-margin-1.mp3"
+        }
+      ],
+      "mnemonic": "\"gross 是毛、net 是净\"——毛的不算数，净的才是钱。 一句口诀分层：\"毛利率看你手艺，净利率看你过日子。\" 最形象的说法：营收是水池进水量，毛利是水面高度，净利是底下真正存住的那一层——中间那些管理费、利息、税全是\"渗漏\"。做海外项目的人记一句就够：\"合同额是面子，净利率是里子。\"",
+      "issue": 52,
+      "date": "2026-11-07",
+      "theme": "大跨屋面的檩条被风掀得往下坠——加一道 sag rod 拉杆把檩条\"吊\"回屋脊，受力立刻清爽 → 客户大堂要档次，吊顶做成 coffer 井格，一格一格的密肋梁把设备管线藏进去 → 合同签完，客户先打 30% 预付款，我们得同步开出 advance payment bond 预付款保函做对等担保 → 客户一行落地，前台递上 welcome kit 接待资料袋（胸卡、行程、Wi-Fi、安全须知）→ 月底复盘不看营收看 net margin 净利率，钱到底落了多少在兜里",
+      "gloss": "净利率、净利润率",
+      "category": "职场",
+      "audio": "audio/net-margin.mp3"
     }
   ]
 }
