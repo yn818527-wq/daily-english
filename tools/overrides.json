@@ -1039,5 +1039,25 @@
   "net margin": {
     "gloss": "净利率、净利润率",
     "category": "职场"
+  },
+  "girt": {
+    "gloss": "墙梁（围护墙横梁）",
+    "category": "钢结构"
+  },
+  "clear height": {
+    "gloss": "净高、净空高度",
+    "category": "建筑设计"
+  },
+  "retention bond": {
+    "gloss": "质保保函（保修保函）",
+    "category": "外贸"
+  },
+  "hands-on": {
+    "gloss": "亲力亲为的、实操的",
+    "category": "职场"
+  },
+  "factory tour": {
+    "gloss": "工厂参观、验厂",
+    "category": "客户接待"
   }
 }

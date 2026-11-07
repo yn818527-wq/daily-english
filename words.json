@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07",
-  "total": 260,
+  "updated": "2026-11-08",
+  "total": 265,
   "words": [
     {
       "word": "truss",
@@ -5301,6 +5301,106 @@
       "gloss": "净利率、净利润率",
       "category": "职场",
       "audio": "audio/net-margin.mp3"
+    },
+    {
+      "word": "girt",
+      "phonetic": "/ɡɜːt/",
+      "meaning": "沿墙面水平方向、固定在钢柱外侧、用来挂墙面板（cladding，第 10 期）的横向次构件，中文\"墙梁、墙檩、围护墙横梁\"。它和 purlin（第 2 期）是同一种东西，只是位置不同：屋面上的叫 purlin，墙面上的叫 girt——一句话记住这对搭档：\"Purlin holds the roof, girt holds the wall.\"（檩条托屋顶，墙梁挂墙面。）受力上它比檩条更\"杂\"：除了自重和墙板重，还要承受风压/风吸（wind pressure / suction）、墙板传来的温度变形，以及门窗洞口两侧的集中荷载，所以洞口上下要加 girt 作过梁与窗台梁，与 lintel（第 39 期过梁）、sill（第 43 期窗台）配合。常见形式：C 型/Z 型冷弯薄壁钢（cold-formed C or Z section）、角钢、矩管；间距（spacing）通常 1.2~1.5 米，与墙板（sandwich panel 夹芯板，第 26 期）的竖向排板模数对齐。红线三条：① girt 的开口方向要背向墙板（开口朝内），否则墙板贴不平、积水藏锈；② 门窗洞口处必须设双拼或加厚 girt，且洞口四角要加隅撑/加劲，风吸时这里先坏；③ 墙梁与柱的连接常用滑动（slotted）孔，允许竖向变形释放，别全焊死——焊死了墙板会被拉裂。",
+      "collocation": "wall girt / side rail 墙梁；roof purlin 屋面檩条（第 2 期）；girt spacing 墙梁间距；cold-formed C section C 型冷弯型钢；slotted hole 长圆孔（滑动连接）；cladding 墙面板（第 10 期）；wind suction 风吸力；lintel 过梁（第 39 期）；sill 窗台（第 43 期）",
+      "examples": [
+        {
+          "en": "We set the girts at 1.2-metre centres to match the panel module, and doubled them around every door opening because that is where wind suction pulls hardest.",
+          "zh": "我们把墙梁间距定在 1.2 米以对齐板模数，并在每个门洞周边做双拼加密，因为那里风吸力最大。",
+          "audio": "audio/ex/girt-1.mp3"
+        }
+      ],
+      "mnemonic": "girt 和 purlin 是一对双胞胎，只差\"站在哪儿\"——趴着的是 purlin（屋顶），站着的是 girt（墙面）。发音小陷阱：girt 只有一个音节 /ɡɜːt/，别读成 \"gir-t\"。口诀：\"屋有檩、墙有梁；板要平、梁要滑。\" 画图时在墙上横着画一排短线，那就是 girt——有墙板的地方，每隔一米二就有一根。",
+      "issue": 53,
+      "date": "2026-11-08",
+      "theme": "屋面用 purlin 檩条、墙面就得配 girt 墙梁——围护体系的\"横撑\"一对 → 客户要把设备开进厂房，问的第一个数是 clear height 净高，不是建筑面积 → 质保期开始了，质保金要换成 retention bond 质保保函才能把现金放回来 → 带客户下车间，讲方案的人得 hands-on 亲手摸过设备才讲得实 → 一圈走完就是一次 factory tour 工厂参观，动线比话术重要",
+      "gloss": "墙梁（围护墙横梁）",
+      "category": "钢结构",
+      "audio": "audio/girt.mp3"
+    },
+    {
+      "word": "clear height",
+      "phonetic": "/klɪə haɪt/",
+      "meaning": "从楼地面（finished floor level）到上方最低障碍物（梁底、吊顶底、风管底、灯具底）之间的垂直可用距离，中文\"净高、净空高度\"。它是建筑与工业厂房里最容易被业主拿来验收、也最容易被设计院忽略的一个数。三层区分必须讲清（这是专业度的分水岭）：floor-to-floor height 层高（本层地面到上层地面）→ structural height 结构高度（地面到梁底）→ clear height 净高（地面到最低障碍物底）；三者关系：层高 减 梁高 减 机电管线 减 吊顶 = 净高。为什么它对我们的业务特别关键：模块化房屋、集装箱房、钢结构厂房，客户真正的使用需求全是按 clear height 提的——厂房要 8 米净高才开得进行车（crane，第 12 期）；仓库要 9 米净高才放得下 5 层货架；冷库、数据中心对净高更敏感。与已学词连线：eaves（第 30 期檐口高度）是从室外看的高度，clear height 是从室内用的高度——同一个厂房，eaves height 9 米，但因屋架下弦和檩条占了空间，clear height 可能只有 7.8 米，报价前必须问清是哪个。红线三条：① 合同里写 clear height 一定要加\"to the lowest obstruction\"，否则争议时对方按梁底、你按檩条底，差 400 mm 就是返工；② 净高要预留消防喷淋、桥架、风管的综合空间（一般 600~900 mm），方案阶段就要做机电综合；③ 门洞净高（clear opening height）单独算，别拿室内净高当门高用。",
+      "collocation": "clear height 净高；clear opening height 门洞净高；floor-to-floor height 层高；finished floor level (FFL) 建筑完成面标高；lowest obstruction 最低障碍物；under-beam clearance 梁下净空；eaves height 檐口高度（第 30 期）；headroom 头顶净空；crane 行车（第 12 期）",
+      "examples": [
+        {
+          "en": "The client needs a clear height of nine metres for the racking, so we raised the eaves and moved the sprinkler mains into the haunch zone instead of dropping the ceiling.",
+          "zh": "客户为放货架需要 9 米净高，所以我们抬高了檐口，并把喷淋干管挪进加腋区，而不是压低吊顶。",
+          "audio": "audio/ex/clear-height-1.mp3"
+        }
+      ],
+      "mnemonic": "clear = 清清爽爽、没有东西挡着——clear height 就是\"头顶上真正空出来的那段\"。一句话分清三个高度：\"层高是从地板量到上一层的脚，结构高度量到梁的脚，净高量到管子的脚。\" 谈判时最有用的一句反问：\"Clear height to what — the beam soffit or the sprinkler pipe?\"（净高是量到梁底还是喷淋管底？）——问出这句，对方立刻知道你干过现场。",
+      "issue": 53,
+      "date": "2026-11-08",
+      "theme": "屋面用 purlin 檩条、墙面就得配 girt 墙梁——围护体系的\"横撑\"一对 → 客户要把设备开进厂房，问的第一个数是 clear height 净高，不是建筑面积 → 质保期开始了，质保金要换成 retention bond 质保保函才能把现金放回来 → 带客户下车间，讲方案的人得 hands-on 亲手摸过设备才讲得实 → 一圈走完就是一次 factory tour 工厂参观，动线比话术重要",
+      "gloss": "净高、净空高度",
+      "category": "建筑设计",
+      "audio": "audio/clear-height.mp3"
+    },
+    {
+      "word": "retention bond",
+      "phonetic": "/rɪˈtenʃn bɒnd/",
+      "meaning": "用银行保函替代业主扣留的质保金（retention，第 33 期）的担保文件，中文\"质保保函、保修保函、质量保证金保函\"。逻辑一句话：业主本来要每个月扣你 5%~10% 的工程款压在手里，扣到竣工；你若能开出一张等额的 retention bond，业主就把现金还给你，只留一张纸。 对承包商的意义是现金流：一笔 1000 万的合同，10% 质保金就是 100 万趴在别人账上一年半——换成保函，只付 1%~2% 的手续费。 它补齐了四大保函时间线的最后一棒，现在这一串完整了：bid bond（第 47 期投标保函）→ advance payment bond（第 52 期预付款保函）→ performance bond（第 43 期履约保函）→ retention bond 质保保函，口诀\"押标、押钱、押活、押修\"。三个时间概念要分清（高频混淆点）：retention 质保金（钱）→ retention bond 质保保函（替代钱的纸）→ defects liability period 缺陷责任期（第 38 期，时间）→ warranty 质保期（第 14 期，更长的承诺）。红线四条：① 保函金额要写\"递减\"或\"分段释放\"——常见做法是竣工时释放一半、缺陷责任期满释放另一半，别签成\"一次性全额到期满\"；② 保函有效期必须覆盖 DLP（缺陷责任期）全程再加 28~90 天索兑缓冲，否则期满前一天业主提索赔你没时间应对；③ 警惕\"见索即付 + 无有效期\"的组合，那等于无限期敞口；④ 保函到期前 3 个月就要启动续期或释放谈判，过期未续会被业主视为违约。",
+      "collocation": "retention bond / retention guarantee 质保保函；maintenance bond 保修保函（美式）；retention 质保金（第 33 期）；release the retention 释放质保金；defects liability period (DLP) 缺陷责任期（第 38 期）；performance bond 履约保函（第 43 期）；bid bond 投标保函（第 47 期）；advance payment bond 预付款保函（第 52 期）；bank guarantee fee 保函手续费",
+      "examples": [
+        {
+          "en": "Instead of letting the client hold ten per cent retention for eighteen months, we issued a retention bond and got the cash back, paying only a small guarantee fee.",
+          "zh": "我们没有让业主扣留 10% 质保金十八个月，而是开了一张质保保函把现金换回来，只付了一笔不大的保函手续费。",
+          "audio": "audio/ex/retention-bond-1.mp3"
+        }
+      ],
+      "mnemonic": "retention 就是\"扣住不放\"（retain = 保留），retention bond 就是\"用一张纸替换被扣住的钱\"。四大保函连着背一遍就再也不会混：\"投标押标、拿钱押钱、干活押活、保修押修。\" 商业本质一句话：\"业主想要的是安全感，不是你的现金——给他纸，把钱拿回来。\" 谈合同时只问一句：\"Can we substitute a retention bond for cash retention?\"——这一句常常值几十万现金流。",
+      "issue": 53,
+      "date": "2026-11-08",
+      "theme": "屋面用 purlin 檩条、墙面就得配 girt 墙梁——围护体系的\"横撑\"一对 → 客户要把设备开进厂房，问的第一个数是 clear height 净高，不是建筑面积 → 质保期开始了，质保金要换成 retention bond 质保保函才能把现金放回来 → 带客户下车间，讲方案的人得 hands-on 亲手摸过设备才讲得实 → 一圈走完就是一次 factory tour 工厂参观，动线比话术重要",
+      "gloss": "质保保函（保修保函）",
+      "category": "外贸",
+      "audio": "audio/retention-bond.mp3"
+    },
+    {
+      "word": "hands-on",
+      "phonetic": "/ˌhændz ˈɒn/",
+      "meaning": "形容一个人或一种管理风格\"亲自上手做、不只在纸上指挥\"，中文\"亲力亲为的、动手能力强的、实操性强的\"。它有两层用法，都很高频：① 形容人：a hands-on manager / engineer（凡事到现场、能自己动手的经理/工程师）；② 形容事物：hands-on experience / training（实操经验、动手培训），与 theoretical（理论的）、desk-based（坐办公室的） 相对。为什么工程和外贸场景特别爱用它：客户判断你专不专业，往往不看 PPT，而看你敢不敢蹲下去摸一摸焊缝（weld，第 7 期）、能不能当场说出螺栓扭矩（torque，第 13 期）值。三种常见搭配的细微差别：hands-on experience 实操经验（简历高频）｜hands-on approach 亲自抓的做法｜hands-on training 动手培训（区别于课堂讲授）。写作小陷阱：它是形容词，永远放在名词前或系动词后（She is very hands-on.），不能当动词用——别说 \"I hands-on the project\"。同族延伸：hands-off 放手不管的（与 micromanage 第 39 期微观管理正好相反的管理风格）、handover（第 12 期移交，词根同样是 hand）。",
+      "collocation": "hands-on experience 实操经验；hands-on manager 亲力亲为的管理者；hands-on training 动手培训；hands-on approach 亲自抓的做法；a hands-on role 需要动手的岗位；hands-off management 放手式管理；roll up your sleeves 撸起袖子干；micromanage 微观管理（第 39 期）",
+      "examples": [
+        {
+          "en": "Our best proposal engineers are hands-on: they have welded a sample, tensioned a sag rod and stood on site in the rain, so when they explain a detail the client believes them.",
+          "zh": "我们最好的方案工程师都是亲力亲为的：他们焊过样件、拉过檩条拉杆、也在雨里站过工地，所以当他们讲解节点时客户会信。",
+          "audio": "audio/ex/hands-on-1.mp3"
+        }
+      ],
+      "mnemonic": "hands-on = 手放在上面 = 真的动手碰过，画面感极强；反义词 hands-off = 手拿开 = 只动嘴。口诀：\"hand 在上面是本事，hand 拿开是级别，hand 伸太长是 micromanage。\" 简历和面试里最好用的一句：\"I am hands-on from the shop drawing to the site.\"（从深化图到现场我都亲手跟。）——比空写\"责任心强\"有说服力得多。",
+      "issue": 53,
+      "date": "2026-11-08",
+      "theme": "屋面用 purlin 檩条、墙面就得配 girt 墙梁——围护体系的\"横撑\"一对 → 客户要把设备开进厂房，问的第一个数是 clear height 净高，不是建筑面积 → 质保期开始了，质保金要换成 retention bond 质保保函才能把现金放回来 → 带客户下车间，讲方案的人得 hands-on 亲手摸过设备才讲得实 → 一圈走完就是一次 factory tour 工厂参观，动线比话术重要",
+      "gloss": "亲力亲为的、实操的",
+      "category": "职场",
+      "audio": "audio/hands-on.mp3"
+    },
+    {
+      "word": "factory tour",
+      "phonetic": "/ˈfæktəri tʊə(r)/",
+      "meaning": "客户或考察团到生产现场按预设路线走一圈、看设备与工艺、并借此判断供应商能力的商务活动，中文\"工厂参观、验厂、车间走访\"。它和 site visit（第 8 期现场考察）要分清：site visit 看的是\"工地/项目现场\"，factory tour 看的是\"工厂/生产车间\"——一个看你干得怎么样，一个看你造得怎么样；海外客户通常两个都要：先 factory tour 确认产能与工艺，再 site visit 看已交付项目的实际效果。一次成功的 factory tour 靠三件事，顺序不能反：① route 动线——按\"原料进 → 下料切割 → 组立焊接 → 除锈涂装（coating，第 28 期）→ 预拼装 → 包装发运\"的工艺顺序走，让客户自己看出逻辑；② proof 证据——在关键工位停 3 分钟，给看检测报告（NDT，第 48 期）、扭矩记录、涂层测厚仪读数，比嘴上说一百句有用；③ close 收口——参观完立刻坐下来谈，趁印象热的时候过报价与交期。 配套动作：welcome kit（第 52 期接待资料袋）→ 安全须知签收 + 安全帽（induction，第 33 期）→ factory tour → 会谈 → 宴请（banquet，第 9 期）。红线三条：① 动线绝不走回头路、不穿交叉作业区，安全和专业感都在这里；② 提前清理在制品与废料、把不良品移出视线——客户看不到的等于不存在，看到的等于全部；③ 每个停靠点指定讲解人，别让销售讲工艺、技术讲价格，讲解人错了整场白走。",
+      "collocation": "factory tour / plant tour 工厂参观；guided tour 有讲解的参观；tour route 参观动线；showroom 样品展厅（第 48 期）；site visit 现场考察（第 8 期）；due diligence visit 尽职调查走访；visitor badge 访客证；PPE 劳保用品；production line 生产线；work-in-progress (WIP) 在制品",
+      "examples": [
+        {
+          "en": "The factory tour runs along the process route from cutting to painting, and we stop at the welding bay to show the NDT reports before anyone is allowed to talk about price.",
+          "zh": "工厂参观沿\"下料—涂装\"的工艺路线进行，我们在焊接工位停下来先看无损检测报告，然后才允许谈价格。",
+          "audio": "audio/ex/factory-tour-1.mp3"
+        }
+      ],
+      "mnemonic": "tour 不只是\"旅游\"，它的本义是\"绕一圈\"——factory tour 就是\"带着客户绕厂一圈\"。一句话记住它和 site visit 的分工：\"Factory tour 看你造得怎么样，site visit 看你干得怎么样。\" 操盘口诀：\"动线顺、证据硬、收口快。\" 最实用的一条经验：参观时让客户的手也动起来——递一块样板（sample，第 11 期）让他掂掂重量、摸摸涂层，手一碰，信任就建立了，这也是 hands-on 的另一种用法。",
+      "issue": 53,
+      "date": "2026-11-08",
+      "theme": "屋面用 purlin 檩条、墙面就得配 girt 墙梁——围护体系的\"横撑\"一对 → 客户要把设备开进厂房，问的第一个数是 clear height 净高，不是建筑面积 → 质保期开始了，质保金要换成 retention bond 质保保函才能把现金放回来 → 带客户下车间，讲方案的人得 hands-on 亲手摸过设备才讲得实 → 一圈走完就是一次 factory tour 工厂参观，动线比话术重要",
+      "gloss": "工厂参观、验厂",
+      "category": "客户接待",
+      "audio": "audio/factory-tour.mp3"
     }
   ]
 }
