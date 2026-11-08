@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08",
-  "total": 265,
+  "updated": "2026-11-09",
+  "total": 270,
   "words": [
     {
       "word": "truss",
@@ -5401,6 +5401,106 @@
       "gloss": "工厂参观、验厂",
       "category": "客户接待",
       "audio": "audio/factory-tour.mp3"
+    },
+    {
+      "word": "wind column",
+      "phonetic": "/ˈwɪnd ˌkɒləm/",
+      "meaning": "抗风柱；山墙处承受风荷载、把水平力传给基础的竖向构件，减轻门式刚架端刚架的负担。",
+      "collocation": "wind column on the gable wall（山墙上的抗风柱）、space the wind columns at 6 m（抗风柱按 6 米间距布置）、wind column vs. rigid frame（抗风柱与刚架的分工）。",
+      "examples": [
+        {
+          "en": "The wind columns on both gable walls are spaced at 6 meters to transfer wind load down to the foundations.",
+          "zh": "两侧山墙的抗风柱按 6 米间距布置，把风荷载传到基础上。",
+          "audio": "audio/ex/wind-column-1.mp3"
+        }
+      ],
+      "mnemonic": "portal frame（第 8 期）管跨中承重，wind column 专管山墙挡风——\"刚架扛屋顶，抗风柱扛山风\"。它是 column（第 11 期）家族里唯一\"主业是抗风不承重\"的成员，写在 gable（第 24 期）内侧、上下端均为铰接或弹簧板连接。",
+      "issue": 54,
+      "date": "2026-11-09",
+      "theme": "",
+      "gloss": "抗风柱（山墙承受风荷载的竖向构件）",
+      "category": "钢结构",
+      "audio": "audio/wind-column.mp3"
+    },
+    {
+      "word": "formwork",
+      "phonetic": "/ˈfɔːmwɜːk/",
+      "meaning": "模板；混凝土浇筑前围合成型的临时模具，包含面板、龙骨和支撑体系，浇筑拆模后周转使用。",
+      "collocation": "erect and strip the formwork（支模与拆模）、formwork for the pile cap（桩承台模板）、steel formwork vs. timber formwork（钢模板与木模板）、formwork oil / release agent（脱模剂）。",
+      "examples": [
+        {
+          "en": "The pile cap formwork was stripped three days after pouring, once the concrete reached its stripping strength.",
+          "zh": "桩承台模板在浇筑三天、混凝土达到拆模强度后拆除。",
+          "audio": "audio/ex/formwork-1.mp3"
+        }
+      ],
+      "mnemonic": "form（成型）+ work（作业）= 让混凝土\"成型\"的作业体系。与 footing（第 23 期）、pile cap（第 39 期）、curing（第 51 期）连线：支模 → 浇筑 → 养护 → 拆模，四步一环扣一环，拆模强度没到绝不能 strip。",
+      "issue": 54,
+      "date": "2026-11-09",
+      "theme": "",
+      "gloss": "模板（混凝土成型的临时模具）",
+      "category": "工程施工",
+      "audio": "audio/formwork.mp3"
+    },
+    {
+      "word": "scale",
+      "phonetic": "/skeɪl/",
+      "meaning": "比例；图上线段长度与实物长度之比，如 1:100 表示图上 1 毫米代表实际 100 毫米；另有\"规模、比例尺\"义。",
+      "collocation": "draw the plan at 1:100 scale（平面图按 1:100 绘制）、scale drawing / to-scale model（按比例的图纸/模型）、a large-scale site plan（大比例总图）、out of scale（不成比例）。",
+      "examples": [
+        {
+          "en": "The general arrangement drawings are at 1:100 scale, while the connection details are shown at 1:20 for clarity.",
+          "zh": "总体布置图按 1:100 绘制，节点详图为清晰起见按 1:20 出图。",
+          "audio": "audio/ex/scale-1.mp3"
+        }
+      ],
+      "mnemonic": "口诀\"数字越大、图越袖珍\"：1:100 比 1:20 缩得更小，所以细部详图用小数字（大比例）。跟 floor plan（第 28 期）、shop drawing（第 21 期）搭配记：布置图看 1:100，节点图看 1:20，量图先看右下角的 scale 栏。",
+      "issue": 54,
+      "date": "2026-11-09",
+      "theme": "",
+      "gloss": "比例；图纸比例",
+      "category": "建筑设计",
+      "audio": "audio/scale.mp3"
+    },
+    {
+      "word": "exchange rate",
+      "phonetic": "/ɪksˈtʃeɪndʒ reɪt/",
+      "meaning": "汇率；两种货币之间的兑换比率，如 USD/CNY 7.2 表示 1 美元兑 7.2 元人民币，直接影响报价与收款的实际金额。",
+      "collocation": "quote in USD to avoid exchange rate risk（用美元报价规避汇率风险）、exchange rate fluctuation（汇率波动）、lock in the exchange rate（锁定汇率）、a sharp depreciation of the local currency（本币大幅贬值）。",
+      "examples": [
+        {
+          "en": "The quotation is valid for 30 days, as steel prices and the exchange rate may fluctuate during that period.",
+          "zh": "报价有效期为 30 天，因为在此期间钢价和汇率都可能波动。",
+          "audio": "audio/ex/exchange-rate-1.mp3"
+        }
+      ],
+      "mnemonic": "外贸报价三风险：price（涨价）、exchange rate（汇率）、freight（第 5 期运费）。给海外客户报价时把有效期写短、或注明 \"subject to exchange rate fluctuation\"，汇率一贬 3%，毛利率（第 45 期 gross margin）可能就没了——\"汇率是隐形的价格条款\"。",
+      "issue": 54,
+      "date": "2026-11-09",
+      "theme": "",
+      "gloss": "汇率（两种货币的兑换比率）",
+      "category": "外贸",
+      "audio": "audio/exchange-rate.mp3"
+    },
+    {
+      "word": "dress code",
+      "phonetic": "/ˈdres kəʊd/",
+      "meaning": "着装要求；特定场合对服装的规范，商务场合常见 smart casual（商务休闲）、business formal（正装），工地参观则要求安全装备。",
+      "collocation": "confirm the dress code with the client（与客户确认着装要求）、smart casual for the factory tour（参观工厂穿商务休闲）、business formal for the banquet（宴会着正装）、the dress code on site: helmet and safety boots（工地着装：安全帽与劳保鞋）。",
+      "examples": [
+        {
+          "en": "For tomorrow's factory tour, the dress code is smart casual, but please bring your own safety helmet and steel-toe boots.",
+          "zh": "明天的工厂参观着装要求是商务休闲，但请自备安全帽和钢头劳保鞋。",
+          "audio": "audio/ex/dress-code-1.mp3"
+        }
+      ],
+      "mnemonic": "接待场景一对搭档：会议室 dress code 是 smart casual，跨进车间 dress code 就换成 PPE（安全帽+反光背心+劳保鞋）。陪客户 site visit（第 8 期）前一句 \"Is there a dress code?\" 既是礼节（第 22 期 etiquette）也显专业——别让客户穿皮鞋踩进泥地。",
+      "issue": 54,
+      "date": "2026-11-09",
+      "theme": "",
+      "gloss": "着装要求",
+      "category": "职场接待",
+      "audio": "audio/dress-code.mp3"
     }
   ]
 }

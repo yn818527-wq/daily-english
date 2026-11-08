@@ -1059,5 +1059,25 @@
   "factory tour": {
     "gloss": "工厂参观、验厂",
     "category": "客户接待"
+  },
+  "wind column": {
+    "gloss": "抗风柱（山墙承受风荷载的竖向构件）",
+    "category": "钢结构"
+  },
+  "formwork": {
+    "gloss": "模板（混凝土成型的临时模具）",
+    "category": "工程施工"
+  },
+  "scale": {
+    "gloss": "比例；图纸比例",
+    "category": "建筑设计"
+  },
+  "exchange rate": {
+    "gloss": "汇率（两种货币的兑换比率）",
+    "category": "外贸"
+  },
+  "dress code": {
+    "gloss": "着装要求",
+    "category": "职场接待"
   }
 }
