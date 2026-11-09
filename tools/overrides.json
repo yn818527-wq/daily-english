@@ -1079,5 +1079,25 @@
   "dress code": {
     "gloss": "着装要求",
     "category": "职场接待"
+  },
+  "tie rod": {
+    "gloss": "系杆（刚架间受拉连系杆件）",
+    "category": "钢结构"
+  },
+  "expansion joint": {
+    "gloss": "伸缩缝（适应温度变形的通缝）",
+    "category": "工程"
+  },
+  "perspective": {
+    "gloss": "透视图；视角",
+    "category": "建筑设计"
+  },
+  "ETA": {
+    "gloss": "预计到达时间（Estimated Time of Arrival）",
+    "category": "外贸"
+  },
+  "deliverable": {
+    "gloss": "可交付成果（合同承诺的交付物）",
+    "category": "职场"
   }
 }

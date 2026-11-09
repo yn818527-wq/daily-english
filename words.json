@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09",
-  "total": 270,
+  "updated": "2026-11-10",
+  "total": 275,
   "words": [
     {
       "word": "truss",
@@ -5501,6 +5501,106 @@
       "gloss": "着装要求",
       "category": "职场接待",
       "audio": "audio/dress-code.mp3"
+    },
+    {
+      "word": "tie rod",
+      "phonetic": "/ˈtaɪ rɒd/",
+      "meaning": "系杆；连接两榀刚架（或柱顶）的水平受拉杆件，常设在檐口和屋脊处，把山墙风荷载与吊车水平力传递分配到相邻刚架，保证结构整体稳定。",
+      "collocation": "tie rod at the eaves and ridge（檐口与屋脊处的系杆）、install the tie rods between frames（在刚架间安装系杆）、tie rod with turnbuckle（带花篮螺栓的系杆）、tension the tie rods（张紧系杆）。",
+      "examples": [
+        {
+          "en": "Tie rods are installed at the eaves level between adjacent portal frames to transfer the gable wind load to the interior frames.",
+          "zh": "相邻门式刚架之间在檐口标高安装系杆，把山墙风荷载传给内部刚架。",
+          "audio": "audio/ex/tie-rod-1.mp3"
+        }
+      ],
+      "mnemonic": "tie（系、绑）+ rod（杆）= 把刚架\"绑\"成一排的杆。口诀：\"sag rod 吊檩条（第 52 期），tie rod 连刚架；strut 受压（第 34 期），tie rod 受拉\"。它和 wind column（第 54 期）是搭档：抗风柱把山风接住，系杆再把力分给隔壁刚架。",
+      "issue": 55,
+      "date": "2026-11-10",
+      "theme": "",
+      "gloss": "系杆（刚架间受拉连系杆件）",
+      "category": "钢结构",
+      "audio": "audio/tie-rod.mp3"
+    },
+    {
+      "word": "expansion joint",
+      "phonetic": "/ɪkˈspænʃn dʒɔɪnt/",
+      "meaning": "伸缩缝；为吸收温度变化引起的胀缩而沿建筑物全长设置的竖向通缝，把超长建筑分成独立区段，避免墙面开裂、屋面板拱起。钢结构厂房通常每 150–200 米左右设一道。",
+      "collocation": "provide an expansion joint every 150 m（每 150 米设一道伸缩缝）、the building is 220 m long, so we split it with an expansion joint（厂房长 220 米，用伸缩缝分段）、roof sheeting expansion joint（屋面板伸缩缝）、expansion joint vs. control joint（伸缩缝与控制缝的区别）。",
+      "examples": [
+        {
+          "en": "Since the workshop is 220 meters long, an expansion joint is provided at mid-length to accommodate thermal movement of the steel structure.",
+          "zh": "车间全长 220 米，在中部设一道伸缩缝，以适应钢结构的温度变形。",
+          "audio": "audio/ex/expansion-joint-1.mp3"
+        }
+      ],
+      "mnemonic": "expand（膨胀）+ joint（缝）= 给热胀冷缩留的\"呼吸缝\"。联想链：长建筑要\"松腰带\"——温度一升钢梁伸长，没缝就会把 brickwork 顶裂。与 DPC（第 44 期）同为\"建筑里看不见但漏了就出事\"的构造：一个是防潮，一个是放变形。",
+      "issue": 55,
+      "date": "2026-11-10",
+      "theme": "",
+      "gloss": "伸缩缝（适应温度变形的通缝）",
+      "category": "工程",
+      "audio": "audio/expansion-joint.mp3"
+    },
+    {
+      "word": "perspective",
+      "phonetic": "/pəˈspektɪv/",
+      "meaning": "透视图；按人眼近大远小规律绘制的三维表现图，常用于方案汇报与效果展示；另有\"视角、观点\"义，如 from a client's perspective。",
+      "collocation": "a one-point perspective of the entrance（入口的一点透视图）、hand-drawn perspective sketch（手绘透视草图）、render the perspective overnight（连夜渲染透视图）、from the client's perspective（从客户的视角看）。",
+      "examples": [
+        {
+          "en": "The layout drawings are clear to engineers, but the client asked for a perspective view to better visualize the finished workshop.",
+          "zh": "布置图工程师看得懂，但客户要看一张透视图，才能更好想象建成后的车间。",
+          "audio": "audio/ex/perspective-1.mp3"
+        }
+      ],
+      "mnemonic": "per（透过）+ spect（看，词根同 inspect 观察室外）= \"透过一个点去看\"。图纸家族分工口诀：\"floor plan 管层（第 28 期）、elevation 管脸（第 2 期）、section 管切（第 11 期）、perspective 管想象\"——客户看不懂线条，但一定看得懂透视。",
+      "issue": 55,
+      "date": "2026-11-10",
+      "theme": "",
+      "gloss": "透视图；视角",
+      "category": "建筑设计",
+      "audio": "audio/perspective.mp3"
+    },
+    {
+      "word": "ETA",
+      "phonetic": "/ˌiː tiː ˈeɪ/",
+      "meaning": "预计到达时间（Estimated Time of Arrival），外贸跟单高频缩写，常与 ETD（预计离港时间 Estimated Time of Departure）成对使用，用于向客户同步船期与到货计划。",
+      "collocation": "the vessel's ETA at Mombasa is 25 November（船舶预计 11 月 25 日抵蒙巴萨）、update the client on the new ETA（向客户同步新的到港时间）、ETA / ETD of the shipment（本批次预计离港/到港时间）、keep an eye on the ETA changes（盯紧到港时间变更）。",
+      "examples": [
+        {
+          "en": "The shipping line has confirmed an ETA of November 25 at Mombasa, so please arrange customs documents before that date.",
+          "zh": "船公司确认预计 11 月 25 日抵达蒙巴萨，请在此日期前备妥清关单据。",
+          "audio": "audio/ex/eta-1.mp3"
+        }
+      ],
+      "mnemonic": "ETA = Estimated Time of Arrival（A = Arrival 到达），ETD = Estimated Time of Departure（D = Departure 离开）——\"A 落地、D 动身\"。跟单三连问：\"ETD 准吗？ETA 改没改？free time（免箱期）从哪天起算？\"——ETA 一变，demurrage（第 30 期滞期费）和清关安排全要跟着动。",
+      "issue": 55,
+      "date": "2026-11-10",
+      "theme": "",
+      "gloss": "预计到达时间（Estimated Time of Arrival）",
+      "category": "外贸",
+      "audio": "audio/eta.mp3"
+    },
+    {
+      "word": "deliverable",
+      "phonetic": "/dɪˈlɪvərəbl/",
+      "meaning": "可交付成果；合同或项目计划中承诺提交的 tangible 成果物，如图纸、报告、样品、软件模块，通常有明确的验收标准与提交时间。",
+      "collocation": "list the deliverables in the contract（在合同中列明交付物）、key deliverables and deadlines（关键交付物与截止时间）、sign off the deliverables（签收交付物）、scope change means new deliverables（范围变更意味着新的交付物）。",
+      "examples": [
+        {
+          "en": "The contract lists six deliverables, including the shop drawings, material certificates, and the as-built drawing package.",
+          "zh": "合同列明六项交付物，包括深化加工图、材质证书和竣工图包。",
+          "audio": "audio/ex/deliverable-1.mp3"
+        }
+      ],
+      "mnemonic": "deliver（交付）+ able（可……的）= \"能交到客户手里的东西\"。项目管理的铁三角：\"scope 定 deliverable，milestone（第 23 期）盯节点，deadline（第 12 期）卡死线\"。周会一句 \"Are we on track with this week's deliverables?\" 比 \"工作做得怎么样了\" 专业十倍。",
+      "issue": 55,
+      "date": "2026-11-10",
+      "theme": "",
+      "gloss": "可交付成果（合同承诺的交付物）",
+      "category": "职场",
+      "audio": "audio/deliverable.mp3"
     }
   ]
 }
