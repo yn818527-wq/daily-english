@@ -1099,5 +1099,25 @@
   "deliverable": {
     "gloss": "可交付成果（合同承诺的交付物）",
     "category": "职场"
+  },
+  "stringer": {
+    "gloss": "楼梯梁（纵向斜梁）",
+    "category": "钢结构"
+  },
+  "slump": {
+    "gloss": "坍落度",
+    "category": "工程"
+  },
+  "daylighting": {
+    "gloss": "自然采光",
+    "category": "建筑设计"
+  },
+  "dap": {
+    "gloss": "目的地交货（Incoterms 术语）",
+    "category": "外贸"
+  },
+  "kpi": {
+    "gloss": "关键绩效指标",
+    "category": "职场"
   }
 }

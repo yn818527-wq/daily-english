@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10",
-  "total": 275,
+  "updated": "2026-11-11",
+  "total": 280,
   "words": [
     {
       "word": "truss",
@@ -5601,6 +5601,106 @@
       "gloss": "可交付成果（合同承诺的交付物）",
       "category": "职场",
       "audio": "audio/deliverable.mp3"
+    },
+    {
+      "word": "stringer",
+      "phonetic": "/ˈstrɪŋə(r)/",
+      "meaning": "楼梯梁；沿楼梯斜向布置、支承踏步板（tread）与踢步（riser）的纵向受弯构件，钢结构楼梯常用槽钢或钢板梁，两端搭在平台梁（landing beam）或楼层梁上。",
+      "collocation": "steel stringer for the external staircase（室外楼梯钢楼梯梁）、treads supported on two stringers（踏步板搁置在两根楼梯梁上）、stringer to landing beam connection（楼梯梁与平台梁连接）、check the stringer section modulus（核算楼梯梁截面模量）。",
+      "examples": [
+        {
+          "en": "The staircase consists of two steel stringers carrying checker plate treads, bolted to the landing beams at each floor.",
+          "zh": "楼梯由两根钢楼梯梁承载花纹钢板踏步组成，在各楼层与平台梁螺栓连接。",
+          "audio": "audio/ex/stringer-1.mp3"
+        }
+      ],
+      "mnemonic": "string（线、弦）+ er = 沿楼梯\"拉一根斜线\"的梁。楼梯构件家族口诀：\"stringer 挑大梁（斜着受力），tread 踩脚下，riser 立背后，handrail（第 25 期）扶手上\"——现场放样时先定 stringer 的斜率，楼梯就定了。",
+      "issue": 56,
+      "date": "2026-11-11",
+      "theme": "",
+      "gloss": "楼梯梁（纵向斜梁）",
+      "category": "钢结构",
+      "audio": "audio/stringer.mp3"
+    },
+    {
+      "word": "slump",
+      "phonetic": "/slʌmp/",
+      "meaning": "坍落度；新拌混凝土流动性的现场检测指标，用坍落度筒测量拌合物塌落的高度差（mm）。坍落度越大越稀，越小越稠；灌浆、泵送、楼板浇筑各要求不同的坍落度，浇灌前必测。",
+      "collocation": "slump test on site（现场坍落度试验）、the concrete has a slump of 120 mm（混凝土坍落度为 120 毫米）、specify a slump of 80–120 mm for pumping（规定泵送坍落度 80–120 毫米）、slump out of tolerance（坍落度超出允许偏差）。",
+      "examples": [
+        {
+          "en": "The slump test showed a value of 180 mm, which is above the specified limit, so the truck load was rejected before placing.",
+          "zh": "坍落度试验实测 180 毫米，超出规定上限，这车混凝土浇筑前被判退。",
+          "audio": "audio/ex/slump-1.mp3"
+        }
+      ],
+      "mnemonic": "slump 本义\"瘫倒、塌落\"——想象混凝土从筒里倒出来后\"瘫\"了一滩，瘫下去多少就是坍落度。质检三连：\"slump 多少？试块留了吗？强度报告呢？\"——slump 不合格的一车，浇筑了拆起来更贵，直接退。",
+      "issue": 56,
+      "date": "2026-11-11",
+      "theme": "",
+      "gloss": "坍落度",
+      "category": "工程",
+      "audio": "audio/slump.mp3"
+    },
+    {
+      "word": "daylighting",
+      "phonetic": "/ˈdeɪlaɪtɪŋ/",
+      "meaning": "自然采光；通过窗、天窗、高侧窗等把天然光引入室内的设计策略，既是绿色建筑的重要指标，也直接影响车间工人的舒适度与照明电费，常与采光系数（daylight factor）一起评估。",
+      "collocation": "improve the daylighting of the workshop（改善车间自然采光）、daylighting design with skylights and translucent panels（天窗加采光板的自然采光设计）、daylight factor of 2%（2% 的采光系数）、reduce lighting energy by daylighting（靠自然采光降低照明能耗）。",
+      "examples": [
+        {
+          "en": "By adding translucent roof panels along the ridge, the workshop achieved sufficient daylighting to cut daytime lighting energy by 30 percent.",
+          "zh": "沿屋脊增设采光板后，车间获得了足够的自然采光，白天照明能耗降低三成。",
+          "audio": "audio/ex/daylighting-1.mp3"
+        }
+      ],
+      "mnemonic": "daylight（日光）+ ing = 把日光\"请进来\"的学问。采光家族分工：\"skylight（第 13 期）是设备、clerestory（第 47 期）是窗带、atrium（第 20 期）是大招、daylighting 是策略\"——汇报绿色建筑时，先说 daylighting 再报窗户数量，立刻显专业。",
+      "issue": 56,
+      "date": "2026-11-11",
+      "theme": "",
+      "gloss": "自然采光",
+      "category": "建筑设计",
+      "audio": "audio/daylighting.mp3"
+    },
+    {
+      "word": "DAP",
+      "phonetic": "/ˌdiː eɪ ˈpiː/",
+      "meaning": "目的地交货（Delivered at Place），Incoterms 2020 术语：卖方承担把货运到指定目的地的一切风险与运费（保险非义务），进口清关及关税由买方办理。常用于海外工程包的\"门到门\"报价。",
+      "collocation": "quote on DAP basis（按 DAP 条款报价）、DAP site in Lusaka, Zambia（DAP 赞比亚卢萨卡工地）、risk transfers under DAP（DAP 项下风险转移点）、DAP vs. DDP（DAP 与 DDP 的区别）。",
+      "examples": [
+        {
+          "en": "Our offer is on DAP Lusaka terms, so we arrange carriage to your site while import clearance and duties remain on your side.",
+          "zh": "我方报价为 DAP 卢萨卡条款，我们负责把货送到贵方工地，进口清关与关税仍由贵方办理。",
+          "audio": "audio/ex/dap-1.mp3"
+        }
+      ],
+      "mnemonic": "DAP = Delivered at Place，\"送到地方就交货\"。Incoterms 责任链按\"卖方干得越来越多\"排：EXW（第 28 期，什么都不管）→ FOB（第 21 期，送上船）→ CIF（第 23 期，送上船加保险）→ DAP（送到门口，清关你办）→ DDP（清关税全我包）。口诀：\"DAP 到门不清关，DDP 到门全包完\"。",
+      "issue": 56,
+      "date": "2026-11-11",
+      "theme": "",
+      "gloss": "目的地交货（Incoterms 术语）",
+      "category": "外贸",
+      "audio": "audio/dap.mp3"
+    },
+    {
+      "word": "KPI",
+      "phonetic": "/ˌkeɪ piː ˈaɪ/",
+      "meaning": "关键绩效指标（Key Performance Indicator）；用可量化的数字衡量目标达成度的指标，如按时交付率、报价响应时长、一次验收合格率。个人 KPI 通常与部门目标对齐，是绩效评估（appraisal，第 25 期）的依据。",
+      "collocation": "set KPIs for the proposal team（给方案团队定 KPI）、on-time delivery rate as a KPI（把按时交付率设为 KPI）、review monthly KPIs（复盘月度 KPI）、KPIs aligned with company goals（与公司目标对齐的 KPI）。",
+      "examples": [
+        {
+          "en": "Our team's KPI for this quarter is a 95 percent on-time delivery rate for approved shop drawings.",
+          "zh": "我们团队本季度的 KPI 是已批深化加工图的按时交付率达到 95%。",
+          "audio": "audio/ex/kpi-1.mp3"
+        }
+      ],
+      "mnemonic": "KPI = Key Performance Indicator——Key（关键）、Performance（表现）、Indicator（指标），\"用数字说话的表现刻度尺\"。职场三兄弟分工：\"KPI 定刻度、milestone（第 23 期）定节点、deliverable（第 55 期）定产出\"。写简历或谈加薪时，把\"做了什么\"换算成 KPI 数字，说服力翻倍。",
+      "issue": 56,
+      "date": "2026-11-11",
+      "theme": "",
+      "gloss": "关键绩效指标",
+      "category": "职场",
+      "audio": "audio/kpi.mp3"
     }
   ]
 }
