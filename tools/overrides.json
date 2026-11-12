@@ -1119,5 +1119,25 @@
   "kpi": {
     "gloss": "关键绩效指标",
     "category": "职场"
+  },
+  "buckling": {
+    "gloss": "屈曲/受压失稳",
+    "category": "钢结构"
+  },
+  "podium": {
+    "gloss": "裙房/建筑基座",
+    "category": "建筑设计"
+  },
+  "shipping mark": {
+    "gloss": "唛头/运输标志",
+    "category": "外贸"
+  },
+  "souvenir": {
+    "gloss": "纪念品",
+    "category": "客户接待"
+  },
+  "buy-in": {
+    "gloss": "认同与支持",
+    "category": "职场"
   }
 }

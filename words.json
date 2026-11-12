@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11",
-  "total": 280,
+  "updated": "2026-11-12",
+  "total": 285,
   "words": [
     {
       "word": "truss",
@@ -5701,6 +5701,106 @@
       "gloss": "关键绩效指标",
       "category": "职场",
       "audio": "audio/kpi.mp3"
+    },
+    {
+      "word": "buckling",
+      "phonetic": "/ˈbʌklɪŋ/",
+      "meaning": "屈曲；受压构件（柱、撑杆、檩条上翼缘等）在压力达到临界值后突然产生横向变形、承载力急剧下降而失效的现象。钢结构设计中最常见的控制模式之一，分整体屈曲（overall buckling）、局部屈曲（local buckling）和侧向扭转屈曲（lateral-torsional buckling）三类。",
+      "collocation": "check buckling of the wind column（验算抗风柱的屈曲）、buckling length of 6 m（6 米的屈曲计算长度）、prevent local buckling of the thin web（防止薄腹板局部屈曲）、lateral-torsional buckling of the rafter（斜梁的侧向扭转屈曲）、buckling load capacity（屈曲承载力）。",
+      "examples": [
+        {
+          "en": "The 12-metre column is braced at mid-height to halve its buckling length and raise the buckling load well above the design axial force.",
+          "zh": "12 米高的柱在中部加了支撑，把屈曲计算长度减半，使屈曲荷载远高于设计轴力。",
+          "audio": "audio/ex/buckling-1.mp3"
+        }
+      ],
+      "mnemonic": "buckle 本义是\"扣上、弯折\"——安全带 buckle 一旦被掰弯就废了。想象用双手压一根塑料吸管，压到某个点它\"啪\"地鼓出一块，那就是 buckling。和 strength（强度不够被拉断/压碎）区分：buckling 不是材料不够强，是\"形状撑不住\"，所以救它的办法是加支撑缩短计算长度、加厚翼缘或加劲肋（stiffener，第 7 期），而不是换更贵的钢号。",
+      "issue": 57,
+      "date": "2026-11-12",
+      "theme": "",
+      "gloss": "屈曲/受压失稳",
+      "category": "钢结构",
+      "audio": "audio/buckling.mp3"
+    },
+    {
+      "word": "podium",
+      "phonetic": "/ˈpəʊdiəm/",
+      "meaning": "裙房；(高层建筑底部的)基座、台座。指高层塔楼下方体量较大、层数较低的部分，通常布置商业、大堂、餐饮与车库；也指体育馆的领奖台、演讲台。方案汇报里常说\"塔楼 + 裙房\"，英文就是 tower on a podium。",
+      "collocation": "a three-storey podium（三层裙房）、podium level parking（裙房层车库）、retail podium（商业裙房）、the tower sits on a podium（塔楼坐落于裙房之上）、podium roof garden（裙房屋顶花园）。",
+      "examples": [
+        {
+          "en": "The office tower rises from a three-storey podium that houses the lobby, a canteen and covered parking for 120 cars.",
+          "zh": "办公塔楼坐落于三层裙房之上，裙房内设大堂、食堂和可停 120 辆车的车库。",
+          "audio": "audio/ex/podium-1.mp3"
+        }
+      ],
+      "mnemonic": "podium 原本是\"领奖台、讲台\"——运动员站的那个台子。把一栋超高层想成站在台子上的运动员：台子就是裙房，人就是塔楼。这样 podium 的\"基座 + 裙房\"两层意思一次记住。顺带一句：裙房在法规里常涉及防火分区与建筑高度计算，汇报时说 podium 比说 bottom building 专业得多。",
+      "issue": 57,
+      "date": "2026-11-12",
+      "theme": "",
+      "gloss": "裙房/建筑基座",
+      "category": "建筑设计",
+      "audio": "audio/podium.mp3"
+    },
+    {
+      "word": "shipping mark",
+      "phonetic": "/ˈʃɪpɪŋ mɑːk/",
+      "meaning": "唛头；刷印在出口包装箱外侧的运输标志，含收货人代号、目的港、件号（如 C/NO. 1-8）、毛净重与尺寸等，用于在港口、仓库和工地快速识别货物、防止错发错卸。分正唛（main mark）和侧唛（side mark）。",
+      "collocation": "stencil the shipping mark on two sides（在两侧喷刷唛头）、shipping mark must match the packing list（唛头须与装箱单一致）、main mark and side mark（正唛与侧唛）、case number in the shipping mark（唛头中的箱号）、remark the shipping mark in Chinese and English（唛头中英文对照）。",
+      "examples": [
+        {
+          "en": "Please stencil the shipping mark on two sides of every crate so the site team can pick the right panel batch without opening the boxes.",
+          "zh": "请在每只木箱两侧喷刷唛头，方便现场班组不开箱就能挑出正确的板批。",
+          "audio": "audio/ex/shipping-mark-1.mp3"
+        }
+      ],
+      "mnemonic": "mark 就是\"记号\"，shipping mark 是货物在海上走的\"身份证\"。三件套必须完全一致，不一致就等着扣货：箱上刷的 shipping mark → 单上写的 packing list（第 12 期）→ 提单上印的 bill of lading（第 9 期）。客户改唛头一定要求书面确认，口头改一次，港口就多一次查验。",
+      "issue": 57,
+      "date": "2026-11-12",
+      "theme": "",
+      "gloss": "唛头/运输标志",
+      "category": "外贸",
+      "audio": "audio/shipping-mark.mp3"
+    },
+    {
+      "word": "souvenir",
+      "phonetic": "/ˌsuːvəˈnɪə(r)/",
+      "meaning": "纪念品；为留念而赠送或购买的小物件。商务接待中指来访结束前送给客户、代表团的小礼物，讲究\"轻、便、有记忆点\"，忌讳贵重（可能触碰对方合规红线）和大件（客户带不上飞机）。",
+      "collocation": "a small souvenir for each guest（给每位客人一份小纪念品）、present a souvenir at the end of the visit（参观结束时赠送纪念品）、company-branded souvenir（带公司标识的纪念品）、souvenir of the project（项目纪念品）。",
+      "examples": [
+        {
+          "en": "At the end of the factory tour we presented each guest with a small souvenir — a laser-cut steel model of the portal frame they had just seen.",
+          "zh": "工厂参观结束时，我们给每位客人送了一份小纪念品——一个激光切割的门式刚架钢模型，正是他们刚看过的那榀。",
+          "audio": "audio/ex/souvenir-1.mp3"
+        }
+      ],
+      "mnemonic": "souvenir 来自法语 se souvenir（记得），词根和 memory 同源——送的东西唯一任务是\"让人记得你\"。一支印 logo 的笔三天就丢，一个按项目图纸做的钢模型能被摆在客户办公桌上三年。接待清单里 souvenir 属于\"收尾动作\"，和 welcome kit（第 52 期）一头一尾配成对。",
+      "issue": 57,
+      "date": "2026-11-12",
+      "theme": "",
+      "gloss": "纪念品",
+      "category": "客户接待",
+      "audio": "audio/souvenir.mp3"
+    },
+    {
+      "word": "buy-in",
+      "phonetic": "/ˈbaɪ ɪn/",
+      "meaning": "认同；关键干系人对某个方案、决策或变更真心支持并愿意为之出力的状态。比\"同意\"更进一层：同意可以不反对，buy-in 是会主动推进。项目管理里常说\"先拿 buy-in 再动手\"，否则方案落地时处处被拖。",
+      "collocation": "get buy-in from the client and the site team（取得客户与现场的认同）、secure buy-in at the kickoff meeting（在启动会上锁定支持）、lack of buy-in from the production department（生产部门不买账）、build buy-in early（尽早建立共识基础）。",
+      "examples": [
+        {
+          "en": "The cladding change only went ahead after we got buy-in from both the client and the site team at the kickoff meeting.",
+          "zh": "墙板变更是在启动会上取得客户和现场双方认同之后才推进的。",
+          "audio": "audio/ex/buy-in-1.mp3"
+        }
+      ],
+      "mnemonic": "buy in 字面是\"买进来\"——让别人在你的方案里\"入了股\"，他才会替你说话。与 consensus（第 29 期）的分工：consensus 是\"大家都同意\"（状态），buy-in 是\"大家都愿意出力\"（动能）。会上点头不算 buy-in，散会后愿意为你的方案去说服他自己人，才算。",
+      "issue": 57,
+      "date": "2026-11-12",
+      "theme": "",
+      "gloss": "认同与支持",
+      "category": "职场",
+      "audio": "audio/buy-in.mp3"
     }
   ]
 }
