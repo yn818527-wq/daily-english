@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12",
-  "total": 285,
+  "updated": "2026-11-13",
+  "total": 290,
   "words": [
     {
       "word": "truss",
@@ -5801,6 +5801,106 @@
       "gloss": "认同与支持",
       "category": "职场",
       "audio": "audio/buy-in.mp3"
+    },
+    {
+      "word": "batten",
+      "phonetic": "/ˈbætn/",
+      "meaning": "挂瓦条；压条。屋面或墙面上固定在檩条（purlin）或墙梁（girt）上的次级小截面构件，用来承托并固定彩钢瓦、纤维水泥板或干挂饰面板。防水体系里还常见 counter-batten（顺水条）：先钉顺水条留出排水空腔，再垂直钉挂瓦条。",
+      "collocation": "roof batten spacing（屋面挂条间距）、fix battens to the purlins（把压条固定在檩条上）、counter-batten and batten system（顺水条加挂条体系）、50 x 50 timber batten（50×50 木压条）、batten seam roof（压条式屋面）。",
+      "examples": [
+        {
+          "en": "Battens are fixed at 600 mm centres on the purlins so the corrugated sheets can be screwed down without drilling the sheet edges.",
+          "zh": "挂瓦条按 600 毫米间距固定在檩条上，瓦楞板即可直接上螺丝固定，无需在板边另行钻孔。",
+          "audio": "audio/ex/batten-1.mp3"
+        }
+      ],
+      "mnemonic": "和第 2 期 purlin、第 53 期 girt 连成\"围护三层\"口诀：sheet 瓦在上、batten 压条居中、purlin（或 girt）在下，一层承一层。见到屋面节点图先找 batten，就知道瓦是怎么\"挂\"上去的；顺水条 counter-batten 名字里就写着\"反向\"，与挂瓦条十字交叉。",
+      "issue": 58,
+      "date": "2026-11-13",
+      "theme": "",
+      "gloss": "挂瓦条；压条",
+      "category": "钢结构",
+      "audio": "audio/batten.mp3"
+    },
+    {
+      "word": "load-bearing",
+      "phonetic": "/ˈləʊd ˌbeərɪŋ/",
+      "meaning": "承重的；承受并传递荷载的。现场最高频的问句就是\"这面墙能不能拆\"——答案取决于它是 load-bearing wall（承重墙）还是 non-load-bearing partition（非承重隔墙，见第 19 期 partition）。承重构件一旦拆除，荷载路径被切断，需要加梁或钢套框过渡。",
+      "collocation": "load-bearing wall（承重墙）、non-load-bearing partition（非承重隔墙）、load-bearing capacity（承载能力）、remove a load-bearing wall（拆除承重墙）、load-bearing masonry structure（承重砌体结构）。",
+      "examples": [
+        {
+          "en": "Before opening the new doorway, the site team checked whether the 200 mm brick wall was load-bearing or just a partition.",
+          "zh": "在开新门洞之前，现场班组先核实了这堵 200 毫米砖墙是承重墙还是仅仅一道隔墙。",
+          "audio": "audio/ex/load-bearing-1.mp3"
+        }
+      ],
+      "mnemonic": "bear 除了\"熊\"还有\"承担\"之意——can't bear the load 就是\"扛不住荷载\"。现场口诀：partition 拆了天花板没事，load-bearing 拆了整栋楼来找你。判断线索：墙厚、是否压在梁或基础上、上方是否还有墙——拿不准就出结构复核，别拍脑袋。",
+      "issue": 58,
+      "date": "2026-11-13",
+      "theme": "",
+      "gloss": "承重的；受力的",
+      "category": "工程",
+      "audio": "audio/load-bearing.mp3"
+    },
+    {
+      "word": "site plan",
+      "phonetic": "/saɪt plæn/",
+      "meaning": "场地平面图；表达整个场地范围内建筑物、道路、出入口、停车场、围墙、绿化及市政衔接位置的图纸。范围上比 master plan（第 51 期）更聚焦单一场地、深度更接近实施，比 floor plan（第 28 期）视野大得多，是报批和现场放线的依据。",
+      "collocation": "site plan approval（总图报批）、show the truck route on the site plan（在总图上标出卡车动线）、check setbacks on the site plan（核对总图退线）、coordinate the site plan with utilities（总图与市政管线协调）、issue the site plan for setting-out（发布总图供放线）。",
+      "examples": [
+        {
+          "en": "The site plan shows two gates — the main gate for staff and a separate 40-tonne truck entrance at the rear of the plot.",
+          "zh": "总图上标了两个出入口——员工走正门，40 吨货车走地块后侧的专用入口。",
+          "audio": "audio/ex/site-plan-1.mp3"
+        }
+      ],
+      "mnemonic": "图纸家族口诀再续一集（承接第 54、55 期）：master plan 管片区、site plan 管这块地怎么用、floor plan 管层、elevation 管脸、section 管切。site plan 就是\"站在天上往下看整块地\"——人从哪进、车从哪出、货在哪装，一张图说清。",
+      "issue": 58,
+      "date": "2026-11-13",
+      "theme": "",
+      "gloss": "场地平面图；总平面图",
+      "category": "建筑设计",
+      "audio": "audio/site-plan.mp3"
+    },
+    {
+      "word": "bill of quantities",
+      "phonetic": "/ˌbɪl əv ˈkwɒntətɪz/",
+      "meaning": "工程量清单；把设计图纸拆解成逐项分列的工程量与计价单位的表单，用于投标报价、进度款计量与竣工结算。钢结构项目常按吨位、平方米或构件类别分列清单项。缩写为 BOQ，投标阶段的叫 tender BOQ。",
+      "collocation": "price the bill of quantities（对工程量清单逐项报价）、BOQ item（清单项）、measured against the BOQ（按清单计量）、update the BOQ after the variation order（变更令后更新清单）、lump sum versus BOQ contract（总价合同与清单合同之别）。",
+      "examples": [
+        {
+          "en": "The tender BOQ lists the steelwork by tonnage, so any design change must be measured and priced against the same items.",
+          "zh": "投标工程量清单按吨位列明钢构工程量，因此任何设计变更都必须套用同一清单项计量计价。",
+          "audio": "audio/ex/bill-of-quantities-1.mp3"
+        }
+      ],
+      "mnemonic": "BOQ 就是\"把图纸翻译成一张能算钱的表\"：quantity 是量、unit rate 是价，量价相乘逐项汇总。它和第 42 期 variation order 是天生一对——变更一旦发生，双方回到 BOQ 上重新量、重新谈。记住红线：quantity 不对，单价再准也白搭。",
+      "issue": 58,
+      "date": "2026-11-13",
+      "theme": "",
+      "gloss": "工程量清单（BOQ）",
+      "category": "外贸",
+      "audio": "audio/bill-of-quantities.mp3"
+    },
+    {
+      "word": "interpreter",
+      "phonetic": "/ɪnˈtɜːprɪtə(r)/",
+      "meaning": "口译员；在会谈、验厂、技术交底等现场做口头翻译的人。分交替传译（consecutive interpretation，说完一段译一段）和同声传译（simultaneous interpretation）。注意与 translator（笔译，处理书面文件）区分——客户接待约的是 interpreter，合同翻译找 translator。",
+      "collocation": "book an interpreter for the site meeting（为现场会预约口译员）、a technical interpreter（懂技术的口译员）、consecutive and simultaneous interpretation（交替传译与同声传译）、speak through an interpreter（通过口译员交流）、the interpreter whispered the key terms（口译员低声提示关键术语）。",
+      "examples": [
+        {
+          "en": "We booked a technical interpreter for the welding inspection, because the standard terms in the report do not translate themselves.",
+          "zh": "我们为焊缝检验约了一位懂技术的口译员，因为报告里的规范术语不会自己翻译自己。",
+          "audio": "audio/ex/interpreter-1.mp3"
+        }
+      ],
+      "mnemonic": "inter-（在……之间）+ pret（价值，中间人\"掂量着传话\"）——站在两个人之间传话的人。接待分工口诀（承接第 19 期 liaison、第 30 期 escort）：liaison 管行程、escort 管陪同、interpreter 管话。开场先问一句 \"Do you need an interpreter, or shall we go in English?\"，既专业又给足对方选择。",
+      "issue": 58,
+      "date": "2026-11-13",
+      "theme": "",
+      "gloss": "口译员",
+      "category": "客户接待",
+      "audio": "audio/interpreter.mp3"
     }
   ]
 }

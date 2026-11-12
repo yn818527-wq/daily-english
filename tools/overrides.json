@@ -1139,5 +1139,25 @@
   "buy-in": {
     "gloss": "认同与支持",
     "category": "职场"
+  },
+  "batten": {
+    "gloss": "挂瓦条；压条",
+    "category": "钢结构"
+  },
+  "load-bearing": {
+    "gloss": "承重的；受力的",
+    "category": "工程"
+  },
+  "site plan": {
+    "gloss": "场地平面图；总平面图",
+    "category": "建筑设计"
+  },
+  "bill of quantities": {
+    "gloss": "工程量清单（BOQ）",
+    "category": "外贸"
+  },
+  "interpreter": {
+    "gloss": "口译员",
+    "category": "客户接待"
   }
 }
