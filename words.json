@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13",
-  "total": 290,
+  "updated": "2026-11-14",
+  "total": 295,
   "words": [
     {
       "word": "truss",
@@ -5901,6 +5901,106 @@
       "gloss": "口译员",
       "category": "客户接待",
       "audio": "audio/interpreter.mp3"
+    },
+    {
+      "word": "crane beam",
+      "phonetic": "/kreɪn biːm/",
+      "meaning": "吊车梁。承担桥式吊车（overhead crane）自重、吊重及刹车冲击力的梁，是钢结构厂房里受力最\"动态\"的构件。分实腹式与桁架式，梁上翼缘常带制动结构（braking girder），牛腿（bracket，见第 30 期 cantilever 家族）托在柱上。10 吨以下常用实腹式焊接工字梁，大吨位重级工作制才考虑桁架式。",
+      "collocation": "10-tonne crane beam（10 吨吊车梁）、crane beam span and wheel loads（吊车梁跨度与轮压）、welded plate girder crane beam（焊接板梁式吊车梁）、fatigue check of the crane beam（吊车梁疲劳验算）、crane beam on brackets（牛腿上的吊车梁）。",
+      "examples": [
+        {
+          "en": "The 10-tonne overhead crane runs on welded crane beams bolted to brackets on each column, and the connection bolts are checked for fatigue under repeated braking loads.",
+          "zh": "10 吨桥式吊车在焊接吊车梁上行驶，梁用螺栓固定在两侧柱子的牛腿上，连接螺栓还要按反复刹车荷载做疲劳校核。",
+          "audio": "audio/ex/crane-beam-1.mp3"
+        }
+      ],
+      "mnemonic": "和第 12 期 crane、第 29 期 beam 连成一句话：crane 跑在 crane beam 上，crane beam 骑在 column 的牛腿上。记三个\"动\"字区别：普通 beam 扛\"死\"荷载（dead load），crane beam 扛\"活+动\"荷载——刹车冲击与疲劳是它的专属考点，报价单上吊车梁永远比同跨度屋面梁贵一截。",
+      "issue": 59,
+      "date": "2026-11-14",
+      "theme": "",
+      "gloss": "吊车梁（厂房里扛桥式吊车的专用梁）",
+      "category": "钢结构建筑",
+      "audio": "audio/crane-beam.mp3"
+    },
+    {
+      "word": "honeycomb",
+      "phonetic": "/ˈhʌnikəʊm/",
+      "meaning": "蜂窝麻面。浇筑后表面出现蜂窝状孔洞的混凝土缺陷：粗骨料堆积、砂浆没填满空隙。成因通常是振捣不足（under-vibrated）、钢筋太密堵料、坍落度（slump，第 56 期）偏低或模板漏浆。轻微露麻面可抹浆修补；深度超过保护层则要凿到密实处再用高一级细石混凝土修补，并记入 snag list（第 37 期）或缺陷清单。",
+      "collocation": "honeycombing on the column face（柱面蜂窝麻面）、severe honeycomb in the footing（基础严重蜂窝）、repair honeycombed concrete（修补蜂窝混凝土）、caused by under-vibration（因欠振捣所致）、honeycomb structure（蜂窝状结构，如铝蜂窝板）。",
+      "examples": [
+        {
+          "en": "The inspector rejected two columns because of deep honeycombing — the crew had poured a low-slump mix into dense rebar cages without proper vibration.",
+          "zh": "检查员拒收了两根柱子，原因是深度蜂窝麻面——班组把低坍落度混凝土浇进密集钢筋笼，且振捣不到位。",
+          "audio": "audio/ex/honeycomb-1.mp3"
+        }
+      ],
+      "mnemonic": "拆开记——honey 蜂蜜 + comb 梳子/巢：蜂窝本来是蜜蜂的六边形小房间，混凝土表面\"千疮百孔像蜂窝\"就得了这名字。质检三连升级版：slump 看进场、honeycomb 看拆模、strength report 看试块；口语常说 \"The concrete looks like honeycomb\" 一句顶一段报告。",
+      "issue": 59,
+      "date": "2026-11-14",
+      "theme": "",
+      "gloss": "蜂窝麻面（混凝土振捣不足的表面孔洞缺陷）",
+      "category": "工程施工",
+      "audio": "audio/honeycomb.mp3"
+    },
+    {
+      "word": "massing",
+      "phonetic": "/ˈmæsɪŋ/",
+      "meaning": "体量；建筑体块的大小、高矮、组合关系。方案前期 massing study（体量推敲）决定楼栋怎么切分、退台怎么收（呼应 setback，第 35 期）、虚实怎么分。与 scale（第 54 期）的区别一句话：massing 管\"块与块的关系\"，scale 管\"块与人的比例\"。规划部门限高、容积率算出来的基本也是对 massing 的约束。",
+      "collocation": "massing study（体量推敲）、building massing and setbacks（建筑体量与退线）、a simple cubic massing（简洁的方块体量）、reduce the massing impact on neighbours（降低体量对邻栋的压迫）、podium and tower massing（裙房加塔楼体量）。",
+      "examples": [
+        {
+          "en": "To respect the height limit, the design team broke the 60-metre slab into three stepped volumes, and the stepped massing also opens corner views to the street.",
+          "zh": "为遵守限高，设计团队把 60 米板楼拆成三段退台体量，阶梯式体量同时为街角让出了视野。",
+          "audio": "audio/ex/massing-1.mp3"
+        }
+      ],
+      "mnemonic": "mass 是\"一团、一大块\"，加 -ing 变成\"摆积木\"这件事——方案汇报里它几乎总跟动词 break / step / carve 连用：break the massing（切块）、step the massing（退台）、carve the massing（掏洞）。一句话记住分工：massing 先摆大块，facade 再描细节——顺序反了就会被业主一句 \"太碎\" 打回。",
+      "issue": 59,
+      "date": "2026-11-14",
+      "theme": "",
+      "gloss": "建筑体量推敲（楼栋体块的大小与组合关系）",
+      "category": "建筑设计",
+      "audio": "audio/massing.mp3"
+    },
+    {
+      "word": "provisional sum",
+      "phonetic": "/prəˈvɪʒənl sʌm/",
+      "meaning": "暂列金。合同里为\"图纸深度暂时覆盖不到或尚无法定价\"的工作预留的金额，业主指示后才动用、多退少补。与 dayworks（第 50 期）同属\"不可预见费\"家族：暂列金是业主的口袋，专款不一定专用（有指示才花）；暂估价（provisional sums for defined work）指明工作内容但单价后定。报价谈判里要写清：不含在 fixed price 里的 PS 部分按 VO（第 42 期 variation order）程序结算。",
+      "collocation": "a provisional sum for piling works（桩基工程暂列金）、include a 5% provisional sum（列入 5% 暂列金）、draw on the provisional sum（动用暂列金）、release the unspent provisional sum（释放未动用暂列金）、provisional sum subject to employer's instruction（须业主指示方可使用的暂列金）。",
+      "examples": [
+        {
+          "en": "The contract includes a provisional sum for rock excavation below three metres; any amount actually spent will be certified, and the balance returns to the employer.",
+          "zh": "合同列入了三米以下岩石开挖的暂列金；实际发生的金额经计量确认，余额返还业主。",
+          "audio": "audio/ex/provisional-sum-1.mp3"
+        }
+      ],
+      "mnemonic": "provisional 就是\"临时设定的\"——provision 供应/预备，先\"预备一笔钱\"。口诀分三兄弟：fixed price 死价、dayworks 计日工、provisional sum 暂列金。跟客户解释只要一句：\"PS is your money parked in my price\"——钱在你报价里停着，但方向盘在业主手里。",
+      "issue": 59,
+      "date": "2026-11-14",
+      "theme": "",
+      "gloss": "暂列金（合同里待业主指示后动用的预留金额）",
+      "category": "外贸合同",
+      "audio": "audio/provisional-sum.mp3"
+    },
+    {
+      "word": "icebreaker",
+      "phonetic": "/ˈaɪsbreɪkə(r)/",
+      "meaning": "破冰；打破初次见面拘谨的话题或活动。词面是\"破冰船\"（icebreaker vessel）——船首碾碎冰层开航道，会议室里就是碾碎尴尬开话头。商务接待黄金十五分钟（见第 52 期 welcome kit）里最有效的三件套：weather-flight-journey（天气、航班、旅途），再接 factory tour 顺水推舟。注意别踩雷区：宗教、政治、年龄薪资不破冰，只破场。",
+      "collocation": "use the journey as an icebreaker（拿旅途当破冰话题）、an icebreaker question（暖场问题）、team icebreaker session（团建破冰环节）、break the ice with a plant tour（用车间参观打破僵局）、a safe icebreaker topic（稳妥的破冰话题）。",
+      "examples": [
+        {
+          "en": "Before opening the slides, the sales manager broke the ice by asking how the clients' flight from Nairobi had been, which earned a relaxed laugh from the whole delegation.",
+          "zh": "翻开幻灯片之前，销售经理先问客户从内罗毕飞来一路如何，一句话逗笑了整个代表团。",
+          "audio": "audio/ex/icebreaker-1.mp3"
+        }
+      ],
+      "mnemonic": "ice 冰 + breaker 破坏者＝破冰船→破冰。接待链口诀续集：small talk（第 21 期）是零散寒暄，icebreaker 是主动开路，rapport（第 18 期）是开路后的默契。最省事的破冰模板就一句 \"How was your flight?\"——海外客户进门必答题；雨天加一句 \"First time seeing Qingdao rain?\" 效果加倍。",
+      "issue": 59,
+      "date": "2026-11-14",
+      "theme": "",
+      "gloss": "破冰话题/暖场活动（打破初见拘谨的开场）",
+      "category": "客户接待",
+      "audio": "audio/icebreaker.mp3"
     }
   ]
 }

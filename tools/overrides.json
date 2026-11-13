@@ -1159,5 +1159,25 @@
   "interpreter": {
     "gloss": "口译员",
     "category": "客户接待"
+  },
+  "crane beam": {
+    "gloss": "吊车梁（厂房里扛桥式吊车的专用梁）",
+    "category": "钢结构建筑"
+  },
+  "honeycomb": {
+    "gloss": "蜂窝麻面（混凝土振捣不足的表面孔洞缺陷）",
+    "category": "工程施工"
+  },
+  "massing": {
+    "gloss": "建筑体量推敲（楼栋体块的大小与组合关系）",
+    "category": "建筑设计"
+  },
+  "provisional sum": {
+    "gloss": "暂列金（合同里待业主指示后动用的预留金额）",
+    "category": "外贸合同"
+  },
+  "icebreaker": {
+    "gloss": "破冰话题/暖场活动（打破初见拘谨的开场）",
+    "category": "客户接待"
   }
 }
