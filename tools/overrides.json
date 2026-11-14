@@ -1179,5 +1179,25 @@
   "icebreaker": {
     "gloss": "破冰话题/暖场活动（打破初见拘谨的开场）",
     "category": "客户接待"
+  },
+  "tread": {
+    "gloss": "楼梯踏步；轮胎胎面",
+    "category": "钢结构"
+  },
+  "zoning": {
+    "gloss": "分区规划；土地区划",
+    "category": "建筑设计"
+  },
+  "trade fair": {
+    "gloss": "展会；贸易博览会",
+    "category": "外贸"
+  },
+  "dietary requirement": {
+    "gloss": "饮食要求（禁忌）",
+    "category": "客户接待"
+  },
+  "takeaway": {
+    "gloss": "核心要点；外卖",
+    "category": "职场生活"
   }
 }

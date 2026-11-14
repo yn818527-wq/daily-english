@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14",
-  "total": 295,
+  "updated": "2026-11-15",
+  "total": 300,
   "words": [
     {
       "word": "truss",
@@ -6001,6 +6001,106 @@
       "gloss": "破冰话题/暖场活动（打破初见拘谨的开场）",
       "category": "客户接待",
       "audio": "audio/icebreaker.mp3"
+    },
+    {
+      "word": "tread",
+      "phonetic": "/tred/",
+      "meaning": "楼梯踏步。你脚踩的那块水平板，与竖立的 riser（踢板）配成一对：tread 在脚下、riser 在背后。钢结构楼梯的 tread 常用花纹钢板（checkered plate）或格栅板（grating treads），工业厂房里格栅板最常见——防滑、不积灰、不用做防腐涂装。另义轮胎胎面：tread depth（胎面花纹深度）是车辆安检的硬指标。动词 tread = 踩、步行，习语 tread carefully（小心行事）商务邮件高频。",
+      "collocation": "tread and riser（踏步与踢板）、grating treads for the industrial stair（工业楼梯格栅踏步）、anti-slip tread plate（防滑花纹踏板）、tread carefully in the negotiation（谈判中谨慎行事）、minimum tread depth of 250 mm（踏步最小宽度 250 毫米）。",
+      "examples": [
+        {
+          "en": "For the external steel staircase, we specified grating treads instead of checkered plate, so rainwater drains straight through and the steps stay slip-free.",
+          "zh": "室外钢楼梯我们指定了格栅踏步而不是花纹钢板，雨水直接漏下去，踏步始终保持防滑。",
+          "audio": "audio/ex/tread-1.mp3"
+        }
+      ],
+      "mnemonic": "第 56 期 stringer 那句口诀补全：stringer 挑大梁、tread 踩脚下、riser 立背后、handrail 扶手上。tread 本义就是\"踩\"——踩的地方就是踏步；轮胎上被\"踩\"磨的那层就叫胎面。规范数字口诀：住宅 tread 不小于 260、riser 不大于 175，2R+T=600~620（毫米），预算报价时楼梯按 tread 数量计价。",
+      "issue": 60,
+      "date": "2026-11-15",
+      "theme": "",
+      "gloss": "楼梯踏步；轮胎胎面",
+      "category": "钢结构",
+      "audio": "audio/tread.mp3"
+    },
+    {
+      "word": "zoning",
+      "phonetic": "/ˈzəʊnɪŋ/",
+      "meaning": "分区规划；土地区划。政府把城市土地划成工业（industrial）、商业（commercial）、居住（residential）等用途区，一块地能盖什么、盖多高、容积率多少都由 zoning 决定。做海外项目第一步就是查 local zoning code（当地区划法规）——在居住区里塞一座带吊车的钢结构厂房，规划许可（planning permit）直接被拒。厂区内部也讲 zoning：生产区、办公区、堆场分区，跟建筑设计的功能分区（functional zoning）一脉相承。",
+      "collocation": "local zoning code（当地区划法规）、industrial zoning（工业用地性质）、apply for rezoning（申请改变用地性质）、zoning restrictions on height（区划限高约束）、functional zoning of the plant（厂区功能分区）。",
+      "examples": [
+        {
+          "en": "Before quoting the warehouse project, we asked the client to confirm the industrial zoning allows a 12-metre eaves height, otherwise the whole layout would need redesign.",
+          "zh": "报价仓库项目之前，我们请客户确认工业用地性质允许 12 米檐口高度，否则整个布置方案都要重做。",
+          "audio": "audio/ex/zoning-1.mp3"
+        }
+      ],
+      "mnemonic": "zone 就是\"圈出来的地带\"，加 -ing 成\"圈地划片\"这件事。报建流程一句话记：先 zoning（用地性质）→ 再 setback（第 35 期退线）→ 后 height limit（限高）→ 才轮到 floor plan。海外项目尤其记住：买地之前先查 zoning，地便宜往往就便宜在区划上。",
+      "issue": 60,
+      "date": "2026-11-15",
+      "theme": "",
+      "gloss": "分区规划；土地区划",
+      "category": "建筑设计",
+      "audio": "audio/zoning.mp3"
+    },
+    {
+      "word": "trade fair",
+      "phonetic": "/treɪd feə(r)/",
+      "meaning": "展会；贸易博览会。外贸获客的主战场：广交会（Canton Fair）、汉诺威工业展、迪拜 BIG 5 建材展都是钢结构行业的重要平台。摊位叫 booth/stand，参展是 exhibit at，观展是 visit/attend。展会获客链条：booth 上收名片（collect business cards）→ 现场记需求（qualify the leads）→ 展后 follow-up（第 5 期）发报价。区别一对词：trade fair 是 B2B 行业展，exhibition 偏展示、expo 偏大型综合。",
+      "collocation": "exhibit at the Canton Fair（参加广交会）、book a booth at the trade fair（预订展会摊位）、trade fair leads（展会潜客）、pre-fair promotion（展前邀约宣传）、follow up after the fair（展后跟进）。",
+      "examples": [
+        {
+          "en": "We booked a 36-square-metre booth at the BIG 5 Show in Dubai, and the container house models drew more qualified leads in four days than three months of cold emails.",
+          "zh": "我们在迪拜 BIG 5 展订了 36 平方米摊位，集装箱房模型四天带来的有效客户比三个月冷邮件开发还多。",
+          "audio": "audio/ex/trade-fair-1.mp3"
+        }
+      ],
+      "mnemonic": "trade 贸易 + fair 集市（fair 本义就是\"集市、庙会\"）＝做买卖的大集市。外贸获客三条路对比着记：cold email 是撒网、trade fair 是摆摊、referral 转介绍是口碑——展会贵在\"客户站着走进你的摊位\"。广交会英语就叫 Canton Fair，跟客户聊天必备词。",
+      "issue": 60,
+      "date": "2026-11-15",
+      "theme": "",
+      "gloss": "展会；贸易博览会",
+      "category": "外贸",
+      "audio": "audio/trade-fair.mp3"
+    },
+    {
+      "word": "dietary requirement",
+      "phonetic": "/ˈdaɪətəri rɪˈkwaɪəmənt/",
+      "meaning": "饮食要求；饮食禁忌。客户接待最容易被忽略又最出事的一项：清真（halal）、素食（vegetarian/vegan）、过敏（allergy）、不喝酒（no alcohol）。接待海外客户前务必发一句邮件确认：\"Please let us know if you have any dietary requirements.\"——中东、非洲客户带 halal 需求的概率极高，宴请订错菜等于当天的接待全部白费。菜单上另有一对高频词：vegetarian 不吃肉、vegan 连蛋奶蜂蜜都不碰，别混。",
+      "collocation": "confirm dietary requirements in advance（提前确认饮食禁忌）、halal dietary requirements（清真饮食要求）、accommodate special dietary needs（照顾特殊饮食需求）、severe peanut allergy（严重花生过敏）、a vegetarian set menu（素食套餐）。",
+      "examples": [
+        {
+          "en": "Before the banquet, the coordinator confirmed that all six guests from Riyadh had halal dietary requirements, so the caterer replaced every dish on the set menu.",
+          "zh": "宴会前，对接人确认了来自利雅得的六位客人都有清真饮食要求，餐饮供应商因此把套餐里的每道菜都换掉了。",
+          "audio": "audio/ex/dietary-requirement-1.mp3"
+        }
+      ],
+      "mnemonic": "diet 饮食 + requirement 要求＝\"对吃的具体要求\"。接待流程口诀再续：welcome kit（第 52 期）进门、icebreaker（第 59 期）暖场、dietary requirement 管饭、souvenir（第 57 期）收尾。halal 一词必须会拼写会念——它就是\"清真\"的英文，订餐时直接说 \"We need a fully halal menu\" 最稳妥。",
+      "issue": 60,
+      "date": "2026-11-15",
+      "theme": "",
+      "gloss": "饮食要求（禁忌）",
+      "category": "客户接待",
+      "audio": "audio/dietary-requirement.mp3"
+    },
+    {
+      "word": "takeaway",
+      "phonetic": "/ˈteɪkəweɪ/",
+      "meaning": "核心要点；收获。会议、汇报、培训结束时被带走的\"关键信息\"：What's the takeaway?（所以结论是什么？）几乎是每场英文会议的收尾必问。汇报高手都会主动给 takeaways——一页三条，比二十页 PPT 更让客户记得住你。另义（英式）外卖餐：grab a takeaway（打包带走），对应美式 takeout；英国人周末点 curry takeaway 是常态。一词双场景：会议室里管结论，生活里管晚饭。",
+      "collocation": "key takeaways from the meeting（会议核心结论）、three takeaways for the client（给客户的三条要点）、the main takeaway is...（最主要的收获是……）、grab a takeaway on the way home（回家路上带个外卖）、takeaway box（打包盒）。",
+      "examples": [
+        {
+          "en": "At the end of the technical briefing, the lead engineer summed up three takeaways: a 30-metre clear span is feasible, the schedule needs eight weeks for fabrication, and the price holds for 30 days.",
+          "zh": "技术交底结束时，主管工程师总结了三条要点：30 米净跨可行、加工需要八周、报价有效期 30 天。",
+          "audio": "audio/ex/takeaway-1.mp3"
+        }
+      ],
+      "mnemonic": "take away 拿走——从会议里\"拿走\"的当然是结论，从餐馆里\"拿走\"的当然是外卖。职场闭环口诀：briefing（第 15 期）讲过程、deliverable（第 55 期）交成果、takeaway 留记忆。写英文邮件汇报时，结尾加一行 \"Key takeaways:\" 列三条，客户回复率肉眼可见地变高。",
+      "issue": 60,
+      "date": "2026-11-15",
+      "theme": "",
+      "gloss": "核心要点；外卖",
+      "category": "职场生活",
+      "audio": "audio/takeaway.mp3"
     }
   ]
 }
