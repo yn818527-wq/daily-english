@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15",
-  "total": 300,
+  "updated": "2026-11-16",
+  "total": 305,
   "words": [
     {
       "word": "truss",
@@ -6101,6 +6101,106 @@
       "gloss": "核心要点；外卖",
       "category": "职场生活",
       "audio": "audio/takeaway.mp3"
+    },
+    {
+      "word": "primer",
+      "phonetic": "/ˈpraɪmə(r)/",
+      "meaning": "底漆；打底涂层。钢结构防腐涂装体系的第一道工序：primer（底漆）打底 → intermediate coat（中间漆）加厚 → topcoat（面漆）收面。底漆直接贴着钢材，负责附着力（adhesion）和防锈，常见类型有富锌底漆（zinc-rich primer）和环氧底漆（epoxy primer）。工厂预涂时质检必查 dry film thickness（干膜厚度，DFT），\"富锌底漆 70 微米\"是报价单技术条款里的常客。没有底漆直接上面漆，等于化妆不打底——半年就起皮。另义入门书（primer on steel design）和引物（化学），本期的主场景记住\"漆\"。",
+      "collocation": "zinc-rich primer（富锌底漆）、epoxy primer（环氧底漆）、primer and topcoat system（底漆加面漆体系）、apply two coats of primer（刷两道底漆）、dry film thickness of the primer（底漆干膜厚度）、primer for bare steel（裸钢打底漆）。",
+      "examples": [
+        {
+          "en": "For the coastal warehouse in Mozambique, we quoted a C4 system — zinc-rich primer at 70 microns, epoxy intermediate, and polyurethane topcoat — because salt spray eats bare steel within months.",
+          "zh": "莫桑比克的沿海仓库我们报了 C4 涂装体系——70 微米富锌底漆、环氧中间漆加聚氨酯面漆——因为盐雾几个月就能把裸钢啃花。",
+          "audio": "audio/ex/primer-1.mp3"
+        }
+      ],
+      "mnemonic": "prime 本义\"最初的、第一的\"（prime minister 首相、prime time 黄金档）——涂装里\"第一道\"当然就是底漆。发音陷阱：油漆义读 /ˈpraɪmə/（\"普莱默\"），不是教科书义 primer 的 /ˈpriːmə/，工地上说错会被懂行的客户听出来。三道漆口诀：primer 管粘、intermediate 管厚、topcoat 管脸。",
+      "issue": 61,
+      "date": "2026-11-16",
+      "theme": "",
+      "gloss": "底漆，防腐涂装第一道",
+      "category": "钢结构",
+      "audio": "audio/primer.mp3"
+    },
+    {
+      "word": "bracket",
+      "phonetic": "/ˈbrækɪt/",
+      "meaning": "牛腿；支承支架。从柱子上伸出来承东西的短悬挑构件：吊车梁就坐在牛腿上（crane beam sits on the bracket），钢结构平台、管道、空调外机也都靠 bracket 悬挂在主体上。它与第 59 期 crane beam 连成一句：crane 跑在 beam 上、beam 骑在牛腿上、bracket 从 column 里伸出来。牛腿受的是弯矩加剪力，焊缝等级要求高，是深化图里的关键节点。另义方括号 [ ]：邮件里写价格区间 [USD 85-92] 就是 bracket；tax bracket（税级）也是它——工字钢和工资条都会用到。",
+      "collocation": "crane beam bracket（吊车梁牛腿）、weld the bracket to the column（把牛腿焊在柱上）、wall bracket for the pipeline（管道墙装支架）、support bracket（支承支架）、the bracket connection detail（牛腿节点详图）、price in the bracket（括号里的价格）。",
+      "examples": [
+        {
+          "en": "The fabricator sent us the bracket connection detail for approval — the crane beam brackets are welded to the column web with full-penetration welds, which our engineer marked as a hold point.",
+          "zh": "加工厂把牛腿节点详图发来报审——吊车梁牛腿用全熔透焊缝焊在柱腹板上，我们工程师把它标成了停点待检项。",
+          "audio": "audio/ex/bracket-1.mp3"
+        }
+      ],
+      "mnemonic": "bracket 本义就是\"把东西撑住的托架\"，从\"托架\"引申到\"括号\"——括号不就是把词\"托\"在里面的架子吗？车间里指给客户看吊车梁：\"See the brackets? The crane beam rides on them.\"（看到牛腿了吗？吊车梁就骑在上面。）单词记忆顺带记一句：brackets hold things up — both beams and words.",
+      "issue": 61,
+      "date": "2026-11-16",
+      "theme": "",
+      "gloss": "牛腿，支承支架",
+      "category": "钢结构",
+      "audio": "audio/bracket.mp3"
+    },
+    {
+      "word": "colonnade",
+      "phonetic": "/ˌkɒləˈneɪd/",
+      "meaning": "柱廊。一排等距柱子撑起檐部或顶棚形成的线性空间，建筑立面与场地设计里最古老的空间语言之一：从希腊神庙的 peristyle（周圈柱廊）到现代厂房入口的门廊，都是 colonnade。它不只是造型：钢结构商业建筑里，沿街 colonnade 常兼作骑楼（arcade），遮阳避雨、引导人流，在南美和中东项目里既是被动式节能（passive shading）又是城市界面。方案汇报时一句 \"The colonnade defines the entrance sequence\"（柱廊定义了入口序列）瞬间显专业。词根是 columna（拉丁语\"柱\"，column 的老家）+ -nade（法语名词后缀，同 ballade→ballad）。",
+      "collocation": "entrance colonnade（入口柱廊）、a colonnade of steel columns（一列钢柱柱廊）、colonnade along the facade（沿立面柱廊）、double-height colonnade（两层通高柱廊）、colonnade and canopy entrance（柱廊加雨棚入口）。",
+      "examples": [
+        {
+          "en": "The proposal shows a steel colonnade along the street frontage, giving the showroom a shaded walkway while doubling as the structural frame for the canopy above.",
+          "zh": "方案沿街面做了一列钢柱柱廊，给展厅提供一条有遮荫的步道，同时兼作上方雨棚的结构框架。",
+          "audio": "audio/ex/colonnade-1.mp3"
+        }
+      ],
+      "mnemonic": "column（柱）你早就会了——colonnade 就是 column 排成队。联想链：一 column 孤柱、一排 colonnade 柱廊、柱廊围一圈 peristyle。建筑师汇报爱用大词，这个词一听就不像说\"一排柱子\"那么土；给中东客户看效果图时，colonnade 带来的阴影和庄重感正是他们熟悉的建筑语汇。",
+      "issue": 61,
+      "date": "2026-11-16",
+      "theme": "",
+      "gloss": "柱廊，一列柱撑起的檐廊空间",
+      "category": "建筑设计",
+      "audio": "audio/colonnade.mp3"
+    },
+    {
+      "word": "dunnage",
+      "phonetic": "/ˈdʌnɪdʒ/",
+      "meaning": "衬垫；加固填料。装箱时垫在货物之间、底部和缝隙里，防潮防撞防移位的材料：木材垫方（timber dunnage）、充气袋（dunnage air bags）、胶合板隔层都算。钢构件海运裸装必垫 dunnage——构件之间不垫木方，一个航次的晃动就能让翼缘互撞变形，到港客户验货直接拍照索赔。装箱清单式分工记：goods 是货、dunnage 是护、stuffing 是装（container stuffing，第 38 期 FCL 装箱动作）。词源是航海时代压舱的老词，如今货代、装箱单、现场验货天天见，属于\"听不懂就会吃亏\"的物流词。",
+      "collocation": "timber dunnage between layers（层间木方衬垫）、dunnage bags（充气加固袋）、place dunnage under the base plates（柱底板下垫垫方）、secure the cargo with dunnage（用衬垫加固货物）、free of dunnage marks（无衬垫污渍——验货术语）。",
+      "examples": [
+        {
+          "en": "The packing team laid timber dunnage between every two steel columns and stuffed the gaps with dunnage bags, so nothing shifted during the five-week voyage to Callao.",
+          "zh": "装箱队在每两根钢柱之间垫了木方，缝隙里塞满充气加固袋，五周航程到卡亚俄港没有一件货移位。",
+          "audio": "audio/ex/dunnage-1.mp3"
+        }
+      ],
+      "mnemonic": "谐音\"吨那几\"——装了几\"吨\"货，就得垫\"那几\"根木头。海运索赔对联：没有 dunnage 就有 damage。给货代写装箱要求时直接说 \"Please use adequate dunnage between components\"（构件之间请垫足衬垫），比说 packing materials 专业得多，货代一听就知道你是懂行的。",
+      "issue": 61,
+      "date": "2026-11-16",
+      "theme": "",
+      "gloss": "装箱衬垫加固料",
+      "category": "外贸物流",
+      "audio": "audio/dunnage.mp3"
+    },
+    {
+      "word": "after-sales service",
+      "phonetic": "/ˈɑːftə seɪlz ˈsɜːvɪs/",
+      "meaning": "售后服务。交货之后的一切支持：安装指导（erection guidance）、维修（repair）、更换配件（spare parts）、质保期内处理缺陷（handling defects within the warranty period，第 14 期）。钢结构出口尤其看重这一环——客户买的不是几吨钢，是\"出了问题有人管\"。海外客户比价时常问：What does your after-sales service cover?（你们售后管什么？）答得出服务范围、响应时间（response time）和远程支持方式的供应商，溢价 5% 客户也认。词性注意：可作名词短语，也可用 after-sales support；形容词用法如 after-sales team（售后团队）。",
+      "collocation": "after-sales service team（售后服务团队）、one-year free after-sales service（一年免费售后）、response time of 48 hours（48 小时响应）、spare parts supply（配件供应）、installation and after-sales support（安装及售后支持）、after-sales hotline（售后热线）。",
+      "examples": [
+        {
+          "en": "Our quotation includes one engineer on site for erection guidance plus a two-year after-sales service covering replacement of any defective components within 48 hours of notification.",
+          "zh": "我们的报价含一名现场安装指导工程师，外加两年售后服务——任何缺陷部件接到通知后 48 小时内更换。",
+          "audio": "audio/ex/after-sales-service-1.mp3"
+        }
+      ],
+      "mnemonic": "sale 是\"卖\"，after-sales 就是\"卖完之后\"——卖完不管叫一锤子买卖，卖完还管才叫品牌。外贸链条收尾口诀：quotation（第 1 期）接单、shipment（第 6 期）交货、after-sales service 保回头。跟客户谈判时把售后写进合同的 verification：deadline 签完先别庆祝，回头客是售后养出来的。",
+      "issue": 61,
+      "date": "2026-11-16",
+      "theme": "",
+      "gloss": "售后服务",
+      "category": "客户接待",
+      "audio": "audio/after-sales-service.mp3"
     }
   ]
 }

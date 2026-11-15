@@ -1199,5 +1199,25 @@
   "takeaway": {
     "gloss": "核心要点；外卖",
     "category": "职场生活"
+  },
+  "primer": {
+    "gloss": "底漆，防腐涂装第一道",
+    "category": "钢结构"
+  },
+  "bracket": {
+    "gloss": "牛腿，支承支架",
+    "category": "钢结构"
+  },
+  "colonnade": {
+    "gloss": "柱廊，一列柱撑起的檐廊空间",
+    "category": "建筑设计"
+  },
+  "dunnage": {
+    "gloss": "装箱衬垫加固料",
+    "category": "外贸物流"
+  },
+  "after-sales service": {
+    "gloss": "售后服务",
+    "category": "客户接待"
   }
 }
