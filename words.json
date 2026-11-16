@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16",
-  "total": 305,
+  "updated": "2026-11-17",
+  "total": 310,
   "words": [
     {
       "word": "truss",
@@ -6201,6 +6201,106 @@
       "gloss": "售后服务",
       "category": "客户接待",
       "audio": "audio/after-sales-service.mp3"
+    },
+    {
+      "word": "riser",
+      "phonetic": "/ˈraɪzə(r)/",
+      "meaning": "楼梯踏步的竖向立板；立管。一段楼梯由踏板（tread，踩脚的水平面）和 riser（立在你小腿前的竖直面）交替组成，第 56 期 stringer 的口诀到今天补全：stringer 挑大梁、tread 踩脚下、riser 立背后、handrail 扶手上。规范口诀 2R+T=600~620 毫米（R 是 riser 高、T 是 tread 深）就是拿它算的——办公楼梯常用 170+280，钢楼梯的 riser 常由花纹钢板折弯而成。另义\"立管\"：电气 riser diagram（竖向系统图）是写字楼设计文件里的常客，消防立管 riser 也叫它。给客户做无障碍设计时还有一条规则记心里：riser 太高，老人和小孩都遭罪。",
+      "collocation": "tread and riser（踏板与立板）、riser height（立板高度）、open riser stairs（透空立板楼梯）、folded steel tread and riser（折弯钢踏步）、riser diagram（竖向系统图）、maximum riser height of 180 mm（立板最大高度 180 毫米）。",
+      "examples": [
+        {
+          "en": "For the external steel staircase, we folded each tread and riser from 4 mm checkered plate, keeping the riser height at 170 mm to meet the 2R+T comfort rule.",
+          "zh": "外挑钢楼梯的每个踏步和立板都用 4 毫米花纹钢板折弯成型，立板高度控制在 170 毫米，满足 2R+T 的舒适度规则。",
+          "audio": "audio/ex/riser-1.mp3"
+        }
+      ],
+      "mnemonic": "rise（升起）+ -er（名词后缀）——踏步里\"立起来\"的那块板就叫 riser，踩脚的叫 tread，一个躺平一个站岗，分工明确。车间里教客户认楼梯构件一句话就够：\"The part you kick with your toe is the riser; the part you stand on is the tread.\"（脚尖踢到的是立板，踩在脚下的是踏板。）",
+      "issue": 62,
+      "date": "2026-11-17",
+      "theme": "",
+      "gloss": "楼梯立板（踢板）；立管",
+      "category": "钢结构建筑",
+      "audio": "audio/riser.mp3"
+    },
+    {
+      "word": "downspout",
+      "phonetic": "/ˈdaʊnspaʊt/",
+      "meaning": "落水管。屋面排水系统的竖向收尾段：雨水沿屋面坡度汇入 gutter（天沟，第 31 期），再由 downspout 垂直导到地面排水沟或雨水管。钢结构厂房的标准链条一句话背下：roof slope（屋面找坡）→ gutter（天沟）→ downspout（落水管）→ storm drain（雨水口）。常见规格 2×3 英寸或 4 英寸圆管，镀锌或彩涂，工厂预制的落水管随围护板一起发货。非洲项目雨季暴雨强度高，downspout 数量不足会造成天沟积水翻过檐口、倒灌墙面——第 31 期说的\"天沟断面不够是设计事故\"，一半的病根其实在落水管根数没算够。美式叫 downspout，英式更常说 downpipe，报价单两种都要认识。",
+      "collocation": "gutter and downspout system（天沟落水系统）、downspout spacing at 12 m（落水管 12 米一个）、galvanized downspout（镀锌落水管）、downspout outlet（落水管出水口）、conductor head（雨水斗）、elbow at the downspout base（落水管底部弯头）。",
+      "examples": [
+        {
+          "en": "We added two extra downspouts after checking the rainfall intensity data — one gutter outlet every 15 m was not enough for the monsoon season in Lagos.",
+          "zh": "查过降雨强度数据后我们加了两个落水管——拉各斯的雨季，15 米一根天沟出水口根本不够用。",
+          "audio": "audio/ex/downspout-1.mp3"
+        }
+      ],
+      "mnemonic": "down（向下）+ spout（喷口、壶嘴，茶壶倒水那个嘴也叫 spout）——雨水从天沟\"往下走的壶嘴\"，就是 downspout。和 gutter 记成一对搭档：\"Gutter collects along the eaves; downspout carries it to the ground.\"（天沟沿檐口集水，落水管送它落地。）记住链条 slope→gutter→downspout→drain，屋面排水闭卷能默写。",
+      "issue": 62,
+      "date": "2026-11-17",
+      "theme": "",
+      "gloss": "落水管，屋面排水竖管",
+      "category": "钢结构建筑",
+      "audio": "audio/downspout.mp3"
+    },
+    {
+      "word": "mock-up",
+      "phonetic": "/ˈmɒk ʌp/",
+      "meaning": "实体样板。按足尺或约定比例做出来给各方确认的实物样本：幕墙样板墙（curtain wall mock-up）、外挂节点样板、精装样板间，都可以叫 mock-up。它和第 11 期 sample（样品）的分工：sample 多是小块材料（一块板、一截型材），mock-up 是拼装到位的 1:1 节点或局部整体——客户站在跟前，看得见板缝打胶、摸得得到收边、敲得着龙骨。国际项目上幕墙分包进场前常要求先做 mock-up 并通过性能测试（水密、气密、平面变形），签字封样后才允许批量加工，\"Approved mock-up\"是深化的通行证。动词短语 mock up 一样用：We mocked up the corner detail in plywood（我们用木工板把转角节点做了个样板）。",
+      "collocation": "curtain wall mock-up（幕墙样板墙）、approved mock-up（已封样样板）、performance-tested mock-up（通过性能测试的样板）、mock-up panel for colour approval（颜色封样板）、mock up the junction detail（把节点做成样板）。",
+      "examples": [
+        {
+          "en": "Before mass production of the cladding panels, the builder must erect a full-size mock-up on site and have the architect's sign-off — colour, gloss, and sealant joints all approved against the physical sample.",
+          "zh": "墙面板批量生产之前，施工方必须在现场立起足尺样板墙并取得建筑师签认——颜色、光泽度和密封胶缝都以这块实体样板为准。",
+          "audio": "audio/ex/mock-up-1.mp3"
+        }
+      ],
+      "mnemonic": "mock 是\"模仿、假扮\"（mock exam 模拟考），up 是\"立起来\"——\"模仿着立起来的一个\"，就是实体样板。一句话分清它和 sample：\"A sample sits on the table; a mock-up stands on the site.\"（样品摆桌上，样板立现场。）给客户报价时主动提出 mock-up，是花小钱避免大返工的聪明姿态。",
+      "issue": 62,
+      "date": "2026-11-17",
+      "theme": "",
+      "gloss": "实体样板，1:1 样板墙/样间",
+      "category": "工程",
+      "audio": "audio/mock-up.mp3"
+    },
+    {
+      "word": "freight forwarder",
+      "phonetic": "/ˈfreɪt ˌfɔːwədə(r)/",
+      "meaning": "货运代理，外贸圈口中的\"货代\"。替出口商跑完整个运输流程的专业中介：订舱（booking，衔接第 39 期 booking note）、安排拖车和装箱（stuffing）、报关（customs clearance，第 7 期）、缮制单据、买货运保险，一直到目的港清关衔接——一条龙的\"物流管家\"。对做非洲、南美航线的钢构厂来说，货代几乎是和客户并列的对话对象：舱位紧不紧、旺季 surcharge（第 31 期附加费）涨多少、哪个船司直航不转运（第 32 期 transshipment），情报都从货代来。术语分工别混：forwarder 是代理（人），而 carrier（承运人）才是真正跑船的船公司；Forwarder's Bill of Lading（货代提单，HB/L）与船东提单（MB/L）之争，是信用证交单时的经典考点。",
+      "collocation": "freight forwarder in Qingdao（青岛的货代）、book the space through our forwarder（通过我们货代订舱）、forwarder's bill of lading（货代提单）、door-to-door forwarding service（门到门货代服务）、change the forwarder to save cost（换货代省成本）、ask the forwarder for the sailing schedule（找货代要船期表）。",
+      "examples": [
+        {
+          "en": "Our freight forwarder warned us that vessels to Santos are fully booked before Christmas, so they suggest booking a 40HC two weeks earlier and stuffing at our factory before the trucking cut-off.",
+          "zh": "货代提醒我们圣诞节前去桑托斯的舱位已经订满，建议提前两周订 40 高柜，并在拖车截关前到我们厂里完成装箱。",
+          "audio": "audio/ex/freight-forwarder-1.mp3"
+        }
+      ],
+      "mnemonic": "forward（向前）+ -er（人）——\"把货物往前送的人\"，中文\"货代\"几乎是对着字面翻译的：货物的代理。链条一句话串起半个外贸物流词库：forwarder 订 booking note，拖车进厂 stuffing，报关 clearance，上船出 bill of lading——货代全程在场，一次记住。",
+      "issue": 62,
+      "date": "2026-11-17",
+      "theme": "",
+      "gloss": "货运代理（货代）",
+      "category": "外贸",
+      "audio": "audio/freight-forwarder.mp3"
+    },
+    {
+      "word": "referral",
+      "phonetic": "/rɪˈfɜːrəl/",
+      "meaning": "转介绍；由老客户或熟人推荐来的商机。B2B 外贸三大获客渠道的第 31 期伏笔今天正式收下：cold email（冷邮件）广撒网、trade fair（展会，第 60 期）面对面、referral 靠口碑——其中 referral 的成交率和信任成本都最优：老客户替你把\"验证\"这道工序省了。钢结构行业尤其明显：一个非洲总包用顺手了你的安置房，把你推荐给邻国的教会学校项目，一句 \"They referred us to you\"（他们是把你推荐给我们的）就是最好的开场白。职场里另义\"转介\"：HR 把简历转给用人经理叫 referral，内推（employee referral）也是它——招聘和获客共用一个词，本质都是\"信任的传递\"。动词 refer 你早认识：refer to（提及、参考），referral 就是\"被 refer 来的东西\"。",
+      "collocation": "come through a referral（经转介绍而来）、referral from our Kenyan client（肯尼亚老客户的转介绍）、ask for a referral（请客户转介绍）、employee referral program（员工内推计划）、warm lead by referral（转介绍来的热线索）、on the referral of Mr. Okafor（经奥卡福先生引荐）。",
+      "examples": [
+        {
+          "en": "The enquiry from the church school in Lusaka came as a referral from our Kenyan client — they had our container classrooms installed on site and showed them to the visiting delegation.",
+          "zh": "卢萨卡教会学校的询盘是肯尼亚老客户转介绍来的——他们把我们的集装箱教室装在了现场，直接展示给来访代表团看。",
+          "audio": "audio/ex/referral-1.mp3"
+        }
+      ],
+      "mnemonic": "refer（把……指向）+ -al（名词后缀）——老客户把新客户\"指\"向你，就是 referral。记一个外贸铁三角：\"Cold emails knock on doors, trade fairs shake hands, referrals skip the queue.\"（冷邮件敲门，展会握手，转介绍直接插队。）每次顺利交付后别忘开口：\"If you know anyone who needs modular classrooms, a referral would mean a lot to us.\"（如果您认识需要模块化教室的人，一次转介绍对我们意义重大。）",
+      "issue": 62,
+      "date": "2026-11-17",
+      "theme": "",
+      "gloss": "转介绍；转介来的客户/商机",
+      "category": "职场与商务",
+      "audio": "audio/referral.mp3"
     }
   ]
 }

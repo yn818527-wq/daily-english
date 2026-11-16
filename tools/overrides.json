@@ -1219,5 +1219,25 @@
   "after-sales service": {
     "gloss": "售后服务",
     "category": "客户接待"
+  },
+  "riser": {
+    "gloss": "楼梯立板（踢板）；立管",
+    "category": "钢结构建筑"
+  },
+  "downspout": {
+    "gloss": "落水管，屋面排水竖管",
+    "category": "钢结构建筑"
+  },
+  "mock-up": {
+    "gloss": "实体样板，1:1 样板墙/样间",
+    "category": "工程"
+  },
+  "freight forwarder": {
+    "gloss": "货运代理（货代）",
+    "category": "外贸"
+  },
+  "referral": {
+    "gloss": "转介绍；转介来的客户/商机",
+    "category": "职场与商务"
   }
 }
