@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17",
-  "total": 310,
+  "updated": "2026-11-18",
+  "total": 315,
   "words": [
     {
       "word": "truss",
@@ -6301,6 +6301,106 @@
       "gloss": "转介绍；转介来的客户/商机",
       "category": "职场与商务",
       "audio": "audio/referral.mp3"
+    },
+    {
+      "word": "chord",
+      "phonetic": "/kɔːd/",
+      "meaning": "弦杆。桁架（truss，第 1 期）上下两根通长的主杆件：上弦 top chord 受压、下弦 bottom chord 受拉，中间的腹杆（web member，第 21 期 web 就是腹板那次的老朋友）负责把力在两者之间倒手。轻型钢屋架选型时工程师说的 \"the chord section\"（弦杆截面）指的就是这两根主角：跨度 18 米以内的门式刚架屋面常用等边角钢或方管做弦杆，节点板（gusset，第 4 期）把三兄弟焊在一起。与梁受力最大的不同：桁架把弯矩\"拆\"成弦杆的轴力——上弦压、下弦拉，离中性轴越远材料越没白用，这就是大跨结构爱用桁架的原因。拼写别和 cord（绳索、电线）弄混：chord 带 h，源自希腊语 chordē（琴弦），音乐里的\"和弦\"也是它——上弦下弦绷在腹杆上，确实像一张琴。",
+      "collocation": "top chord（上弦杆）、bottom chord（下弦杆）、chord member（弦杆杆件）、double-angle chord（双角钢弦杆）、box-section chord（箱形截面弦杆）、chord splices at mid-span（跨中弦杆拼接）。",
+      "examples": [
+        {
+          "en": "For the 24 m roof truss, we upgraded the top chord from a double angle to a square hollow section, because the slender compression chord failed the slenderness check.",
+          "zh": "24 米屋面桁架的上弦杆从双角钢换成了方管，因为原细长受压弦杆的长细比验算没过。",
+          "audio": "audio/ex/chord-1.mp3"
+        }
+      ],
+      "mnemonic": "chord 就是\"琴弦\"——桁架上下绷着的两根\"主弦\"，腹杆像手指按在弦上。口诀一句话：\"Top chord takes compression, bottom chord takes tension.\"（上弦受压，下弦受拉。）再借音乐记拼写：音乐的和弦 chord 与弦杆同一个词，\"一座桁架就是一张竖起来的琴\"。",
+      "issue": 63,
+      "date": "2026-11-18",
+      "theme": "",
+      "gloss": "弦杆（桁架上弦/下弦）",
+      "category": "钢结构",
+      "audio": "audio/chord.mp3"
+    },
+    {
+      "word": "admixture",
+      "phonetic": "/ədˈmɪkstʃə(r)/",
+      "meaning": "外加剂。混凝土（或砂浆）搅拌时掺入的、占比不超过水泥质量 5% 的化学调味料：减水剂 superplasticizer（减水增坍）、缓凝剂 retarder（延缓凝结，抢大体积浇筑时救场）、早强剂 accelerator（冬施抢强度）、引气剂 air-entraining agent（抗冻融）都是家族成员。它和骨料、水泥、水是\"配料\"关系，别与 additive（掺合料，粉煤灰、矿粉这类大掺量矿物粉末）混淆——英文里两词像兄弟，工程口径里一个是 5% 以内的\"药\"，一个是占胶材两三成的\"饭\"。外贸语境也常见：出口混凝土预制构件的技术文件里，admixture type and dosage（外加剂品种与掺量）是耐久性条款的常驻项；非洲高温项目尤其要写缓凝剂，运输 40 公里的混凝土路上就初凝了。说人话记忆：mix 是\"拌\"，ad- 是\"加进去\"——拌的时候加进去的那一小勺，就是 admixture。",
+      "collocation": "concrete admixture（混凝土外加剂）、water-reducing admixture（减水剂）、set-retarding admixture（缓凝剂）、accelerating admixture（早强剂）、admixture dosage of 1.2%（外加剂掺量 1.2%）、compatibility of cement and admixture（水泥与外加剂相容性）。",
+      "examples": [
+        {
+          "en": "For the raft foundation pour in 38-degree heat, the mix design includes a retarding admixture so the 60 m³ delivery trucks can still reach the site before initial set.",
+          "zh": "38 摄氏度高温下浇筑筏板基础，配合比里加了缓凝剂，保证 60 方的罐车还能在初凝前赶到现场。",
+          "audio": "audio/ex/admixture-1.mp3"
+        }
+      ],
+      "mnemonic": "ad（往里）+ mixture（混合物）——拌混凝土时\"额外掺进去\"的那一小撮。菜单式背法：减水 superplasticizer、缓凝 retarder、早强 accelerator、引气 air-entraining，四种\"调味料\"各管一摊。和 additive（掺合料）的分工一句话：\"Admixture is the medicine, additive is the food.\"（外加剂是药，掺合料是饭。）",
+      "issue": 63,
+      "date": "2026-11-18",
+      "theme": "",
+      "gloss": "外加剂（混凝土）",
+      "category": "工程",
+      "audio": "audio/admixture.mp3"
+    },
+    {
+      "word": "arcade",
+      "phonetic": "/ɑːˈkeɪd/",
+      "meaning": "拱廊。一列拱券（arch）架在柱子上形成的连续有顶步廊：拱挨着拱、柱排成队，既是结构又是灰空间。地中海与中东建筑里的常客——拱券本身就把压力往两侧柱上导，一列连起来互相抵住，正好是砖石时代的\"框架结构\"。现代钢构里它是第 61 期 colonnade（柱廊）的\"升级皮肤\"：colonnade 平梁架柱，arcade 把平梁换成拱，遮阳与通风效果在中东气候下更佳。做中东或北非项目时，沿街立面做一跨钢结构拱廊，造价可控又接得住当地建筑语汇；规划术语里 arcade 还指骑楼式商业连廊（骑楼下的商铺门前那条廊），与 arcade game（街机游戏）那个美式俚语用法相距甚远，商务场合放心用。arch（拱）+ -ade（表示\"成排成组\"的后缀，如 promenade、cascade）——一排拱，就是 arcade。",
+      "collocation": "arcade along the street facade（沿街立面的拱廊）、steel-framed arcade（钢框架拱廊）、colonnade and arcade（柱廊与拱廊）、shopping arcade（商业拱廊/骑楼街）、covered arcade for shading（遮阳连廊）、arched openings repeated in an arcade（连拱重复开洞）。",
+      "examples": [
+        {
+          "en": "Facing the main road, we proposed a steel-framed arcade along the showroom facade — the repeated arches echo the local architecture and shade the walkway all afternoon.",
+          "zh": "面向主干道一侧，我们在展厅立面提议做一道钢框架拱廊——连续的拱券呼应当地建筑语汇，整个下午都替步行道遮阳。",
+          "audio": "audio/ex/arcade-1.mp3"
+        }
+      ],
+      "mnemonic": "arch（拱券）+ -ade（成排后缀，同 promenade 散步道、cascade 叠瀑）——\"一排拱\"就是拱廊。和第 61 期 colonnade 记成一对：\"A colonnade is columns with beams; an arcade is columns with arches.\"（柱廊是柱托梁，拱廊是柱托拱。）看到重复拱券想到 shade（遮阳）和 span（跨越），一词三得。",
+      "issue": 63,
+      "date": "2026-11-18",
+      "theme": "",
+      "gloss": "拱廊；连拱柱廊",
+      "category": "建筑设计",
+      "audio": "audio/arcade.mp3"
+    },
+    {
+      "word": "partial shipment",
+      "phonetic": "/ˌpɑːʃl ˈʃɪpmənt/",
+      "meaning": "分批装运。同一合同（或同一信用证）下的货物拆成两批以上先后装船：1000 吨钢结构分两条船、3000 平方夹芯板先发一船应急——都算 partial shipment。它和第 32 期 transshipment（转运）是外贸术语里最易混的一对，也是信用证（L/C，第 8 期）审单的经典考点：partial shipment 管\"分几次装\"，transshipment 管\"中途换船\"，41 条 UCP 规定 L/C 若未作规定，默认允许 partial shipment 但默认禁止转运——方向刚好相反，考试和实务都爱在这里设陷阱。工程实操里钢构厂几乎离不开它：大项目按吊装顺序分批发货（首批柱脚螺栓+钢柱，二批梁板，三批围护），既配合现场安装节奏，又缓解买方资金压力；但要在合同里写清 each lot must reach site before erection of that part（每批须在该部分吊装前到货），否则缺一根梁，吊车就地趴窝。提单批注 Partial shipment 日期不同，交单按最早一批起算效期，这条红线写标书时最容易踩。",
+      "collocation": "partial shipments allowed（允许分批装运）、partial shipment prohibited（禁止分批装运）、ship in three partial lots（分三批发运）、partial shipment schedule aligned with erection sequence（与吊装顺序对齐的分批计划）、latest partial shipment date（最迟分批装运日）。",
+      "examples": [
+        {
+          "en": "The L/C allows partial shipments, so we will forward the anchor bolts and columns first, followed by the rafters in a second lot to match the erection sequence on site.",
+          "zh": "信用证允许分批装运，我们先发地脚螺栓和钢柱，第二批再发屋面斜梁，与现场吊装顺序对齐。",
+          "audio": "audio/ex/partial-shipment-1.mp3"
+        }
+      ],
+      "mnemonic": "partial（部分的，第 32 期已经跟 partial payment 打过照面）+ shipment（装运，第 6 期）——一次合同、多次装船。与 transshipment 防混淆口诀：\"Partial is how many times you load; transshipment is how many ships you use.\"（partial 看装几次，transshipment 看换几条船。）审单红线跟着背：\"Silence means partial allowed, but transshipment forbidden.\"（L/C 没写 = 允许分批、禁止转运。）",
+      "issue": 63,
+      "date": "2026-11-18",
+      "theme": "",
+      "gloss": "分批装运（部分装运）",
+      "category": "外贸",
+      "audio": "audio/partial-shipment.mp3"
+    },
+    {
+      "word": "due diligence",
+      "phonetic": "/ˌdjuː ˈdɪlɪdʒəns/",
+      "meaning": "尽职调查。签合同、付款、并购之前，把对方和项目\"查个底朝天\"的功课：核实公司注册与资质（营业执照、出口权）、财务与信用状况、既往项目履约记录、业主资金来源、乃至当地政策与外汇管制——做完才敢把钱和交期押上去。外贸 B2B 的风险序位里，DD 是事前最便宜的一道防线：一份国际信用报告几十美元，可能拦下几十万美元的坏账；钢结构出口尤其要看买方既往清关与付款记录（第 13 期 claim 索赔的前置体检）。反过来，客户对你做 DD 时，工厂的 ISO 体系、往期 project reference list、甚至 ERP 截图都是加分项——验厂（factory tour，第 53 期）本质上就是客户在你这儿做现场 due diligence。词组来历很形象：due（应得的、到期的）+ diligence（勤勉）——\"应当勤勉去做的功课\"。日常口语里 \"I'll do my due diligence\" 早已泛化成\"我会先好好查一查\"，职场语境出现频率极高。",
+      "collocation": "conduct due diligence on the buyer（对买方做尽职调查）、due diligence report（尽调报告）、legal and financial due diligence（法律与财务尽调）、customer credit check（客户资信调查）、during the due diligence phase（尽调阶段）、technical due diligence（技术尽调）。",
+      "examples": [
+        {
+          "en": "Before we accept the 40% advance payment terms, our finance team will run due diligence on the new client — company registration, trade references, and their record of customs clearance at Tema port.",
+          "zh": "在接受四成预付款条款之前，财务团队会先对新客户做尽职调查——公司注册信息、贸易证明人，以及他们在特马港的清关记录。",
+          "audio": "audio/ex/due-diligence-1.mp3"
+        }
+      ],
+      "mnemonic": "due（应付的、到期的）+ diligence（勤奋，diligent 努力）——\"到期该交的勤勉作业\"，签合同前不交这份作业，学费后面补。一句话给外贸人定位：\"Due diligence is cheap; bad debt is expensive.\"（尽调很便宜，坏账很贵。）对客户那句也记下：\"We welcome your due diligence — factory tour any time.\"（欢迎尽调，随时来验厂。）",
+      "issue": 63,
+      "date": "2026-11-18",
+      "theme": "",
+      "gloss": "尽职调查",
+      "category": "职场",
+      "audio": "audio/due-diligence.mp3"
     }
   ]
 }

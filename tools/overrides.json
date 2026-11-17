@@ -1239,5 +1239,25 @@
   "referral": {
     "gloss": "转介绍；转介来的客户/商机",
     "category": "职场与商务"
+  },
+  "chord": {
+    "gloss": "弦杆（桁架上弦/下弦）",
+    "category": "钢结构"
+  },
+  "admixture": {
+    "gloss": "外加剂（混凝土）",
+    "category": "工程"
+  },
+  "arcade": {
+    "gloss": "拱廊；连拱柱廊",
+    "category": "建筑设计"
+  },
+  "partial shipment": {
+    "gloss": "分批装运（部分装运）",
+    "category": "外贸"
+  },
+  "due diligence": {
+    "gloss": "尽职调查",
+    "category": "职场"
   }
 }
