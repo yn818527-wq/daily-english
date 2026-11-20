@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20",
-  "total": 325,
+  "updated": "2026-11-21",
+  "total": 330,
   "words": [
     {
       "word": "truss",
@@ -6601,6 +6601,106 @@
       "gloss": "敬请回复（请回复邀请）",
       "category": "客户接待",
       "audio": "audio/rsvp.mp3"
+    },
+    {
+      "word": "live load",
+      "phonetic": "/laɪv ləʊd/",
+      "meaning": "结构在使用期间会变化、会移动的荷载——人、家具、设备、堆料、车辆、雪、风，统称 live load（英式也叫 imposed load，规范里写 variable load）。它与第 28 期 dead load（恒载／静载：结构自重、墙板、固定设备）是钢结构设计最基本的一对分类：先算恒载再叠活载，按荷载组合（load combination）验算第 29 期 beam（梁）、第 11 期 column（柱）与楼板的强度和第 4 期 deflection（挠度）。厂房与仓储项目里活荷载取值本身就是商务谈判点：客户说\"要放重型设备\"或\"上三层货架\"，活荷载可能从 5 kN/m² 跳到 10 kN/m²，用钢量和报价直接上一个台阶，所以报价前一定让业主书面确认 live load，并写进第 10 期 specification。一词多场景：live 作形容词读 /laɪv/ 还有\"现场的、直播的、带电的\"（live broadcast、live wire），别与动词\"居住\"live /lɪv/ 混；工地里 live load 只谈结构，live wire 是带电导线，安全交底（第 33 期 induction）两个都常听到。",
+      "collocation": "live load / imposed load（活荷载）、dead load（恒载）、design live load（设计活荷载）、a live load of 5 kN/m²（5 千牛每平米活荷载）、load combination（荷载组合）、floor live load（楼面活荷载）、snow / wind load（雪／风荷载）、reduce the live load（降低活荷载取值）、confirm the loading in writing（书面确认荷载）。",
+      "examples": [
+        {
+          "en": "Before we finalise the steel quantity, please confirm the design live load in writing—raising it from 5 to 10 kN/m² will change every beam and column section.",
+          "zh": "在敲定钢材用量之前，请书面确认设计活荷载——从 5 提到 10 千牛每平米，每根梁柱截面都要改。",
+          "audio": "audio/ex/live-load-1.mp3"
+        }
+      ],
+      "mnemonic": "live 读 /laɪv/ 不读 /lɪv/——\"会动、会来会走\"的荷载才是 live load；与 dead load 记成一对口诀：\"Dead load stays put; live load comes and goes.\"（恒载不动，活载来去。）商务上再记一句：\"Confirm the live load before you quote.\"（报价前先确认活荷载。）顺手区分三个 live：live load（活荷载）、live wire（带电导线）、live broadcast（现场直播），都读 /laɪv/，只有\"居住\"读 /lɪv/。",
+      "issue": 66,
+      "date": "2026-11-21",
+      "theme": "",
+      "gloss": "活荷载；活载；可变荷载",
+      "category": "钢结构",
+      "audio": "audio/live-load.mp3"
+    },
+    {
+      "word": "suspended ceiling",
+      "phonetic": "/səˈspendɪd ˈsiːlɪŋ/",
+      "meaning": "从楼板或屋架底下用吊杆（hanger）另吊一层轻质板材形成的室内天花，把风管、电缆桥架、消防喷淋与灯具藏进上方的吊顶内空腔（plenum），是办公楼、展厅、安置房公共区最常见的室内做法，也叫 dropped ceiling / false ceiling（英式）。它与第 24 期 soffit（挑檐底板／构件底面，结构外露的底面）分工清楚：soffit 是\"结构本身的底面\"，suspended ceiling 是\"另吊一层把结构遮住\"；与第 53 期 clear height（净高）又是一对——吊顶标高每降 100 mm，净高就少 100 mm，方案阶段必须和机电专业一起定。板材常见矿棉板、石膏板、铝扣板，模块化项目为检修方便常留可拆卸的检修口（access panel）。钢结构厂房生产区通常不做吊顶（直接露第 2 期 purlin、第 9 期 rafter 更省钱），但办公区、第 48 期 showroom、接待区会做，是方案汇报里区分\"生产／办公\"两块空间的常用手段。",
+      "collocation": "suspended ceiling / dropped ceiling（吊顶）、ceiling grid / T-bar（吊顶龙骨）、ceiling tile（吊顶板）、plenum（吊顶内空腔）、access panel / hatch（检修口）、ceiling height（吊顶标高）、conceal the MEP services（隐藏机电管线）、exposed structure（结构外露）、suspend from the purlins（吊在檩条下）、fire-rated ceiling（耐火吊顶，第 27 期）。",
+      "examples": [
+        {
+          "en": "We will keep the production hall exposed, but fit a suspended ceiling in the showroom to conceal the ducts and cabling while keeping a 2.8 m clear height.",
+          "zh": "生产车间保持结构外露，展厅则做吊顶把风管和线缆藏起来，同时保住 2.8 米净高。",
+          "audio": "audio/ex/suspended-ceiling-1.mp3"
+        }
+      ],
+      "mnemonic": "suspend（悬挂）+ ceiling（天花）= \"吊在下面的第二层天花\"。和 soffit 记住分工：\"A soffit is the underside you see; a suspended ceiling is the underside you hide.\"（soffit 是你看见的结构底面，吊顶是你拿来遮它的底面。）再和 clear height 绑一句：\"Every ceiling you drop costs clear height.\"（吊顶每降一分，净高就少一分。）工地口语常简称 the ceiling 或 the grid，听见 grid 别只想到第 26 期 grid line（轴线），吊顶龙骨也叫 grid。",
+      "issue": 66,
+      "date": "2026-11-21",
+      "theme": "",
+      "gloss": "吊顶；悬挂式天花",
+      "category": "建筑设计",
+      "audio": "audio/suspended-ceiling.mp3"
+    },
+    {
+      "word": "telegraphic transfer",
+      "phonetic": "/ˌtelɪˈɡræfɪk ˈtrænsfɜː(r)/",
+      "meaning": "外贸最常用的付款方式之一，买家通过银行把货款以电子方式直接汇到卖家账户，缩写 T/T，行业里几乎只说 \"by T/T\"。它与第 19 期 remittance（汇款，泛指）、第 3 期 deposit（定金）、第 8 期 letter of credit（信用证 L/C）同属付款条款链：常见组合是 \"30% T/T deposit, 70% against B/L copy\"（三成电汇定金、七成见提单副本付尾款），比 L/C 手续简单、费用低，但靠的是商业信用而非银行信用，新客户大额订单要谨慎。在第 51 期排过的付款风险刻度尺（预付、L/C、D/P、D/A、赊销）里，前 T/T 属\"先款后货\"最稳的一档，所以谈条款时争取提高电汇定金比例是外贸基本功；收款人、SWIFT code 等银行信息必须写进第 64 期 commercial invoice 与第 1 期 quotation，一个字母错就可能导致汇款退回或延误。缩写 T/T 含斜杠，正式文件与词库一律写全称 telegraphic transfer，避免解析与 D/P 之类缩写混淆。",
+      "collocation": "by T/T / telegraphic transfer（电汇付款）、T/T in advance（前 T/T／预付）、30% deposit by T/T（三成电汇定金）、balance against B/L copy（见提单副本付尾款）、T/T remittance（电汇汇款）、SWIFT code / bank details（银行代码／账户信息）、beneficiary（收款人）、remittance advice / bank slip（汇款水单）、payment terms（付款条款）。",
+      "examples": [
+        {
+          "en": "Our standard terms are 30% by T/T in advance and the 70% balance against the copy of the bill of lading; please find our SWIFT code on the commercial invoice.",
+          "zh": "我们的常规条款是三成前 T/T 预付、七成见提单副本付尾款，SWIFT 代码见商业发票。",
+          "audio": "audio/ex/telegraphic-transfer-1.mp3"
+        }
+      ],
+      "mnemonic": "tele（远）+ graphic（写）= 早年\"电报汇款\"，今天走 SWIFT 但名字沿用，缩写 T/T。付款三件套一句背：\"Deposit by T/T, balance against B/L, documents by courier.\"（定金电汇、尾款见提单、单据走快递，第 31 期 courier。）和第 8 期 L/C 划清：\"T/T is trust in the buyer; an L/C is trust in the bank.\"（电汇信买家，信用证信银行。）写条款别漏一句 \"All bank charges outside China are on the buyer's account.\"（境外银行费用由买方承担。）",
+      "issue": 66,
+      "date": "2026-11-21",
+      "theme": "",
+      "gloss": "电汇；T/T 付款",
+      "category": "外贸",
+      "audio": "audio/telegraphic-transfer.mp3"
+    },
+    {
+      "word": "business card",
+      "phonetic": "/ˈbɪznəs kɑːd/",
+      "meaning": "印着姓名、职务、公司、电话与邮箱的小卡片，商务初次见面的第一个正式动作（exchange business cards），在中日韩与中东客户接待里几乎是仪式：双手递接、字面朝对方、接过先看一眼再收好，不随手塞口袋——这些属于第 22 期 etiquette 与第 16 期 protocol 的基本功。它与第 18 期 rapport（融洽关系）、第 21 期 small talk（寒暄）、第 4 期 agenda 串成会前几分钟的固定流程：交换名片、寒暄、落座对议程；职务与头衔要印准，第 29 期 delegation 来访时按职务排座次与发言顺序，海外项目建议做中英双语或英法／英阿双语卡。名片上的信息还直接决定后续第 5 期 follow-up 邮件写给谁、抄送谁，是第 60 期 trade fair、第 62 期 referral 获客链路里最便宜却最不能省的一环。延伸：工地现场常叫 site badge 或 access card（进出证／胸牌），别与名片混。",
+      "collocation": "exchange business cards（交换名片）、here is my card（这是我的名片）、may I have your card（能给我一张名片吗）、double-sided / bilingual card（双面／双语名片）、job title（职务）、contact details（联系方式）、leave a card（留张名片）、follow up by email（邮件跟进）、card holder（名片夹）、site access badge（进厂胸牌）。",
+      "examples": [
+        {
+          "en": "At the start of the meeting we exchanged business cards, so I can follow up with the right engineer and copy the project manager on the quotation.",
+          "zh": "会议开始我们先交换了名片，这样我能找对工程师跟进，并把报价抄送给项目经理。",
+          "audio": "audio/ex/business-card-1.mp3"
+        }
+      ],
+      "mnemonic": "business（商务）+ card（卡）= \"递出去的第一张脸\"。礼仪口诀配一句：\"Present with both hands, read it before you pocket it.\"（双手递接，先看一眼再收。）和接待链串起来：\"Business cards open the door; small talk builds rapport; minutes close the meeting.\"（名片开门、寒暄建关系、纪要收尾，第 64 期 minutes。）展会（第 60 期 trade fair）一天收一叠卡，当晚在卡背记一句客户需求，follow-up 才不会张冠李戴。",
+      "issue": 66,
+      "date": "2026-11-21",
+      "theme": "",
+      "gloss": "名片",
+      "category": "客户接待",
+      "audio": "audio/business-card.mp3"
+    },
+    {
+      "word": "reschedule",
+      "phonetic": "/ˌriːˈʃedjuːl/",
+      "meaning": "把已定好的会议、航班、拜访、交付或验收挪到别的时间，re（再）+ schedule（排期）。外贸与项目现场的高频动词：客户航班延误、第 31 期 visa 没下来、第 21 期 shop drawing 没批、雨季耽误第 6 期 erection，第一封邮件往往就是 \"we need to reschedule\"。它与第 1 期 itinerary（行程）、第 26 期 appointment（预约）、第 65 期 RSVP（回执）、第 12 期 deadline（截止日）连成一条时间线：改期要同时更新行程、通知接待方、重收回执，并确认新日期不会撞上交付死线。礼貌话术有固定套路：先致歉、给原因、立刻给两个备选时间、请对方确认（\"Could we move it to Tuesday or Thursday?\"），比只说 postpone 更专业；postpone 偏\"往后推迟\"，reschedule 是\"重新排定（可提前可推后）\"。名词与形容词形式 rescheduling / rescheduled，邮件标题常写 \"Rescheduled: Factory visit on 3 Dec\"。",
+      "collocation": "reschedule the meeting / site visit（改期会议／验厂）、be rescheduled to 3 December（改到 12 月 3 日）、propose two alternative slots（给两个备选时段）、due to a flight delay（因航班延误）、at short notice（临时通知）、postpone / put off（推迟）、bring forward（提前）、confirm the new date（确认新日期）、apologise for the change（为改期致歉）、update the itinerary（更新行程）。",
+      "examples": [
+        {
+          "en": "Due to a flight delay, could we reschedule the factory tour to Tuesday afternoon or Thursday morning? I will update the itinerary and re-send the agenda once you confirm.",
+          "zh": "因航班延误，能否把工厂参观改到周二下午或周四上午？您确认后我立即更新行程并重发议程。",
+          "audio": "audio/ex/reschedule-1.mp3"
+        }
+      ],
+      "mnemonic": "re（再）+ schedule（排期）= \"把时间表重排一遍\"。礼貌改期邮件四步背一句：\"Apologise, explain, offer two slots, ask to confirm.\"（致歉、说明、给两个时间、请确认。）和近义词划清：\"Postpone pushes it back; reschedule sets a new time, earlier or later.\"（postpone 只是往后推，reschedule 是换个新时间，可早可晚。）收尾别忘了联动一串词：\"Reschedule the visit, update the itinerary, re-collect the RSVPs, and protect the deadline.\"（改拜访、改行程、重收回执、守住死线。）",
+      "issue": 66,
+      "date": "2026-11-21",
+      "theme": "",
+      "gloss": "改期；重新安排时间",
+      "category": "职场",
+      "audio": "audio/reschedule.mp3"
     }
   ]
 }

@@ -1299,5 +1299,25 @@
   "rsvp": {
     "gloss": "敬请回复（请回复邀请）",
     "category": "客户接待"
+  },
+  "live load": {
+    "gloss": "活荷载；活载；可变荷载",
+    "category": "钢结构"
+  },
+  "suspended ceiling": {
+    "gloss": "吊顶；悬挂式天花",
+    "category": "建筑设计"
+  },
+  "telegraphic transfer": {
+    "gloss": "电汇；T/T 付款",
+    "category": "外贸"
+  },
+  "business card": {
+    "gloss": "名片",
+    "category": "客户接待"
+  },
+  "reschedule": {
+    "gloss": "改期；重新安排时间",
+    "category": "职场"
   }
 }
