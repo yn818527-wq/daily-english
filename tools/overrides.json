@@ -1259,5 +1259,45 @@
   "due diligence": {
     "gloss": "尽职调查",
     "category": "职场"
+  },
+  "high-strength bolt": {
+    "gloss": "高强螺栓",
+    "category": "钢结构"
+  },
+  "module": {
+    "gloss": "模块；模数",
+    "category": "建筑设计"
+  },
+  "commercial invoice": {
+    "gloss": "商业发票",
+    "category": "外贸"
+  },
+  "amenity": {
+    "gloss": "便利设施；生活配套",
+    "category": "客户接待"
+  },
+  "minutes": {
+    "gloss": "会议纪要（复数）",
+    "category": "职场与商务"
+  },
+  "bay": {
+    "gloss": "开间；柱距；跨间",
+    "category": "建筑设计"
+  },
+  "shear stud": {
+    "gloss": "栓钉；剪力钉（抗剪连接件）",
+    "category": "钢结构"
+  },
+  "method statement": {
+    "gloss": "施工方案；作业指导书",
+    "category": "工程施工"
+  },
+  "commission": {
+    "gloss": "佣金；委员会；委任",
+    "category": "外贸"
+  },
+  "rsvp": {
+    "gloss": "敬请回复（请回复邀请）",
+    "category": "客户接待"
   }
 }

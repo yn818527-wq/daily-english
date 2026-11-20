@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18",
-  "total": 315,
+  "updated": "2026-11-20",
+  "total": 325,
   "words": [
     {
       "word": "truss",
@@ -6401,6 +6401,206 @@
       "gloss": "尽职调查",
       "category": "职场",
       "audio": "audio/due-diligence.mp3"
+    },
+    {
+      "word": "high-strength bolt",
+      "phonetic": "/ˌhaɪ ˈstreŋθ bəʊlt/",
+      "meaning": "钢结构连接里那一类\"拧紧到规定预拉力、靠板件间摩擦力传力\"的高强度螺栓，常见性能等级 8.8 级与 10.9 级（第 13 期 torque 扭矩、第 17 期 splice 拼接、第 22 期 base plate 柱底板都是它的老搭档）。它与普通螺栓（第 5 期 fastener 紧固件那一族）分工清楚：普通螺栓靠杆身抗剪、孔壁承压，高强螺栓靠预拉力把连接板夹紧，用摩擦面抗滑移——所以摩擦面处理（喷砂、钢丝刷）和终拧扭矩复验是现场验收的两道硬关口，英文里 friction-type connection 与 slip-critical joint 说的都是这一套。外贸技术标里写连接形式，客户常追问 bolt grade、pretension 与 slip coefficient，规格书（第 10 期 specification）里这三行躲不掉。拆词记忆最省事：high + strength + bolt，三个词直白相加，就是\"高强度的螺栓\"。",
+      "collocation": "high-strength bolt connection（高强螺栓连接）、friction-type / slip-critical connection（摩擦型／抗滑移连接）、8.8-grade / 10.9-grade bolt（8.8／10.9 级螺栓）、bolt pretension（螺栓预拉力）、torque wrench calibration（扭矩扳手校准）、slip coefficient of the faying surface（摩擦面抗滑移系数）、final tightening（终拧）。",
+      "examples": [
+        {
+          "en": "All beam-to-column joints use 10.9-grade high-strength bolts, so please calibrate the torque wrench and check the slip coefficient before final tightening.",
+          "zh": "所有梁柱节点都用 10.9 级高强螺栓，终拧前请先校准扭矩扳手并复核摩擦面抗滑移系数。",
+          "audio": "audio/ex/high-strength-bolt-1.mp3"
+        }
+      ],
+      "mnemonic": "high（高）+ strength（强度）+ bolt（螺栓）——\"强度等级写在螺栓头上\"。和第 13 期 torque 记成一句口诀：\"Tighten to pretension, verify with torque.\"（拧到预拉力，用扭矩来验。）再给外贸人一句：\"Friction-type grips, bearing-type shears.\"（摩擦型靠夹紧，承压型靠抗剪。）",
+      "issue": 64,
+      "date": "2026-11-19",
+      "theme": "",
+      "gloss": "高强螺栓",
+      "category": "钢结构",
+      "audio": "audio/high-strength-bolt.mp3"
+    },
+    {
+      "word": "module",
+      "phonetic": "/ˈmɒdjuːl/",
+      "meaning": "标准化设计里\"可复制的基本单元\"，一词双场景。工程侧：模块化安置房常以 3 m × 6 m 的箱体为一个 module，工厂预制（第 14 期 prefabricate）、围护用夹芯板（第 26 期 sandwich panel）、现场螺栓拼装，一套模具批量出活——这正是模块化产品库的底层单位。设计侧：module 又指\"模数\"，即协调柱网、板材、门窗尺寸的基本尺寸单位（如 100 mm 基本模数，modular coordination 模数协调），图纸上标高开间都按它的倍数排，才谈得上互换与标准化。顺手记一词多义：职场里 training module（培训模块）、软件里 plug-in module（插件模块）都是同一个\"可拆可拼的标准块\"。用户做的标准化安置房与模块化产品库，本质就是把 module 定死、把变化量降到最小。",
+      "collocation": "standard module（标准模块）、modular coordination（模数协调）、basic module / module grid（基本模数／模数网格）、prefabricated module（预制模块）、module dimension（模块尺寸）、per-module pricing（按模块报价）、plug-in module（可插拔／插件模块）。",
+      "examples": [
+        {
+          "en": "The whole camp is built from one 3 m × 6 m module, so we can prefabricate the units in the workshop and bolt them together on site within a week.",
+          "zh": "整个营地都由一种 3 米 × 6 米的标准模块组成，因此可以在车间预制单元，一周内到现场螺栓拼装。",
+          "audio": "audio/ex/module-1.mp3"
+        }
+      ],
+      "mnemonic": "mode（方式、模式）+ -ule（小的后缀）= \"按同一模式做出来的小单元\"。和第 14 期 prefabricate、第 26 期 sandwich panel 串成一条产线口诀：\"Module fixes the size, the shop prefabs, the site just bolts.\"（模块定尺寸、车间预制、现场只管拼。）投标常用句顺手背：\"One module, many layouts.\"（一种模块，多种组合。）",
+      "issue": 64,
+      "date": "2026-11-19",
+      "theme": "",
+      "gloss": "模块；模数",
+      "category": "建筑设计",
+      "audio": "audio/module.mp3"
+    },
+    {
+      "word": "commercial invoice",
+      "phonetic": "/kəˈmɜːʃl ˈɪnvɔɪs/",
+      "meaning": "外贸结汇与报关的核心单据——卖方开给买方的正式收款、计税凭证，列明货描、数量、单价、总价、贸易术语（第 21 期 FOB、第 23 期 CIF、第 25 期 Incoterms）、HS 编码（第 22 期）与买卖双方信息。清关（第 7 期 customs clearance）、信用证议付（第 8 期 letter of credit）都绕不开它，银行审单逐字比对，金额一个数字不符就构成不符点、直接拒付。与第 4 期 proforma invoice（形式发票）是最容易混的一对：proforma 是签约前给客户报价、办许可用的\"预演单\"，不具备收款效力；commercial invoice 是货备妥后正式开出、用来收钱报关的\"正本单\"。in triplicate（一式三份）、signed commercial invoice（签署的商业发票）是 L/C 条款里的常客。invoice 一词源自法语 envoyer（寄出）——\"随货寄出去的那张清单\"。",
+      "collocation": "commercial invoice（商业发票）、signed commercial invoice（签署的商业发票）、invoice value / declared value（发票金额／申报价值）、invoice number and date（发票号与日期）、in triplicate（一式三份）、customs invoice（海关发票）、discrepancy against the L/C（与信用证不符点）。",
+      "examples": [
+        {
+          "en": "The bank rejected our documents because the value on the commercial invoice did not match the letter of credit, so we had to reissue a signed one in triplicate.",
+          "zh": "银行拒付，因为商业发票金额与信用证不符，我们只好重新开具一式三份的签署发票。",
+          "audio": "audio/ex/commercial-invoice-1.mp3"
+        }
+      ],
+      "mnemonic": "commercial（商业的、正式成交的）+ invoice（发票）——\"真正收钱的那张单\"。与第 4 期 proforma invoice 记成一对口诀：\"Proforma quotes, commercial charges.\"（形式发票只报价，商业发票才收钱。）审单红线跟着背：\"Every figure on the invoice must match the L/C.\"（发票上每个数字都要和信用证对得上。）",
+      "issue": 64,
+      "date": "2026-11-19",
+      "theme": "",
+      "gloss": "商业发票",
+      "category": "外贸",
+      "audio": "audio/commercial-invoice.mp3"
+    },
+    {
+      "word": "amenity",
+      "phonetic": "/əˈmiːnəti/",
+      "meaning": "让住处、园区或酒店\"住得舒服\"的那些便利设施，几乎总以复数 amenities 出现：水电、空调、Wi-Fi、健身房、食堂、班车都算。客户接待（第 3 期 hospitality、第 10 期 accommodation）环节介绍酒店与厂区配套必用；海外营地项目给来访代表团报行程，staff amenities / on-site amenities（现场生活配套）是投标技术标里的加分项，写清宿舍、食堂、医务室能直接安抚客户对派驻条件的顾虑。地产与建筑方案里 amenities 也是标准卖点清单（community amenities 社区配套）。词根里有\"讨人喜欢\"的味道：同源的 amiable（和蔼的）、agreeable（宜人的）都带着舒服、好相处的意思——amenity 就是\"让人住得舒服的那些东西\"。",
+      "collocation": "on-site / site amenities（现场生活配套）、basic amenities（基本生活设施）、hotel amenities（酒店设施）、community amenities（社区配套）、staff amenities（员工生活设施）、amenities include ...（配套设施包括……）、local amenities（周边配套）。",
+      "examples": [
+        {
+          "en": "Before the delegation arrives, please confirm the hotel amenities — Wi-Fi, a gym and a shuttle to the fabrication workshop — are all included.",
+          "zh": "代表团抵达前，请确认酒店配套设施——无线网络、健身房和去加工车间的班车——都在内。",
+          "audio": "audio/ex/amenity-1.mp3"
+        }
+      ],
+      "mnemonic": "谐音\"a-MEAN-ity\"——不 mean（不抠门），该配的都给客户配上：amenities 就是\"不抠门清单\"。用复数最保险（单个设施是 an amenity，但口语几乎只说 amenities）。和 amiable（和蔼的）同源一起记：\"Good amenities make a good stay.\"（配套好，住得好。）接待话术背一句：\"Let me walk you through the on-site amenities.\"（我带您过一遍现场配套。）",
+      "issue": 64,
+      "date": "2026-11-19",
+      "theme": "",
+      "gloss": "便利设施；生活配套",
+      "category": "客户接待",
+      "audio": "audio/amenity.mp3"
+    },
+    {
+      "word": "minutes",
+      "phonetic": "/ˈmɪnɪts/",
+      "meaning": "一词双场景的高频职场词。最常见是\"分钟\"，但加了定冠词 the minutes 就专指\"会议纪要\"——逐条记录议题、决议、行动项（第 51 期 action item、第 4 期 agenda 议程、第 15 期 briefing 交底、第 29 期 consensus 共识）。动词搭配固定：take / keep the minutes（做记录）、circulate / distribute the minutes（分发纪要）、approve / sign off the minutes（确认纪要），注意不说 \"write a minutes\"。外贸与工程项目的会后护身符就是它：技术澄清会、启动会（第 36 期 kickoff）结束当天把 minutes 发给双方签认，白纸黑字锁定范围与交期，后期遇到变更令（第 42 期 variation order）或工期顺延（第 44 期 extension of time）争议，翻纪要即可。minute 本义\"微小、分钟的\"，把会议每一分钟的要点都记下来，复数就成了\"纪要\"，与 mini（小）同源。",
+      "collocation": "take / keep the minutes（做会议记录）、minutes of the meeting（会议纪要）、circulate / distribute the minutes（分发纪要）、approve / sign off the minutes（确认／签认纪要）、action items recorded in the minutes（纪要里记录的行动项）、attached are the minutes（随附会议纪要）。",
+      "examples": [
+        {
+          "en": "Could you take the minutes and circulate them by Friday, so both sides can sign off on the agreed action items before fabrication starts?",
+          "zh": "你来做会议纪要并在周五前分发，好让双方在开工加工前确认已达成的行动项，可以吗？",
+          "audio": "audio/ex/minutes-1.mp3"
+        }
+      ],
+      "mnemonic": "minute（分钟）→ the minutes（把每一分钟记下来的小抄）= 会议纪要，和 mini（小）同源，\"把会开成小抄\"。动词搭配只记一个：take the minutes（不是 write）。会后护身句张口就来：\"Let's put it in the minutes.\"（写进纪要里，白纸黑字。）与第 4 期 agenda 收成一对：\"Agenda before the meeting, minutes after it.\"（会前有议程，会后有纪要。）",
+      "issue": 64,
+      "date": "2026-11-19",
+      "theme": "",
+      "gloss": "会议纪要（复数）",
+      "category": "职场与商务",
+      "audio": "audio/minutes.mp3"
+    },
+    {
+      "word": "bay",
+      "phonetic": "/beɪ/",
+      "meaning": "钢结构厂房平面里\"两根相邻钢柱之间那一格\"——沿长度方向连续排布的一跨叫一个 bay，柱距（bay spacing）常取 6 m、7.5 m，是门式刚架（第 8 期 portal frame）最先用定的模数。它和第 8 期 span（跨度）是平面的两个方向：span 是刚架横向\"梁跨过去\"的距离，bay 是纵向\"柱与柱之间那一格\"的宽度；第 26 期 grid line（轴线）把两者画成网格，第 11 期 column 立在交点上。英文规格书里 \"a 5-bay, 24 m span portal frame\" 一句话就能读出平面尺寸。一词多义在生活与建筑里同样高频：bay window（凸窗，向室外凸出的一小格窗）、parking bay（车位）、loading bay（装卸位）、以及本义\"海湾\"（Hudson Bay）。词源来自古法语 baie（开口、凹进），\"墙上凹进去或凸出来的一格\"就是 bay。",
+      "collocation": "bay spacing / bay width（柱距／开间宽度）、a 6 m bay（6 米开间）、end bay / intermediate bay（端跨／中间跨）、5-bay portal frame（五开间门式刚架）、loading bay（装卸区）、bay window（凸窗）、typical bay（标准开间）、corner bay（角部开间）。",
+      "examples": [
+        {
+          "en": "The workshop is a 5-bay portal frame with a 6 m bay spacing and a 24 m clear span, so we can standardise every rafter and purlin.",
+          "zh": "车间是五开间门式刚架，柱距 6 米、净跨 24 米，因此每根屋面斜梁和檩条都能做成标准件。",
+          "audio": "audio/ex/bay-1.mp3"
+        }
+      ],
+      "mnemonic": "bay 就是\"一格\"——柱与柱之间一格叫开间，墙上凸出去一格叫 bay window，地上划出一格是 parking bay。和第 8 期 span 记成一对口诀：\"Span is how the beam crosses; bay is how the columns repeat.\"（span 看梁怎么跨，bay 看柱怎么排。）做标准化模块（第 64 期 module）时最实用的一句：\"One bay, one module, one price.\"（一开间、一模块、一口价。）",
+      "issue": 65,
+      "date": "2026-11-20",
+      "theme": "",
+      "gloss": "开间；柱距；跨间",
+      "category": "建筑设计",
+      "audio": "audio/bay.mp3"
+    },
+    {
+      "word": "shear stud",
+      "phonetic": "/ʃɪə stʌd/",
+      "meaning": "焊在钢梁上翼缘、埋进混凝土楼板里的那一排带头短圆杆（也叫 shear connector / headed stud），作用是把钢梁与混凝土板\"锁\"成一个共同受力的组合梁（composite beam）：混凝土受压、钢梁受拉，中间靠栓钉传递纵向剪力、阻止两者相对滑移。没有它，楼板只是\"搭\"在梁上；有了它，梁的刚度与承载力提一大截，楼板能做得更薄、钢用得更省——这是海外钢构厂房与夹层（第 15 期 mezzanine）最常见的增效做法。它把钢结构连接家族凑齐了：第 7 期 weld 焊缝连板件、第 64 期 high-strength bolt 靠摩擦面连梁柱、shear stud 靠\"钉进混凝土\"连钢与砼；三类连接各管一段，规格书（第 10 期 specification）里分别写 weld size、bolt grade、stud diameter and spacing。注意 stud 还有另一张面孔：轻钢龙骨隔墙里的竖龙骨也叫 stud（stud wall，与第 19 期 partition 隔墙连线），现场听见 \"stud\" 先看是在说楼板栓钉还是墙骨柱。",
+      "collocation": "shear stud / headed stud（栓钉／带头栓钉）、shear connector（剪力连接件）、stud welding（栓钉焊）、19 mm studs at 150 mm centres（19 毫米栓钉、间距 150 毫米）、composite beam / composite slab（组合梁／组合楼板）、full shear connection（完全抗剪连接）、stud layout along the top flange（上翼缘栓钉排布）。",
+      "examples": [
+        {
+          "en": "Weld 19 mm shear studs at 150 mm centres along the beam top flange, so the concrete slab and the steel beam act as one composite section.",
+          "zh": "沿梁上翼缘按 150 毫米间距焊接 19 毫米栓钉，让混凝土板与钢梁作为一个组合截面共同受力。",
+          "audio": "audio/ex/shear-stud-1.mp3"
+        }
+      ],
+      "mnemonic": "shear（剪力，第 15 期已学）+ stud（钉／立杆）——\"专门抗剪的钉子\"。连接三兄弟一句收官：\"Weld joins plate to plate, bolt joins beam to column, stud joins steel to concrete.\"（焊缝连板与板、螺栓连梁与柱、栓钉连钢与混凝土。）再记一个防混：楼板里的 stud 是\"短粗带头的钉\"，隔墙里的 stud 是\"细长竖着的龙骨\"，一个躺着受剪、一个站着分格。",
+      "issue": 65,
+      "date": "2026-11-20",
+      "theme": "",
+      "gloss": "栓钉；剪力钉（抗剪连接件）",
+      "category": "钢结构",
+      "audio": "audio/shear-stud.mp3"
+    },
+    {
+      "word": "method statement",
+      "phonetic": "/ˈmeθəd ˈsteɪtmənt/",
+      "meaning": "海外工程项目开工前，承包商报给监理或业主审批的那份\"这一步到底怎么干\"的文件：施工顺序、机械设备、人员配置、吊装参数、质量控制点、安全风险与对策逐条写清，常与风险评估合成 RAMS（Risk Assessment and Method Statement），与第 49 期 ITP（检验试验计划）、第 21 期 shop drawing（加工图）、报审件 submittal 一起构成开工前置文件包。国内习惯说\"专项施工方案\"，英文投标与现场函件里一律 method statement；钢结构吊装（第 6 期 erection、第 12 期 crane）、高强螺栓终拧（第 64 期）、防火涂装这类高风险工序，监理没有批准的 method statement 就不发开工许可。它和第 10 期 specification 分工清楚：specification 说\"做成什么样\"（结果与标准），method statement 说\"怎么做到\"（过程与方法）；前者是业主给的目标，后者是承包商交的答卷。外贸技术标里附一份英文 method statement，往往是拉开与低价竞争者差距的细节。",
+      "collocation": "method statement for erection / lifting（吊装／安装施工方案）、submit / approve the method statement（报审／批准施工方案）、RAMS（风险评估与施工方案）、revise and resubmit（修改后重新报审）、in accordance with the approved method statement（按已批准方案执行）、step-by-step work sequence（分步施工顺序）、lift plan and risk assessment attached（附吊装方案与风险评估）。",
+      "examples": [
+        {
+          "en": "The engineer will not issue the erection permit until we submit the method statement for the 24 m truss lift, complete with the crane capacity and risk assessment.",
+          "zh": "在收到 24 米桁架吊装施工方案（含吊车起重能力与风险评估",
+          "audio": "audio/ex/method-statement-1.mp3"
+        }
+      ],
+      "mnemonic": "method（方法）+ statement（说明）= \"把方法写成正式说明\"。和 specification 记成一对：\"Specification says what; method statement says how.\"（规格书说做成什么样，施工方案说怎么干。）海外工地红线背一句：\"No approved method statement, no work on site.\"（方案没批，不许开工。）顺手记缩写 RAMS = Risk Assessment + Method Statement，监理邮件里天天见。",
+      "issue": 65,
+      "date": "2026-11-20",
+      "theme": "",
+      "gloss": "施工方案；作业指导书",
+      "category": "工程施工",
+      "audio": "audio/method-statement.mp3"
+    },
+    {
+      "word": "commission",
+      "phonetic": "/kəˈmɪʃn/",
+      "meaning": "一词多场景的商务高频词。外贸里最常用义是\"佣金\"——给中间商、代理、介绍人按成交额比例返的那笔钱，谈判三件套：commission rate（佣金率）、commission basis（计费基数，按 FOB 还是 CIF 价）、payment terms（何时结）；代理协议里写不清，尾款结算必起争议，与第 64 期 commercial invoice、第 1 期 quotation 是同一条单证链。第二义是\"委员会\"（Planning Commission、arbitration commission，与第 20 期 arbitration 呼应）与\"委任／委托\"（be commissioned to do sth）。最容易混的是动词 commission 与第 17 期 commissioning：commission a plant 是\"把工厂正式交付投运／启用\"，commissioning 则是\"调试试运行\"那一段过程；工程语境里见到 commissioning 千万别译成\"佣金\"。词根 com- + mit（送、派）= \"把事情或钱派送出去\"：派出任务（委任）、派出钱（佣金）、派出一组人（委员会），三个义项一根藤。",
+      "collocation": "a 3% commission on FOB value（按 FOB 价 3% 佣金）、commission agent / sales commission（佣金代理／销售佣金）、pay / deduct a commission（支付／扣除佣金）、show commission as a separate line（佣金单列一行）、Planning Commission（规划委员会）、commission a new plant（使新厂投产启用）、commissioning and handover（调试与移交，第 12 期）。",
+      "examples": [
+        {
+          "en": "Our agent in Dar es Salaam gets a 3% commission on the FOB value, so please show it as a separate line on the commercial invoice.",
+          "zh": "我们在达累斯萨拉姆的代理按 FOB 价拿 3% 佣金，请在商业发票上单列一行。",
+          "audio": "audio/ex/commission-1.mp3"
+        }
+      ],
+      "mnemonic": "com（一起）+ mission（任务，送出去）——\"派出去的任务、派出去的钱、派出去的一班人\"分别是委任、佣金、委员会。外贸人先记钱：\"Commission is the price you pay for an introduction.\"（佣金是给引荐付的价。）再和第 17 期 commissioning 划清界线：\"Commission is money; commissioning is testing.\"（commission 是钱，commissioning 是调试。）写代理协议别漏一句：\"Commission is calculated on FOB value, payable after final payment.\"（佣金按 FOB 价计，尾款到账后支付。）",
+      "issue": 65,
+      "date": "2026-11-20",
+      "theme": "",
+      "gloss": "佣金；委员会；委任",
+      "category": "外贸",
+      "audio": "audio/commission.mp3"
+    },
+    {
+      "word": "RSVP",
+      "phonetic": "/ˌɑːr es viː ˈpiː/",
+      "meaning": "请柬、邀请函与商务邮件末尾那四个字母，意思是\"请回复是否出席\"，源自法语 répondez s'il vous plaît（请答复）。客户接待（第 3 期 hospitality、第 1 期 itinerary）里它是行程闭环的关键一步：代表团来访前发正式邀请函办签证（第 31 期 visa）、定宴会（第 9 期 banquet）与茶歇（第 27 期 catering）、备接待资料袋（第 52 期 welcome kit）、核饮食禁忌（第 60 期 dietary requirement），全靠对方 RSVP 回执给准人数；不回 RSVP 在商务礼仪（第 22 期 etiquette）里被视为失礼，主办方也没法订座订车。写法上大小写皆可（RSVP / R.s.v.p.），后面常跟 by + 日期与联系人：RSVP by 5 December to Ms. Li。口语里也动词化：\"Please RSVP by Friday\"（请周五前回复），回执本身说 \"We are still waiting on a few RSVPs\"。它与第 64 期 minutes 正好一前一后：会前 RSVP 定谁来，会后 minutes 记决定了什么。",
+      "collocation": "RSVP by 5 December（12 月 5 日前回复）、kindly RSVP（敬请回复）、RSVP to the invitation（回复邀请）、await / collect RSVPs（等候／收集回执）、please RSVP by email（请邮件回复）、RSVP regrets only（无法出席才需回复）、confirm attendance（确认出席）。",
+      "examples": [
+        {
+          "en": "Kindly RSVP by 5 December to our project coordinator, so we can finalise the catering, the welcome kits, and the site visit badges for the delegation.",
+          "zh": "请于 12 月 5 日前向项目对接人回复是否出席，以便我们敲定茶歇、接待资料袋和代表团进厂参观的胸牌。",
+          "audio": "audio/ex/rsvp-1.mp3"
+        }
+      ],
+      "mnemonic": "四个字母就是一句法语 répondez s'il vous plaît（请答复）——记不住法语就记英文谐记 \"Reply, So Very Please\"（务请回复）。接待口诀配一对：\"RSVP before the visit, minutes after the meeting.\"（来访前收 RSVP，会议后发纪要。）回执话术张口来：\"Just a gentle reminder to RSVP by Friday.\"（温馨提醒，周五前请回复。）大写小写都对，正式请柬写 RSVP 最稳。",
+      "issue": 65,
+      "date": "2026-11-20",
+      "theme": "",
+      "gloss": "敬请回复（请回复邀请）",
+      "category": "客户接待",
+      "audio": "audio/rsvp.mp3"
     }
   ]
 }
