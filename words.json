@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21",
-  "total": 330,
+  "updated": "2026-11-22",
+  "total": 335,
   "words": [
     {
       "word": "truss",
@@ -6701,6 +6701,106 @@
       "gloss": "改期；重新安排时间",
       "category": "职场",
       "audio": "audio/reschedule.mp3"
+    },
+    {
+      "word": "bearing",
+      "phonetic": "/ˈbeərɪŋ/",
+      "meaning": "钢结构与桥梁里「把上部荷载传给下部结构、同时允许微小转动或位移」的那个部件——常见板式橡胶支座（elastomeric bearing）、盆式支座（pot bearing）、球形支座，装在第 39 期 pile cap（桩承台）／第 46 期 pier（桥墩）顶与第 10 期 girder（主梁）之间，终于补齐那条传力链：pile → pile cap → pier → bearing → girder → column。它的意义不只是「支撑」，还要释放温度变形（第 55 期 expansion joint）与主梁端部转角，所以图纸上要同时给承载力、允许位移与安装标高。一词多场景：机械里是「轴承」（ball bearing），日常里 bearing 还有「承受、忍耐」（beyond bearing）与「方位、方向感」（get one's bearings / take a bearing）两个义项；bear（承载／忍受／熊）加 -ing，把「扛得住」这个核心义一路带到底。工地口语说 the bearing pad 多指梁底那块垫板，与第 19 期 shim（调平垫铁）不是一回事：shim 调标高，bearing 传荷载。",
+      "collocation": "bridge bearing / elastomeric bearing（桥梁支座／板式橡胶支座）、pot bearing（盆式支座）、bearing pad / bearing plate（支座垫板／支承板）、bearing capacity（承载力，地基也用）、bearing stress（承压应力）、allow movement / rotation（允许位移／转动）、fixed and free bearings（固定与活动支座）、take a bearing（测方位）、lose one's bearings（迷失方向）、ball bearing（滚珠轴承）。",
+      "examples": [
+        {
+          "en": "The girder sits on elastomeric bearings that carry the vertical load but still allow thermal movement, so please check the bearing elevations before erection.",
+          "zh": "主梁落在板式橡胶支座上，既传竖向荷载又允许温度位移，吊装前请复核支座标高。",
+          "audio": "audio/ex/bearing-1.mp3"
+        }
+      ],
+      "mnemonic": "bear（扛）+ ing = 「扛着的东西」。传力链一句背到底：「Pile, pile cap, pier, bearing, girder—the load goes down, one member at a time.」（桩、承台、桥墩、支座、主梁，荷载一层层往下传。）和 shim 划清：「A shim levels it; a bearing carries it.」（垫铁找平，支座承重。）三个义项用一句串：「The bearing bears the load, the ball bearing lets it spin, and a compass gives you your bearing.」（支座承重、轴承让转、罗盘给方向。）另注意别把 bearing 与第 22 期 base plate（柱底板）混：base plate 把柱脚压力摊到混凝土，bearing 是梁与墩之间那个可动节点。",
+      "issue": 67,
+      "date": "2026-11-22",
+      "theme": "",
+      "gloss": "支座；轴承",
+      "category": "钢结构",
+      "audio": "audio/bearing.mp3"
+    },
+    {
+      "word": "mill certificate",
+      "phonetic": "/mɪl səˈtɪfɪkət/",
+      "meaning": "钢厂随每批钢材出具的材质与力学性能证明文件，行业里几乎只说 MTC 或 mill test certificate / mill cert，欧标常按 EN 10204 3.1（由钢厂授权检验代表签发）或 3.2（第三方见证）。它列出炉批号（heat number）、钢号（如 Q355B / S355JR）、化学成分、屈服与抗拉强度、延伸率、冲击功，是钢结构项目质量追溯的第一张纸：材料进厂先核 MTC 与第 64 期 high-strength bolt 的批次，再进第 49 期 ITP（检验试验计划）资料包，配合第 48 期 NDT（无损检测）报告与第 7 期 weld 记录一起交监理／第三方验货。外贸场景下 MTC 还是清关与验厂常要的单证之一，和第 64 期 commercial invoice、第 12 期 packing list、第 26 期 certificate of origin 一起进交单资料；海外业主指定 S355 或 ASTM A572 时，MTC 上的钢号与标准号写错就是一处不符点（今天第 3 词 discrepancy）。口语缩写 mill cert 常用，但正式文件与词库一律写全称 mill certificate。",
+      "collocation": "mill certificate / MTC / mill test certificate（材质证明书）、EN 10204 3.1 / 3.2（欧标质保书等级）、heat number / batch number（炉批号／批号）、yield and tensile strength（屈服与抗拉强度）、chemical composition（化学成分）、Charpy impact test（夏比冲击试验）、material traceability（材料可追溯性）、submit the MTCs for approval（报审材质证明）、third-party inspection（第三方验货）、match the heat numbers（核对炉批号）。",
+      "examples": [
+        {
+          "en": "Please send the mill certificates for all Q355B plates before shipment; the third-party inspector will match every heat number against the packing list.",
+          "zh": "请在发货前把全部 Q355B 钢板的材质证明书发来，第三方验货员会逐张核对炉批号与装箱单。",
+          "audio": "audio/ex/mill-certificate-1.mp3"
+        }
+      ],
+      "mnemonic": "mill（轧钢厂／磨坊）+ certificate（证明）= 「钢厂给这批钢开的身份证」。质量链一句背：「MTC proves the steel, NDT proves the weld, ITP proves the process.」（材质书证明钢、无损检测证明焊缝、检验计划证明过程。）和第 26 期 certificate of origin 分工记：「CO says where it was made; MTC says what it is made of.」（原产地证说哪儿产的，材质书说是什么料。）谈判红线一句：「No MTC, no material into the shop.」（没有材质书，材料不进车间。）拼写注意 certificate 中间是 -ti- 不是 -ta-，别与 certify（动词，证明）混了词尾。",
+      "issue": 67,
+      "date": "2026-11-22",
+      "theme": "",
+      "gloss": "材质证明书",
+      "category": "工程",
+      "audio": "audio/mill-certificate.mp3"
+    },
+    {
+      "word": "discrepancy",
+      "phonetic": "/dɪˈskrepənsi/",
+      "meaning": "信用证（第 8 期 L/C）业务里最要命的一个词：银行审单只看单据表面，只要提交的商业发票、提单、装箱单与信用证条款有任何不一致——一个拼写、一个日期、一个金额、一个港口名——就叫 a discrepancy，银行可据此拒付或扣不符点费（discrepancy fee）。核心原则是「The bank deals in documents, not in goods.」（银行只管单据不管货），所以第 64 期 commercial invoice 上的品名、第 9 期 bill of lading 的收货人、第 12 期 packing list 的件数、第 26 期 certificate of origin 的签发方必须与 L/C 逐字对齐；发现不符点要么改单重交（在交单期与 L/C 有效期内），要么请开证申请人接受不符点（waive the discrepancies），要么电提。一词多场景：工程与职场里 discrepancy 也泛指「数据对不上」——第 21 期 shop drawing 与第 10 期 specification 不符、现场实测超出第 3 期 tolerance、盘点账实不符，都用它，比 difference 更正式、带「需要核查纠正」的意味。形容词 discrepant，反义 consistency / conformity。",
+      "collocation": "a discrepancy in the documents（单据不符点）、discrepancy fee / charge（不符点费）、waive the discrepancies（接受不符点）、reject the documents for discrepancy（因不符点拒付）、discrepant documents（不符单据）、present the documents（交单）、discrepancy between A and B（A 与 B 之间不一致）、reconcile the discrepancy（核平差异）、a minor / major discrepancy（轻微／重大不符）、amend the L/C（改证；第 42 期 variation order 是工程变更，别混）。",
+      "examples": [
+        {
+          "en": "The bank found a discrepancy—the invoice says \"Lagos\" while the L/C requires \"Apapa Port\"—so please amend the invoice and re-present the documents before the expiry date.",
+          "zh": "银行查出一处不符点：发票写的是 Lagos，而信用证要求 Apapa Port，请在有效期内改发票重新交单。",
+          "audio": "audio/ex/discrepancy-1.mp3"
+        }
+      ],
+      "mnemonic": "dis（分开）+ crep（裂开作响）+ ancy = 「两边对不上、裂了一道缝」。审单口诀一句：「Even a typo can be a discrepancy.」（一个拼写错误就能成为不符点。）改单三步记：「Find a discrepancy, amend the document, re-present before expiry.」（查出不符点、改单、有效期前重交。）工程场景再记一句：「A discrepancy on paper becomes a problem on site.」（纸面上的不一致，到现场就是返工。）与 difference 划清：difference 只是「不同」，discrepancy 是「本该一致却不一致、要有人负责查」——这正是银行拒付的措辞。重音在第二音节 /dɪˈskrepənsi/，别读成 DIS-cre-pan-cy。",
+      "issue": 67,
+      "date": "2026-11-22",
+      "theme": "",
+      "gloss": "不符点；不一致",
+      "category": "外贸",
+      "audio": "audio/discrepancy.mp3"
+    },
+    {
+      "word": "seating arrangement",
+      "phonetic": "/ˈsiːtɪŋ əˈreɪndʒmənt/",
+      "meaning": "正式宴请、签约仪式、双边会谈时按职务与礼宾次序排定谁坐哪儿的方案，也叫 seating plan / table plan，属第 16 期 protocol（礼宾规程）与第 22 期 etiquette（礼仪）里最容易出错、也最容易被忽略的一环。国际商务通行规则：主宾（guest of honour）坐主人右手边，第二主宾坐左手边，双方人员交替穿插，翻译（第 58 期 interpreter）坐主宾侧后，背对门的位置留给主人方最低职务者；圆桌用席位卡（place card），长桌要标 seat number。它与第 9 期 banquet（宴会）、第 29 期 delegation（代表团）、第 3 期 hospitality（接待礼遇）、第 27 期 catering（餐饮）串成一条来访接待线：先按第 65 期 RSVP 收齐名单与第 60 期 dietary requirement（饮食禁忌），再定人数、桌数、座次，最后出图给酒店／餐厅。中东、日韩客户对位次尤其敏感，排错座次比菜没点好更伤关系；第 66 期 business card 上那个 job title 就是排座次的依据，所以「交换名片 → 确认职务 → 排 seating arrangement」是同一条动作链。",
+      "collocation": "seating arrangement / seating plan / table plan（座次表）、place card（席位卡）、guest of honour（主宾）、on the host's right（在主人右手）、seat sb next to…（安排某人坐…旁边）、alternate the two delegations（双方人员交替就座）、head table（主桌）、finalise the seating（敲定座次）、seating chart（座位图）、protocol officer（礼宾官员）、check the RSVP list（核对回执名单）。",
+      "examples": [
+        {
+          "en": "Once the RSVPs are in, I will finalise the seating arrangement with the guest of honour on the host's right and the interpreter just behind him.",
+          "zh": "回执收齐后我来敲定座次：主宾坐主人右手边，口译员安排在他侧后方。",
+          "audio": "audio/ex/seating-arrangement-1.mp3"
+        }
+      ],
+      "mnemonic": "seating（就座）+ arrangement（安排）= 「把名字摆到椅子上」。礼仪口诀一句：「Guest of honour on the host's right, delegations alternating, interpreter close behind.」（主宾在右、双方交替、翻译在后。）和接待链串起来：「RSVP tells you who comes, dietary requirements tell you what to serve, seating arrangement tells you where they sit.」（回执定人、饮食禁忌定菜、座次表定位。）注意 arrangement 在这里是「排位」不是「安排日程」——日程用第 1 期 itinerary。另外 place card（席位卡，摆桌上）不是第 66 期 business card（名片，递手里），两个 card 别搞混。",
+      "issue": 67,
+      "date": "2026-11-22",
+      "theme": "",
+      "gloss": "座次安排",
+      "category": "客户接待",
+      "audio": "audio/seating-arrangement.mp3"
+    },
+    {
+      "word": "bottleneck",
+      "phonetic": "/ˈbɒtlnek/",
+      "meaning": "一条流程里最慢、卡住整体产出的那一环，字面就是「瓶颈」——瓶子最细的地方决定倒水速度。工程与生产场景：钢结构加工线常是抛丸除锈、组对（fit-up）或第 7 期 weld 工位成为 bottleneck，前面下料再快也只能堆成第 35 期 backlog（积压在制品），解法是给瓶颈工位加班次、加胎架或外协，而不是全线一起加人；物流上也指港口、第 40 期 berth（泊位）、第 31 期 customs clearance 的拥堵点（a bottleneck at the port）。职场与生活场景同样高频：审批卡在一个人手里、等客户回第 5 期 follow-up 邮件、等第 21 期 shop drawing 批复，都是 「the bottleneck is…」，与第 48 期 bandwidth（精力余量）、第 19 期 burnout（倦怠）常一起出现。动词 bottleneck（使受阻），形容词 bottlenecked；与第 34 期 stakeholder 搭配的「identify the bottleneck, then escalate」（找到卡点再按第 35 期 escalation 升级上报）是周会常用句。核心判断一句：「Improving a non-bottleneck does nothing for throughput.」（非瓶颈环节再优化，总产出也不动。）",
+      "collocation": "a bottleneck in the production line（生产线瓶颈）、identify / relieve / remove the bottleneck（找出／缓解／消除瓶颈）、capacity constraint（产能约束）、throughput（吞吐量／产出率）、a bottleneck at the port（港口拥堵）、approval bottleneck（审批卡点）、be bottlenecked by…（被…卡住）、bottleneck resource（瓶颈资源）、ease congestion（缓解拥堵）、add a shift（加一个班次）。",
+      "examples": [
+        {
+          "en": "Shot blasting is the bottleneck of the whole line, so adding cutters will not help—we need a second shift at that station to raise throughput before shipment.",
+          "zh": "抛丸除锈是整条线的瓶颈，加切割工没用——发货前得在那个工位加一个班次才能提产量。",
+          "audio": "audio/ex/bottleneck-1.mp3"
+        }
+      ],
+      "mnemonic": "bottle（瓶）+ neck（颈）= 「最细的那段决定流量」。管理口诀一句：「A chain is only as fast as its slowest link; a line is only as fast as its bottleneck.」（链条看最慢一环，产线看瓶颈工位。）和 backlog 划清：「Backlog is the pile that builds up; bottleneck is the reason it builds up.」（积压是堆起来的活，瓶颈是堆起来的原因。）汇报句式背一句：「Find the bottleneck, add capacity there, and protect the deadline.」（找卡点、在卡点加产能、守住第 12 期 deadline 死线。）发音注意重音在首音节 /ˈbɒtlnek/，别读成 bot-tle-NECK；美式常读 /ˈbɑːtlnek/。",
+      "issue": 67,
+      "date": "2026-11-22",
+      "theme": "",
+      "gloss": "瓶颈；制约环节",
+      "category": "生活职场",
+      "audio": "audio/bottleneck.mp3"
     }
   ]
 }

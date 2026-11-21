@@ -1319,5 +1319,25 @@
   "reschedule": {
     "gloss": "改期；重新安排时间",
     "category": "职场"
+  },
+  "bearing": {
+    "gloss": "支座；轴承",
+    "category": "钢结构"
+  },
+  "mill certificate": {
+    "gloss": "材质证明书",
+    "category": "工程"
+  },
+  "discrepancy": {
+    "gloss": "不符点；不一致",
+    "category": "外贸"
+  },
+  "seating arrangement": {
+    "gloss": "座次安排",
+    "category": "客户接待"
+  },
+  "bottleneck": {
+    "gloss": "瓶颈；制约环节",
+    "category": "生活职场"
   }
 }
