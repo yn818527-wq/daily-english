@@ -1359,5 +1359,25 @@
   "heads-up": {
     "gloss": "提前告知；预先提醒",
     "category": "职场"
+  },
+  "yield strength": {
+    "gloss": "屈服强度",
+    "category": "钢结构"
+  },
+  "egress": {
+    "gloss": "疏散出口；疏散",
+    "category": "建筑设计"
+  },
+  "vgm": {
+    "gloss": "核实集装箱总重",
+    "category": "外贸"
+  },
+  "refreshment": {
+    "gloss": "茶点；饮品小食",
+    "category": "客户接待"
+  },
+  "per diem": {
+    "gloss": "每日差旅补贴",
+    "category": "职场"
   }
 }

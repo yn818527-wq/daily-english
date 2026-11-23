@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23",
-  "total": 340,
+  "updated": "2026-11-24",
+  "total": 345,
   "words": [
     {
       "word": "truss",
@@ -6901,6 +6901,106 @@
       "gloss": "提前告知；预先提醒",
       "category": "职场",
       "audio": "audio/heads-up.mp3"
+    },
+    {
+      "word": "yield strength",
+      "phonetic": "/jiːld streŋkθ/",
+      "meaning": "钢材受拉时开始发生不可恢复的塑性变形的那个应力值，是结构设计取值与选材牌号的核心指标。牌号里的数字往往就是它：Q355B 的 355 指厚度 ≤16 mm 时最小屈服强度 355 MPa，Q235 是 235 MPa，欧标 S355 是 355 MPa，美标 ASTM A36 约 250 MPa（36 ksi）。它和第 67 期 mill certificate（MTC 材质证明书）天生一对：MTC 上按炉批号列出的 yield / tensile / elongation / impact 实测值，进第 49 期 ITP 后才放行下料；第 64 期 high-strength bolt 的 8.8 级也是按屈强比标定（800 MPa 抗拉 × 0.8 = 640 MPa 屈服）。务必和 tensile strength（抗拉强度，拉断前最大应力）划清：设计按 yield 除以安全系数取许用应力，不按 tensile。海外项目两个高频坑：① 同一牌号随板厚增大屈服强度递减，厚板要降档取值；② GB/Q355、EN/S355、ASTM/A572 Gr.50 不能想当然互换，第 10 期 specification 与报盘里必须写明标准号与厚度区间。相关词：ductility（延性）、yield ratio（屈强比）、proof stress Rp0.2（不锈钢用的规定塑性延伸强度）、elastic modulus（弹性模量）。",
+      "collocation": "yield strength / yield stress（屈服强度／屈服应力）、tensile / ultimate strength（抗拉／极限强度）、minimum yield strength（最小屈服强度）、specified minimum yield strength / SMYS（规定最小屈服强度）、Q355B / S355 / ASTM A572 Gr.50（牌号）、yield ratio（屈强比）、elastic vs plastic deformation（弹性 vs 塑性变形）、mill certificate / MTC（材质证明书，第 67 期）、proof stress（规定塑性延伸强度）、thickness-dependent reduction（随厚度折减）、design / allowable stress（设计强度／许用应力）、MPa / N/mm²（兆帕）。",
+      "examples": [
+        {
+          "en": "The mill certificate shows a yield strength of 372 MPa for this heat, comfortably above the 355 MPa minimum specified for Q355B plates up to 16 mm.",
+          "zh": "这份材质证明书显示该炉批的屈服强度为 372 MPa，稳稳高于 Q355B 16 mm 以下钢板规定的 355 MPa 下限。",
+          "audio": "audio/ex/yield-strength-1.mp3"
+        }
+      ],
+      "mnemonic": "yield 本义「让步／屈服」——钢材被拉到「不再弹回来、开始让步」的那个应力就是屈服强度。一句划清与抗拉强度：「Yield is where it stops springing back; tensile is where it finally breaks.」（屈服是弹不回去的起点，抗拉是最终拉断的终点。）牌号数字直接就是它：「Q355 = 355 MPa minimum yield.」串起第 67 期 MTC：「MTC proves the number; the design code decides how much of it you may use.」（材质单证明数值，规范决定你能用几成。）别把 yield 在材料语境里读成「产量」那义；strength 的 /k/ 别漏，/streŋkθ/ 是「streng-kth」三个辅音连读。",
+      "issue": 69,
+      "date": "2026-11-24",
+      "theme": "",
+      "gloss": "屈服强度",
+      "category": "钢结构",
+      "audio": "audio/yield-strength.mp3"
+    },
+    {
+      "word": "egress",
+      "phonetic": "/ˈiːɡres/",
+      "meaning": "建筑与消防规范里指「人员从建筑内安全撤到室外的路径与出口」，也泛指「出去／离开的动作与权利」，中文常译「疏散、疏散出口、外出通道」。它是第 18 期 circulation（动线）与第 68 期 wayfinding（导视）在紧急情况下的那条「保命版动线」：平时导视把人引到目的地，火警时 egress 把人引到室外集合点，靠 exit sign、emergency lighting 与第 27 期 fire rating 的耐火分隔兜底。审图常盯三件事：egress width（疏散宽度，按 occupant load 人数算）、travel distance（到最近出口的最大行走距离）、number of exits（出口数量，一般不少于两个且分散布置）。海外厂房、营地、展厅报审时，第 10 期 specification 与消防图要标出 egress route、门须朝疏散方向开启（door swing）、推杠逃生锁（panic hardware），并注明通道不得上锁或堆料；与第 15 期 mezzanine（夹层）叠加时最易漏算第二出口。法律与日常里 right of egress（出入权）、egress of water（排水出路）也用它；反义词 ingress（进入），安防与网络里 ingress / egress 常成对出现。",
+      "collocation": "means of egress（疏散设施／疏散途径）、egress route / path（疏散路线）、emergency exit / exit door（安全出口／疏散门）、egress width / capacity（疏散宽度／通行能力）、travel distance（疏散距离）、occupant load（使用人数／疏散人数）、exit sign / emergency lighting（出口标识／应急照明，第 68 期 wayfinding）、panic bar / panic hardware（推杠逃生锁）、door swings in the direction of egress（门朝疏散方向开启）、keep the egress clear / unobstructed（保持通道畅通）、assembly point（室外集合点）、ingress and egress（进入与出去）。",
+      "examples": [
+        {
+          "en": "The reviewer flagged that the mezzanine has only one egress route, so we must add a second exit and keep the corridor clear of stored material.",
+          "zh": "审图人指出夹层只有一条疏散路线，我们必须增设第二出口，并保证走廊不堆放物料。",
+          "audio": "audio/ex/egress-1.mp3"
+        }
+      ],
+      "mnemonic": "e-（向外）+ gress（走，词根 grad / gress = step，同 progress 前进、ingress 进入）=「走出去」。和已学串成三层：「Circulation is the everyday flow, wayfinding is the signage that guides it, egress is the route that saves it.」（动线是日常人流，导视是引导标识，疏散是救命路线。）反义成对记：「Ingress gets you in; egress gets you out.」拼写别漏开头的 e，也别和 aggress（侵略）混；读 /ˈiːɡres/，重音在首音节，第二音节轻读 /ɡres/。",
+      "issue": 69,
+      "date": "2026-11-24",
+      "theme": "",
+      "gloss": "疏散出口；疏散",
+      "category": "建筑设计",
+      "audio": "audio/egress.mp3"
+    },
+    {
+      "word": "VGM",
+      "phonetic": "/ˌviː dʒiː ˈem/",
+      "meaning": "Verified Gross Mass 的缩写，SOLAS 公约自 2016 年 7 月起强制要求：每个出口集装箱装船前，托运人必须以书面形式向船长／码头申报「货重＋包装＋箱体自重＋绑扎加固料」经核实的总重量，未申报不得装船，行话「No VGM, no load」。它是第 39 期 booking note（订舱单）→ 第 38 期 FCL 厂内装箱／第 61 期 dunnage（衬垫加固）→ VGM 申报 → 第 9 期 bill of lading（提单）→ 第 7 期 customs clearance 链条里最易漏掉、却会直接卡柜的一环：重量报错危及船舶配载稳性与吊具安全，港口会拒收或产生改单费与第 34 期 detention（滞箱费）。两种合规方法：Method 1 装箱后整箱过地磅／吊秤称重；Method 2 逐件货重（含包装、托盘、dunnage）累加再加箱门上印的 tare weight（皮重）。申报单要有 booking / B/L number、箱号、VGM 数值、称重方法、托运人签章与联系人，常由第 62 期 freight forwarder 代传，但责任仍在托运人。中东、非洲航线查验尤严；数字要和第 57 期 shipping mark、第 12 期 packing list 上的重量对得上，别让三处各说各话。",
+      "collocation": "VGM / Verified Gross Mass（核实集装箱总重）、SOLAS VGM requirement（SOLAS 强制要求）、No VGM, no load（无 VGM 不装船）、Method 1 / Method 2（整箱称重／逐件累加）、tare weight（箱体自重／皮重）、gross / net weight（毛重／净重）、dunnage and securing material（衬垫与加固料，第 61 期）、weighbridge / weigh the packed container（地磅／整箱过磅）、VGM cut-off / submission deadline（VGM 申报截止时间）、declare / submit the VGM（申报 VGM）、shipper's responsibility（托运人责任）、container weight declaration（集装箱重量声明）。",
+      "examples": [
+        {
+          "en": "Please send the VGM for container CSNU2048163 by 16:00 tomorrow—without it the terminal will not load the box onto the vessel.",
+          "zh": "请在明天 16:00 前把 CSNU2048163 这箱的 VGM 发来——没有它，码头不会把箱装上船。",
+          "audio": "audio/ex/vgm-1.mp3"
+        }
+      ],
+      "mnemonic": "把三个字母拆开背：「V = Verified（经核实）、G = Gross（毛重，含箱含料）、M = Mass（质量）」——核心是「不是货重，是整箱上船那一刻的总重」。一句红线：「No VGM, no load.」和 gross / net 划清：「Gross includes the box and the dunnage; net is only the goods.」把它当成第 4 份单据记：「Booking note → packing list → VGM → B/L.」读法按字母 /ˌviː dʒiː ˈem/，正式文书写作大写 VGM，别写成加点的 V.G.M.。",
+      "issue": 69,
+      "date": "2026-11-24",
+      "theme": "",
+      "gloss": "核实集装箱总重",
+      "category": "外贸",
+      "audio": "audio/vgm.mp3"
+    },
+    {
+      "word": "refreshment",
+      "phonetic": "/rɪˈfreʃmənt/",
+      "meaning": "会议、接待、展会里提供的「茶水、咖啡、点心、小食」总称，也指「使人恢复精力的事物／恢复精神」这个抽象义，中文常译「茶点、饮品小食、提神、休整」。它在客户接待链条里承上启下：第 65 期 RSVP 确认人数 → 第 52 期 welcome kit 与第 68 期 name badge 签到递上 → 会议室先上 refreshments，让倒完第 38 期 jet lag（时差）的客户缓一口气 → 再进第 4 期 agenda 与第 15 期 briefing → 正餐由第 27 期 catering 供、晚上是第 9 期 banquet。与 catering 分工很清楚：catering 是「供餐这项服务／承包商」，refreshments 是「摆在桌上的那些茶点」，日程里常见「Refreshments will be served during the coffee break」；还要和第 60 期 dietary requirement（清真／过敏／无糖）对齐，备 halal、sugar-free、vegetarian 选项。抽象义也高频：a short walk was a welcome refreshment（散步让人精神一振）、refreshment of the mind（脑力恢复）；动词 refresh（刷新／提神）、形容词 refreshing（清爽提神的）同根，按钮上的 Refresh（刷新）也是它。注意指茶点常用复数 refreshments，单数偏抽象「恢复」。",
+      "collocation": "refreshments / light refreshments（茶点／简单茶点）、refreshments will be served（备有茶点）、coffee break / tea break（茶歇）、serve / offer refreshments（提供茶点）、help yourself to the refreshments（请自取茶点）、catering（餐饮供应，第 27 期）、dietary requirements（饮食禁忌，第 60 期）、halal / vegetarian / sugar-free options（清真／素食／无糖选项）、welcome drink（迎宾饮品）、a welcome refreshment（令人提神的事）、refresh / refreshing（提神／清爽的）。",
+      "examples": [
+        {
+          "en": "Light refreshments will be served in the meeting room, and we have prepared halal and sugar-free options according to the delegation's dietary requirements.",
+          "zh": "会议室备有简单茶点，并按代表团的饮食禁忌准备了清真与无糖选项。",
+          "audio": "audio/ex/refreshment-1.mp3"
+        }
+      ],
+      "mnemonic": "re-（再）+ fresh（新鲜）+ -ment =「让人重新变 fresh 的东西」，茶点让身体回神、休息让脑子回神，具体与抽象两个义项用同一个词根串起来。和 catering 划清：「Catering is the service; refreshments are what you actually pick up.」（catering 是供餐服务，refreshments 是你伸手拿的那些。）接待链一句背：「Badge at the door, refreshments on the table, agenda on the screen.」（门口发牌、桌上茶点、屏上议程。）读 /rɪˈfreʃmənt/，重音在 -fresh-，别读成 RE-freshment。",
+      "issue": 69,
+      "date": "2026-11-24",
+      "theme": "",
+      "gloss": "茶点；饮品小食",
+      "category": "客户接待",
+      "audio": "audio/refreshment.mp3"
+    },
+    {
+      "word": "per diem",
+      "phonetic": "/ˌpɜː ˈdiːem/",
+      "meaning": "拉丁语「按日、每日」，商务里指出差期间按天发放、不需逐笔凭票的津贴，用于覆盖餐费、市内交通、小费等零星开支，中文常译「每日补贴／出差日补／按日津贴」，也可作形容词「按日计算的」。它是第 16 期 reimbursement（凭票报销）的搭档：机票、酒店走实报实销，meals and incidentals 走 per diem，两者别混——「Per diem is a flat allowance; reimbursement is actual cost against receipts.」海外项目常驻、第 1 期 itinerary 排差旅、第 31 期 visa 办妥时，合同与员工手册要写清：rate per day（每日标准，常按城市分档，内罗毕与迪拜不同）、出差首末日按全天还是半天计、是否含第 4 词 refreshments 与第 9 期 banquet（公餐要扣减）、按哪天汇率（第 54 期 exchange rate）折算。第 44 期 revenue、第 45 期 gross margin 复盘时，per diem 属可控差旅成本；财务配 expense report（差旅报销单）与第 19 期 remittance 打款。词源 per = 每、diem = 天（同 diary 日记、diurnal 每日的）；法律／医疗里也指「按日计酬／按日计费」，如 per diem worker（日结工）、hospital per diem rate（住院日费）。",
+      "collocation": "per diem / per diem allowance（每日补贴／日补）、daily rate / rate per day（每日标准）、meals and incidental expenses / M&IE（餐费及杂费）、expense report（差旅报销单）、actual cost vs flat allowance（实报实销 vs 定额补贴）、reimbursement（报销，第 16 期）、itemised receipts（逐项票据）、first and last day of travel（出差首末日）、city-specific rate（按城市分档）、deduct provided meals（已供餐则扣减）、per diem worker / consultant（日结工／按日计费顾问）、exchange rate（汇率，第 54 期）。",
+      "examples": [
+        {
+          "en": "The per diem for site staff in Dar es Salaam is USD 45 per day, but we deduct it for any day when catering provides lunch.",
+          "zh": "达累斯萨拉姆现场人员的日补为每天 45 美元，但凡由餐饮供午餐的当天要相应扣减。",
+          "audio": "audio/ex/per-diem-1.mp3"
+        }
+      ],
+      "mnemonic": "拉丁拆解最快：「per = 每，diem = 天」，和 diary（日记＝每天记）、diurnal（白天的）同根，一眼看懂「按天给的钱」。和报销划清一句：「Receipts get reimbursed; per diem needs none.」（凭票的走报销，日补不用票。）财务三件套串起第 16 期与第 54 期：「Flights and hotels on receipts, meals on per diem, all converted at the agreed exchange rate.」读法 /ˌpɜː ˈdiːem/，两个词分开写，别连成 perdiem；diem 两音节 /ˈdiːem/，重音在 di。",
+      "issue": 69,
+      "date": "2026-11-24",
+      "theme": "",
+      "gloss": "每日差旅补贴",
+      "category": "职场",
+      "audio": "audio/per-diem.mp3"
     }
   ]
 }
