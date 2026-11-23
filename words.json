@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22",
-  "total": 335,
+  "updated": "2026-11-23",
+  "total": 340,
   "words": [
     {
       "word": "truss",
@@ -6801,6 +6801,106 @@
       "gloss": "瓶颈；制约环节",
       "category": "生活职场",
       "audio": "audio/bottleneck.mp3"
+    },
+    {
+      "word": "load combination",
+      "phonetic": "/ləʊd ˌkɒmbɪˈneɪʃn/",
+      "meaning": "结构设计里把几种不会同时达到最大值的荷载，按规范规定的系数「搭配」起来验算的一组工况——例如 1.2×恒载 + 1.6×活载、1.2×恒载 + 1.0×风荷载 + 0.6×活载。它是把第 28 期 dead load（恒载）、第 66 期 live load（活载），以及第 54 期 wind column 所抗的风荷载串起来的那张「配方表」：单个荷载再大也不算数，要按组合取最不利的一组去校核第 4 期 deflection（挠度）、第 57 期 buckling（屈曲）与构件强度。海外项目最易踩的坑是规范体系不同——国标 GB 50009、欧标 EN 1990（Eurocode）、美标 ASCE 7 的分项系数与组合系数各不相同，同一栋门式刚架换个规范算，梁柱截面可能就要调；所以方案报价阶段先问清「which load combinations / which design code」是必修课。配套概念：characteristic load（荷载标准值）、factored load（荷载设计值）、load case（单个荷载工况）、envelope（内力包络）、ultimate / serviceability limit state（承载能力／正常使用极限状态，简写 ULS / SLS）。动词用 combine，形容词 combined。",
+      "collocation": "load combination / load case（荷载组合／荷载工况）、ultimate limit state / ULS（承载能力极限状态）、serviceability limit state / SLS（正常使用极限状态）、partial safety factor / load factor（分项系数／荷载分项系数）、characteristic / factored load（标准值／设计值）、dead load + live load + wind load（恒＋活＋风）、governing combination（控制组合）、load envelope（内力包络）、per EN 1990 / ASCE 7 / GB 50009（按欧标／美标／国标）、the most unfavourable combination（最不利组合）。",
+      "examples": [
+        {
+          "en": "Before we fix the beam sections, please confirm which load combinations the client's engineer uses—EN 1990 and GB 50009 give different factors for wind plus live load.",
+          "zh": "在定梁截面之前，请先确认对方工程师采用哪套荷载组合——EN 1990 与 GB 50009 对「风＋活」给出的系数并不相同。",
+          "audio": "audio/ex/load-combination-1.mp3"
+        }
+      ],
+      "mnemonic": "load（荷载）+ combination（组合）=「把荷载搭配成几组来算」，核心一句「Not the biggest single load, but the worst combination wins.」（不是单个最大荷载说了算，而是最不利那组组合控制设计。）和已学串成一条线：「Dead load, live load, wind load → load combination → check deflection and buckling → size the member.」一句话记住为什么要组合：「Loads rarely peak together.」（荷载很少同时到峰值。）读法注意重音在 -na- /ˌkɒmbɪˈneɪʃn/，别读成 COM-bi-na-tion。",
+      "issue": 68,
+      "date": "2026-11-23",
+      "theme": "",
+      "gloss": "荷载组合",
+      "category": "钢结构",
+      "audio": "audio/load-combination.mp3"
+    },
+    {
+      "word": "wayfinding",
+      "phonetic": "/ˈweɪfaɪndɪŋ/",
+      "meaning": "在建筑、园区、机场、展厅里，通过标识牌、色彩分区、地面线条、编号与地图，让人不问路就能找到目的地的一整套设计方法，中文常译「导视系统／导向标识／寻路设计」。它管的是「人怎么在 space 里做决定」，与第 18 期 circulation（动线／流线）是一体两面：circulation 是设计师在图上规划的人流路径，wayfinding 是走在这条路径上的人靠什么信息不迷路。第 20 期 atrium（中庭）、第 11 期 section、第 54 期 scale 都会成为导视的锚点——中庭常做「你在此处」地图的节点，楼层与区域用颜色＋字母编号（如 Zone B / Level 2），楼梯口、电梯厅、岔路口是关键 decision point。海外厂房与营地项目交付时，业主往往把 bilingual signage（中英／中法／中阿双语标识）与疏散标识写进第 10 期 specification，消防验收也要看，所以别把它当成装修末尾才补的小事。相关词：signage（标识牌总称，偏硬件）、orientation（第 32 期的「方位／导向」义）、landmark（地标）、legibility（易读性）。",
+      "collocation": "wayfinding system / strategy（导视系统／寻路策略）、signage and wayfinding（标识与导视）、decision point（决策点／岔路节点）、you-are-here map（「您在此」地图）、colour-coded zones（色彩分区）、bilingual / multilingual signage（双语／多语标识）、directional sign（方向指示牌）、exit / emergency signage（疏散／应急标识）、legibility and contrast（易读性与对比度）、visitor flow（访客流线）。",
+      "examples": [
+        {
+          "en": "The camp is large, so we will add a bilingual wayfinding system with colour-coded zones and a you-are-here map at the atrium before the client's site visit.",
+          "zh": "营区很大，客户现场考察前我们会加一套双语导视：色彩分区，并在中庭设「您在此」地图。",
+          "audio": "audio/ex/wayfinding-1.mp3"
+        }
+      ],
+      "mnemonic": "way（路）+ finding（找）=「找路」这件事被做成了一门设计。和 circulation 划清：「Circulation is the path an architect draws; wayfinding is the information a visitor follows.」（动线是设计师画的路径，导视是访客跟着走的信息。）场景串一句：「Atrium as the landmark, colour-coded zones, a sign at every decision point.」（中庭当地标、分区上色、每个岔口一块牌。）拼写是一个词 wayfinding（不是 way-finding 加连字符作名词），重音在首音节 /ˈweɪfaɪndɪŋ/。",
+      "issue": 68,
+      "date": "2026-11-23",
+      "theme": "",
+      "gloss": "导视系统；寻路设计",
+      "category": "建筑设计",
+      "audio": "audio/wayfinding.mp3"
+    },
+    {
+      "word": "SWIFT code",
+      "phonetic": "/swɪft kəʊd/",
+      "meaning": "由 SWIFT（环球银行金融电信协会）分配给每家银行、用于跨境电汇精确定位收款行的 8 位或 11 位字母代码，正式名称 BIC（Bank Identifier Code），业务邮件里几乎都叫 SWIFT code / SWIFT BIC。它是第 66 期 telegraphic transfer（电汇 T/T）落地时必填的一项：收款人姓名、账号、开户行名称之外，还得有 SWIFT code，款才能从汇出行经中转行准确到达。结构有规律——前 4 位银行代码、接着 2 位国家码、2 位城市码、可选 3 位分行码（如 BKCHCNBJ 是中国银行北京总行）。外贸场景里它和第 19 期 remittance（汇款）、第 8 期 letter of credit、第 4 期 proforma invoice（形式发票）绑定：形式发票底部那段 bank details 里，beneficiary / account number / SWIFT code / bank address 缺一不可；客户问「 please send your bank details」多半就是要这个。写错一位字母就会挂账、退回甚至产生中间行扣费，所以发之前一定 double-check；欧洲收款常用 IBAN（国际银行账号）与之并列，两者别混——IBAN 认账户，SWIFT 认银行。",
+      "collocation": "SWIFT code / SWIFT BIC / BIC（银行识别代码）、bank details / banking information（银行信息）、beneficiary / account name（收款人／户名）、account number / IBAN（账号／国际银行账号）、intermediary / correspondent bank（中转行／代理行）、remit by T/T（以电汇汇款，第 66 期）、telegraphic transfer（电汇）、bank charges / deduction（银行手续费／中间行扣费）、confirm / double-check the SWIFT code（核对代码）、payment advice / remittance slip（付款通知／水单）。",
+      "examples": [
+        {
+          "en": "Please double-check the SWIFT code on our proforma invoice; one wrong letter and the T/T will be held by the intermediary bank for days.",
+          "zh": "请核对形式发票上的 SWIFT 代码——错一个字母，电汇就会在中转行压上好几天。",
+          "audio": "audio/ex/swift-code-1.mp3"
+        }
+      ],
+      "mnemonic": "SWIFT 本义「迅速的」，正好记「有了它，跨境汇款才 swift（快）」。和 IBAN 分工一句：「IBAN finds the account; SWIFT finds the bank.」（IBAN 定位账户，SWIFT 定位银行。）把银行信息那一段背成四条：「Beneficiary, account number, SWIFT code, bank address.」（收款人、账号、SWIFT 码、开户行地址。）与第 66 期 T/T 连起来：「A T/T without a correct SWIFT code is a transfer going nowhere.」读法按字母词 /swɪft kəʊd/，正式文书里常写作大写 SWIFT。",
+      "issue": 68,
+      "date": "2026-11-23",
+      "theme": "",
+      "gloss": "银行识别代码 SWIFT",
+      "category": "外贸",
+      "audio": "audio/swift-code.mp3"
+    },
+    {
+      "word": "name badge",
+      "phonetic": "/neɪm bædʒ/",
+      "meaning": "来访接待、展会、工厂参观时别在胸前或挂在挂绳上、写有姓名与公司的牌子，也叫 name tag / ID badge。它是客户接待链条里最不起眼却最实用的一环：第 65 期 RSVP 收回名单 → 按名单提前做 name badge → 到第 67 期 seating arrangement 的席位卡同批印制 → 现场签到（registration / check-in）时连同第 52 期 welcome kit 一起递上。对第 29 期 delegation（代表团）这种多人来访，牌子能省掉反复自我介绍，也方便我方按第 66 期 business card 上的 job title 认人、按职务排座次；车间参观时还要换成带夹子的硬质胸牌，并配 PPE 与第 33 期 induction（入场安全教育）。常见规格：lanyard badge（挂绳牌）、clip-on / magnetic badge（夹式／磁吸式）、printed insert（插卡式）、reusable holder（可复用卡套）；给重要客户常备手写备份与备用别针。别和 badge 的另一个义项「徽章／证章」以及 signage（第 2 词 wayfinding 里的固定标识）搞混：name badge 跟着人走，signage 钉在墙上。",
+      "collocation": "name badge / name tag / ID badge（姓名牌／胸牌／工牌）、wear / pin on a badge（佩戴／别上胸牌）、lanyard / clip-on / magnetic badge（挂绳／夹式／磁吸胸牌）、visitor badge（访客证）、print / prepare the badges in advance（提前印制胸牌）、registration / check-in desk（签到处）、welcome kit（接待资料袋，第 52 期）、job title on the badge（牌上职务）、reusable badge holder（可复用卡套）、collect the badges afterwards（会后回收胸牌）。",
+      "examples": [
+        {
+          "en": "We have printed a name badge for every member of the delegation, so please hand them out with the welcome kit at the check-in desk.",
+          "zh": "我们已给代表团每位成员印好胸牌，请在签到处连同接待资料袋一起发下去。",
+          "audio": "audio/ex/name-badge-1.mp3"
+        }
+      ],
+      "mnemonic": "name（名字）+ badge（牌子）=「把名字挂在胸前的牌子」。和固定标识划清：「Signage stays on the wall; a name badge moves with the person.」（标识钉在墙上，胸牌跟着人走。）接待链串一句：「RSVP tells you who comes, name badges tell you who they are, seating arrangement tells you where they sit.」（回执定谁来、胸牌定是谁、座次定坐哪。）发音 /neɪm bædʒ/，badge 押 age 的 /dʒ/，别读成 /bædɡ/。",
+      "issue": 68,
+      "date": "2026-11-23",
+      "theme": "",
+      "gloss": "姓名牌；胸牌",
+      "category": "客户接待",
+      "audio": "audio/name-badge.mp3"
+    },
+    {
+      "word": "heads-up",
+      "phonetic": "/ˈhedz ʌp/",
+      "meaning": "职场与日常口语里极高频的一个词，意思是「事先给你打个招呼、让你有准备」，语气比正式通知轻、比第 5 期 follow-up（事后跟进）早，常译「提前说一声／提醒一下」。典型句式：give someone a heads-up（提前知会某人）、just a heads-up（顺便提醒一下）、thanks for the heads-up（谢谢提醒）。工作场景：船期要变、客户临时加人来访、第 66 期 reschedule 改期、图纸要晚两天、某台设备要停机检修，先给相关方一个 heads-up，对方就能调第 1 期 itinerary 或第 12 期 deadline；它常与第 15 期 briefing（简报）、第 51 期 action item（行动项）、第 35 期 escalation（升级上报）配套——小事给 heads-up，出了偏差才 escalate。与 warning 的区别是 heads-up 不带负面或责备，只是「提前让你知道」；对客户用更礼貌的「a quick note to let you know…」，对同事用 heads-up 最自然。动词短语 head up 另有「牵头／负责」的意思（head up a team），别混；形容词 heads-up 也指「机敏留神的」。来源是把头抬起来留意四周 → 提前警觉。",
+      "collocation": "give someone a heads-up（提前知会某人）、just a heads-up / a quick heads-up（顺便／快速提醒一下）、thanks for the heads-up（谢谢提醒）、a heads-up about / on something（关于某事的提前通知）、let you know in advance（提前告知，正式说法）、flag it early（尽早提示）、before it happens / ahead of time（事发之前／提前）、keep someone in the loop（让某人随时知情）、head up a project（牵头一个项目，另一义）。",
+      "examples": [
+        {
+          "en": "Just a heads-up—the client has moved the factory tour to Friday, so we need to reprint the name badges and update the itinerary.",
+          "zh": "提前说一声：客户把工厂参观改到周五了，我们得重印胸牌并更新行程。",
+          "audio": "audio/ex/heads-up-1.mp3"
+        }
+      ],
+      "mnemonic": "把 head（头）抬 up（起来）留意四周 =「先给你提个醒」。和 follow-up 一前一后记：「A heads-up comes before it happens; a follow-up comes after.」（heads-up 在事前，follow-up 在事后。）三个万能短句直接背：「Just a heads-up…」「Thanks for the heads-up.」「I will give you a heads-up.」礼貌分级一句：「Heads-up to colleagues, a quick note to clients.」（对同事说 heads-up，对客户写一句简短告知。）注意作名词一定要连字符写 heads-up，重音在首音节 /ˈhedz ʌp/。",
+      "issue": 68,
+      "date": "2026-11-23",
+      "theme": "",
+      "gloss": "提前告知；预先提醒",
+      "category": "职场",
+      "audio": "audio/heads-up.mp3"
     }
   ]
 }

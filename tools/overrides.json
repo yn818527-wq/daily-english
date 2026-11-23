@@ -1339,5 +1339,25 @@
   "bottleneck": {
     "gloss": "瓶颈；制约环节",
     "category": "生活职场"
+  },
+  "load combination": {
+    "gloss": "荷载组合",
+    "category": "钢结构"
+  },
+  "wayfinding": {
+    "gloss": "导视系统；寻路设计",
+    "category": "建筑设计"
+  },
+  "swift code": {
+    "gloss": "银行识别代码 SWIFT",
+    "category": "外贸"
+  },
+  "name badge": {
+    "gloss": "姓名牌；胸牌",
+    "category": "客户接待"
+  },
+  "heads-up": {
+    "gloss": "提前告知；预先提醒",
+    "category": "职场"
   }
 }
