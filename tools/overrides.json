@@ -1379,5 +1379,25 @@
   "per diem": {
     "gloss": "每日差旅补贴",
     "category": "职场"
+  },
+  "composite deck": {
+    "gloss": "压型钢板组合楼板（组合楼承板）",
+    "category": "钢结构"
+  },
+  "plenum": {
+    "gloss": "吊顶静压箱；空调送回风夹层",
+    "category": "建筑设计"
+  },
+  "bank slip": {
+    "gloss": "银行水单；汇款回执",
+    "category": "外贸"
+  },
+  "job title": {
+    "gloss": "职位；职务头衔",
+    "category": "客户接待"
+  },
+  "bring forward": {
+    "gloss": "把…提前（会议、日期）；提前",
+    "category": "职场"
   }
 }

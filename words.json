@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24",
-  "total": 345,
+  "updated": "2026-11-25",
+  "total": 350,
   "words": [
     {
       "word": "truss",
@@ -7001,6 +7001,106 @@
       "gloss": "每日差旅补贴",
       "category": "职场",
       "audio": "audio/per-diem.mp3"
+    },
+    {
+      "word": "composite deck",
+      "phonetic": "/ˈkɒmpəzɪt dek/",
+      "meaning": "钢结构多层建筑最常用的楼面体系——把镀锌压型钢板（profiled steel deck）铺在钢梁上作永久底模，板面焊栓钉（shear stud，第 65 期），再浇钢筋混凝土；钢板与混凝土通过栓钉组合受力，钢板一身兼三职：施工模板、受拉钢筋、吊顶吊点。核心价值是免支模、免拆模、可多层同时流水，是海外多层厂房、宿舍、营地的默认楼面做法。四个高频考点：① 施工阶段钢板要单独验算（湿混凝土荷载、无支撑跨度），跨度大时须设临时支撑（propping）；② 栓钉焊后按批做弯曲试验；③ 组合后验挠度、板厚与第 27 期 fire rating（耐火极限）；④ 板肋方向、板型肋高要与第 9 期 girder、第 29 期 beam 的间距匹配。与第 65 期 shear stud、第 51 期 curing（养护）、第 66 期 suspended ceiling（吊点就挂在板上）连成一线。相关词：metal deck / profiled decking、composite beam（组合梁）、shear connector、permanent formwork、decking profile、embossment（板面压痕，增强握裹）、reinforcement mesh。",
+      "collocation": "composite deck / composite slab（组合楼板/组合楼承板）、profiled steel decking / metal deck（压型钢板）、shear stud / shear connector（栓钉，第 65 期）、permanent formwork（永久模板）、composite action / composite beam（组合作用/组合梁）、propping / temporary support（临时支撑）、wet concrete load / construction stage（湿混凝土荷载/施工阶段）、deck profile / rib height（板型/肋高）、through-deck stud welding（穿透板栓钉焊）、fire rating / slab thickness（耐火/板厚，第 27 期）、stud bend test（栓钉弯曲试验）、reinforcement mesh（钢筋网）。",
+      "examples": [
+        {
+          "en": "We switched to a composite deck with shear studs, so the steel sheet acts as permanent formwork and we can pour two floors in the same week.",
+          "zh": "我们改用带栓钉的组合楼板，压型钢板可作永久底模，一周内能连浇两层。",
+          "audio": "audio/ex/composite-deck-1.mp3"
+        }
+      ],
+      "mnemonic": "composite = com-（一起）+ pose（放）=「放在一起共同受力」，deck 本义「甲板/层面」，铺在梁上的那层钢板就是 deck。一句口诀钉牢三者分工：「Deck is the tray, concrete is the body, studs make them act as one.」（钢板是托盘、混凝土是本体、栓钉让二者合体受力。）串起已学：「Girder carries the deck, deck carries the wet concrete, studs lock deck to beam, and curing（第 51 期）gives the concrete its strength.」发音陷阱：composite 重音在首音节 /ˈkɒmpəzɪt/，别读成 /kəmˈpɒzɪt/；deck 别和 desk（书桌）混。",
+      "issue": 70,
+      "date": "2026-11-25",
+      "theme": "",
+      "gloss": "压型钢板组合楼板（组合楼承板）",
+      "category": "钢结构",
+      "audio": "audio/composite-deck.mp3"
+    },
+    {
+      "word": "plenum",
+      "phonetic": "/ˈpliːnəm/",
+      "meaning": "吊顶（suspended ceiling，第 66 期）与上方结构楼板之间的封闭空腔，暖通里当「静压箱」均匀分配送风或作回风通道，中文常译「静压箱、送回风夹层、吊顶内空间」。它是机电综合（MEP coordination）里最抢净高的地方：风管、水管、电缆桥架、消防喷淋都挤在 plenum 里，与第 53 期 clear height（净高）、第 12 期 ventilation（通风）、第 66 期 suspended ceiling 直接冲突——夹层越厚，室内净高越低。海外厂房、办公楼报审常要出 plenum 剖面与管线综合图（coordination drawing / clash detection），标明 plenum depth、检修口（access panel）与防火封堵。两种用法要分清：pressurized supply plenum（送风静压箱，正压）、return-air plenum（回风夹层，吊顶上方整个空腔作回风）；后者受规范约束，夹层内线缆须用 plenum-rated cable、不得堆可燃物。词源拉丁 plenus「满的」，同 plenty（充足）、replenish（补充）、complete。",
+      "collocation": "plenum / plenum space（静压箱/吊顶内空间）、supply air / return air plenum（送风/回风静压箱）、plenum depth / height（夹层高度）、suspended ceiling（吊顶，第 66 期）、clear height / headroom（净高，第 53 期）、MEP coordination / clash detection（机电综合/碰撞检查）、ductwork / cable tray / sprinkler（风管/桥架/喷淋）、access panel / ceiling hatch（检修口）、plenum-rated cable（吊顶夹层级线缆）、fire stopping（防火封堵）、air handling unit / AHU（空调机组）、coordination drawing（综合管线图）。",
+      "examples": [
+        {
+          "en": "The return-air plenum needs at least 450 mm, so we lowered the suspended ceiling and rechecked the clear height against the client's requirement.",
+          "zh": "回风夹层至少要 450 mm，我们因此下调了吊顶标高，并重新核对净高是否满足业主要求。",
+          "audio": "audio/ex/plenum-1.mp3"
+        }
+      ],
+      "mnemonic": "拉丁 plenus = full（满的），和 plenty、replenish 同根——「一个被空气填满的腔体」就是静压箱。一句红线记净高：「Every millimetre you give the plenum is a millimetre you take from clear height.」（给夹层每 1 mm，就从净高扣 1 mm。）串起第 53、66 期：「Structure above, ceiling below, plenum in between — and everything mechanical fights for that gap.」读 /ˈpliːnəm/，重音在首音节，别读成 /pliːˈnəm/；也别和 plenary（全体出席的，plenary session 全体会议）混，同根不同词。",
+      "issue": 70,
+      "date": "2026-11-25",
+      "theme": "",
+      "gloss": "吊顶静压箱；空调送回风夹层",
+      "category": "建筑设计",
+      "audio": "audio/plenum.mp3"
+    },
+    {
+      "word": "bank slip",
+      "phonetic": "/bæŋk slɪp/",
+      "meaning": "客户通过电汇（T/T，第 66 期 telegraphic transfer）或汇入汇款（remittance，第 19 期）付款后，银行出具或网银下载的付款凭证，外贸行话叫「水单、汇款回执、付款凭证」，也叫 bank receipt / payment advice / remittance slip / transfer receipt（口语常说 TT copy）。它在收款链条里是「客户口头说已付」到「钱确实到账」之间的证据：客户发来 bank slip → 我方核对金额、币种、收款人、SWIFT code（第 68 期）、附言/合同号、汇款日期 → 财务查账户确认贷记（credited）→ 才安排排产或放单。一条红线务必记牢：「A slip proves the payment was instructed, not that it was received.」——水单只证明付款指令已发出，截图可能伪造、款项可能挂在中转行、被退汇或因信息不符挂账，必须以我方账户实际到账为准。与第 3 期 deposit（定金）、第 4 期 proforma invoice（形式发票）、第 66 期 T/T、第 68 期 SWIFT code 连成收款链。",
+      "collocation": "bank slip / bank receipt（水单/银行回执）、payment advice / remittance advice（付款通知）、transfer receipt / TT copy（汇款凭证/电汇底单）、telegraphic transfer / T/T（电汇，第 66 期）、SWIFT code / BIC（银行识别码，第 68 期）、deposit / balance payment（定金/尾款，第 3 期）、proforma invoice（形式发票，第 4 期）、beneficiary / remitter（收款人/汇款人）、reference / contract number（附言/合同号）、value date / credited to our account（起息日/已贷记我方账户）、intermediary bank（中转行）、reconcile the payment（核账）、forged / altered slip（伪造/篡改水单）。",
+      "examples": [
+        {
+          "en": "Thanks for sending the bank slip; we'll release the production order once the deposit is credited to our account, not merely on the screenshot.",
+          "zh": "水单收到，谢谢；定金要实际贷记到我方账户后我们才下生产单，不能只凭截图。",
+          "audio": "audio/ex/bank-slip-1.mp3"
+        }
+      ],
+      "mnemonic": "slip 本义「一小片纸条」——银行打印或下载的那张小回执就是 slip，同 pay slip（工资条）、deposit slip（存款单）。一句红线背牢：「A slip shows the payment was sent, not that it arrived.」（水单说明钱汇出了，不等于钱到账。）把收款链串成一句：「T/T is the method, SWIFT code is the address, the bank slip is the receipt, and the bank statement is the truth.」别和 slip 的「滑倒/小失误」义混（a slip of the tongue 口误）；正式邮件里更常写 payment advice 或 remittance advice，口语才说 slip / TT copy。",
+      "issue": 70,
+      "date": "2026-11-25",
+      "theme": "",
+      "gloss": "银行水单；汇款回执",
+      "category": "外贸",
+      "audio": "audio/bank-slip.mp3"
+    },
+    {
+      "word": "job title",
+      "phonetic": "/dʒɒb ˈtaɪtl/",
+      "meaning": "一个人在组织里的正式岗位名称（如 Procurement Manager、Chief Engineer、Site Supervisor），中文「职位、职务、头衔」，区别于 name（姓名）、department（部门）与 seniority（资历）。客户接待里它是印 name badge（姓名牌，第 68 期）、排 seating arrangement（座次，第 67 期）、装 welcome kit（接待袋，第 52 期）与拟代表团名单（delegation，第 29 期）的必备字段，也决定对接层级与礼宾顺序（protocol，第 16 期）：RSVP（第 65 期）回执里就该收齐每位代表的 name / job title / company / dietary requirement（第 60 期）。海外项目一个高频坑：中文「经理/总工/总监」直译成 Manager / Chief Engineer / Director 后层级容易失真，头衔要按对方名片（business card，第 66 期）原文核对，别自作主张升格或降格；邮件称呼用 Dear + title + surname 更稳妥。title 另义「标题」与「产权」（title deed 产权证），签合同时别误读成职位。",
+      "collocation": "job title / job position（职位/岗位）、name badge / name tag（姓名牌，第 68 期）、business card（名片，第 66 期）、delegation list / RSVP（代表团名单/回执，第 29、65 期）、seating arrangement / protocol（座次/礼宾，第 67、16 期）、Chief Engineer / Procurement Manager / Project Director（总工/采购经理/项目总监）、seniority / reporting line（资历/汇报线）、department / company（部门/公司）、Mr / Ms + surname（称谓+姓）、title deed / property title（产权证/产权）、confirm / verify the exact title（核对准确头衔）、capitalise job titles（头衔首字母大写）。",
+      "examples": [
+        {
+          "en": "Could you confirm the exact job title of each delegate on the RSVP so we can print the name badges and finalise the seating arrangement?",
+          "zh": "能否按 RSVP 回执确认每位代表的准确职务头衔，好让我们印制姓名牌并敲定座次？",
+          "audio": "audio/ex/job-title-1.mp3"
+        }
+      ],
+      "mnemonic": "title 本义「标题/名号」，job title 就是「挂在岗位上的那个名号」；把它和 name 分开记：「Name says who; job title says where they sit.」（姓名说明是谁，头衔说明他坐哪、该由谁对接。）接待链一句背：「RSVP collects the titles, name badges display them, seating arrangement honours them.」串起第 65、68、67 期。拼写别把 title 写成 tittle；读 /ˈtaɪtl/，中间是 /aɪ/（像 tie），别读成 little 的 /ˈtɪtl/。合同里见到 title deed 是「产权证」，与职位无关。",
+      "issue": 70,
+      "date": "2026-11-25",
+      "theme": "",
+      "gloss": "职位；职务头衔",
+      "category": "客户接待",
+      "audio": "audio/job-title.mp3"
+    },
+    {
+      "word": "bring forward",
+      "phonetic": "/brɪŋ ˈfɔːwəd/",
+      "meaning": "把原定日期、会议、交付节点往更早的时间挪，中文「提前、把…提前」，商务日程高频短语动词，与第 66 期 reschedule（改期）、第 12 期 deadline（截止日）、第 4 期 agenda（议程）、第 1 期 itinerary（行程）连线。它自带一个中外都易踩的坑：bring forward 是「提前」，不是「推迟」；往后推要用 postpone / push back / put back / defer。第 66 期 reschedule 是中性「改期」（可前可后），bring forward 与 push back 才是一对方向反义。改期邮件四步（第 66 期已学）同样适用：致歉 → 说明原因 → 给两个备选时段 → 请对方确认，只是这次备选时段都早于原定时间。海外项目里客户一句「Can we bring the factory audit forward to Wednesday?」会连带改航班、酒店、接送（pick-up，第 4 期）、口译员（interpreter，第 58 期）并给全组 heads-up（第 68 期）。forward 另义「提出（议题/议案）」：bring a matter forward for discussion（把议题提出来讨论），注意分辨。",
+      "collocation": "bring forward / move up（提前，美式 move up）、push back / postpone / put back / defer（推迟）、reschedule / reschedule to an earlier date（改期，第 66 期）、deadline / milestone（截止日/节点，第 12、23 期）、agenda / itinerary（议程/行程，第 4、1 期）、factory audit / site visit（验厂/现场考察，第 8 期）、move the meeting to Wednesday（把会挪到周三）、subject to confirmation（以确认为准）、bring a proposal / issue forward（提出议案/议题）、heads-up / notify the team（提前告知全组，第 68 期）、an earlier slot / two alternative dates（更早时段/两个备选日期）。",
+      "examples": [
+        {
+          "en": "The client asked to bring the factory visit forward from Friday to Wednesday, so please reschedule the interpreter and give the whole team a heads-up.",
+          "zh": "客户要求把验厂从周五提前到周三，请据此改约口译员并给全组一个提前告知。",
+          "audio": "audio/ex/bring-forward-1.mp3"
+        }
+      ],
+      "mnemonic": "forward 字面「往前」在中文里常被理解成「往未来」，英语里 bring forward 反而是「更早」，务必用一句钉死：「Bring forward = earlier; push back = later.」再配一张时间轴记：「bring forward = pull it toward you（把日期朝今天这边拉）」，反过来 push back 是「往远处推」。串起第 66 期：「Reschedule is the umbrella; bring forward and push back are the two directions.」forward 读 /ˈfɔːwəd/，别吞掉 /w/ 后的 /ə/；作「提出议题」时搭配 bring an issue forward，别一律译成提前。",
+      "issue": 70,
+      "date": "2026-11-25",
+      "theme": "",
+      "gloss": "把…提前（会议、日期）；提前",
+      "category": "职场",
+      "audio": "audio/bring-forward.mp3"
     }
   ]
 }
