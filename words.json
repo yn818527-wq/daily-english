@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25",
-  "total": 350,
+  "updated": "2026-11-26",
+  "total": 355,
   "words": [
     {
       "word": "truss",
@@ -7101,6 +7101,106 @@
       "gloss": "把…提前（会议、日期）；提前",
       "category": "职场",
       "audio": "audio/bring-forward.mp3"
+    },
+    {
+      "word": "fatigue",
+      "phonetic": "/fəˈtiːɡ/",
+      "meaning": "一词横跨工程与日常两大场景。工程上指钢材、焊缝或构件在反复交变荷载（cyclic loading）下，即使每次应力都远低于屈服强度（yield strength，第 69 期），经过几十万到几百万次循环后仍会在焊趾、螺栓孔等应力集中处萌生裂纹并最终断裂，中文「疲劳、疲劳破坏」。它与第 57 期 buckling（受压失稳）、第 69 期 yield strength（一次超载屈服）是并列的三种失效模式，红线口诀：「Yield breaks it in one overload; fatigue breaks it over a million small ones.」最典型的对象就是第 59 期 crane beam（吊车梁）——吊车来回跑就是循环荷载，验算要用 stress range（应力幅）与 S-N 曲线、按 detail category（疲劳细节类别）分级，而不是简单拿强度除安全系数；救法是打磨焊趾、避开突变截面、降低应力幅，换更高钢号收效有限。生活职场里它回归本义「疲惫、疲倦」，与第 6 期 overtime（加班）、第 19 期 burnout（倦怠）、第 38 期 jet lag（时差）、第 40 期 morale（士气）连成一线，driver fatigue、fatigue management 是海外工地 HSE 的常见条目。形容词 fatigued（疲惫的）、fatiguing（累人的），别与 fatigue duty（疲劳荷载工况）混。",
+      "collocation": "fatigue failure / fatigue crack（疲劳破坏／疲劳裂纹）、fatigue life / fatigue strength（疲劳寿命／疲劳强度）、cyclic loading / stress range（循环荷载／应力幅）、S-N curve / number of cycles（S-N 曲线／循环次数）、detail category / fatigue class（细节类别／疲劳等级）、weld toe grinding（焊趾打磨）、stress concentration（应力集中）、crane beam（吊车梁，第 59 期）、load combination（荷载组合，第 68 期）、yield strength（屈服强度，第 69 期）、buckling（屈曲，第 57 期）、NDT / ultrasonic testing（无损检测，第 48 期）、fatigue management / driver fatigue（疲劳管理／驾驶疲劳）、mental fatigue / fatigued（精神疲惫／疲惫的）。",
+      "examples": [
+        {
+          "en": "A crane beam can pass the yield-strength check and still fail by fatigue after a million load cycles, so we grind the weld toes and check the stress range.",
+          "zh": "吊车梁可能通过屈服强度验算，却在上百万次荷载循环后因疲劳破坏，所以我们要打磨焊趾并复核应力幅。",
+          "audio": "audio/ex/fatigue-1.mp3"
+        }
+      ],
+      "mnemonic": "源自拉丁 fatigare「使疲倦」——钢也会「累」，和人加班累到 burnout 是同一个词，正好把工程与日常两义钉在一起。一句口诀分清三种失效：「One big push → yield; one lean push → buckling; a million small pushes → fatigue.」（一次大力压垮是屈服、一次压弯是屈曲、上百万次小力磨断是疲劳。）串起已学：「Load combination(68) sets the cycles, the crane beam(59) takes them, weld toes start the crack, and NDT(48) finds it before it fails.」发音陷阱 /fəˈtiːɡ/ 重音在第二音节，词尾 -gue 不发音（同 league、vague），别拆成三音节读。",
+      "issue": 71,
+      "date": "2026-11-26",
+      "theme": "",
+      "gloss": "疲劳；疲劳破坏；疲惫",
+      "category": "钢结构",
+      "audio": "audio/fatigue.mp3"
+    },
+    {
+      "word": "access panel",
+      "phonetic": "/ˈækses ˌpænl/",
+      "meaning": "吊顶、墙面或设备外壳上可拆开的一块小门，用来够到藏在里面的阀门、风阀、接线盒、检修点，中文「检修口、检修门、检查口」，也叫 access door / access hatch / ceiling hatch。它是第 70 期 plenum（吊顶静压箱）、第 66 期 suspended ceiling（吊顶）的必配收口件：夹层里塞满风管、桥架、喷淋（第 12 期 ventilation、第 24 期 soffit 一带），一旦封死，日后换阀、查漏就得拆整片吊顶。红线口诀：「Every valve hidden above a ceiling needs an access panel below it.」海外项目报审常要在 reflected ceiling plan（天花反射图）上逐一标出 access panel 的位置、尺寸（常见 450×450 / 600×600 mm）与开启方式（hinged 合页 / removable 可拆 / flush 平齐），并与第 22 期 punch list、第 37 期 snag list 的尾项验收挂钩——漏一个检修口就是一条整改。与第 41 期 mullion、第 42 期 transom 那些「看得见的框架」相对，access panel 属于「藏起来但必须留」的构造。别与 access control（门禁）、accessible（无障碍，第 21 期 ramp 相关）混。",
+      "collocation": "access panel / access door（检修口／检修门）、access hatch / ceiling hatch（检修盖板／吊顶检修口）、removable / hinged / flush panel（可拆／合页／平齐盖板）、450×450 mm / 600×600 mm（常见规格）、valve / damper / junction box（阀门／风阀／接线盒）、plenum（静压箱，第 70 期）、suspended ceiling（吊顶，第 66 期）、MEP coordination / clash detection（机电综合／碰撞检查）、reflected ceiling plan（天花反射图）、fire-rated access panel（防火检修门）、punch list / snag list（尾项／缺陷清单，第 22、37 期）、maintenance / inspection（维护／检修）。",
+      "examples": [
+        {
+          "en": "Please mark a 600×600 access panel under every damper in the plenum, or the maintenance team will have to cut the ceiling open later.",
+          "zh": "请在静压箱内每个风阀下方标出 600×600 的检修口，否则维保队日后只能把吊顶割开。",
+          "audio": "audio/ex/access-panel-1.mp3"
+        }
+      ],
+      "mnemonic": "access（进入、够到）+ panel（一块板）=「留一块能伸手进去的板」。一句口诀把两期串起来：「Plenum hides everything; the access panel is the one door back in.」（静压箱把东西全藏起来，检修口是唯一那扇回去的门。）再用红线记验收：「No panel above a valve = one more item on the snag list(37).」发音 /ˈækses/ 重音在首音节（名词），动词 access 同形别读成 /ækˈses/；panel /ˈpænl/ 别与 pane（玻璃窗格，第 22 期 glazing）混。",
+      "issue": 71,
+      "date": "2026-11-26",
+      "theme": "",
+      "gloss": "检修口；检修门",
+      "category": "建筑设计",
+      "audio": "audio/access-panel.mp3"
+    },
+    {
+      "word": "delivery order",
+      "phonetic": "/dɪˈlɪvəri ˈɔːdə(r)/",
+      "meaning": "海运到港后，收货人凭正本提单（bill of lading，第 9 期）向船公司或其代理换取的「提货单」，简称 D/O，也叫 release note、delivery note（英式），中文「提货单、提货凭证、放货指令」。它本身不是物权凭证，而是「船／码头可以放货了」的操作指令，收货人（consignee，第 17 期）拿着它报关、缴税、办 customs clearance（清关，第 7 期）、到堆场或 CFS（第 37 期）提柜。红线口诀：「The B/L is the title to the goods; the D/O is the instruction to release them.」（提单管「货是谁的」，提货单管「货可以提了」。）单据链要背顺：booking note（第 39 期）→ B/L（第 9 期）→ 到港换 D/O → 清关 → 提货；若走「电放」（telex release / express release），就不出正本提单、直接凭保函换 D/O，能省掉 courier（第 31 期）寄单时间，但要先收齐货款——与第 51 期 D/P、第 70 期 bank slip「到账为准」是同一条风控线。换单提货晚了还会撞上第 30 期 demurrage、第 34 期 detention，照样产生滞期滞箱费。另义：一般贸易里 delivery order 也泛指「交货通知／送货指令」，别和 packing list（第 12 期）、commercial invoice（第 64 期）混。",
+      "collocation": "delivery order / D/O（提货单）、bill of lading / B/L（提单，第 9 期）、original B/L / surrender（正本提单／交回）、telex release / express release（电放）、release note（放货单）、consignee / notify party（收货人／通知方，第 17 期）、customs clearance（清关，第 7 期）、customs declaration / import duty（报关／进口税）、freight forwarder（货代，第 62 期）、CFS / container yard（货运站／堆场，第 37 期）、demurrage / detention（滞期费／滞箱费，第 30、34 期）、take delivery / collect the cargo（提货）、exchange the B/L for a D/O（凭提单换提货单）、delivery note（送货单，英式）。",
+      "examples": [
+        {
+          "en": "The original B/L arrived late, so we arranged a telex release and collected the delivery order before demurrage started.",
+          "zh": "正本提单寄到晚了，我们改办电放，在滞期费起算前就换出了提货单。",
+          "audio": "audio/ex/delivery-order-1.mp3"
+        }
+      ],
+      "mnemonic": "delivery（交付）+ order（指令）=「一句『可以交货了』的指令」，不是单据本身值钱，而是它解锁了货。三词分工记牢：「B/L(9) proves ownership, the D/O releases the cargo, and the packing list(12) tells you what is inside.」把单据链念成一句话：「Book it(39) → ship it, get the B/L(9) → swap it for a D/O → clear customs(7) → take delivery before demurrage(30) starts.」注意 D/O 里的斜杠只写在正文，标题词名要用全称 delivery order（历史坑：标题带斜杠会被解析脚本切成半个词）。发音 /ˈɔːdə(r)/，别与「采购订单」order 混，靠上下文的 original B/L、telex release 判断。",
+      "issue": 71,
+      "date": "2026-11-26",
+      "theme": "",
+      "gloss": "提货单；交货指令",
+      "category": "外贸",
+      "audio": "audio/delivery-order.mp3"
+    },
+    {
+      "word": "toast",
+      "phonetic": "/təʊst/",
+      "meaning": "宴席上举杯向人致意、说几句祝福话，中文「祝酒、敬酒、干杯、祝酒词」，作动词是 propose / drink a toast to someone「为某人举杯」。它是第 9 期 banquet（宴会）、第 27 期 catering（餐饮）、第 16 期 protocol（礼宾）、第 22 期 etiquette（礼仪）、第 18 期 rapport（融洽关系）里最高频的一个动作：主人先致 welcome toast，主宾回 a toast in return，双方关系就在这一来一回里升温。一条礼仪红线：「Stand, keep it under a minute, and toast the partnership — never yourself.」（起身、控制在一分钟内、祝合作而非自夸。）海外接待还要注意 dietary requirement（第 60 期饮食禁忌）：中东客户可能不饮酒，用果汁、软饮举杯照样是 toast，别劝酒；与第 67 期 seating arrangement（座次）、第 65 期 RSVP、第 68 期 name badge 一起构成晚宴接待链。一词双场景别漏：toast 也是「吐司、烤面包片」，早餐与第 69 期 refreshment（茶点）里常见；词源正是「往酒里放一片烤面包调味」的旧俗，后来「被举杯祝颂的人」也叫 the toast of the town。别与 roast（烤肉／吐槽）、toaster（烤面包机）混。",
+      "collocation": "propose / raise / drink a toast to（为…举杯祝酒）、a welcome toast / a toast in return（欢迎祝酒／回敬）、the toast of the evening（当晚被祝颂的人）、banquet / gala dinner（宴会／晚宴，第 9 期）、etiquette / protocol（礼仪／礼宾，第 22、16 期）、build rapport（建立融洽，第 18 期）、dietary requirement / halal（饮食禁忌，第 60 期）、seating arrangement（座次，第 67 期）、sparkling wine / soft drink（起泡酒／软饮）、a short toast / keep it brief（简短祝酒）、cheers（干杯，口语）、toast / roast（吐司／烤肉，防混）。",
+      "examples": [
+        {
+          "en": "At the banquet our GM proposed a short toast to the partnership, and the client raised a glass of juice in return out of dietary requirements.",
+          "zh": "宴会上总经理为合作致了简短祝酒词，客户出于饮食禁忌举果汁回敬。",
+          "audio": "audio/ex/toast-1.mp3"
+        }
+      ],
+      "mnemonic": "一片 toast（吐司）泡进酒杯 → 举杯祝人 → 祝酒词，一个词把早餐桌和宴会桌连起来。礼仪三字诀「Stand · Short · Someone else」（起身、简短、祝别人）。把接待链串起来：「RSVP(65) fixes who comes, the seating arrangement(67) fixes where they sit, and the toast opens the conversation that builds rapport(18).」发音 /təʊst/ 双元音 /əʊ/（同 most、post），别读成 /tɒst/；作动词过去式 toasted，名词可数 a toast / two toasts。",
+      "issue": 71,
+      "date": "2026-11-26",
+      "theme": "",
+      "gloss": "祝酒；敬酒；吐司",
+      "category": "客户接待",
+      "audio": "audio/toast.mp3"
+    },
+    {
+      "word": "shift",
+      "phonetic": "/ʃɪft/",
+      "meaning": "最常用义是「轮班、班次、当班的一拨人」，中文「班次、轮班、换班」，工厂与工地为赶第 12 期 deadline（截止日）常开 day shift / night shift / swing shift（白班／夜班／中班），三班倒叫 three-shift rotation 或 round-the-clock shifts；与第 6 期 overtime（加班）、第 3 期 workload（工作量）、第 40 期 morale（士气）、第 19 期 burnout（倦怠）、本期 fatigue（疲劳）连成一条人力线，红线是「A second shift adds capacity; a third shift adds fatigue.」交接要写 shift handover / shift report，与第 12 期 handover（竣工移交）同名不同场景。第二个高频义是「转变、偏移」：a shift in policy / exchange rate（第 54 期汇率）、a shift in the market、shift the focus to…，商务复盘里几乎每场都有；开车换挡、键盘 Shift 键、shift dress（直筒连衣裙）也都出自「挪一下」这个本义。第 66 期 reschedule、第 70 期 bring forward 改的是「时间点」，shift 改的是「排班或重心」，别混。形容词 shifty（狡诈的）与名词含义无关，别望文生义。",
+      "collocation": "day shift / night shift / swing shift（白班／夜班／中班）、shift work / shift rotation（轮班工作／轮班表）、three-shift system / round-the-clock（三班倒／全天候）、shift handover / shift report（交接班／班次报告）、shift supervisor / shift leader（班组长）、overtime / workload（加班／工作量，第 6、3 期）、fatigue / burnout / morale（疲劳／倦怠／士气，本期、第 19、40 期）、a shift in policy / exchange rate（政策／汇率变动，第 54 期）、shift the focus / shift resources（转移重心／调配资源）、paradigm shift（范式转变）、work the night shift（上夜班）、clock in / clock out（打卡上下班）。",
+      "examples": [
+        {
+          "en": "We added a night shift to catch up with the shipment deadline, but the shift handover must flag fatigue risks on the erection crew.",
+          "zh": "为赶发货截止日我们加了一个夜班，但交接班记录必须标出吊装班组的疲劳风险。",
+          "audio": "audio/ex/shift-1.mp3"
+        }
+      ],
+      "mnemonic": "本义就是「挪一下」——把人按时段挪一挪是「班次」，把重心挪一挪是「转变」，把档位挪一挪是「换挡」，一个词全包。一句口诀分清三个「改」：「Reschedule(66) moves the date, bring forward(70) pulls it earlier, and a shift moves the people or the priority.」把人力线串起来：「Overtime(6) buys hours, a night shift buys capacity, but fatigue(本期) and burnout(19) are the bill — protect morale(40) with a clean shift handover.」发音 /ʃɪft/，sh- 别读成 /s/；复数 shifts，过去式 shifted。",
+      "issue": 71,
+      "date": "2026-11-26",
+      "theme": "",
+      "gloss": "轮班；班次；转变",
+      "category": "职场",
+      "audio": "audio/shift.mp3"
     }
   ]
 }

@@ -1,5 +1,4 @@
 {
-  "_note": "人工补充字段：gloss=练习用的简短中文释义，category=场景分类。以 word 小写为键，脚本合并时会覆盖自动解析结果。新词如无对应条目，脚本自动从 meaning 截取。",
   "truss": {
     "gloss": "桁架",
     "category": "钢结构"
@@ -1399,5 +1398,26 @@
   "bring forward": {
     "gloss": "把…提前（会议、日期）；提前",
     "category": "职场"
-  }
+  },
+  "fatigue": {
+    "gloss": "疲劳；疲劳破坏；疲惫",
+    "category": "钢结构"
+  },
+  "access panel": {
+    "gloss": "检修口；检修门",
+    "category": "建筑设计"
+  },
+  "delivery order": {
+    "gloss": "提货单；交货指令",
+    "category": "外贸"
+  },
+  "toast": {
+    "gloss": "祝酒；敬酒；吐司",
+    "category": "客户接待"
+  },
+  "shift": {
+    "gloss": "轮班；班次；转变",
+    "category": "职场"
+  },
+  "_note": "人工补充字段：gloss=练习用的简短中文释义，category=场景分类。以 word 小写为键，脚本合并时会覆盖自动解析结果。新词如无对应条目，脚本自动从 meaning 截取。"
 }
