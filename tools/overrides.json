@@ -1419,5 +1419,25 @@
     "gloss": "轮班；班次；转变",
     "category": "职场"
   },
+  "fireproofing": {
+    "gloss": "防火保护；防火涂装",
+    "category": "钢结构"
+  },
+  "vestibule": {
+    "gloss": "门厅；前室；门斗",
+    "category": "建筑设计"
+  },
+  "pallet": {
+    "gloss": "托盘；栈板",
+    "category": "外贸"
+  },
+  "meet and greet": {
+    "gloss": "迎候；见面会；见面寒暄",
+    "category": "客户接待"
+  },
+  "postpone": {
+    "gloss": "推迟；延期",
+    "category": "职场"
+  },
   "_note": "人工补充字段：gloss=练习用的简短中文释义，category=场景分类。以 word 小写为键，脚本合并时会覆盖自动解析结果。新词如无对应条目，脚本自动从 meaning 截取。"
 }

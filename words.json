@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26",
-  "total": 355,
+  "updated": "2026-11-27",
+  "total": 360,
   "words": [
     {
       "word": "truss",
@@ -7201,6 +7201,106 @@
       "gloss": "轮班；班次；转变",
       "category": "职场",
       "audio": "audio/shift.mp3"
+    },
+    {
+      "word": "fireproofing",
+      "phonetic": "/ˈfaɪəpruːfɪŋ/",
+      "meaning": "钢材本身不燃，但在约 500 到 600 度时屈服强度（yield strength，第 69 期）会掉一半以上，裸钢梁柱遇火十几分钟就失稳，所以必须做「防火保护」去达到 fire rating（耐火等级，第 27 期）要求的 1、2、3 小时耐火极限，中文「防火保护、防火涂装、防火包覆」。三大做法要分得清：intumescent coating（膨胀型防火涂料，受热发泡成炭层，薄而美观，露明钢构首选）、spray-applied fire resistive material（SFRM，喷涂无机纤维，厚而便宜，藏在吊顶里）、fire-rated board / concrete encasement（防火板包覆／混凝土包柱）。它与第 28 期 coating、第 61 期 primer、第 35 期 varnish 连成一条完整涂装体系：primer 管附着、intermediate 管厚度、topcoat 管外观，而 fireproofing 管的是「起火后还能撑多久」。报审要出防火涂料型式检验报告、按耐火极限对应产品认证表取的 dry film thickness（DFT 干膜厚度）记录，以及与防腐底漆的兼容性证明；海外项目常按 BS 476、ASTM E119、EN 13381 出测试报告。红线：防火涂料不能随手刷在普通防锈底漆上，也不能拿面漆冒充。别与 fire-resistant（材料本身耐火）、firestop（管线穿楼板的防火封堵）混。另义：职场里 a fireproof contract 指「滴水不漏的合同」，是引申用法。",
+      "collocation": "fireproofing / fire protection（防火保护）、intumescent coating（膨胀型防火涂料）、SFRM / spray-applied（喷涂防火材料）、fire-rated board / encasement（防火板／包覆）、fire rating / fire resistance rating（耐火等级／耐火极限，第 27 期）、dry film thickness / DFT（干膜厚度）、primer / topcoat / coating（底漆／面漆／涂层，第 61、28 期）、BS 476 / ASTM E119 / EN 13381（防火测试标准）、certified thickness / product approval（认证厚度／产品认证）、compatibility with primer（与底漆兼容性）、firestop / penetration seal（防火封堵）、exposed steel / structural frame（露明钢构／钢框架）、ITP / inspection report（检验试验计划／检验报告，第 49 期）。",
+      "examples": [
+        {
+          "en": "The exposed columns need intumescent fireproofing to reach a two-hour fire rating, so check the certified dry film thickness before applying the topcoat.",
+          "zh": "露明钢柱需做膨胀型防火涂料以达到两小时耐火极限，所以上面漆前先核对认证干膜厚度。",
+          "audio": "audio/ex/fireproofing-1.mp3"
+        }
+      ],
+      "mnemonic": "fire（火）+ proof（防得住，同 waterproof、bulletproof）+ -ing（这层做法／材料）=「让钢扛住火的那层保护」。一句把涂装家族收官：「Primer(61) makes it stick, coating(28) stops the rust, and fireproofing buys you time when it burns.」（底漆管粘、涂层防锈、防火保护买时间。）再记一条红线：「Steel does not burn, but it softens — fireproofing is not about flames, it is about minutes.」（钢不燃但会软，防火买的不是不着火，是那 60 或 120 分钟。）串起已学：「Fire rating(27) sets the target hours, fireproofing delivers them, and the ITP(49) records the DFT.」发音 /ˈfaɪəpruːfɪŋ/ 重音在首音节 fire，别读成 /faɪəˈpruːfɪŋ/；动词形式 fireproof（给…做防火处理）。",
+      "issue": 72,
+      "date": "2026-11-27",
+      "theme": "",
+      "gloss": "防火保护；防火涂装",
+      "category": "钢结构",
+      "audio": "audio/fireproofing.mp3"
+    },
+    {
+      "word": "vestibule",
+      "phonetic": "/ˈvestɪbjuːl/",
+      "meaning": "建筑主入口与室内大堂之间的一个小过渡空间，通常有内外两道门，中文「门厅、前室、门斗」，公共建筑里也叫「入口缓冲区」。两道门形成 air lock（气闸），挡住冷热风、风沙、雨水直接灌进大堂，在中东炎热多沙项目或寒冷地区是节能与舒适的关键；它同时承担安检、签到、更衣、缓冲人流的作用。方案汇报里它和 canopy（雨棚，第 16 期）、threshold（门槛，第 38 期）、wayfinding（导视，第 68 期）、circulation（动线，第 18 期）连成一条「入口序列」：canopy 遮雨 → vestibule 缓冲 → reception（第 14 期）接待 → lobby → 展厅。红线口诀：「Two doors, one buffer — a vestibule is a room you pass through, not a room you stay in.」（两道门、一个缓冲，门斗是穿过而不是停留的房间。）海外厂房与营地项目里，vestibule 还常与 dirty-to-clean 洁污分区、PPE 更换、security checkpoint 安保点挂钩，要在 site plan（第 58 期）与 floor plan（第 28 期）上标清。另义：火车车厢之间的连接过道、解剖学里的「前庭」（vestibule of the ear）都取「入口前的小间」这个本义。别与 lobby（大堂，大而可停留）、foyer（门厅，偏剧院酒店）、atrium（中庭，第 20 期，通高大空间）、portico（门廊，第 50 期，室外柱廊）混。",
+      "collocation": "entrance vestibule / entry vestibule（入口门厅／门斗）、air lock / double-door vestibule（气闸式／双道门门斗）、canopy / threshold（雨棚／门槛，第 16、38 期）、reception / lobby / foyer（前台／大堂／门厅，第 14 期）、circulation / wayfinding（动线／导视，第 18、68 期）、floor plan / site plan（平面图／场地平面，第 28、58 期）、thermal buffer / wind and dust（热缓冲／防风沙）、security checkpoint / sign-in（安检／签到）、dirty-to-clean transition / PPE（洁污过渡／劳保用品）、atrium / portico（中庭／门廊，第 20、50 期）、vestibule of the ear（耳前庭，防混）。",
+      "examples": [
+        {
+          "en": "We added a double-door vestibule under the canopy so the desert wind and dust stop at the entrance instead of blowing into the reception lobby.",
+          "zh": "我们在雨棚下加了一道双门门斗，让沙漠的风沙挡在入口，而不是吹进接待大堂。",
+          "audio": "audio/ex/vestibule-1.mp3"
+        }
+      ],
+      "mnemonic": "拉丁 vestibulum 本义就是「进正厅前站一站的门外前厅」——记成「两道门之间那间小屋」。一句分清四个入口空间：「A canopy(16) covers you outside, a vestibule buffers you between two doors, a lobby holds you, and an atrium(20) lifts you up.」（雨棚在外遮、门斗在两门间缓冲、大堂留住人、中庭把人往上带。）再记功能红线：「No vestibule, no air lock — the AC bill and the dust tell you why.」（没有门斗就没有气闸，空调费和灰尘会替你解释。）把本期接待链接上：「The meet and greet starts at the vestibule, the sign-in sits inside it, and wayfinding(68) takes over from there.」发音 /ˈvestɪbjuːl/ 重音在首音节，三个音节 ves-ti-bule，词尾 -bule 读 /bjuːl/（同 cube、tube），别读成 /ˈvestɪbʌl/；与 vest（背心）只是形近，无词源关系。",
+      "issue": 72,
+      "date": "2026-11-27",
+      "theme": "",
+      "gloss": "门厅；前室；门斗",
+      "category": "建筑设计",
+      "audio": "audio/vestibule.mp3"
+    },
+    {
+      "word": "pallet",
+      "phonetic": "/ˈpælət/",
+      "meaning": "用来集装、搬运、堆码货物的一块平板（木、塑料、钢制），底下有垫块留出叉车孔，中文「托盘、栈板、货板」，无底板的简易式叫 skid。它是装箱发运链条里此前一直缺的一环：小件、high-strength bolt（第 64 期）、bracket（第 61 期）、五金备件先码上 pallet，缠 stretch wrap（缠绕膜）、打 strapping（打包带）、加 corner board（护角），再配合 dunnage（衬垫，第 61 期）与 FCL（整箱，第 38 期）装箱，报 VGM（第 69 期）、刷 shipping mark（唛头，第 57 期）、列进 packing list（装箱单，第 12 期）。红线口诀：「A pallet moves as one unit — pack it right and one forklift does the work of twenty hands.」（打托后整托当一件走，装对了，一台叉车顶二十双手。）外贸单证上要写清 number of pallets、palletized cargo、pallet dimensions；木托盘出口常需 ISPM 15 热处理或熏蒸并盖 IPPC 章（尤其澳洲、美国、欧盟），否则到港被拒或强制处理，直接撞上 demurrage（滞期费，第 30 期）、detention（滞箱费，第 34 期）。常见规格：EUR-pallet 1200×1000 mm、1200×800 mm、美标 GMA 48×40 英寸。三个同音词务必分清：pallet（托盘）／ palette（调色板、色板，方案汇报里 color palette 常用）／ palate（味觉、上颚），都读 /ˈpælət/，靠语境判断。仓储里还有 pallet racking（横梁式货架）、pallet jack（手动液压搬运车）。",
+      "collocation": "wooden / plastic / steel pallet（木／塑料／钢托盘）、EUR-pallet / GMA pallet（欧标／美标托盘）、palletized cargo / on pallets（打托货物／托盘装）、stretch wrap / strapping / corner board（缠绕膜／打包带／护角）、dunnage / FCL（衬垫／整箱，第 61、38 期）、shipping mark / packing list（唛头／装箱单，第 57、12 期）、VGM / container loading（核实总重／装箱，第 69 期）、forklift / pallet jack / pallet racking（叉车／搬运车／货架）、ISPM 15 / IPPC stamp / fumigation（植检标准／IPPC 章／熏蒸）、number of pallets / pallet count（托盘数）、demurrage / detention（滞期费／滞箱费，第 30、34 期）、pallet / palette / palate（托盘／调色板／味觉，防混）。",
+      "examples": [
+        {
+          "en": "Please put all the anchor bolts and brackets on ISPM 15-stamped wooden pallets and list the pallet count on the packing list.",
+          "zh": "请把所有地脚螺栓和牛腿装到盖有 ISPM 15 章的木托盘上，并在装箱单上列明托盘数。",
+          "audio": "audio/ex/pallet-1.mp3"
+        }
+      ],
+      "mnemonic": "联想「一块平板让货整整齐齐『平』着走」——叉车从底下两孔一插，二十箱变一件。一句把发运链收口：「Dunnage(61) protects the cargo, the pallet groups it, the shipping mark(57) names it, and the packing list(12) counts it.」（衬垫护货、托盘归堆、唛头命名、装箱单点数。）再记清关红线：「No IPPC stamp, no entry — a cheap pallet can cost you demurrage(30).」（没有 IPPC 章就进不了关，一个便宜托盘能赔上滞期费。）三个同音词一句话分：「A pallet carries the bolts, a palette carries the colors, and a palate carries the lunch.」（托盘运螺栓、色板装颜色、味觉管午饭。）发音 /ˈpælət/ 重音在首音节，拼写别与 palette、palate 混。",
+      "issue": 72,
+      "date": "2026-11-27",
+      "theme": "",
+      "gloss": "托盘；栈板",
+      "category": "外贸",
+      "audio": "audio/pallet.mp3"
+    },
+    {
+      "word": "meet and greet",
+      "phonetic": "/ˌmiːt ən ˈɡriːt/",
+      "meaning": "客户或代表团到访时的第一环节——在机场出口、酒店大堂或厂门口迎接、握手、寒暄、简单介绍，中文「迎候、迎接、见面会、见面寒暄（会）」，作名词 a meet and greet 或 a meet-and-greet session，也可作动词 meet and greet the guests。它是接待动线的「第一米」：pick-up（接机，第 4 期）→ meet and greet → escort（陪同，第 30 期）→ reception（第 14 期）→ welcome kit（资料袋，第 52 期）→ factory tour（验厂，第 53 期）→ site visit（第 8 期），一路靠 small talk（第 21 期）、icebreaker（第 59 期）、rapport（第 18 期）把气氛暖起来。红线口诀：「The meet and greet is not the meeting — it is the fifteen minutes that decide how the meeting feels.」（迎候不是会议，却决定了会议的气氛。）实操清单要背：举接机牌（配 name badge，第 68 期）、复核 itinerary（行程，第 1 期）与航班延误、安排车辆与行李、把 liaison（联络人，第 19 期）和 interpreter（口译员，第 58 期）介绍到位、先确认 dietary requirement（饮食禁忌，第 60 期）。另义：展会、新品发布、明星活动里的「粉丝见面会／签名会」也叫 meet and greet，海外 trade fair（展会，第 60 期）的客户开放日常用。别与 reception（正式欢迎会／前台）、briefing（交底会，第 15 期）混。",
+      "collocation": "meet and greet / meet-and-greet session（迎候／见面会）、pick-up / airport transfer（接机／接送，第 4 期）、escort / accompany（陪同，第 30 期）、reception / welcome kit（接待／资料袋，第 14、52 期）、small talk / icebreaker / rapport（寒暄／破冰／融洽，第 21、59、18 期）、itinerary / agenda（行程／议程，第 1、4 期）、liaison / interpreter（联络人／口译员，第 19、58 期）、name badge / welcome sign / placard（胸牌／接机牌，第 68 期）、trade fair / open house（展会／开放日，第 60 期）、greet the delegation / host the guests（迎接代表团／做东）、flight delay / reschedule（航班延误／改期，第 66 期）、make a good first impression（留下好第一印象）。",
+      "examples": [
+        {
+          "en": "Our liaison will meet and greet the delegation at the airport with a welcome sign, then escort them to the hotel before tomorrow's factory tour.",
+          "zh": "我们的联络人会举接机牌在机场迎候代表团，随后陪同他们到酒店，明天再安排工厂参观。",
+          "audio": "audio/ex/meet-and-greet-1.mp3"
+        }
+      ],
+      "mnemonic": "meet（见到）+ greet（问好）=「先见到、再问好」，两个最基础的动作合起来就是接待的第一环。一句把接待链钉住：「The meet and greet warms the room, the welcome kit(52) hands over the facts, and the factory tour(53) proves them.」（迎候暖场、资料袋交信息、验厂作证明。）再记时长红线：「Fifteen minutes of small talk(21) buys more rapport(18) than an hour of slides.」（十五分钟寒暄比一小时幻灯片更买得到融洽。）与本期 vestibule 连起来：「Meet and greet happens at the door; the vestibule is the door.」发音 /ˌmiːt ən ˈɡriːt/，and 弱读成 /ən/，主重音落在 greet；作定语常加连字符 meet-and-greet，作动词写 meet and greet someone。",
+      "issue": 72,
+      "date": "2026-11-27",
+      "theme": "",
+      "gloss": "迎候；见面会；见面寒暄",
+      "category": "客户接待",
+      "audio": "audio/meet-and-greet.mp3"
+    },
+    {
+      "word": "postpone",
+      "phonetic": "/pəˈspəʊn/",
+      "meaning": "把原定时间往后挪，中文「推迟、延期、顺延」，宾语常是会议、发运、吊装、验厂、付款：postpone the meeting / the shipment / the site visit。它是「改时间三兄弟」里唯一只往后的那个：bring forward（提前，第 70 期）、postpone（往后）、reschedule（改期，第 66 期，可前可后），红线口诀：「Bring forward pulls it earlier, postpone pushes it later, reschedule just moves it.」正式信函里近义词有 defer（更书面）、put off（口语）、push back（商务口语）、adjourn（休会），名词 postponement。外贸与工程场景里，推迟必须留书面痕迹：写明原因、新时间点，以及对 lead time（交货期，第 2 期）、deadline（第 12 期）、milestone（第 23 期）、delivery order（第 71 期）、demurrage（第 30 期）的连带影响，并给 stakeholder（相关方，第 34 期）一个 heads-up（提前告知，第 68 期）；否则口头改期最容易引发 claim（索赔，第 13 期）或 EOT（工期延长，第 44 期）争议。红线：「Never just postpone — restate the new date and who owns the knock-on costs.」（别只说推迟，要重写新日期并说清连带成本归谁。）构词 post-（之后）+ 拉丁 ponere（放）=「往后放」，同根还有 position、deposit（第 3 期）、component。别与 cancel（取消，不另定时间）、delay（延误，多指被动耽误）混：postpone 是有人主动决定改期，delay 常是客观拖住。",
+      "collocation": "postpone the meeting / shipment / site visit（推迟会议／发货／验厂）、postponement / defer / put off / push back（延期／顺延／推迟，近义）、bring forward / reschedule（提前／改期，第 70、66 期）、lead time / deadline / milestone（交货期／截止日／里程碑，第 2、12、23 期）、EOT / claim / prolongation cost（工期延长／索赔／拖期费，第 44、13、47 期）、demurrage / delivery order（滞期费／提货单，第 30、71 期）、heads-up / stakeholder / follow-up（提前告知／相关方／跟进，第 68、34、5 期）、until further notice / to a later date（另行通知／改到稍后）、rain delay / force majeure（雨延误／不可抗力，第 18 期）、cancel / adjourn（取消／休会，防混）、variation order（变更令，第 42 期）。",
+      "examples": [
+        {
+          "en": "Heavy rain forced us to postpone the erection by three days, so we gave the client a heads-up and logged the new milestone in the variation order.",
+          "zh": "大雨迫使我们把吊装推迟三天，于是我们提前告知客户，并把新节点记进变更令。",
+          "audio": "audio/ex/postpone-1.mp3"
+        }
+      ],
+      "mnemonic": "post-（往后）+ pon（放，同 position、deposit(3)）=「把这件事往后放一放」。一句收官改期三兄弟：「Bring forward(70) = earlier, postpone = later, reschedule(66) = either — one verb, one direction.」（提前、往后、两头都行，各管一个方向。）再记商务红线：「To postpone is easy; to say until when and who pays is the hard part.」（推迟一句话，说清改到哪天、谁承担连带成本才是功夫。）与本期串起来：「A flight delay may postpone the meet and greet, but never the bank slip(70) — payment dates are the ones you do not move.」发音 /pəˈspəʊn/ 重音在第二音节，首音节弱读 /pə/，别读成 /ˈpəʊstpəʊn/；名词 postponement，过去式 postponed。",
+      "issue": 72,
+      "date": "2026-11-27",
+      "theme": "",
+      "gloss": "推迟；延期",
+      "category": "职场",
+      "audio": "audio/postpone.mp3"
     }
   ]
 }
