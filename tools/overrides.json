@@ -1439,5 +1439,25 @@
     "gloss": "推迟；延期",
     "category": "职场"
   },
+  "diaphragm": {
+    "gloss": "横隔板；隔板（楼盖、屋盖平面传力体系）",
+    "category": "钢结构"
+  },
+  "balustrade": {
+    "gloss": "栏杆；栏板（整排）",
+    "category": "建筑设计"
+  },
+  "manifest": {
+    "gloss": "舱单；载货清单",
+    "category": "外贸"
+  },
+  "place card": {
+    "gloss": "席卡；座位牌",
+    "category": "客户接待"
+  },
+  "wrap up": {
+    "gloss": "收尾；结束；总结",
+    "category": "职场"
+  },
   "_note": "人工补充字段：gloss=练习用的简短中文释义，category=场景分类。以 word 小写为键，脚本合并时会覆盖自动解析结果。新词如无对应条目，脚本自动从 meaning 截取。"
 }

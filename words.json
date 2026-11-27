@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27",
-  "total": 360,
+  "updated": "2026-11-28",
+  "total": 365,
   "words": [
     {
       "word": "truss",
@@ -7301,6 +7301,106 @@
       "gloss": "推迟；延期",
       "category": "职场",
       "audio": "audio/postpone.mp3"
+    },
+    {
+      "word": "diaphragm",
+      "phonetic": "/ˈdaɪəfræm/",
+      "meaning": "结构工程里指把楼板或屋面板当成一根「水平放置的深梁」，靠自身平面内刚度把风荷载、地震力收集起来，再分配给竖向抗侧力构件，中文「横隔板、楼板隔板、屋盖隔板」，其作用叫 diaphragm action（隔板作用／隔板效应）。它不扛竖向重力，只管横向传力，红线口诀：「A diaphragm does not carry gravity — it gathers the lateral forces and hands them to the bracing.」按刚度分三类：rigid diaphragm（刚性隔板，现浇混凝土楼盖或 composite deck 组合楼板，第 70 期）、flexible diaphragm（柔性隔板，裸压型钢板、木屋面板）、semi-rigid（半刚性）。钢结构厂房里屋面板能不能算隔板，取决于板型、连接是否可靠——shear stud（栓钉，第 65 期）、fastener（紧固件，第 5 期）、seam（锁边缝，第 23 期）与 bracing（支撑，第 3 期）缺一不可。审图最常踩的坑：atrium（中庭，第 20 期）、楼梯间、设备大开洞会切断隔板，必须在洞口四周补 diaphragm chord（边弦杆，与第 63 期 chord 同源）和 collector / drag strut（集力杆），再按 load combination（荷载组合，第 68 期）复核；wind column（抗风柱，第 54 期）与 buckling（屈曲，第 57 期）也在同一条受力链上。另义：解剖学里 the diaphragm 是「横膈膜」（呼吸肌），相机里是「光圈」（aperture diaphragm），扬声器振膜、隔音膜也用它，都取「横着隔开的一层膜」这个本义。词根 dia-（穿过、横跨）+ 希腊 phragma（围栏、隔墙）。别与 partition（隔断，第 19 期）、diaphragm wall（地下连续墙，另一种工法）混。",
+      "collocation": "diaphragm action / diaphragm effect（隔板作用／效应）、rigid / flexible / semi-rigid diaphragm（刚性／柔性／半刚性隔板）、floor diaphragm / roof diaphragm（楼盖／屋盖隔板）、lateral load / wind load / seismic force（水平荷载／风荷载／地震力）、bracing / shear wall / moment frame（支撑／剪力墙／刚架，第 3 期）、load combination（荷载组合，第 68 期）、composite deck / metal deck（组合楼板／压型钢板，第 70 期）、shear stud / fastener / seam（栓钉／紧固件／锁边缝，第 65、5、23 期）、diaphragm chord / collector / drag strut（隔板弦杆／集力杆）、opening / atrium / stairwell / penetration（开洞／中庭／楼梯间／穿洞）、in-plane stiffness / diaphragm shear（平面内刚度／隔板剪力）、wind column / buckling（抗风柱／屈曲，第 54、57 期）、the diaphragm / aperture diaphragm（横膈膜／光圈，防混）、diaphragm wall（地下连续墙，防混）。",
+      "examples": [
+        {
+          "en": "The roof deck can only act as a diaphragm if the panels are properly fastened, so we added edge chords and collectors around the atrium opening before checking the wind load combination.",
+          "zh": "屋面板只有在连接可靠时才能充当隔板，因此在核算风荷载组合前，我们先在中庭开洞周边补了边弦杆和集力杆。",
+          "audio": "audio/ex/diaphragm-1.mp3"
+        }
+      ],
+      "mnemonic": "dia-（横跨）+ phragma（隔墙）=「横着把上下或左右隔开的一层膜」——横膈膜、光圈、楼盖隔板都是这一层。一句把受力链钉住：「Gravity goes down the columns, but wind goes sideways — the diaphragm gathers it and hands it to the bracing(3).」（重力顺柱子往下，风却横着来，隔板收拢再交给支撑。）再记审图红线：「Every big opening weakens the diaphragm — check the chords, the collectors, and the load combination(68).」（每个大开洞都削弱隔板，要复核弦杆、集力杆与荷载组合。）串起已学：「Composite deck(70) plus shear stud(65) makes a rigid diaphragm; without them the roof is just a flexible sheet.」（组合楼板加栓钉才成刚性隔板，缺了就只是一张柔性板。）发音 /ˈdaɪəfræm/ 重音在首音节，三个音节 di-a-phragm，注意 g 不发音、ph 读 /f/，拼写 di-a-ph-r-a-g-m 别漏掉那个不发音的 g；形容词 diaphragmatic /ˌdaɪəfræɡˈmætɪk/。",
+      "issue": 73,
+      "date": "2026-11-28",
+      "theme": "",
+      "gloss": "横隔板；隔板（楼盖、屋盖平面传力体系）",
+      "category": "钢结构",
+      "audio": "audio/diaphragm.mp3"
+    },
+    {
+      "word": "balustrade",
+      "phonetic": "/ˌbæləˈstreɪd/",
+      "meaning": "楼梯、阳台、平台、中庭回廊临空边的一整排防护构件，中文「栏杆、栏板、扶手栏杆」，由三件套组成：base rail（地袱）→ baluster（一根根立柱／宝瓶柱）→ handrail（扶手，第 25 期）。所以 balustrade 是「整套」，handrail 只是最上面那根能抓的杆，红线口诀：「A handrail is what you hold; a balustrade is what stops you falling.」规范要点要背：临空高度 24 米以下不低于 1.05 m、24 米及以上不低于 1.10 m，垂直杆件净距不大于 110 mm，儿童活动场所不宜留可攀爬的水平横杆；玻璃栏板须用 laminated glass（夹胶安全玻璃），与 glazing（玻璃装配，第 22 期）、curtain wall（幕墙，第 23 期）连线。钢结构厂房的检修平台、catwalk（马道）、外挂钢楼梯常做钢制或不锈钢栏杆，要出 shop drawing（加工图，第 21 期）与 mock-up（实体样板，第 62 期）封样，验收时进 punch list（尾项清单，第 22 期）或 snag list（缺陷清单，第 37 期）。与 parapet（女儿墙，第 20 期，屋面实心矮墙）、railing（栏杆泛称，工业感）、guardrail（道路／工业防护栏）、banister（英式口语，楼梯扶手加栏杆整体）分工。词源：意大利语 balaustra（石榴花，宝瓶柱形似花萼）→ baluster → balustrade。另义：桥梁、船舷、家具上的成排栏杆。",
+      "collocation": "balustrade / baluster / handrail（栏杆整体／立柱／扶手，第 25 期）、stair / staircase / tread / riser / stringer（楼梯／踏步／立板／梯梁，第 7、60、62、56 期）、glass balustrade / laminated glass（玻璃栏板／夹胶玻璃，第 22 期）、steel / stainless steel / aluminium balustrade（钢／不锈钢／铝合金栏杆）、parapet / railing / guardrail / banister（女儿墙／栏杆／防护栏／楼梯栏杆，第 20 期）、atrium / mezzanine / balcony / catwalk / platform（中庭／夹层／阳台／马道／平台，第 20、15 期）、guard height / 1.05 m / 1.10 m / 110 mm gap（防护高度／净距）、shop drawing / mock-up / sample（加工图／实体样板／样品，第 21、62、11 期）、punch list / snag list / building code（尾项／缺陷清单／规范，第 22、37 期）、curtain wall / glazing / fall protection（幕墙／玻璃／防坠落，第 23、22 期）。",
+      "examples": [
+        {
+          "en": "The glass balustrade around the atrium opening must be laminated and at least 1.10 m high, with the 110 mm gap rule checked on the shop drawing before we sign off the mock-up.",
+          "zh": "中庭开洞周边的玻璃栏板必须采用夹胶玻璃且不低于 1.10 米，签认样板前先在加工图上核对 110 毫米净距的规定。",
+          "audio": "audio/ex/balustrade-1.mp3"
+        }
+      ],
+      "mnemonic": "baluster（一根立柱）+ -ade（集合后缀，同 arcade 第 63 期、colonnade 第 61 期、facade 第 5 期）=「一排立柱站成队」，所以是整体不是一根。一句分清四兄弟：「A baluster is one post, a balustrade is the whole row, a handrail(25) is the top rail you hold, and a parapet(20) is a solid wall at the roof.」（立柱一根、栏杆整排、扶手顶上那根、女儿墙是屋面实心墙。）再记规范红线：「One point one zero metres high, eleven centimetres max gap — the balustrade is where the code meets the drawing.」（1.10 米高、11 厘米净距，栏杆是规范落到图纸上的地方。）串起本期：「The diaphragm(本期) carries the wind load; the balustrade keeps the people away from the atrium(20) edge.」（隔板扛风荷载，栏杆把人挡在中庭边外。）发音 /ˌbæləˈstreɪd/ 重音在最后音节 -strade（读 /streɪd/，同 trade、grade），前面 ba-lus 弱读，别读成 /ˈbæləstreɪd/；拼写 bal-us-trade，与 banister 只是形近。",
+      "issue": 73,
+      "date": "2026-11-28",
+      "theme": "",
+      "gloss": "栏杆；栏板（整排）",
+      "category": "建筑设计",
+      "audio": "audio/balustrade.mp3"
+    },
+    {
+      "word": "manifest",
+      "phonetic": "/ˈmænɪfest/",
+      "meaning": "外贸物流里指承运人（船公司或航司）向目的港海关申报的、汇总本航次所有提单项下货物的总清单，中文「舱单、载货清单、货物清单」，航运口语常直接说 manifest；常见 cargo manifest、container manifest、freight manifest、passenger manifest（旅客名单）。关键分工是红线：「The B/L is the document of title; the manifest is the carrier's list to customs.」——bill of lading（提单，第 9 期）是物权凭证、给 consignee（收货人，第 17 期）提货用；舱单是承运人给海关的汇总表，用来报关与查舱。完整链条：booking note（订舱单，第 39 期）→ 装船 → shipping mark（唛头，第 57 期）／packing list（装箱单，第 12 期）／VGM（核实总重，第 69 期）→ B/L → manifest 发送目的港 → customs clearance（清关，第 7 期）→ delivery order（提货单，第 71 期）换单提货。舱单数据必须与 B/L、packing list 一致，改单走 manifest amendment / correction，漏报错报会被扣货或罚款，还可能连带 demurrage（滞期费，第 30 期）、detention（滞箱费，第 34 期）。时间红线：美国 AMS、欧盟 ENS 等舱单预报规则要求装船前 24 小时申报。一词多义很实用：作动词 manifest 是「显现、表明」（The crack manifested after six months，与 defects liability period 第 38 期、claim 第 13 期连线），作形容词是「明显的」（a manifest error，与 discrepancy 第 67 期连线），名词还有「宣言」义（但宣言通常写 manifesto，属同根不同词）。词根：拉丁 manifestus = mani-（手，同 manual）+ -festus（抓得住）=「伸手就能摸到、明摆着」，所以「清单」是把货一件件摆明，「明显」是把手感引申成眼见。别与 packing list（卖方装箱明细）、commercial invoice（商业发票，第 64 期）混。",
+      "collocation": "cargo manifest / container manifest / freight manifest（货物／集装箱／运费舱单）、passenger manifest（旅客名单）、manifest amendment / correction / discrepancy（舱单更改／更正／不符）、bill of lading / B/L（提单，第 9 期）、packing list / commercial invoice（装箱单／商业发票，第 12、64 期）、customs clearance / customs declaration（清关／报关，第 7 期）、shipping mark / consignee / VGM（唛头／收货人／核实总重，第 57、17、69 期）、delivery order / telex release（提货单／电放，第 71 期）、booking note / FCL / consolidation（订舱单／整箱／拼箱，第 39、38、33 期）、AMS / ENS / 24-hour rule（美／欧舱单预报规则）、demurrage / detention（滞期费／滞箱费，第 30、34 期）、manifest itself / a manifest error（显现／明显错误）、discrepancy / claim（不符点／索赔，第 67、13 期）、manifest / manifesto（清单／宣言，防混）。",
+      "examples": [
+        {
+          "en": "Please make sure the container manifest matches every bill of lading and packing list before we send the AMS filing, or customs clearance at the discharge port will stall.",
+          "zh": "发送舱单预报前，请务必确保集装箱舱单与每一份提单、装箱单一致，否则卸货港清关会卡住。",
+          "audio": "audio/ex/manifest-1.mp3"
+        }
+      ],
+      "mnemonic": "mani-（手，同 manual、manufacture）+ fest（抓得住）=「能摸得着、明摆着」——舱单就是把一船货一件件摆明给海关看的那张总表。一句把单据链收口：「The booking note(39) starts the booking, the B/L(9) carries the title, the manifest lists the whole voyage to customs, and the delivery order(71) releases the cargo.」（订舱起头、提单管物权、舱单向海关报整航次、提货单放货。）再记红线：「A typo in the manifest is not a typo at the port — it is a customs hold, a manifest amendment, and a demurrage(30) bill.」（舱单里一个错字到港就不是错字，是扣货、改单和滞期费。）一词三用一句话分：「The cargo is on the manifest (n.), the crack manifested (v.) after six months, and the error was manifest (adj.) to everyone.」发音 /ˈmænɪfest/ 重音在首音节，三个音节 ma-ni-fest；名词与形容词同形，动词过去式 manifested；别与 manifesto（宣言）混。",
+      "issue": 73,
+      "date": "2026-11-28",
+      "theme": "",
+      "gloss": "舱单；载货清单",
+      "category": "外贸",
+      "audio": "audio/manifest.mp3"
+    },
+    {
+      "word": "place card",
+      "phonetic": "/ˈpleɪs kɑːd/",
+      "meaning": "正式宴会、商务晚宴、签约仪式或会议桌上写着客人姓名（有时含 job title 职务，第 70 期）的小卡片，立在餐位前指明座位，中文「席卡、座位牌、桌牌、名卡」。它是 seating arrangement（座次安排，第 67 期）落到桌面上的最后一厘米：先出 seating plan / table plan（座次图）→ 印 place card → 摆台 → 迎宾入座。礼仪红线（与 protocol 第 16 期、etiquette 第 22 期、banquet 第 9 期、toast 第 71 期、RSVP 第 65 期连线）：主宾坐主人右手、代表团交替穿插、interpreter（口译员，第 58 期）坐主宾身后半步；席卡姓名拼写必须与 RSVP 回执、护照、business card（名片，第 66 期）一致，阿拉伯语、西班牙语、中文拼音的转写尤其要核，写错名字比排错座更失礼，海外项目常做双语（一面英文、一面客人母语）或双面席卡。与 name badge（姓名牌，第 68 期）分工口诀：「A name badge goes on the person; a place card goes on the table.」（胸牌挂在人身上，席卡摆在桌面上。）别与 menu card（菜单卡）、table number（桌号牌）、table plan（贴在入口的座次图）、place mat（餐垫）混。实操清单：收齐 RSVP → 锁定 seating arrangement → 按 job title 与 protocol 核拼写 → 印双语席卡（配 welcome kit 第 52 期 同一套字体与 logo）→ 摆台复核 → 开席前 30 分钟由 liaison（联络人，第 19 期）与 escort（陪同，第 30 期）走最后一遍；临时加减人用备用空白卡手写，别涂改正式卡。另义：签到处用来占座的 reserved card、考场桌上的座位号牌也常这么叫。",
+      "collocation": "place card / seating card / table card / name card at table（席卡／座位牌／桌牌）、seating arrangement / seating plan / table plan / seating chart（座次安排／座次图，第 67 期）、name badge / business card / job title（胸牌／名片／职务，第 68、66、70 期）、RSVP / guest list / final headcount（敬请回复／来宾名单／最终人数，第 65 期）、protocol / etiquette / guest of honour / host（礼宾／礼仪／主宾／主人，第 16、22 期）、banquet / gala dinner / toast / catering（宴会／晚宴／祝酒／餐饮，第 9、71、27 期）、bilingual / double-sided place card（双语／双面席卡）、dietary requirement / halal / refreshment（饮食禁忌／清真／茶点，第 60、69 期）、welcome kit / interpreter / liaison / escort（资料袋／口译员／联络人／陪同，第 52、58、19、30 期）、table number / menu card / reserved sign（桌号／菜单卡／预留牌）、spelling check / transliteration（核拼写／音译转写）。",
+      "examples": [
+        {
+          "en": "Print bilingual place cards from the final RSVP list and double-check every job title with the delegation liaison, because a misspelled name at the gala dinner is worse than a wrong seat.",
+          "zh": "请按最终回复名单印制双语席卡，并与代表团联络人逐一核对职务头衔，因为晚宴上写错名字比排错座位更失礼。",
+          "audio": "audio/ex/place-card-1.mp3"
+        }
+      ],
+      "mnemonic": "place（位置）+ card（卡片）=「写明你坐在哪个位置的卡片」，是本期最直白的一个词。一句把接待链收口：「RSVP(65) tells you who is coming, the seating arrangement(67) decides where, the name badge(68) says who at the door, and the place card says who at the table.」（回执定谁来、座次定坐哪、胸牌在门口认人、席卡在桌上认位。）再记礼仪红线：「Check the spelling, not just the seat — a name is the smallest thing on the table and the easiest thing to get wrong.」（要核拼写，不只核座位，名字是桌上最小、也最容易出错的东西。）与本期凑个趣：「The manifest(本期) lists the cargo; the place card lists the guests — both punish a typo.」（舱单列货、席卡列客，都容不下一个错字。）发音 /ˈpleɪs kɑːd/，place 读 /pleɪs/（同 face、space），card 英式 /kɑːd/、美式 /kɑːrd/；也可写 place-card，别与 place mat（餐垫）、playing card（扑克牌）混。",
+      "issue": 73,
+      "date": "2026-11-28",
+      "theme": "",
+      "gloss": "席卡；座位牌",
+      "category": "客户接待",
+      "audio": "audio/place-card.mp3"
+    },
+    {
+      "word": "wrap up",
+      "phonetic": "/ˌræp ˈʌp/",
+      "meaning": "职场高频短语动词，中文「收尾、收摊、结束、做总结、把…包起来」：wrap up the meeting（散会前收尾）、wrap up the project（项目收官）、Let's wrap up（就到这）。作名词或定语常写连字符形式 wrap-up：a quick wrap-up（简短总结）、the wrap-up email（会后总结邮件）。它与 takeaway（核心要点，第 60 期）、action item（行动项，第 51 期）、minutes（会议纪要，第 64 期）、agenda（议程，第 4 期）、briefing（交底会，第 15 期）、follow-up（跟进，第 5 期）、kickoff（启动会，第 36 期）组成完整会议闭环：kickoff 开场 → agenda 定题 → briefing 交底 → minutes 记录 → action item 派活 → takeaway 提炼 → wrap up 收口 → follow-up 跟进。红线口诀：「A meeting is not over when time is up — it is over when someone wraps up the decisions, the owners and the due dates.」（时间到了不等于会开完，要有人把决议、负责人、截止日收一遍才算完。）商务信函里还指「谈成、敲定」：wrap up the deal / wrap up negotiations，与 negotiation（谈判，第 11 期）、counteroffer（还盘，第 10 期）、consensus（共识，第 29 期）、buy-in（认同，第 57 期）连线。一词双场景：本义「包起来、裹好」（wrap up the samples in bubble wrap，与 pallet 第 72 期、dunnage 第 61 期、packing list 第 12 期连线），引申「把事情打包了结」；另有「穿暖和」义（wrap up warm）。别与 wind up（结束／关停，英式，另义上发条与清算）、close out（销项关闭，与 punch list 第 22 期、snag list 第 37 期、handover 第 12 期连线）、summarise（纯总结、不含「结束」）混：wrap up 兼有「总结 + 结束」两义。构词 wrap（裹，与 wrist、wrench 同源的「扭／绕」义）+ up（完成、收拢，同 finish up、clean up、sum up）。",
+      "collocation": "wrap up the meeting / discussion / project / deal（结束会议／讨论／项目／敲定交易）、wrap-up / a quick wrap-up / wrap-up email（总结／简短总结／会后总结邮件）、let's wrap up / to wrap up / wrapping up（收个尾／最后／即将结束）、takeaway / key points / action item / owner / due date（要点／关键结论／行动项／负责人／截止日，第 60、51 期）、minutes / agenda / briefing / follow-up（会议纪要／议程／交底／跟进，第 64、4、15、5 期）、kickoff / milestone / deliverable / deadline（启动会／里程碑／交付成果／截止日，第 36、23、55、12 期）、close out / punch list / snag list / handover（销项／尾项／缺陷清单／移交，第 22、37、12 期）、wind up / sum up / finalise（结束／总结／定稿，近义辨析）、negotiation / consensus / buy-in / counteroffer（谈判／共识／认同／还盘，第 11、29、57、10 期）、wrap up warm / bubble wrap / package（穿暖／气泡膜／打包）、heads-up（提前告知，第 68 期）。",
+      "examples": [
+        {
+          "en": "Before we wrap up, let me restate the three action items with their owners and due dates, and I will send a short wrap-up email so the minutes match everyone's takeaway.",
+          "zh": "散会前，我把三条行动项连同负责人和截止日再复述一遍，随后会发一封简短总结邮件，确保纪要与每个人记的要点一致。",
+          "audio": "audio/ex/wrap-up-1.mp3"
+        }
+      ],
+      "mnemonic": "wrap（裹起来）+ up（收拢、完成）=「把东西打包收好」，会议就是把散落的发言打成一个包，所以 wrap up 天生兼有「总结」和「结束」两义。一句把会议闭环收官：「Kickoff(36) opens it, minutes(64) record it, action items(51) move it, takeaways(60) distil it, and a wrap-up closes it before the follow-up(5) starts.」（启动开场、纪要记录、行动项推进、要点提炼、总结收口，再接跟进。）再记职场红线：「Never wrap up with 'any questions?' — wrap up with who does what by when.」（别用「还有问题吗」收尾，要用「谁、做什么、什么时候前」收尾。）与本期串起来：「Wrap up the site visit, then check the manifest(本期) and the place cards(本期) — the same discipline: names, owners and dates, all verified.」（验厂收尾再核舱单和席卡，同一套功夫：名字、负责人、日期都要核。）发音 /ˌræp ˈʌp/，wrap 的 w 不发音（同 write、wrong），主重音在 up；作名词或定语常写连字符 wrap-up；过去式 wrapped up，别写成 wraped。",
+      "issue": 73,
+      "date": "2026-11-28",
+      "theme": "",
+      "gloss": "收尾；结束；总结",
+      "category": "职场",
+      "audio": "audio/wrap-up.mp3"
     }
   ]
 }
